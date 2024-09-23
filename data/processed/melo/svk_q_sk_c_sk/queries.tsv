@@ -1,0 +1,2040 @@
+Q000001	Generál – náčelník generálneho štábu
+Q000002	Generálporučík - prvý zástupca náčelníka generálneho štábu
+Q000003	Generálmajor - druhý zástupca náčelníka generálneho štábu, veliteľ síl a jemu na roveň postavený
+Q000004	Brigádny generál – náčelník štábu na generálnom štábe, zástupca veliteľa síl a jemu na roveň postavený
+Q000005	Plukovník - veliteľ brigády, veliteľ pluku, riaditeľ úradu, náčelník odboru na generálnom štábe a jemu na roveň postavený
+Q000006	Podplukovník - veliteľ práporu, náčelník oddelenia na generálnom štábe a jemu na roveň postavený
+Q000007	Major – náčelník oddelenia veliteľstva síl, dôstojník špecialista generálneho štábu a jemu na roveň postavený
+Q000008	Kapitán - veliteľ roty, dôstojník štábu velenia brigády až generálneho štábu a jemu na roveň postavený
+Q000009	Nadporučík - odborný náčelník vojenských systémov, dôstojník štábu práporu a jemu na roveň postavený
+Q000010	Poručík - veliteľ čaty a jemu na roveň postavený
+Q000011	Dôstojník ozbrojených síl inde neuvedený
+Q000012	Štábny nadrotmajster – hlavný poddôstojník, veliaci poddôstojník
+Q000013	Nadrotmajster - veliteľ (náčelník) zbraňového systému bojového použitia, starší inštruktor výcviku a jemu na roveň postavený
+Q000014	Rotmajster – veliaci poddôstojník čaty, inštruktor výcviku, špecialista vojenskej odbornosti a jemu na roveň postavený
+Q000015	Rotný - veliteľ družstva a jemu na roveň postavený
+Q000016	Čatár - zástupca veliteľa družstva, veliteľ malej bojovej skupiny (tímu), náčelník pracoviska a jemu na roveň postavený
+Q000017	Poddôstojník ozbrojených síl inde neuvedený
+Q000018	Desiatnik- starší operátor zbraňového systému, vodič špeciálnej vojenskej techniky a jemu na roveň postavený
+Q000019	Slobodník - operátor zbraňového systému, vodič ťažkej vojenskej techniky a jemu na roveň postavený
+Q000020	Vojak 2. stupňa - strelec, vodič ľahkej vojenskej techniky, obsluha zbraňového systému a jemu na roveň postavený
+Q000021	Vojak 1. stupňa - kadet vojenskej vysokej školy, vojak prípravnej služby
+Q000022	Vojak 1. stupňa – čakateľ, vojak prípravnej služby
+Q000023	Mužstvo ozbrojených síl inde neuvedené
+Q000024	Prezident
+Q000025	Predseda a poslanec parlamentu
+Q000026	Najvyšší predstaviteľ orgánu štátnej správy (okrem ministra)
+Q000027	Najvyšší predstaviteľ v súdnictve
+Q000028	Najvyšší predstaviteľ v prokuratúre
+Q000029	Štátny tajomník
+Q000030	Generálny tajomník služobného úradu
+Q000031	Verejný ochranca práv
+Q000032	Splnomocnenec vlády
+Q000033	Riadiaci pracovník orgánu štátnej správy (úroveň sekcie)
+Q000034	Poradca prezidenta, predsedu vlády, ministra, najvyššieho predstaviteľa ústredného štátneho orgánu
+Q000035	Veľvyslanec, generálny konzul
+Q000036	Vedúci kancelárie, sekretariátu ústredného štátneho orgánu
+Q000037	Najvyšší predstaviteľ verejnoprávnej inštitúcie
+Q000038	Vysoký štátny úradník inde neuvedený
+Q000039	Primátor, námestník primátora
+Q000040	Starosta, zástupca starostu
+Q000041	Predseda, podpredseda samosprávneho kraja
+Q000042	Riaditeľ úradu samosprávneho kraja
+Q000043	Prednosta obecného úradu, mestského úradu, miestneho úradu a spoločného obecného úradu
+Q000044	Predseda a podpredseda politickej strany a hnutia
+Q000045	Riadiaci pracovník odborovej organizácie
+Q000046	Vedúci predstaviteľ združenia
+Q000047	Riadiaci pracovník neziskovej organizácie, nadácie a neinvestičného fondu
+Q000048	Vedúci predstaviteľ zamestnávateľskej asociácie a zväzu
+Q000049	Vedúci predstaviteľ profesijnej komory
+Q000050	Vedúci predstaviteľ politickej, odborovej, záujmovej a príbuznej organizácie inde neuvedený
+Q000051	Generálny riaditeľ (prezident spoločnosti)
+Q000052	Výkonný riaditeľ
+Q000053	Člen predstavenstva a iného riadiaceho orgánu spoločnosti
+Q000054	Rektor vysokej školy
+Q000055	Predseda družstva
+Q000056	Prezident a generálny riaditeľ podniku a organizácie inde neuvedený
+Q000057	Finančný riaditeľ (ekonomický riaditeľ)
+Q000058	Riadiaci pracovník (manažér) v oblasti daní
+Q000059	Riadiaci pracovník (manažér) v oblasti cenotvorby
+Q000060	Kvestor
+Q000061	Riadiaci pracovník (manažér) v oblasti financií inde neuvedený
+Q000062	Riadiaci pracovník (manažér) ľudských zdrojov (personálny riaditeľ)
+Q000063	Riadiaci pracovník (manažér) pre oblasť náboru a výberu pracovníkov
+Q000064	Riadiaci pracovník (manažér) pre oblasť odmeňovania a benefitov
+Q000065	Riadiaci pracovník (manažér) pre oblasť vzdelávania a rozvoja pracovníkov
+Q000066	Riadiaci pracovník (manažér) personálnej administratívy a zamestnaneckých vzťahov
+Q000067	Riadiaci pracovník (manažér) v oblasti ľudských zdrojov inde neuvedený
+Q000068	Riadiaci pracovník (manažér) pre stratégiu
+Q000069	Riadiaci pracovník zmien (krízový manažér)
+Q000070	Riadiaci pracovník (manažér) v oblasti investícií
+Q000071	Hlavný projektový manažér
+Q000072	Riadiaci pracovník (manažér) v oblasti medzinárodných vzťahov
+Q000073	Riadiaci pracovník (manažér) parlamentnej a vládnej agendy
+Q000074	Riadiaci pracovník (manažér) v oblasti fondov EÚ
+Q000075	Riadiaci pracovník (manažér) v oblasti stratégie a plánovania inde neuvedený
+Q000076	Riadiaci pracovník (manažér) právneho útvaru
+Q000077	Riadiaci pracovník (manažér) obstarávania
+Q000078	Riadiaci pracovník (manažér) v oblasti hospodárskej správy a údržby majetku (facility manažér)
+Q000079	Riadiaci pracovník (manažér) v oblasti interného auditu
+Q000080	Riadiaci pracovník (manažér) v oblasti kontroly
+Q000081	Riadiaci pracovník (manažér) prevádzkového úseku
+Q000082	Riadiaci pracovník (manažér) v oblasti ochrany osobných údajov
+Q000083	Riadiaci pracovník (manažér) v oblasti ochrany utajovaných skutočností
+Q000084	Riadiaci pracovník (manažér) kvality
+Q000085	Iný riadiaci pracovník (manažér) administratívnych a podporných činností inde neuvedený
+Q000086	Riadiaci pracovník (manažér) v oblasti obchodu (obchodný riaditeľ)
+Q000087	Riadiaci pracovník (manažér) v oblasti marketingu
+Q000088	Riadiaci pracovník (manažér) v oblasti prieskumu trhu
+Q000089	Riadiaci pracovník (manažér) v oblasti obchodu a marketingu inde neuvedený
+Q000090	Riadiaci pracovník (manažér) v oblasti reklamy
+Q000091	Riadiaci pracovník (manažér) pre styk s verejnosťou
+Q000092	Riadiaci pracovník výskumnej inštitúcie
+Q000093	Riadiaci pracovník (manažér) výskumu, vývoja a technického rozvoja vo výrobe
+Q000094	Riadiaci pracovník (manažér) v oblasti výskumu a vývoja inde neuvedený
+Q000095	Riadiaci pracovník (manažér) živočíšnej výroby
+Q000096	Riadiaci pracovník (manažér) rastlinnej výroby
+Q000097	Riadiaci pracovník (manažér) služieb v poľnohospodárstve
+Q000098	Riadiaci pracovník (manažér) poľnohospodárskej techniky
+Q000099	Riaditeľ závodu v lesníctve
+Q000100	Riadiaci pracovník (manažér) pre výrobu a technický rozvoj v lesníctve
+Q000101	Riadiaci pracovník (manažér) útvaru lesníckej výroby
+Q000102	Riadiaci pracovník (manažér) odboru v lesníctve
+Q000103	Riadiaci pracovník (manažér) špecializovaného strediska v lesníctve
+Q000104	Riadiaci pracovník (manažér) v poľnohospodárstve a lesníctve inde neuvedený
+Q000105	Riadiaci pracovník (manažér) v potravinárskej výrobe
+Q000106	Riadiaci pracovník (manažér) v textilnej a odevnej výrobe
+Q000107	Riadiaci pracovník (manažér) v chemickej výrobe
+Q000108	Riadiaci pracovník (manažér) v hutníckej výrobe
+Q000109	Riadiaci pracovník (manažér) v odpadovom hospodárstve
+Q000110	Riadiaci pracovník (manažér) v plynárenstve
+Q000111	Riadiaci pracovník (manažér) v tepelnej energetike
+Q000112	Riadiaci pracovník (manažér) vo vodnom hospodárstve
+Q000113	Riadiaci pracovník (manažér) vo vodárenstve
+Q000114	Riadiaci pracovník (manažér) v geologickom prieskume a výskume
+Q000115	Riadiaci pracovník (manažér) výroby v stavebníctve
+Q000116	Riaditeľ organizačnej jednotky (závodu, divízie) v stavebníctve
+Q000117	Riadiaci pracovník (manažér) v stavebníctve inde neuvedený
+Q000118	Riadiaci pracovník (manažér) v železničnej doprave
+Q000119	Riadiaci pracovník (manažér) v železničnej infraštruktúre
+Q000120	Riadiaci pracovník (manažér) v cestnej infraštruktúre
+Q000121	Riadiaci pracovník (manažér) v logistike
+Q000122	Riadiaci pracovník (manažér) v poštových službách
+Q000123	Riadiaci pracovník (manažér) v doprave, logistike a poštových službách inde neuvedený
+Q000124	Riadiaci pracovník (manažér) riešení IT
+Q000125	Riadiaci pracovník (manažér) prevádzky IT
+Q000126	Riadiaci pracovník (manažér) v telekomunikáciách
+Q000127	Riadiaci pracovník (manažér) v oblasti IKT inde neuvedený
+Q000128	Riadiaci zdravotnícky pracovník - lekár
+Q000129	Riadiaci zdravotnícky pracovník - zubný lekár
+Q000130	Riadiaci zdravotnícky pracovník - farmaceut
+Q000131	Riadiaci zdravotnícky pracovník - pôrodná asistentka
+Q000132	Riadiaci zdravotnícky pracovník - fyzioterapeut
+Q000133	Riadiaci zdravotnícky pracovník - zdravotnícky laborant
+Q000134	Riadiaci zdravotnícky pracovník - rádiologický technik
+Q000135	Riadiaci zdravotnícky pracovník - zdravotnícky záchranár
+Q000136	Riadiaci zdravotnícky pracovník - laboratórny diagnostik
+Q000137	Riadiaci zdravotnícky pracovník - psychológ
+Q000138	Riadiaci zdravotnícky pracovník - verejný zdravotník (hygienik)
+Q000139	Riadiaci pracovník (manažér) v oblasti zdravotnej starostlivosti inde neuvedený
+Q000140	Riaditeľ zariadenia sociálnych služieb pre starších ľudí
+Q000141	Riadiaci pracovník (manažér) v oblasti starostlivosti o starších ľudí inde neuvedený
+Q000142	Riaditeľ zariadenia sociálnoprávnej ochrany detí a sociálnej kurately a sociálnych služieb (okrem sociálnych služieb pre seniorov)
+Q000143	Riadiaci pracovník (manažér) v oblasti sociálnej starostlivosti inde neuvedený
+Q000144	Dekan
+Q000145	Vedúci katedry
+Q000146	Riaditeľ inštitúcie ďalšieho vzdelávania
+Q000147	Prodekan
+Q000148	Riadiaci pracovník (manažér) v oblasti politiky vzdelávania
+Q000149	Riaditeľ školy a školského zariadenia
+Q000150	Riadiaci pracovník vo výchove a vzdelávaní inde neuvedený
+Q000151	Riadiaci pracovník (manažér) v bankovníctve
+Q000152	Riadiaci pracovník (manažér) v poisťovníctve
+Q000153	Riadiaci pracovník (manažér) v oblasti dôchodkového sporenia
+Q000154	Riadiaci pracovník v oblasti sociálneho poistenia
+Q000155	Riadiaci pracovník v oblasti zdravotného poistenia
+Q000156	Riadiaci pracovník (manažér) v oblasti finančného sprostredkovania
+Q000157	Riadiaci pracovník v oblasti správy a vymáhania pohľadávok
+Q000158	Riadiaci pracovník (manažér) vo finančníctve a poisťovníctve inde neuvedený
+Q000159	Riadiaci pracovník (manažér) v oblasti strážnych a detektívnych služieb (vedúci detektív)
+Q000160	Riadiaci pracovník (manažér) záchranných zložiek
+Q000161	Riadiaci pracovník (manažér) v právnych službách
+Q000162	Riadiaci pracovník v cirkevnej oblasti
+Q000163	Riadiaci pracovník (manažér) v oblasti obrany
+Q000164	Riadiaci pracovník (manažér) v colnej oblasti
+Q000165	Iný riadiaci pracovník (manažér) v špecializovaných službách inde neuvedený
+Q000166	Riadiaci pracovník (manažér) hotela, botela a motela
+Q000167	Riadiaci pracovník (manažér) penziónu
+Q000168	Riadiaci pracovník (manažér) internátu, ubytovne a hostela
+Q000169	Riadiaci pracovník (manažér) ubytovacieho zariadenia inde neuvedený
+Q000170	Riadiaci pracovník (manažér) reštaurácie
+Q000171	Riadiaci pracovník (manažér) kaviarne a baru
+Q000172	Riadiaci pracovník (manažér) zariadenia školského stravovania
+Q000173	Riadiaci pracovník (manažér) zariadenia závodného stravovania
+Q000174	Riadiaci pracovník (manažér) cateringovej spoločnosti
+Q000175	Riadiaci pracovník (manažér) reštauračného zariadenia inde neuvedený
+Q000176	Riadiaci pracovník (manažér) obchodnej prevádzky
+Q000177	Riadiaci pracovník (manažér) športového strediska
+Q000178	Riadiaci pracovník (manažér) rekreačného strediska
+Q000179	Riadiaci pracovník (manažér) divadla, kina
+Q000180	Riadiaci pracovník (manažér) zábavného parku
+Q000181	Riadiaci pracovník (manažér) herne a stávkovej kancelárie
+Q000182	Riadiaci pracovník (manažér) v športových, rekreačných a kultúrnych zariadeniach inde neuvedený
+Q000183	Riadiaci pracovník (manažér) realitnej kancelárie
+Q000184	Riadiaci pracovník (manažér) v osobných skrášľovacích službách starostlivosti o ľudské telo
+Q000185	Riadiaci pracovník (manažér) čistiarne, žehliarne a práčovne
+Q000186	Riadiaci pracovník (manažér) kúpeľov a wellness
+Q000187	Riadiaci pracovník (manažér) cestovnej kancelárie, agentúry
+Q000188	Riadiaci pracovník (manažér) turistického informačného centra
+Q000189	Riadiaci pracovník (manažér) v oblasti veterinárnych činností
+Q000190	Iný riadiaci pracovník (manažér) v ostatných službách inde neuvedený
+Q000191	Fyzik kryogenik
+Q000192	Fyzik aerodynamik
+Q000193	Astronóm, astrofyzik
+Q000194	Fyzik hydrodynamik
+Q000195	Fyzik jadrový, molekulárny, nukleárny
+Q000196	Fyzik elektriny a magnetizmu
+Q000197	Fyzik termodynamik, akustik, optik
+Q000198	Fyzik mechanik
+Q000199	Fyzik dozimetrie
+Q000200	Fyzik balistik
+Q000201	Klinický fyzik
+Q000202	Fyzik a astronóm inde neuvedený
+Q000203	Letecký meteorológ
+Q000204	Hydrometeorológ
+Q000205	Meteorológ inde neuvedený
+Q000206	Chemik kvantovej chémie
+Q000207	Jadrový chemik
+Q000208	Analytický chemik
+Q000209	Fyzikálny chemik
+Q000210	Organický chemik
+Q000211	Anorganický chemik
+Q000212	Chemik inde neuvedený (okrem chemického inžinierstva)
+Q000213	Geochemik
+Q000214	Pedológ, pôdoznalec
+Q000215	Paleontológ
+Q000216	Mineralóg, petrológ
+Q000217	Geológ (okrem banského geológa)
+Q000218	Hydrogeológ
+Q000219	Seizmológ
+Q000220	Geofyzik
+Q000221	Petrofyzik
+Q000222	Geológ a geofyzik inde neuvedený
+Q000223	Špecialista reportingu
+Q000224	Aktuár špecialista (poistná matematika)
+Q000225	Špecialista menovej a finančnej štatistiky
+Q000226	Špecialista v oblasti matematiky (okrem poistnej matematiky)
+Q000227	Špecialista štatistik (okrem menovej a finančnej štatistiky)
+Q000228	Špecialista v oblasti matematiky, poistnej matematiky a štatistiky inde neuvedený
+Q000229	Biológ
+Q000230	Genetik (vedec)
+Q000231	Fyziológ
+Q000232	Imunológ
+Q000233	Botanik
+Q000234	Zoológ
+Q000235	Biochemik
+Q000236	Biofyzik
+Q000237	Biológ, botanik, zoológ a špecialista v príbuznom odbore inde neuvedený
+Q000238	Špecialista v rastlinnej výrobe, agronóm
+Q000239	Špecialista v živočíšnej výrobe, zootechnik
+Q000240	Špecialista výživy a technológie výroby krmív
+Q000241	Špecialista pre ťažbu dreva v lesníctve
+Q000242	Špecialista pre technický rozvoj v lesníctve
+Q000243	Špecialista, znalec pre lesníctvo a poľovníctvo
+Q000244	Špecialista pre správu lesného majetku
+Q000245	Špecialista, odborný lesný hospodár
+Q000246	Špecialista agrochemickej kontroly
+Q000247	Špecialista v oblasti plemenárskej práce a šľachtenia zvierat
+Q000248	Špecialista priamych podpôr v oblasti pôdohospodárstva
+Q000249	Špecialista trhových mechanizmov a poľnohospodárskych komodít
+Q000250	Špecialista závlah
+Q000251	Špecialista na precízne poľnohospodárstvo
+Q000252	Špecialista klasifikácie jatočne opracovaných tiel
+Q000253	Špecialista v oblasti poľnohospodárstva, lesníctva a akvakultúry inde neuvedený
+Q000254	Krajinný ekológ, geoekológ
+Q000255	Špecialista ochrany prírody
+Q000256	Špecialista pre odpadové hospodárstvo
+Q000257	Špecialista ochrany lesa
+Q000258	Metodik v oblasti biologickej ochrany letiska
+Q000259	Špecialista posudzovania vplyvov na životné prostredie (EIA)
+Q000260	Špecialista v oblasti ochrany životného prostredia (okrem priemyselnej ekológie) inde neuvedený
+Q000261	Špecialista technológ v potravinárskej výrobe
+Q000262	Špecialista logistik v potravinárskej výrobe
+Q000263	Špecialista údržby v potravinárskej výrobe
+Q000264	Špecialista riadenia textilnej a odevnej výroby
+Q000265	Špecialista riadenia kvality v textilnej a odevnej výrobe
+Q000266	Špecialista údržby v textilnej a odevnej výrobe
+Q000267	Špecialista údržby v kožiarskej a obuvníckej výrobe
+Q000268	Špecialista riadenia kvality vo výrobe nábytku, spracovaní dreva a výrobe drevených konštrukcií
+Q000269	Špecialista údržby vo výrobe nábytku, spracovaní dreva a výrobe drevených konštrukcií
+Q000270	Špecialista riadenia celulózo-papierenskej výroby
+Q000271	Špecialista riadenia kvality v celulózo-papierenskej výrobe
+Q000272	Špecialista technológ v celulózo-papierenskej výrobe
+Q000273	Špecialista údržby v celulózo-papierenskej výrobe
+Q000274	Špecialista riadenia polygrafickej výroby
+Q000275	Špecialista riadenia kvality v polygrafickej výrobe
+Q000276	Špecialista riadenia sklárskej výroby
+Q000277	Špecialista riadenia kvality v sklárskej výrobe
+Q000278	Špecialista údržby v sklárskej výrobe
+Q000279	Špecialista riadenia výroby stavebných materiálov
+Q000280	Špecialista riadenia kvality vo výrobe stavebných materiálov
+Q000281	Špecialista údržby vo výrobe stavebných materiálov
+Q000282	Špecialista riadenia výroby žiaruvzdorných materiálov
+Q000283	Špecialista riadenia kvality vo výrobe žiaruvzdorných materiálov
+Q000284	Špecialista technológ v textilnej výrobe
+Q000285	Špecialista technológ v odevnej výrobe
+Q000286	Špecialista riadenia kvality vo výrobe keramiky a porcelánu
+Q000287	Špecialista v oblasti priemyslu a výroby inde neuvedený
+Q000288	Stavebný špecialista riadenia kvality
+Q000289	Stavebný špecialista technológ
+Q000290	Stavbyvedúci
+Q000291	Stavebný dozor
+Q000292	Stavebný špecialista výstavby železničných stavieb a tratí
+Q000293	Stavebný špecialista výstavby energetických sietí
+Q000294	Stavebný špecialista v technologickom výskume a vývoji
+Q000295	Stavebný špecialista v ekonomickom výskume a vývoji
+Q000296	Autorizovaný inžinier pre konštrukcie inžinierskych stavieb
+Q000297	Autorizovaný inžinier pre konštrukcie pozemných stavieb
+Q000298	Stavebný špecialista inde neuvedený
+Q000299	Špecialista biológ, mikrobiológ pitných a odpadových vôd
+Q000300	Hydrológ
+Q000301	Technológ recyklácie
+Q000302	Špecialista v oblasti priemyselnej ekológie inde neuvedený
+Q000303	Strojársky špecialista konštruktér, projektant
+Q000304	Koordinátor zvárania
+Q000305	Strojársky špecialista inde neuvedený
+Q000306	Chemický špecialista technológ
+Q000307	Špecialista údržby v chemickej výrobe
+Q000308	Technológ farbiacich procesov (kolorista)
+Q000309	Chemický špecialista biotechnológ
+Q000310	Špecialista štátnej správy pre chemické látky a prípravky
+Q000311	Špecialista implementácie chemickej legislatívy
+Q000312	Chematronik
+Q000313	Špecialista spracovania plastov
+Q000314	Chemický špecialista inde neuvedený
+Q000315	Banský geológ
+Q000316	Banský špecialista technológ
+Q000317	Banský špecialista projektant
+Q000318	Špecialista pre banskú mechanizáciu
+Q000319	Banský merač
+Q000320	Špecialista banskej záchrannej služby
+Q000321	Špecialista pre banskú dopravu
+Q000322	Banský špecialista pre odvodňovanie
+Q000323	Vetrací technik
+Q000324	Vrtný špecialista
+Q000325	Špecialista riadenia kvality v hutníctve
+Q000326	Hutnícky špecialista vo výskume a vývoji
+Q000327	Hutnícky špecialista technológ
+Q000328	Metalograf
+Q000329	Zlievarenský špecialista vo výskume a vývoji
+Q000330	Zlievarenský špecialista technológ
+Q000331	Zlievarenský špecialista riadenia kvality
+Q000332	Zlievarenský špecialista projektant
+Q000333	Zlievarenský špecialista metalurg
+Q000334	Špecialista v ťažobnom, hutníckom, zlievarenskom priemysle a príbuzných odboroch inde neuvedený
+Q000335	Špecialista spracovania rádioaktívneho odpadu
+Q000336	Špecialista riadenia bezpečnosti jadrovej elektrárne
+Q000337	Špecialista technológ vyraďovania jadrových zariadení
+Q000338	Špecialista metrológ
+Q000339	Špecialista požiarnej ochrany
+Q000340	Špecialista v oblasti hospodárskej správy a údržby majetku (facility špecialista)
+Q000341	Technický špecialista v železničnej doprave
+Q000342	Technický špecialita v železničnej infraštruktúre
+Q000343	Technický špecialista v cestnej doprave (okrem mestskej hromadnej dopravy)
+Q000344	Technický špecialista v cestnej infraštruktúre
+Q000345	Špecialista pre správu a údržbu diaľničnej a cestnej infraštruktúry
+Q000346	Technický špecialista v mestskej hromadnej doprave
+Q000347	Technický špecialista v leteckej doprave
+Q000348	Technický špecialista v letiskovej infraštruktúre
+Q000349	Technický špecialista vo vodnej doprave
+Q000350	Technický špecialista v poštových službách
+Q000351	Špecialista vo vodnom hospodárstve
+Q000352	Technický špecialista vodárenských koncepcií
+Q000353	Špecialista technológ pre úpravu pitnej vody
+Q000354	Autotronik - diagnostický špecialista
+Q000355	Projektový špecialista v oblasti súkromnej bezpečnosti
+Q000356	Špecialista štátneho odborného dozoru a regulácie dopravy
+Q000357	Špecialista štátneho odborného dozoru, povoľovania a regulácie dopravnej infraštruktúry
+Q000358	Inšpektor jadrovej bezpečnosti
+Q000359	Špecialista v oblasti skúšobníctva a posudzovania zhody
+Q000360	Špecialista v oblasti obrany
+Q000361	Špecialista regulácie sieťových odvetví
+Q000362	Špecialista cestovných poriadkov
+Q000363	Špecialista vnútornej kontroly letiskovej prevádzky a prevádzkovej bezpečnosti
+Q000364	Bezpečnostný poradca v doprave
+Q000365	Špecialista robotiky
+Q000366	Špecialista uvádzania systémov a zariadení do prevádzky
+Q000367	Iný technický špecialista inde neuvedený (okrem špecialistov v oblasti elektrotechnológií)
+Q000368	Špecialista elektrokonštruktér
+Q000369	Špecialista elektrotechnik projektant
+Q000370	Špecialista elektromechanik
+Q000371	Špecialista riadenia bezpečnosti v energetickej prevádzke (okrem jadrovej)
+Q000372	Špecialista energetik prevádzky riadiacej techniky
+Q000373	Špecialista energetik technického a technologického rozvoja
+Q000374	Špecialista energetik prípravy prevádzky
+Q000375	Špecialista energetik výroby elektrickej energie
+Q000376	Špecialista energetik distribúcie elektrickej energie
+Q000377	Špecialista energetik kontroly a riadenia kvality
+Q000378	Špecialista energetik technológ
+Q000379	Špecialista správy a údržby energetických zariadení
+Q000380	PLC programátor
+Q000381	Analytik vysokotlakovej siete
+Q000382	Hydraulik v plynárenstve
+Q000383	Špecialista pre energetickú a surovinovú politiku
+Q000384	Hlavný energetik
+Q000385	Špecialista zariadení a systémov obnoviteľnej energie
+Q000386	Špecialista mikroelektromechanických systémov
+Q000387	Elektroinžinier a špecialista energetik inde neuvedený
+Q000388	Špecialista elektronických zariadení
+Q000389	Hlasový, dátový a sieťový špecialista
+Q000390	Špecialista bezdrôtových sietí
+Q000391	Špecialista prevádzky mobilných a pevných technológií
+Q000392	Špecialista výstavby telekomunikačných technológií
+Q000393	Špecialista vývoja produktov telekomunikačnej prevádzky a služieb
+Q000394	Špecialista inovácie telekomunikačných procesov
+Q000395	Špecialista pre reguláciu a štátny dohľad elektronických komunikácií a poštových služieb
+Q000396	Špecialista pre tvorbu stratégie a koncepcií elektronických komunikácií a poštových služieb
+Q000397	Špecialista v oblasti telekomunikácií inde neuvedený
+Q000398	Stavebný architekt
+Q000399	Krajinný a záhradný architekt (okrem autorizovaného)
+Q000400	Autorizovaný krajinný architekt
+Q000401	Krajinný inžinier
+Q000402	Krajinný a záhradný architekt inde neuvedený
+Q000403	Odevný dizajnér
+Q000404	Dizajnér obuvi
+Q000405	Priemyselný dizajnér produktov
+Q000406	Dizajnér autorských a solitérnych produktov
+Q000407	Dizajnér a módny návrhár inde neuvedený
+Q000408	Urbanista
+Q000409	Špecialista v doprave a prevádzke na dráhach
+Q000410	Špecialista pre integrovanú dopravu
+Q000411	Urbanista a projektant dopravy inde neuvedený
+Q000412	Špecialista geografického informačného systému
+Q000413	Grafický dizajnér (grafik)
+Q000414	Projektant multimediálnych systémov
+Q000415	Webový dizajnér
+Q000416	Animátor (tvorca animácie)
+Q000417	Ilustrátor
+Q000418	Grafický a multimediálny dizajnér inde neuvedený
+Q000419	Všeobecný lekár pre deti a dorast (pediater)
+Q000420	Všeobecný lekár pre dospelých
+Q000421	Lekár bez špecializácie
+Q000422	Posudkový lekár
+Q000423	Revízny lekár
+Q000424	Súdny lekár
+Q000425	Telovýchovný lekár
+Q000426	Internista
+Q000427	Diabetológ
+Q000428	Endokrinológ
+Q000429	Imunoalergológ
+Q000430	Gastroenterológ
+Q000431	Geriater
+Q000432	Infektológ
+Q000433	Kardiológ
+Q000434	Nefrológ
+Q000435	Pneumoftizeológ
+Q000436	Reumatológ
+Q000437	Radiačný onkológ
+Q000438	Klinický onkológ
+Q000439	Hematológ a transfuziológ
+Q000440	Fyziater a balneológ
+Q000441	Anesteziológ a intenzivista
+Q000442	Chirurg
+Q000443	Ortopéd
+Q000444	Traumatológ
+Q000445	Kardiochirurg
+Q000446	Neurochirurg
+Q000447	Hrudníkový chirurg
+Q000448	Plastický chirurg
+Q000449	Detský psychiater
+Q000450	Detský chirurg
+Q000451	Pediatrický endokrinológ
+Q000452	Pediatrický gastroenterológ
+Q000453	Pediatrický gynekológ
+Q000454	Pediatrický hematológ a onkológ
+Q000455	Pediatrický kardiológ
+Q000456	Pediatrický anesteziológ
+Q000457	Pediater intenzívnej medicíny
+Q000458	Pediatrický nefrológ
+Q000459	Pediatrický neurológ
+Q000460	Pediatrický oftalmológ
+Q000461	Pediatrický ortopéd
+Q000462	Pediatrický pneumológ a ftizeológ
+Q000463	Pediatrický reumatológ
+Q000464	Pediater urgentnej medicíny
+Q000465	Pediatrický urológ
+Q000466	Neonatológ
+Q000467	Dermatovenerológ
+Q000468	Gynekológ a pôrodník
+Q000469	Neurológ
+Q000470	Oftalmológ
+Q000471	Otorinolaryngológ
+Q000472	Psychiater
+Q000473	Urológ
+Q000474	Cievny chirurg
+Q000475	Gastroenterologický chirurg
+Q000476	Neuropsychiater
+Q000477	Lekár klinickej biochémie
+Q000478	Lekár klinickej farmakológie
+Q000479	Lekár klinickej mikrobiológie
+Q000480	Lekár laboratórnej medicíny
+Q000481	Patológ
+Q000482	Genetik (lekár)
+Q000483	Lekár pracovného lekárstva
+Q000484	Rádiológ
+Q000485	Lekár tropickej medicíny
+Q000486	Angiológ
+Q000487	Hepatológ
+Q000488	Algeziológ
+Q000489	Akupunkturista lekár
+Q000490	Andrológ
+Q000491	Lekár hygienik/lekár vo verejnom zdravotníctve
+Q000492	Epidemiológ
+Q000493	Gerontopsychiater
+Q000494	Letecký lekár
+Q000495	Lekár paliatívnej medicíny
+Q000496	Lekár nukleárnej medicíny
+Q000497	Lekár urgentnej medicíny
+Q000498	Maxilofaciálny chirurg lekár
+Q000499	Lekár samosprávneho kraja
+Q000500	Lekár špecialista inde neuvedený
+Q000501	Sestra na lôžkovom oddelení, špecialistka vo vnútornom lekárstve, špecialistka v odboroch chirurgie
+Q000502	Sestra špecialistka v inštrumentovaní v operačnej sále
+Q000503	Sestra špecialistka v intenzívnom neonatologickom ošetrovateľstve
+Q000504	Sestra špecialistka v ošetrovateľskej starostlivosti o dialyzovaných pacientov
+Q000505	Sestra špecialistka v onkologickom ošetrovateľstve
+Q000506	Sestra špecialistka v komunitnom ošetrovateľstve
+Q000507	Sestra špecialistka v pediatrickom ošetrovateľstve
+Q000508	Sestra špecialistka v psychiatrickom ošetrovateľstve
+Q000509	Sestra špecialistka v operačnom stredisku záchrannej zdravotnej služby
+Q000510	Sestra špecialistka v intenzívnej ošetrovateľskej starostlivosti o dospelých
+Q000511	Sestra špecialistka v intenzívnej ošetrovateľskej starostlivosti v pediatrii
+Q000512	Sestra bez špecializácie
+Q000513	Sestra samosprávneho kraja
+Q000514	Špecialista v ošetrovateľstve inde neuvedený
+Q000515	Pôrodná asistentka na lôžkovom oddelení v intenzívnej starostlivosti v gynekológii a pôrodníctve
+Q000516	Pôrodná asistentka špecialistka v inštrumentovaní v operačnej sále v gynekológii a pôrodníctve
+Q000517	Pôrodná asistentka špecialistka v pôrodnej asistencii a starostlivosti o ženu v rodine a komunite
+Q000518	Pôrodná asistentka bez špecializácie
+Q000519	Špecialista v pôrodníctve inde neuvedený
+Q000520	Špecialista v oblasti tradičnej a alternatívnej medicíny
+Q000521	Paramedik
+Q000522	Veterinárny lekár terénnej a ambulantnej praxe
+Q000523	Veterinárny lekár laboratórnej diagnostiky
+Q000524	Úradný veterinárny lekár
+Q000525	Zubný lekár bez špecializácie
+Q000526	Čeľustný ortopéd
+Q000527	Maxilofaciálny chirurg zubný lekár
+Q000528	Revízny zubný lekár
+Q000529	Detský zubný lekár
+Q000530	Zubný lekár inde neuvedený
+Q000531	Farmaceut bez špecializácie
+Q000532	Farmaceut špecialista vo farmaceutickej kontrole
+Q000533	Farmaceut špecialista vo farmaceutickej technológii
+Q000534	Farmaceut špecialista v lekárenstve
+Q000535	Farmaceut špecialista v technológii rádiofarmák
+Q000536	Farmaceut samosprávneho kraja
+Q000537	Farmaceut vo výskume a vývoji
+Q000538	Farmaceut inde neuvedený
+Q000539	Verejný zdravotník bez špecializácie
+Q000540	Verejný zdravotník špecialista v epidemiológii
+Q000541	Verejný zdravotník špecialista v hygiene detí a mládeže
+Q000542	Verejný zdravotník špecialista v hygiene výživy
+Q000543	Verejný zdravotník špecialista v hygiene životného prostredia a zdravia
+Q000544	Verejný zdravotník špecialista v ochrane zdravia pred ionizujúcim žiarením
+Q000545	Verejný zdravotník špecialista vo výchove k zdraviu
+Q000546	Verejný zdravotník špecialista v oblasti zdravia pri práci
+Q000547	Verejný zdravotník špecialista v preventívnom pracovnom lekárstve a toxikológii
+Q000548	Špecialista hygieny, verejného zdravia a zdravia pri práci inde neuvedený
+Q000549	Fyzioterapeut bez špecializácie
+Q000550	Fyzioterapeut špecialista v ergonomike a rehabilitačnom inžinierstve
+Q000551	Fyzioterapeut špecialista funkčných a štrukturálnych porúch pohybového systému
+Q000552	Fyzioterapeut špecialista porúch centrálneho nervového systému
+Q000553	Fyzioterapeut špecialista porúch psychomotorického vývoja
+Q000554	Fyzioterapeut špecialista v športe a telovýchove
+Q000555	Fyzioterapeut špecialista v ergoterapii
+Q000556	Fyzioterapeut špecialista psychosomatických a civilizačných ochorení
+Q000557	Fyzioterapeut špecialista respiračných ochorení
+Q000558	Fyzioterapeut inde neuvedený
+Q000559	Nutričný terapeut bez špecializácie
+Q000560	Nutričný terapeut špecialista v liečebnej výžive
+Q000561	Špecialista na výživu ľudí
+Q000562	Špecialista na výživu a dietetiku inde neuvedený
+Q000563	Klinický logopéd
+Q000564	Foniater
+Q000565	Špecialista v optometrii
+Q000566	Animoterapeut
+Q000567	Profesor
+Q000568	Docent
+Q000569	Odborný asistent vysokej školy
+Q000570	Asistent vysokej školy
+Q000571	Lektor vysokej školy
+Q000572	Hosťujúci profesor
+Q000573	Vysokoškolský učiteľ inde neuvedený
+Q000574	Majster odbornej výchovy
+Q000575	Lektor ďalšieho vzdelávania
+Q000576	Učiteľ strednej odbornej školy (okrem učiteľa odborných vyučovacích predmetov)
+Q000577	Učiteľ konzervatória
+Q000578	Učiteľ gymnázia
+Q000579	Učiteľ školy umeleckého priemyslu
+Q000580	Učiteľ strednej športovej školy
+Q000581	Učiteľ v strednej škole inde neuvedený
+Q000582	Učiteľ základnej školy
+Q000583	Učiteľ v materskej škole
+Q000584	Pracovník vo výchove a vzdelávaní v inom predškolskom zariadení
+Q000585	Inšpektor v oblasti výchovy a vzdelávania (školský inšpektor)
+Q000586	Špecialista samosprávy v oblasti výchovy a vzdelávania
+Q000587	Špecialista v oblasti regionálneho školstva
+Q000588	Špecialista v oblasti vysokoškolského vzdelávania
+Q000589	Špecialista verejnej správy v oblasti športu
+Q000590	Špecialista kvality vzdelávania
+Q000591	Metodik a inšpektor v oblasti výchovy a vzdelávania inde neuvedený
+Q000592	Vychovávateľ osôb so špeciálnymi výchovno-vzdelávacími potrebami
+Q000593	Učiteľ osôb so špeciálnymi výchovno-vzdelávacími potrebami
+Q000594	Učiteľ jazykovej školy
+Q000595	Lektor jazyka
+Q000596	Hlasový pedagóg
+Q000597	Múzejný, galerijný pedagóg
+Q000598	Lektor IT
+Q000599	Sociálny pedagóg
+Q000600	Špeciálny pedagóg
+Q000601	Školský logopéd
+Q000602	Vychovávateľ (okrem vychovávateľa pre osoby so špeciálnymi potrebami)
+Q000603	Učiteľ profesijného rozvoja
+Q000604	Lektor v oblasti bezpečnostných služieb
+Q000605	Lektor v práci s mládežou
+Q000606	Metodik práce s mládežou
+Q000607	Iný pedagogický a odborný pracovník vo výchove a vzdelávaní inde neuvedený
+Q000608	Hlavný účtovník
+Q000609	Špecialista účtovník
+Q000610	Audítor
+Q000611	Finančný kontrolór
+Q000612	Daňový špecialista
+Q000613	Špecialista v oblasti rozpočtu
+Q000614	Špecialista v oblasti mzdového účtovníctva
+Q000615	Finančný špecialista fondov EÚ
+Q000616	Finančný účtovník fondov EÚ
+Q000617	Špecialista v oblasti účtovníctva a finančnej kontroly inde neuvedený
+Q000618	Finančný poradca
+Q000619	Poradca a predajca bankových produktov a služieb pre segment stredných klientov a mikropodnikateľov
+Q000620	Poradca a predajca bankových produktov a služieb pre segment veľkých firemných klientov
+Q000621	Špecialista pre investičnú činnosť v poisťovníctve
+Q000622	Špecialista pre dohľad vo finančnom sektore
+Q000623	Špecialista pre dodržanie súladu s predpismi v oblasti finančníctva
+Q000624	Špecialista na finančné a poisťovacie podvody
+Q000625	Špecialista pre správu poistných zmlúv
+Q000626	Špecialista pre upisovanie, hodnotenie poistných rizík
+Q000627	Špecialista pre likvidáciu poistných udalostí
+Q000628	Špecialista na bankové karty, platobný styk a zúčtovanie obchodov
+Q000629	Špecialista pre majetkové účasti
+Q000630	Bankový analytik pre treasury a riadenie bilancie
+Q000631	Finančný analytik pre úverové portfólio
+Q000632	Špecialista menovej politiky
+Q000633	Špecialista pre správu zásob peňazí
+Q000634	Špecialista riadenia hotovostného peňažného obehu
+Q000635	Špecialista platidiel
+Q000636	Špecialista pre medzinárodné vzťahy v bankovníctve
+Q000637	Špecialista na dôchodkové sporenie
+Q000638	Špecialista operácií na finančných trhoch
+Q000639	Špecialista obchodník na finančných trhoch
+Q000640	Špecialista regulácie finančného trhu
+Q000641	Výskumný pracovník v oblasti bankovníctva
+Q000642	Hypotekárny špecialista v bankovníctve
+Q000643	Špecialista na ochranu pred legalizáciou príjmov z trestnej činnosti a financovaním terorizmu
+Q000644	Špecialista pre obchodné financovanie
+Q000645	Špecialista finančných inovácií
+Q000646	Metodik v oblasti finančníctva a poisťovníctva
+Q000647	Špecialista treasury (okrem bankového)
+Q000648	Finančný analytik a špecialista v oblasti finančníctva, poisťovníctva a ostatných finančných služieb inde neuvedený
+Q000649	Špecialista optimalizácie procesov
+Q000650	Špecialista riadenia systému kvality
+Q000651	Projektový špecialista (projektový manažér)
+Q000652	Špecialista optimalizácie a racionalizácie práce (normovač)
+Q000653	Špecialista kontrolingu
+Q000654	Špecialista v oblasti vnútorného auditu
+Q000655	Špecialista v oblasti vnútornej kontroly
+Q000656	Špecialista v oblasti ochrany osobných údajov
+Q000657	Špecialista v oblasti parlamentnej a vládnej agendy
+Q000658	Špecialista pre nezrovnalosti fondov EÚ
+Q000659	Špecialista monitorovania operačných programov fondov EÚ
+Q000660	Špecialista kontroly fondov EÚ
+Q000661	Špecialista overovania podnetov fondov EÚ
+Q000662	Špecialista kontroly verejného obstarávania
+Q000663	Špecialista procesu verejného obstarávania
+Q000664	Špecialista digitálnej transformácie
+Q000665	Špecialista pružných pracovných procesov
+Q000666	Prevádzkový špecialista
+Q000667	Analytik v oblasti riadenia a organizácie práce inde neuvedený
+Q000668	Špecialista podnikovej stratégie, plánovania a investovania
+Q000669	Špecialista riadenia rizík (okrem bankovníctva a poisťovníctva)
+Q000670	Špecialista riadenia zmien (krízového riadenia)
+Q000671	Špecialista pre rozvoj podnikateľských a investičných činností
+Q000672	Špecialista pre regionálny rozvoj a rozvoj vidieka
+Q000673	Špecialista pre územné konanie a stavebný poriadok
+Q000674	Špecialista v oblasti sociálno-ekonomického rozvoja
+Q000675	Špecialista stratégie vo vzťahu k politikám Európskej únie
+Q000676	Špecialista rozvoja a koordinácie obchodnej siete
+Q000677	Špecialista v oblasti utajovaných skutočností
+Q000678	Strategický nákupca
+Q000679	Špecialista v oblasti medzinárodných vzťahov
+Q000680	Špecialista v oblasti rozvoja vedy, výskumu a inovácií
+Q000681	Špecialista programovania fondov EÚ
+Q000682	Špecialista pre metodiku fondov EÚ
+Q000683	Špecialista hodnotenia operačných programov fondov EÚ
+Q000684	Špecialista posudzovania projektov fondov EÚ
+Q000685	Špecialista technickej pomoci fondov EÚ
+Q000686	Špecialista v oblasti správy štátnych hmotných rezerv
+Q000687	Špecialista pre územné plánovanie
+Q000688	Špecialista v oblasti stratégie a rozvoja inde neuvedený
+Q000689	Špecialista ľudských zdrojov (generalista)
+Q000690	Špecialista pre plánovanie a kontroling ľudských zdrojov
+Q000691	Špecialista náboru a výberov pracovníkov
+Q000692	Špecialista odmeňovania a benefitov
+Q000693	Špecialista personálnej administratívy a zamestnaneckých vzťahov
+Q000694	Kariérový poradca
+Q000695	Špecialista v oblasti verejnej služby a štátnej služby
+Q000696	Poradca pre vekový manažment
+Q000697	Špecialista v oblasti personalistiky inde neuvedený
+Q000698	Marketingový špecialista
+Q000699	Špecialista marketingových analýz a prieskumu trhu
+Q000700	Špecialista v oblasti reklamy a propagácie
+Q000701	Reklamný textár
+Q000702	Špecialista pre starostlivosť o zákazníkov
+Q000703	Špecialista pre značku
+Q000704	Špecialista internetového predaja
+Q000705	Špecialista v oblasti reklamy a marketingu inde neuvedený
+Q000706	Špecialista pre styk s verejnosťou
+Q000707	Hovorca
+Q000708	Špecialista pre protokolárne záležitosti
+Q000709	Špecialista sociálnych sietí
+Q000710	Špecialista pre styk s verejnosťou inde neuvedený
+Q000711	Farmaceutický reprezentant
+Q000712	Špecialista predaja elektrotechnických systémov
+Q000713	Špecialista predaja stavebného materiálu
+Q000714	Špecialista predaja motorových vozidiel
+Q000715	Špecialista predaja chemických produktov
+Q000716	Špecialista predaja produktov a služieb (okrem IKT) inde neuvedený
+Q000717	IT konzultant
+Q000718	IT architekt, projektant
+Q000719	Analytik IKT
+Q000720	Špecialista v oblasti informatizácie a elektronizácie služieb
+Q000721	Dizajnér inteligentných riešení
+Q000722	IT audítor
+Q000723	Vedeckovýskumný pracovník v oblasti IKT
+Q000724	Systémový analytik inde neuvedený
+Q000725	Systémový programátor
+Q000726	Softvérový architekt, dizajnér
+Q000727	Špecialista vývoja systémov (DevOps)
+Q000728	Vývojár webových stránok, internetu, intranetu
+Q000729	Správca digitálneho obsahu (Digital Content Manager)
+Q000730	Špecialista vývoja používateľských rozhraní
+Q000731	Vývojár, analytik softvéru a aplikácií inde neuvedený
+Q000732	Správca databáz
+Q000733	Databázový analytik
+Q000734	Dátový kurátor
+Q000735	Dátový analytik
+Q000736	Dátový vedec
+Q000737	Dizajnér a správca databáz inde neuvedený
+Q000738	Správca informačného systému
+Q000739	Správca siete
+Q000740	Špecialista v oblasti počítačových sietí
+Q000741	Špecialista ITMS
+Q000742	Špecialista klientskej podpory a prevádzky IKT
+Q000743	Etický hacker
+Q000744	Digitálny forenzný špecialista
+Q000745	Iný špecialista v oblasti databáz a počítačových sietí inde neuvedený
+Q000746	Právnik (v podniku, inštitúcii, organizácii)
+Q000747	Advokát
+Q000748	Advokátsky koncipient
+Q000749	Prokurátor
+Q000750	Legislatívec
+Q000751	Špecialista v oblasti trestného práva
+Q000752	Špecialista v oblasti občianskeho práva
+Q000753	Špecialista v oblasti obchodného práva
+Q000754	Špecialista v oblasti ústavného práva
+Q000755	Špecialista v oblasti medzinárodného práva
+Q000756	Špecialista v oblasti správneho práva
+Q000757	Špecialista v oblasti autorského práva, mediálneho práva a audiovízie
+Q000758	Špecialista v oblasti ľudských práv
+Q000759	Špecialista v oblasti súťažného práva
+Q000760	Právnik inde neuvedený
+Q000761	Sudca, predseda senátu
+Q000762	Predseda, podpredseda súdu
+Q000763	Predseda grémia, kolégia súdu
+Q000764	Notár
+Q000765	Notársky koncipient
+Q000766	Špecialista v oblasti správy a vymáhania pohľadávok
+Q000767	Exekútor
+Q000768	Exekútorský koncipient
+Q000769	Súdny znalec
+Q000770	Súdny poradca a asistent sudcu ústavného a najvyššieho súdu
+Q000771	Probačný a mediačný úradník
+Q000772	Vyšší súdny úradník
+Q000773	Špecialista v oblasti dôchodkového poistenia
+Q000774	Špecialista v oblasti nemocenského poistenia
+Q000775	Špecialista v oblasti úrazového poistenia
+Q000776	Špecialista poistenia v nezamestnanosti a garančného poistenia
+Q000777	Špecialista v oblasti výberu poistného
+Q000778	Špecialista v oblasti stratégie sociálneho poistenia
+Q000779	Špecialista v oblasti ochrany spotrebiteľa
+Q000780	Špecialista na dodržiavanie súladu s predpismi (compliance)
+Q000781	Správca konkurznej podstaty
+Q000782	Iný špecialista v oblasti práva, sociálneho a zdravotného poistenia inde neuvedený
+Q000783	Archivár
+Q000784	Vedecký pracovník v archívnictve
+Q000785	Pamiatkar
+Q000786	Dokumentátor zbierkových predmetov v múzeu, galérii
+Q000787	Špecialista v oblasti kultúrneho dedičstva
+Q000788	Kustód
+Q000789	Špecialista v oblasti umenia a štátneho jazyka
+Q000790	Výskumník historickej architektúry
+Q000791	Výskumník umelecko – historický
+Q000792	Výskumník historického urbanizmu
+Q000793	Výskumník archívno – historický
+Q000794	Archivár, kurátor a pamiatkar inde neuvedený
+Q000795	Knihovník špecialista
+Q000796	Výskumno-metodický pracovník v knihovníctve
+Q000797	Dokumentarista, vedecko-informačný špecialista
+Q000798	Bibliograf špecialista
+Q000799	Špecialista v knihovníctve a v podobných odboroch inde neuvedený
+Q000800	Špecialista v oblasti národného hospodárstva
+Q000801	Ekonomický analytik, prognostik
+Q000802	Špecialista ekonomiky zdravotníctva
+Q000803	Špecialista výkonu obchodných opatrení
+Q000804	Špecialista zahraničnoobchodnej politiky
+Q000805	Špecialista v oblasti ekonómie inde neuvedený
+Q000806	Sociológ
+Q000807	Antropológ
+Q000808	Geograf
+Q000809	Etnológ
+Q000810	Kulturológ
+Q000811	Archeológ
+Q000812	Kriminológ
+Q000813	Špecialista v oblasti práv a kultúry národnostných menšín
+Q000814	Špecialista v oblasti sociológie, antropológie, geografie a podobných vedách inde neuvedený
+Q000815	Filozof
+Q000816	Historik (okrem umenia)
+Q000817	Historik, teoretik a kritik vizuálneho umenia, dizajnu a architektúry
+Q000818	Politológ
+Q000819	Historik, teoretik, kritik audiovizuálneho umenia
+Q000820	Literárny historik, teoretik, kritik
+Q000821	Teatrológ
+Q000822	Muzikológ
+Q000823	Estetik
+Q000824	Filozof, historik a politológ inde neuvedený
+Q000825	Klinický psychológ
+Q000826	Poradenský psychológ
+Q000827	Pracovný psychológ
+Q000828	Dopravný psychológ
+Q000829	Sociálny psychológ
+Q000830	Pedagogický psychológ
+Q000831	Forenzný psychológ
+Q000832	Vedecký pracovník v oblasti psychológie
+Q000833	Psychoterapeut
+Q000834	Psychológ inde neuvedený
+Q000835	Sociálny pracovník
+Q000836	Špecialista sociálnej kurately pre dospelých
+Q000837	Špecialista sprostredkovania náhradnej rodinnej starostlivosti
+Q000838	Posudkový sociálny pracovník
+Q000839	Špecialista pre marginalizované skupiny obyvateľstva
+Q000840	Špecialista samosprávy pre sociálne služby
+Q000841	Špecialista v oblasti sociálnej a rodinnej politiky
+Q000842	Špecialista v oblasti politiky zamestnanosti a ochrany práce
+Q000843	Špecialista na rovnosť príležitostí
+Q000844	Pracovný terapeut
+Q000845	Inštruktor sociálnej rehabilitácie
+Q000846	Supervízor v oblasti sociálnej práce alebo poradenskej práce
+Q000847	Špecialista v oblasti sociálnej práce a poradenstva inde neuvedený
+Q000848	Vedecký pracovník v religionistike
+Q000849	Najvyšší predstaviteľ cirkvi a náboženskej spoločnosti v Slovenskej republike
+Q000850	Riadiaci pracovník v cirkevnej organizácii
+Q000851	Duchovenský člen ústredia cirkvi
+Q000852	Duchovný správca, administrátor, správca farnosti
+Q000853	Farár, rektor chrámu, rehoľný kňaz
+Q000854	Konsenior (cirkevná organizácia)
+Q000855	Senior (cirkevná organizácia)
+Q000856	Kaplán, výpomocný duchovný
+Q000857	Špecialista v oblasti vzťahov štátu a cirkví
+Q000858	Špecialista v oblasti religionistiky inde neuvedený
+Q000859	Spisovateľ
+Q000860	Scenárista
+Q000861	Dramatik
+Q000862	Básnik
+Q000863	Hudobný textár
+Q000864	Autor technických textov a dokumentácie
+Q000865	Textový korektor
+Q000866	Vydavateľský redaktor
+Q000867	Autor dialógov, autor audiokomentárov
+Q000868	Spisovateľ a podobný autor inde neuvedený
+Q000869	Žurnalista, novinár
+Q000870	Vedúci redakcie
+Q000871	Šéfredaktor
+Q000872	Publicista
+Q000873	Spravodajca
+Q000874	Reportér
+Q000875	Redaktor právnych textov
+Q000876	Žurnalista, redaktor a špecialista v žurnalistike inde neuvedený
+Q000877	Prekladateľ cudzích jazykov
+Q000878	Tlmočník cudzích jazykov
+Q000879	Tlmočník posunkovej reči
+Q000880	Tlmočník artikulačný
+Q000881	Tlmočník taktilný
+Q000882	Prekladateľ do Braillovho písma
+Q000883	Jazykovedec (filológ, lingvista)
+Q000884	Grafológ (písmoznalec)
+Q000885	Prekladateľ, tlmočník, jazykovedec a grafológ inde neuvedený
+Q000886	Reštaurátor
+Q000887	Umelecký sochár
+Q000888	Umelecký maliar
+Q000889	Umelecký grafik
+Q000890	Multimediálny a intermediálny umelec
+Q000891	Výtvarný umelec inde neuvedený
+Q000892	Zbormajster
+Q000893	Hudobný skladateľ
+Q000894	Vedúci nástrojovej skupiny
+Q000895	Koncertný majster
+Q000896	Koncertný umelec – sólista
+Q000897	Člen orchestra
+Q000898	Dirigent
+Q000899	Diskdžokej (DJ)
+Q000900	Člen hudobnej skupiny (hudobník)
+Q000901	Videodžokej (VJ)
+Q000902	Hudobník, spevák a skladateľ inde neuvedený
+Q000903	Vedúci tanečného súboru
+Q000904	Tanečný majster (okrem baletu)
+Q000905	Člen tanečného zboru (okrem baletu)
+Q000906	Tanečný sólista (okrem baletu)
+Q000907	Baletný majster
+Q000908	Člen baletného zboru
+Q000909	Baletný sólista
+Q000910	Choreograf
+Q000911	Tanečník súčasného tanca
+Q000912	Tanečník a choreograf inde neuvedený
+Q000913	Kreatívny producent
+Q000914	Výkonný producent
+Q000915	Dramaturg
+Q000916	Hlavný kameraman
+Q000917	Producent v audiovízii
+Q000918	Hudobný producent
+Q000919	Režisér, producent a dramaturg inde neuvedený
+Q000920	Herec
+Q000921	Mím
+Q000922	Muzikálový herec
+Q000923	Televízny moderátor
+Q000924	Rozhlasový moderátor
+Q000925	Moderátor v rozhlase, televízii a v ostatných médiách inde neuvedený
+Q000926	Bábkoherec
+Q000927	Artista a cirkusový umelec
+Q000928	Kúzelník (iluzionista)
+Q000929	Komik (zabávač)
+Q000930	Performer
+Q000931	Iný tvorivý a interpretačný umelec inde neuvedený
+Q000932	Technik fyzik
+Q000933	Technik chemik
+Q000934	Technik meteorológ
+Q000935	Technik metrológ
+Q000936	Technik astronóm
+Q000937	Technik geodet
+Q000938	Technik v chemických a fyzikálnych vedách inde neuvedený
+Q000939	Stavebný technik kontroly kvality, laborant
+Q000940	Stavebný rozpočtár, kalkulant
+Q000941	Stavebný prípravár
+Q000942	Revízny technik komínov
+Q000943	Technik požiarnej ochrany
+Q000944	Stavebný projektant
+Q000945	Asistent stavbyvedúceho
+Q000946	Asistent stavebného dozoru
+Q000947	Stavebný technik inde neuvedený
+Q000948	Technológ káblovej výroby
+Q000949	Technik merania káblových trás
+Q000950	Prevádzkový technik elektroúdržby
+Q000951	Elektrotechnik podpory inžinieringu
+Q000952	Elektrotechnik automatizovanej výroby
+Q000953	Materiálový technológ v elektrotechnike
+Q000954	Technik technickej kontroly a diagnostiky v elektrotechnike a energetike
+Q000955	Technik automatizovaných riadiacich systémov energetických zariadení
+Q000956	Technik údržby energetických a plynárenských zariadení
+Q000957	Technik podpory inžinieringu v energetike
+Q000958	Technik palivového hospodárstva v jadrovej elektrárni
+Q000959	Technik energetik vo výskume a vývoji
+Q000960	Technik havarijného plánovania a pripravenosti v jadrovej elektrárni
+Q000961	Technik kontroly kvality v energetike
+Q000962	Technik prevádzky vodných elektrární
+Q000963	Technik prevádzky, údržby distribučnej sústavy a rozvodu v energetike
+Q000964	Technik rozvoja distribučnej sústavy a rozvodu plynu
+Q000965	Technik alternatívnych zdrojov energie
+Q000966	Technik elektrickej stanice
+Q000967	Technik pre typizáciu a unifikáciu elektrizačnej sústavy
+Q000968	Technik ochrany v riadiacom centre v jadrovej elektrárni
+Q000969	Technik energetik technológ
+Q000970	Technik energetik projektant, konštruktér
+Q000971	Prevádzkový laborant v teplárni
+Q000972	Technik montáží energetických zariadení
+Q000973	Technik telemetrie
+Q000974	Technik energetických zariadení budov
+Q000975	Technik spracovania rádioaktívneho odpadu
+Q000976	Technik vyraďovania jadrových zariadení
+Q000977	Technik kogenerácie
+Q000978	Technik automatizácie budov
+Q000979	Elektrotechnik a energetik inde neuvedený
+Q000980	Konštruktér neštandardných meracích systémov
+Q000981	Skúšobný technik elektronických zariadení
+Q000982	Elektronik inde neuvedený
+Q000983	Strojársky technik kontroly kvality
+Q000984	Strojársky technik v oblasti údržby
+Q000985	Technik v oblasti zvárania
+Q000986	Strojársky laborant
+Q000987	Strojársky technik inde neuvedený
+Q000988	Aplikačný technik v chemickej výrobe
+Q000989	Technik kontroly kvality v chemickej výrobe
+Q000990	Procesný technik v chemickej výrobe
+Q000991	Laborant pitných a odpadových vôd
+Q000992	Vzorkár pre odber pitných a odpadových vôd
+Q000993	Technik spracovania plastov
+Q000994	Chemický technik v priemyselnej výrobe
+Q000995	Chemický laborant
+Q000996	Laborant prípravy suroviny
+Q000997	Technický pracovník pri ťažbe nerastných surovín
+Q000998	Technik banského monitoringu
+Q000999	Banský technik, mechanik
+Q001000	Technik banskej záchrannej služby
+Q001001	Technický pracovník v hutníctve
+Q001002	Technik kontroly kvality v hutníctve, laborant
+Q001003	Zlievarenský technik technológ
+Q001004	Zlievarenský technik kontroly kvality
+Q001005	Zlievarenský technik normovač
+Q001006	Zlievarenský technik modelár
+Q001007	Zlievarenský technik metalurg
+Q001008	Technik v ťažobnom, hutníckom a zlievarenskom priemysle inde neuvedený
+Q001009	Technický kreslič
+Q001010	Technik 3D tlače materiálov
+Q001011	Technik správy a údržby geografického informačného systému
+Q001012	Dispečer, výpravca v železničnej doprave
+Q001013	Technický pracovník cestnej infraštruktúry
+Q001014	Dispečer prevádzky cestnej infraštruktúry
+Q001015	Technik, kontrolór mestskej hromadnej dopravy
+Q001016	Dispečer v logistike a poštových službách
+Q001017	Technik v logistike a poštových službách
+Q001018	Technik prípravy a tavenia skloviny
+Q001019	Technik výroby keramiky, kameniny a porcelánu
+Q001020	Technik výroby sklených a minerálnych materiálov
+Q001021	Projektový technik v oblasti súkromnej bezpečnosti
+Q001022	Technik záchranného zboru
+Q001023	Skladový majster (vedúci skladu)
+Q001024	Technik hospodárskej správy a údržby majetku
+Q001025	Technik vozového parku
+Q001026	Servisný technik v autoservise
+Q001027	Technik stanice technickej kontroly
+Q001028	Technik kontroly originality
+Q001029	Garančný technik
+Q001030	Technik prípravy a realizácie investícií
+Q001031	Technik protikoróznej ochrany
+Q001032	Technik polotovarov a výšiviek v odevnej výrobe
+Q001033	Operátor v cestnej infraštruktúre
+Q001034	Pracovník technickej údržby tunela
+Q001035	Technik výroby stavebných materiálov
+Q001036	Technik výroby žiaruvzdorných materiálov
+Q001037	Technik vodohospodárskeho rozvoja
+Q001038	Technik nedeštruktívnych skúšok
+Q001039	Technológ v oblasti leteckého paliva
+Q001040	Technik modulárnej výroby
+Q001041	Tribotechnik
+Q001042	Technik prípravy plastických hmôt na 3D tlač keramických materiálov
+Q001043	Procesný technik
+Q001044	Technik robotiky
+Q001045	Operátor dispečingu ambulantnej dopravnej zdravotnej služby
+Q001046	Iný technik vo fyzikálnych, technických vedách a doprave inde neuvedený
+Q001047	Majster (revírnik) v ťažobnom priemysle (okrem elektroúdržby a strojnej údržby)
+Q001048	Majster (revírnik) elektroúdržby v ťažobnom priemysle
+Q001049	Majster (revírnik) strojnej údržby v ťažobnom priemysle
+Q001050	Majster (supervízor) v hutníctve
+Q001051	Majster (supervízor) v zlievarenstve
+Q001052	Majster (supervízor) v ťažobnom, hutníckom, zlievarenskom priemysle a geologickom prieskume inde neuvedený
+Q001053	Majster (supervízor) v potravinárskej výrobe
+Q001054	Majster (supervízor) v textilnej a odevnej výrobe
+Q001055	Majster (supervízor) v kožiarskej a obuvníckej výrobe
+Q001056	Majster (supervízor) v drevospracujúcej výrobe
+Q001057	Majster (supervízor) v celulózo-papierenskej výrobe
+Q001058	Majster (supervízor) v polygrafickej výrobe
+Q001059	Majster (supervízor) v chemickej výrobe
+Q001060	Majster (supervízor) v sklárskej výrobe
+Q001061	Majster (supervízor) vo výrobe stavebných materiálov
+Q001062	Majster (supervízor) vo výrobe žiaruvzdorných materiálov
+Q001063	Majster (supervízor) v strojárskej výrobe
+Q001064	Majster v karosárskej dielni
+Q001065	Majster v lakovníckej dielni
+Q001066	Majster v mechanickej dielni
+Q001067	Majster (supervízor) v elektrotechnickej výrobe
+Q001068	Majster (supervízor) výroby keramiky a porcelánu
+Q001069	Majster (supervízor) v priemyselnej výrobe inde neuvedený
+Q001070	Dispečer hydroenergetického dispečingu
+Q001071	Dispečer vo výrobe elektrickej energie v tepelnej elektrárni
+Q001072	Dispečer vo výrobe elektrickej energie z alternatívnych zdrojov
+Q001073	Dispečer prenosu a distribúcie elektrickej energie
+Q001074	Operátor výrobných a rozvodných energetických zariadení
+Q001075	Dispečer vo výrobe, prenose a distribúcii elektrickej energie inde neuvedený
+Q001076	Technik merania a regulácie v spaľovni
+Q001077	Technik merania a regulácie vo vodárenstve
+Q001078	Technik dispečingu vo vodárňach a kanalizáciách
+Q001079	Dispečer krízového riadenia vo vodárňach a kanalizáciách
+Q001080	Technik prevádzky vodovodov a zavlažovacích systémov
+Q001081	Majster (supervízor) vo vodárenstve
+Q001082	Technik merania a regulácie vo vodnom hospodárstve
+Q001083	Technik pre obnovu a rozvoj infraštruktúry vo vodárenstve
+Q001084	Technik podpory dispečingu vo vodárenstve
+Q001085	Vodohospodársky dispečer
+Q001086	Hrádzny, hatiar
+Q001087	Technik pre správu vodného toku
+Q001088	Technik diagnostikovania distribučnej siete
+Q001089	Dispečer a technik v spaľovniach, vo vodnom hospodárstve a vodárenstve inde neuvedený
+Q001090	Dispečer v chemickom priemysle
+Q001091	Dopravný dispečer v ťažobnom priemysle
+Q001092	Výrobný dispečer v ťažobnom priemysle
+Q001093	Dispečer v celulózo-papierenskej výrobe
+Q001094	Dispečer v sklárskej výrobe, vo výrobe stavebných a žiaruvzdorných materiálov
+Q001095	Dispečer v teplárni
+Q001096	Iný dispečer (technik procesu výroby) inde neuvedený
+Q001097	Laborant biochemik
+Q001098	Technik v oblasti plemenárskej biológie
+Q001099	Technik v oblasti biologických vied (okrem medicíny) inde neuvedený
+Q001100	Vedúci strediska v poľnohospodárstve
+Q001101	Technik v rastlinnej výrobe
+Q001102	Technik v živočíšnej výrobe
+Q001103	Technik v oblasti záhradníctva
+Q001104	Fytoinšpektor
+Q001105	Technológ v potravinárskej výrobe
+Q001106	Technik kontroly v potravinárskej výrobe
+Q001107	Technik údržby v potravinárskej výrobe
+Q001108	Technik na precízne poľnohospodárstvo
+Q001109	Technik v poľnohospodárstve a potravinárstve inde neuvedený
+Q001110	Vedúci lesného obvodu
+Q001111	Vedúci prevádzkového strediska v lesníctve
+Q001112	Majster (supervízor) v lesníctve
+Q001113	Technik pre pestovateľskú činnosť v lesníctve
+Q001114	Technik pre ťažbovú činnosť v lesníctve
+Q001115	Technik pre správu lesného majetku
+Q001116	Technik pre technickú prípravu výroby v lesníctve
+Q001117	Technológ lesníckej výroby
+Q001118	Technik operačného nasadenia lesnej techniky
+Q001119	Technik údržby lesnej techniky - mechanizátor
+Q001120	Poľovný hospodár
+Q001121	Technik pre zisťovanie stavu lesa (taxátor)
+Q001122	Vyhotoviteľ programov starostlivosti o les
+Q001123	Technik pre správu lesného reprodukčného materiálu
+Q001124	Dispečer prekladiska lodnej dopravy
+Q001125	Lodný technik inde neuvedený
+Q001126	Kapitán lode
+Q001127	Kapitán kompy
+Q001128	Lodivod
+Q001129	Kapitán plávajúceho stroja
+Q001130	Kapitán a lodivod inde neuvedený
+Q001131	Pilot
+Q001132	Letový inštruktor
+Q001133	Pilot na diaľku
+Q001134	Letecký pilot a pomocný technik inde neuvedený
+Q001135	Riadiaci letovej prevádzky
+Q001136	Dispečer leteckej prevádzky
+Q001137	Dispečer letiskovej prevádzky
+Q001138	Odborný pracovník v leteckej doprave inde neuvedený
+Q001139	Technik bezpečnostnej ochrany v leteckej doprave
+Q001140	Technik technického zabezpečenia letových prevádzkových služieb
+Q001141	Technik bezpečnostných elektronických zariadení v leteckej doprave inde neuvedený
+Q001142	Rádiologický technik bez špecializácie
+Q001143	Rádiologický technik v nukleárnej medicíne
+Q001144	Rádiologický technik v radiačnej onkológii
+Q001145	Rádiologický technik v špeciálnej rádiológii
+Q001146	Rádiologický technik inde neuvedený
+Q001147	Zdravotnícky laborant bez špecializácie
+Q001148	Laboratórny diagnostik v laboratórnych a diagnostických metódach v biológii životného prostredia
+Q001149	Laboratórny diagnostik v laboratórnych a diagnostických metódach v hematológii a transfuziológii
+Q001150	Laboratórny diagnostik v laboratórnych a diagnostických metódach v klinickej biochémii
+Q001151	Laboratórny diagnostik v laboratórnych a diagnostických metódach v klinickej imunológii a alergiológii
+Q001152	Laboratórny diagnostik v laboratórnych a diagnostických metódach v klinickej genetike
+Q001153	Laboratórny diagnostik v laboratórnych a diagnostických metódach v klinickej mikrobiológii
+Q001154	Laboratórny diagnostik v laboratórnych a diagnostických metódach v mikrobiológii životného prostredia
+Q001155	Laboratórny diagnostik v laboratórnych a diagnostických metódach v oblasti fyzikálnych a chemických analýz a faktorov
+Q001156	Laboratórny diagnostik v laboratórnych a diagnostických metódach v patológii a súdnom lekárstve
+Q001157	Zdravotnícky laborant vo vyšetrovacích metódach v histopatológii
+Q001158	Zdravotnícky laborant vo vyšetrovacích metódach v chemickej a fyzikálnej analýze v hygiene
+Q001159	Zdravotnícky laborant vo vyšetrovacích metódach v klinickej cytológii
+Q001160	Zdravotnícky laborant vo vyšetrovacích metódach v mikrobiológii a biológii životného prostredia
+Q001161	Zdravotnícky laborant vo vyšetrovacích metódach v ochrane zdravia pred iónovým žiarením
+Q001162	Zdravotnícky laborant vo vyšetrovacích metódach v toxikológii a farmakológii
+Q001163	Laboratórny diagnostik bez špecializácie
+Q001164	Laborant v zdravotníckych laboratóriách a na patológii inde neuvedený
+Q001165	Farmaceutický laborant bez špecializácie
+Q001166	Farmaceutický laborant v lekárenstve
+Q001167	Farmaceutický laborant v metódach farmaceutického skúšania
+Q001168	Farmaceutický laborant v technológii prípravy liekov
+Q001169	Farmaceutický laborant vo vyšetrovacích metódach v toxikológii a farmakológii
+Q001170	Farmaceutický laborant pre zdravotnícke pomôcky
+Q001171	Farmaceutický laborant inde neuvedený
+Q001172	Technik pre zdravotnícke pomôcky
+Q001173	Ortopedický technik
+Q001174	Zubný technik
+Q001175	Technik zdravotníckej a zubnej protetiky inde neuvedený
+Q001176	Ambulantná sestra
+Q001177	Sestra v zariadení sociálnoprávnej ochrany detí a sociálnej kurately a v zariadení sociálnych služieb
+Q001178	Zdravotná sestra inde neuvedená
+Q001179	Pôrodná ambulantná asistentka
+Q001180	Asistentka ženy počas tehotenstva a pôrodu (dula)
+Q001181	Veterinárny technik
+Q001182	Úradný veterinárny asistent
+Q001183	Inseminačný technik
+Q001184	Inšpektor plemenárskej inšpekcie
+Q001185	Veterinárny technik a asistent inde neuvedený
+Q001186	Zubný asistent
+Q001187	Dentálny hygienik
+Q001188	Odborný pracovník v oblasti zdravotnej dokumentácie a informácií
+Q001189	Odborný pracovník v oblasti zdravotného poistenia
+Q001190	Odborný pracovník v oblasti nákupu zdravotnej starostlivosti
+Q001191	Komunitný pracovník
+Q001192	Rómsky asistent
+Q001193	Terénny sociálny a zdravotný pracovník inde neuvedený
+Q001194	Očný optik
+Q001195	Masér v zdravotníctve
+Q001196	Praktická sestra (zdravotnícky asistent) bez špecializácie
+Q001197	Praktická sestra (zdravotnícky asistent) inde neuvedený
+Q001198	Inšpektor hygieny
+Q001199	Inšpektor životného prostredia
+Q001200	Inšpektor kontroly potravín
+Q001201	Banský inšpektor
+Q001202	Kontrolór detských ihrísk
+Q001203	Inšpektor hygieny, životného prostredia a zdravia pri práci inde neuvedený
+Q001204	Zdravotnícky záchranár bez špecializácie
+Q001205	Zdravotnícky záchranár operačného strediska základnej zdravotnej služby
+Q001206	Zdravotnícky záchranár inde neuvedený
+Q001207	Odborný pracovník v zdravotníctve inde neuvedený
+Q001208	Odborný pracovník portfólia podielových fondov
+Q001209	Odborný pracovník v oblasti dôchodkového sporenia
+Q001210	Odborný pracovník pre investičnú činnosť v poisťovníctve
+Q001211	Odborný pracovník platidiel
+Q001212	Odborný pracovník riadenia hotovostného peňažného obehu
+Q001213	Odborný pracovník portfólia dôchodkových fondov
+Q001214	Odborný pracovník v oblasti finančných transakcií a obchodu s cennými papiermi inde neuvedený
+Q001215	Odborný poradca, predajca bankových produktov a služieb
+Q001216	Odborný pracovník pre schvaľovanie, verifikovanie úverov
+Q001217	Odborný pracovník pre bankopoistenie
+Q001218	Odborný pracovník zabezpečujúci činnosti súvisiace s prevádzkou bankomatov
+Q001219	Odborný pracovník splátkového predaja
+Q001220	Odborný pracovník pre tvorbu úverovej dokumentácie
+Q001221	Odborný pracovník v oblasti úverov a ostatných bankových produktov inde neuvedený
+Q001222	Odborný pracovník mzdovej agendy (mzdový účtovník)
+Q001223	Odborný pracovník pre správu a vymáhanie pohľadávok
+Q001224	Odborný pracovník v oblasti účtovníctva (okrem mzdového)
+Q001225	Asistent audítora
+Q001226	Odborný pracovník v oblasti rozpočtu
+Q001227	Asistent daňového poradcu
+Q001228	Odborný pracovník v oblasti účtovníctva inde neuvedený
+Q001229	Odborný pracovník aktuár (poistná matematika)
+Q001230	Odborný pracovník v oblasti štatistiky
+Q001231	Štatistik, matematik a podobný odborný pracovník inde neuvedený
+Q001232	Odhadca škôd
+Q001233	Odborný pracovník pre likvidáciu poistných udalostí
+Q001234	Odhadca a likvidátor škôd inde neuvedený
+Q001235	Odborný pracovník pre predaj poistných produktov a služieb
+Q001236	Odborný pracovník pre podporu obchodu v poisťovníctve
+Q001237	Odborný pracovník pre upisovania poistných rizík
+Q001238	Odborný pracovník pre riadenie rizík v poisťovníctve
+Q001239	Odborný pracovník pre správu poistných zmlúv
+Q001240	Revízor v poisťovníctve
+Q001241	Odborný pracovník pre dodržiavanie súladu s predpismi v oblasti finančníctva
+Q001242	Odborný pracovník pre zaistenie
+Q001243	Odborný pracovník v oblasti predaja poistenia inde neuvedený
+Q001244	Obchodný zástupca
+Q001245	Nákupca, odborný pracovník pre materiálové zabezpečenie a zásobovanie
+Q001246	Odborný pracovník pre verejné obstarávanie
+Q001247	Obchodný sprostredkovateľ
+Q001248	Agent a disponent prepravy
+Q001249	Colný deklarant
+Q001250	Organizátor vzdelávacích aktivít
+Q001251	Organizátor spoločenských podujatí
+Q001252	Odborný pracovník poskytovania príspevkov na aktívne opatrenia trhu práce
+Q001253	Odborný pracovník na úseku kontrolnej činnosti vo verejných službách zamestnanosti
+Q001254	Odborný pracovník rozhodovania v oblasti služieb zamestnanosti
+Q001255	Odborný pracovník poradenských služieb zamestnanosti
+Q001256	Odborný pracovník v oblasti sprostredkovateľských a informačno-poradenských služieb zamestnanosti
+Q001257	Konzultant pre personálny lízing
+Q001258	Náborový konzultant
+Q001259	Odborný pracovník Európskych služieb zamestnanosti (EURES)
+Q001260	Sprostredkovateľ práce a odborný pracovník v oblasti služieb zamestnanosti inde neuvedený
+Q001261	Realitný maklér
+Q001262	Kultúrny agent
+Q001263	Sprostredkovateľ prenájmu obchodného priestoru
+Q001264	Sprostredkovateľ predaja reklamného priestoru
+Q001265	Športový agent
+Q001266	Aukcionár
+Q001267	Odborný pracovník pre kooperácie
+Q001268	Iný sprostredkovateľ služieb inde neuvedený
+Q001269	Supervízor administratívnych pracovníkov
+Q001270	Supervízor pracovníkov informačných služieb
+Q001271	Supervízor operátorov dát
+Q001272	Supervízor zákazníckeho centra
+Q001273	Vedúci sekretariátu, kancelárie
+Q001274	Supervízor v administratíve inde neuvedený
+Q001275	Administratívny pracovník v advokátskej kancelárii
+Q001276	Odborný administratívny asistent
+Q001277	Odborný administratívny asistent v zdravotníckom zariadení
+Q001278	Odborný pracovník v oblasti colného dohľadu
+Q001279	Odborný pracovník v oblasti kontroly po prepustení tovaru
+Q001280	Odborný pracovník v oblasti colnej kontroly
+Q001281	Odborný pracovník v oblasti mobilného dohľadu
+Q001282	Vyšetrovateľ finančnej správy
+Q001283	Odborný pracovník v colnej oblasti inde neuvedený
+Q001284	Odborný pracovník v oblasti správy daní
+Q001285	Odborný pracovník štátneho dozoru nad prevádzkovaním lotérií
+Q001286	Odborný pracovník v oblasti daňovej exekúcie
+Q001287	Odborný pracovník v oblasti daňovej kontroly
+Q001288	Odborný pracovník v oblasti registrácie daní
+Q001289	Odborný pracovník správy miestnych daní a poplatkov
+Q001290	Odborný pracovník v daňovej oblasti inde neuvedený
+Q001291	Odborný pracovník v oblasti peňažných príspevkov na kompenzáciu dôsledkov ťažkého zdravotného postihnutia
+Q001292	Odborný pracovník v oblasti pomoci v hmotnej núdzi
+Q001293	Odborný pracovník v oblasti štátnych sociálnych dávok
+Q001294	Odborný pracovník súčinností v sociálnom zabezpečení
+Q001295	Odborný pracovník vymáhania pohľadávok v oblasti sociálneho poistenia
+Q001296	Odborný pracovník výberu poistného v oblasti sociálneho poistenia
+Q001297	Odborný pracovník, aprobant a metodik exekučnej agendy
+Q001298	Dávkový aprobant
+Q001299	Odborný pracovník poskytovania odborného poradenstva v oblasti sociálneho poistenia
+Q001300	Odborný pracovník v oblasti dôchodkového poistenia
+Q001301	Odborný pracovník v oblasti dávok náhradnej rodinnej starostlivosti
+Q001302	Odborný pracovník výberu poistného v oblasti zdravotného poistenia
+Q001303	Odborný pracovník v oblasti sociálneho poistenia (okrem dôchodkového)
+Q001304	Koordinátor opatrovateľských služieb
+Q001305	Odborný pracovník v oblasti sociálneho zabezpečenia inde neuvedený
+Q001306	Odborný pracovník na úseku živnostenského podnikania
+Q001307	Odborný pracovník udeľovania dopravných licencií
+Q001308	Odborný pracovník udeľovania oprávnení v oblasti bezpečnosti a ochrany zdravia pri práci
+Q001309	Odborný pracovník udeľovania oprávnení vo verejných službách zamestnanosti
+Q001310	Odborný pracovník udeľovania patentov
+Q001311	Odborný pracovník samosprávy pre zdravotnícke zariadenia, lekárne a výdajne zdravotníckych pomôcok
+Q001312	Pracovník v oblasti udeľovania licencií a iných oprávnení inde neuvedený
+Q001313	Príslušník Policajného zboru útvaru kriminalisticko-expertíznych činností
+Q001314	Vyšetrovateľ Policajného zboru
+Q001315	Odborný pracovník pre evidenciu obyvateľstva
+Q001316	Matrikár
+Q001317	Odborný pracovník verejnej správy pre všeobecnú vnútornú správu
+Q001318	Odborný pracovník verejnej správy pre priestupkové konanie
+Q001319	Odborný pracovník verejnej správy pre prípravu, riadenie a kontrolu projektov
+Q001320	Odborný pracovník verejnej správy v oblasti medzinárodných vzťahov
+Q001321	Odborný pracovník v oblasti parlamentnej a vládnej agendy
+Q001322	Analytik trhu práce a sociálnej situácie obyvateľstva vo verejnej správe
+Q001323	Odborný pracovník orgánu verejnej správy v oblasti spracovania návrhov stratégií
+Q001324	Odborný pracovník verejnej správy pre správu majetku
+Q001325	Odborný pracovník štátneho odborného dozoru, povoľovania a regulácie dopravy a dopravnej infraštruktúry
+Q001326	Odborný pracovník pre reguláciu a štátny dohľad elektronických komunikácií a poštových služieb
+Q001327	Odborný pracovník verejnej správy pre pozemkové úpravy
+Q001328	Odborný pracovník verejnej správy pre územné plánovanie, výstavbu a územné konanie
+Q001329	Odborný pracovník verejnej správy pre kataster
+Q001330	Odborný pracovník verejnej správy v oblasti podnikateľských činností
+Q001331	Odborný pracovník verejnej správy v oblasti kultúry
+Q001332	Odborný pracovník verejnej správy v oblasti školstva
+Q001333	Odborný pracovník verejnej správy pre ochranu životného prostredia
+Q001334	Odborný pracovník verejnej správy pre cestnú dopravu a pozemné komunikácie
+Q001335	Odborný pracovník priamych podpôr v oblasti pôdohospodárstva
+Q001336	Odborný pracovník trhových mechanizmov a poľnohospodárskych komodít
+Q001337	Koordinátor verejnoprospešných služieb a aktivačných prác
+Q001338	Iný odborný pracovník verejnej správy inde neuvedený
+Q001339	Právny asistent
+Q001340	Mediátor
+Q001341	Odborný legislatívny pracovník
+Q001342	Odborný pracovník prvého kontaktu právnej pomoci
+Q001343	Odborný pracovník v oblasti štrukturálnych fondov
+Q001344	Odborný pracovník v oblasti práva inde neuvedený
+Q001345	Odborný pracovník v oblasti sociálnej starostlivosti o osoby so zdravotným postihnutím
+Q001346	Odborný pracovník v oblasti sociálnej starostlivosti o staršie osoby
+Q001347	Odborný pracovník v oblasti sociálnej starostlivosti o rodinu a deti
+Q001348	Asistent sociálnej práce
+Q001349	Odborný pracovník v oblasti sociálnych služieb
+Q001350	Odborný pracovník krízových intervencií
+Q001351	Kariérový sprievodca, konzultant
+Q001352	Koordinátor dobrovoľníkov
+Q001353	Odborný pracovník v oblasti sociálnej starostlivosti inde neuvedený
+Q001354	Diakon
+Q001355	Rehoľná osoba (okrem kňaza)
+Q001356	Odborný pracovník v oblasti religionistiky inde neuvedený
+Q001357	Športovec
+Q001358	Športový rozhodca
+Q001359	Športový funkcionár
+Q001360	Školský tréner
+Q001361	Komisár dopingovej kontroly
+Q001362	Športový odborník športového zväzu
+Q001363	Športový tréner, rozhodca a funkcionár inde neuvedený
+Q001364	Lyžiarsky inštruktor
+Q001365	Plavecký inštruktor
+Q001366	Inštruktor fitness
+Q001367	Inštruktor, cvičiteľ športových rekreačných aktivít inde neuvedený
+Q001368	Fotoreportér
+Q001369	Umelecký fotograf
+Q001370	Fotograf inde neuvedený
+Q001371	Interiérový dizajnér
+Q001372	Aranžér, dekoratér
+Q001373	Filmový architekt
+Q001374	Muzeológ
+Q001375	Správca depozitára
+Q001376	Výstavný technik
+Q001377	Digitalizátor
+Q001378	Technik pre konzervovanie a reštaurovanie
+Q001379	Odborný a technický pracovník v galérii, múzeu, knižnici, archíve inde neuvedený
+Q001380	Šéfkuchár
+Q001381	Asistent produkcie
+Q001382	Asistent choreografie
+Q001383	Notograf
+Q001384	Inšpicient, stage manažér
+Q001385	Zriadenec orchestra
+Q001386	Rekvizitár, zbrojár
+Q001387	Kaskadér, dablér
+Q001388	Komparzista
+Q001389	Šepkár
+Q001390	Tvorca bábok, bábkar
+Q001391	Inšpektor, technik orchestra
+Q001392	Majster divadelnej sály
+Q001393	Majster javiskovej techniky
+Q001394	Skriptér (skript)
+Q001395	Retušér
+Q001396	Titulkovač
+Q001397	Odpaľovač ohňostrojov
+Q001398	Iný odborný pracovník v oblasti umenia a kultúry inde neuvedený
+Q001399	Technik prevádzky IT
+Q001400	Operátor klientskej podpory IKT
+Q001401	Technik telekomunikačných služieb a infraštruktúry
+Q001402	Technik prevádzky IKT inde neuvedený
+Q001403	Technik užívateľskej podpory IKT
+Q001404	Webový technik
+Q001405	Majster zvuku
+Q001406	Zvukár
+Q001407	Mikrofonista - asistent zvuku
+Q001408	Hlavný osvetľovač
+Q001409	Osvetľovač
+Q001410	Kameraman
+Q001411	Asistent kamery
+Q001412	Technik kamerových, obrazových, pomocných a pohybových zariadení a prístrojov (grip)
+Q001413	Ostrič kamery
+Q001414	Riadiaci technológ v médiách
+Q001415	Technik záznamu a prepisu
+Q001416	Technik operátor štúdiovej techniky
+Q001417	Koordinátor vysielacieho pracoviska
+Q001418	Operátor technickej kontroly vysielania
+Q001419	Technik operátor jednokamerového voza
+Q001420	Operátor prenosového voza
+Q001421	Vedúci prenosového voza
+Q001422	Prenosový technik
+Q001423	Technik na prepojovači
+Q001424	Technik scény
+Q001425	Obrazový strihač
+Q001426	Premietač
+Q001427	Svetelný dizajnér
+Q001428	Zvukový dizajnér
+Q001429	Technik ozvučenia
+Q001430	Technik v oblasti vysielacích a audiovizuálnych zariadení inde neuvedený
+Q001431	Technik v oblasti telekomunikačných zariadení
+Q001432	Všeobecný administratívny pracovník
+Q001433	Sekretárka
+Q001434	Stenotypista, zapisovateľ
+Q001435	Zapisovateľ, pracovník pre spracovanie textov inde neuvedený
+Q001436	Operátor dát
+Q001437	Pracovník pri priehradke na pošte
+Q001438	Pracovník podpory predaja, servisný pracovník vo finančníctve
+Q001439	Poradca klientov, predajca bankových produktov pri priehradkách
+Q001440	Pracovník pri priehradke v poisťovníctve
+Q001441	Pracovník pri priehradke a podobný pracovník inde neuvedený
+Q001442	Bookmaker
+Q001443	Krupiér internetového kasína
+Q001444	Krupiér v kasíne
+Q001445	Pracovník stávkovej kancelárie
+Q001446	Pracovník herne
+Q001447	Bookmaker, krupiér a pracovník v stávkovej kancelárii a herni inde neuvedený
+Q001448	Pracovník v záložni, veriteľ
+Q001449	Vyberač dobročinných príspevkov
+Q001450	Pracovník turistického informačného centra
+Q001451	Pracovník turistického informačného centra, cestovnej kancelárie a agentúry inde neuvedený
+Q001452	Pracovník zákazníckeho centra (kontaktného)
+Q001453	Pracovník kontaktného informačného centra inde neuvedený
+Q001454	Operátor telefónnej ústredne
+Q001455	Vedúci recepcie
+Q001456	Hotelový recepčný
+Q001457	Informátor
+Q001458	Recepčný (okrem hotelového)
+Q001459	Teleanketár
+Q001460	Terénny anketár
+Q001461	Tajný agent prieskumu (mystery shopper)
+Q001462	Anketár, prieskumník trhu inde neuvedený
+Q001463	Pracovník informačných služieb inde neuvedený
+Q001464	Fakturant
+Q001465	Administratívny pracovník správy a evidencie majetku
+Q001466	Administratívny pracovník v účtovníctve inde neuvedený
+Q001467	Administratívny pracovník v oblasti štatistiky
+Q001468	Administratívny pracovník v bankovníctve
+Q001469	Administratívny pracovník v poisťovníctve
+Q001470	Administratívny pracovník v oblasti dôchodkového sporenia
+Q001471	Administratívny pracovník v oblasti kapitálového trhu
+Q001472	Administratívny pracovník v oblasti štatistiky, finančníctva, poisťovníctva inde neuvedený
+Q001473	Administratívny pracovník v oblasti mzdového účtovníctva
+Q001474	Pracovník v sklade (skladník)
+Q001475	Logistik skladu autoservisu
+Q001476	Administratívny pracovník v cestnej doprave (okrem mestskej hromadnej dopravy)
+Q001477	Administratívny pracovník v mestskej hromadnej doprave
+Q001478	Administratívny pracovník v logistike
+Q001479	Administratívny pracovník v doprave inde neuvedený
+Q001480	Knihovník
+Q001481	Doručovateľ zásielok, poštár
+Q001482	Triedič zásielok
+Q001483	Poštový doručovateľ a pracovník zásielkových a poštových služieb inde neuvedený
+Q001484	Operátor kódovania a spracovania údajov
+Q001485	Kódovač, korektor a podobný pracovník inde neuvedený
+Q001486	Prepisovač
+Q001487	Pracovník správy registratúry
+Q001488	Pracovník reprografie
+Q001489	Pracovník podateľne
+Q001490	Administratívny pracovník v oblasti ľudských zdrojov
+Q001491	Kontista v oblasti sociálneho poistenia
+Q001492	Pracovník vyhodnocovania dôb poistenia
+Q001493	Administratívny pracovník v oblasti marketingu
+Q001494	Iný pomocný administratívny pracovník inde neuvedený
+Q001495	Palubný sprievodca v leteckej doprave
+Q001496	Palubný sprievodca, stevard v lodnej doprave
+Q001497	Pracovník vybavenia cestujúcich v leteckej doprave
+Q001498	Obsluhujúci pracovník v leteckej a lodnej doprave inde neuvedený
+Q001499	Stevard v osobnej železničnej doprave
+Q001500	Revízor vo verejnej osobnej doprave
+Q001501	Sprievodca v osobnej doprave inde neuvedený
+Q001502	Regionálny sprievodca
+Q001503	Sprievodca v cestovnom ruchu (okrem regionálneho sprievodcu)
+Q001504	Horský vodca
+Q001505	Delegát cestovnej kancelárie
+Q001506	Lektor, sprievodca v múzeu, galérii
+Q001507	Turistický sprievodca inde neuvedený
+Q001508	Kuchár (okrem šéfkuchára)
+Q001509	Čašník, servírka
+Q001510	Someliér
+Q001511	Barista
+Q001512	Barman
+Q001513	Kaderník
+Q001514	Barber
+Q001515	Kozmetik
+Q001516	Pedikér
+Q001517	Manikér
+Q001518	Nechtový dizajnér
+Q001519	Pracovník obsluhujúci solárium
+Q001520	Pracovník permanentného mejkapu
+Q001521	Tetovač tela
+Q001522	Masér (okrem maséra v zdravotníctve)
+Q001523	Kozmetik a podobný pracovník inde neuvedený
+Q001524	Supervízor prevádzkových a upratovacích služieb
+Q001525	Hotelová gazdiná
+Q001526	Prevádzkar (supervízor) upratovacích a prevádzkových služieb v kanceláriách, hoteloch a podobných zariadeniach inde neuvedený
+Q001527	Správca domácnosti, gazdiná
+Q001528	Správca historických pamiatok
+Q001529	Údržbár
+Q001530	Školník
+Q001531	Správca objektov inde neuvedený
+Q001532	Spoločník, sluha (komorník)
+Q001533	Hotelový komorník
+Q001534	Pracovník krematória
+Q001535	Organizátor pohrebov (obradník, aranžér)
+Q001536	Balzamovač ľudských tiel
+Q001537	Pracovník pohrebnej služby a balzamovač inde neuvedený
+Q001538	Ošetrovateľ v zoologickej záhrade
+Q001539	Ošetrovateľ koní
+Q001540	Tréner koní
+Q001541	Ošetrovateľ laboratórnych zvierat
+Q001542	Pracovník zabezpečujúci starostlivosť o zvieratá inde neuvedený
+Q001543	Inštruktor autoškoly
+Q001544	Hosteska
+Q001545	Animátor voľného času
+Q001546	Pracovník kľúčovej služby
+Q001547	Pracovník fotoslužby
+Q001548	Iný pracovník v osobných službách inde neuvedený
+Q001549	Predavač v novinovom stánku
+Q001550	Predavač na trhu a v tržnici (okrem rýchleho občerstvenia)
+Q001551	Predavač v stánku a na trhu (okrem rýchleho občerstvenia) inde neuvedený
+Q001552	Pouličný predavač jedla
+Q001553	Obchodník v malom obchode, butiku
+Q001554	Vedúci obchodnej prevádzky
+Q001555	Predavač v obchodnej prevádzke
+Q001556	Predavač mäsa a rýb
+Q001557	Predajca motorových vozidiel
+Q001558	Predavač inde neuvedený
+Q001559	Hlavný pokladník v obchodnej prevádzke
+Q001560	Koordinátor pokladníkov
+Q001561	Pokladník v predajni
+Q001562	Pokladník a predavač lístkov vo verejnej osobnej doprave
+Q001563	Pokladník a predavač vstupeniek v kultúre
+Q001564	Pokladník, predavač lístkov inde neuvedený
+Q001565	Manekýn, modelka
+Q001566	Predvádzač tovaru (promotér)
+Q001567	Podomový predavač
+Q001568	Pracovník internetového predaja
+Q001569	Pracovník telefonického predaja a telemarketingu
+Q001570	Pracovník čerpacej stanice
+Q001571	Predavač rýchleho občerstvenia
+Q001572	Zmrzlinár
+Q001573	Pracovník príjmu tovaru
+Q001574	Pracovník expedície tovaru
+Q001575	Asistent služieb zákazníkom
+Q001576	Pracovník kontroly cien
+Q001577	Iný pracovník v oblasti predaja inde neuvedený
+Q001578	Opatrovateľ detí v zariadeniach
+Q001579	Opatrovateľ detí v domácnosti a teréne
+Q001580	Profesionálny náhradný rodič
+Q001581	Opatrovateľ pre deti inde neuvedený
+Q001582	Pomocný vychovávateľ
+Q001583	Pracovník s mládežou
+Q001584	Opatrovateľ v zariadení pre staršie osoby a osoby so zdravotným postihnutím
+Q001585	Opatrovateľ starších osôb a osôb so zdravotným postihnutím v domácnosti, v teréne
+Q001586	Asistent ošetrovateľa starších osôb a osôb so zdravotným postihnutím v domácnosti, v teréne
+Q001587	Pracovný asistent osôb so zdravotným postihnutím
+Q001588	Osobný asistent osôb s ťažkým zdravotným postihnutím
+Q001589	Opatrovateľ a asistent pre domácu starostlivosť pre staršie osoby a osoby so zdravotným postihnutím inde neuvedený
+Q001590	Podporný pracovník v zdravotníctve
+Q001591	Asistent podpory zdravia
+Q001592	Asistent podpory zdravia v prostredí nemocníc
+Q001593	Pracovník v oblasti osobnej zdravotnej starostlivosti inde neuvedený
+Q001594	Hasič závodného hasičského útvaru
+Q001595	Hasič Hasičského a záchranného zboru - výkon zmenovej služby
+Q001596	Hasič letiskovej záchrannej a hasičskej služby
+Q001597	Preventivár požiarnej ochrany obce
+Q001598	Hasič Hasičského a záchranného zboru - požiarna prevencia
+Q001599	Hasič inde neuvedený
+Q001600	Príslušník Policajného zboru služby poriadkovej polície
+Q001601	Príslušník Policajného zboru služby dopravnej polície
+Q001602	Príslušník Policajného zboru služby ochrany objektov
+Q001603	Príslušník Policajného zboru služby železničnej polície
+Q001604	Príslušník Policajného zboru služby osobitného určenia
+Q001605	Príslušník Policajného zboru služby ochrany určených osôb
+Q001606	Príslušník Policajného zboru - kadet
+Q001607	Príslušník polície inde neuvedený
+Q001608	Strážny pracovník väzenskej služby
+Q001609	Pracovník justičnej stráže
+Q001610	Pracovník preventívno-bezpečnostnej služby
+Q001611	Pedagóg väzenskej služby
+Q001612	Režimový pracovník väzenskej služby
+Q001613	Pracovník väzenskej služby - čakateľ
+Q001614	Príslušník Zboru väzenskej a justičnej stráže inde neuvedený
+Q001615	Pracovník fyzickej ochrany majetku (strážnik)
+Q001616	Pracovník fyzickej ochrany osôb (ochranca)
+Q001617	Operátor pultu centrálnej ochrany
+Q001618	Pracovník zásahovej skupiny pultu centrálnej ochrany
+Q001619	Detektív
+Q001620	Pracovník bezpečnostnej ochrany a detekčnej kontroly v letectve
+Q001621	Pracovník v oblasti súkromnej bezpečnosti inde neuvedený
+Q001622	Pracovník stráže prírody a lesnej stráže
+Q001623	Vodný záchranár, plavčík
+Q001624	Horský záchranár
+Q001625	Poriečny
+Q001626	Pracovník cestnej patroly
+Q001627	Člen miestnej občianskej poriadkovej služby
+Q001628	Pracovník verejnej ochrany a bezpečnostných služieb inde neuvedený
+Q001629	Pestovateľ chmeľu
+Q001630	Pestovateľ stromových a kríkových plodín inde neuvedený
+Q001631	Záhradník a pestovateľ sadbového materiálu
+Q001632	Záhradník a pestovateľ okrasných rastlín a drevín
+Q001633	Záhradník krajinár
+Q001634	Záhradník a pestovateľ jedlých húb, aromatických a liečivých rastlín
+Q001635	Pestovateľ rôznorodých plodín
+Q001636	Chovateľ ošípaných
+Q001637	Dojič kráv, oviec a kôz
+Q001638	Chovateľ koní
+Q001639	Chovateľ hospodárskych zvierat inde neuvedený
+Q001640	Chovateľ hydiny
+Q001641	Včelár
+Q001642	Chovateľ cudzokrajných zvierat (okrem chovateľa v zoologickej záhrade)
+Q001643	Chovateľ vtákov
+Q001644	Sokoliar
+Q001645	Chovateľ zvierat inde neuvedený
+Q001646	Pestovateľ a chovateľ v zmiešanom hospodárstve
+Q001647	Pracovník v ťažbovej činnosti v lesníctve, pilčík
+Q001648	Pracovník pre pestovanie a ochranu lesa
+Q001649	Pracovník v semenárstve, škôlkarstve a drobnej lesnej výrobe
+Q001650	Pracovník manipulácie s drevom v lesníctve
+Q001651	Pracovník v lesníctve inde neuvedený
+Q001652	Pracovník v rybárstve vo vnútrozemských vodách
+Q001653	Farmár samozásobovateľ v rastlinnej výrobe
+Q001654	Farmár samozásobovateľ v živočíšnej výrobe
+Q001655	Farmár samozásobovateľ v zmiešanom hospodárstve
+Q001656	Samozásobovateľ v rybárstve, poľovníctve, love a zbere úrody
+Q001657	Dláždič
+Q001658	Murár
+Q001659	Železiar v stavebníctve
+Q001660	Betonár
+Q001661	Betonár, špecialista na kladenie betónových povrchov a podobný pracovník inde neuvedený
+Q001662	Tesár
+Q001663	Asfaltér
+Q001664	Lešenár
+Q001665	Iný kvalifikovaný stavebný pracovník a remeselník inde neuvedený
+Q001666	Strechár
+Q001667	Obkladač
+Q001668	Omietkar
+Q001669	Štukatér, kašírnik
+Q001670	Izolatér
+Q001671	Zatepľovač
+Q001672	Izolatér inde neuvedený
+Q001673	Sklenár
+Q001674	Autosklár
+Q001675	Inštalatér
+Q001676	Prevádzkový pracovník obsluhy a údržby vodovodnej siete
+Q001677	Inštalatér a potrubár inde neuvedený
+Q001678	Mechanik, opravár klimatizačných a chladiacich zariadení a tepelných čerpadiel
+Q001679	Autolakovník
+Q001680	Operátor povrchových úprav (výroba motorových vozidiel)
+Q001681	Miešač farieb (výroba motorových vozidiel)
+Q001682	Lakovač a natierač dreva
+Q001683	Lakovač a natierač inde neuvedený
+Q001684	Kominár
+Q001685	Pracovník likvidácie azbestu
+Q001686	Zlievač, formovač
+Q001687	Jadrár
+Q001688	Práškový metalurg
+Q001689	Odlievač kovov
+Q001690	Zlievač a jadrár inde neuvedený
+Q001691	Zvárač kovov
+Q001692	Zvárač plastov
+Q001693	Spájkovač
+Q001694	Zoraďovač zvárania
+Q001695	Zvárač a rezač kovov inde neuvedený
+Q001696	Stavebný klampiar
+Q001697	Autokarosár
+Q001698	Prípravár a montér kovových konštrukcií
+Q001699	Ručný priemyselný kováč
+Q001700	Podkúvač
+Q001701	Kováč inde neuvedený
+Q001702	Prevádzkový zámočník (údržbár)
+Q001703	Banský zámočník
+Q001704	Zámočník, nástrojár a podobný pracovník inde neuvedený
+Q001705	Nastavovač CNC strojov
+Q001706	Nastavovač priemyselných robotov
+Q001707	Nastavovač a obsluha kovoobrábacích strojov inde neuvedený
+Q001708	Brúsič nástrojov
+Q001709	Leštič, brúsič a ostrič kovov a nástrojov inde neuvedený
+Q001710	Automechanik osobných motorových vozidiel
+Q001711	Automechanik autobusov
+Q001712	Automechanik nákladných motorových vozidiel
+Q001713	Mechanik a opravár motocyklov
+Q001714	Automechanik špeciálnych motorových vozidiel
+Q001715	Mechanik pneuservisu
+Q001716	Mechanik a opravár motorových vozidiel inde neuvedený
+Q001717	Pracovník technickej obsluhy lietadiel
+Q001718	Mechanik, opravár poľnohospodárskych strojov a zariadení
+Q001719	Mechanik, opravár pojazdných zariadení a strojov v lesníctve
+Q001720	Mechanik, opravár drevoobrábacích strojov a zariadení
+Q001721	Mechanik, opravár textilných a odevných strojov
+Q001722	Mechanik, opravár stavebných strojov a zariadení v stavebníctve
+Q001723	Mechanik, opravár strojov a zariadení na ťažbu nerastných surovín
+Q001724	Mechanik, opravár strojov a zariadení v energetike
+Q001725	Mechanik, opravár železničných koľajových vozidiel a traťových strojov
+Q001726	Mechanik, opravár lodných motorov a zariadení (okrem lodných strojníkov - posádky)
+Q001727	Mechatronik
+Q001728	Mechanik, opravár priemyselných strojov a zariadení (okrem drevoobrábacích, textilných a odevných)
+Q001729	Mechanik, opravár poľnohospodárskych, ťažobných a priemyselných strojov a zariadení inde neuvedený
+Q001730	Opravár bicyklov a podobných vozidiel
+Q001731	Mechanik, opravár vodomerov, plynomerov
+Q001732	Výrobca, opravár chirurgických nástrojov
+Q001733	Výrobca, opravár meteorologických nástrojov
+Q001734	Mechanik, opravár metrologických prístrojov
+Q001735	Výrobca, opravár strelných zbraní
+Q001736	Výrobca a opravár presných prístrojov inde neuvedený
+Q001737	Ladič a údržbár hudobných nástrojov
+Q001738	Zlatník, klenotník
+Q001739	Šperkár
+Q001740	Umelecký keramikár, hrnčiar
+Q001741	Výrobca technickej a stavebnej keramiky
+Q001742	Modelár vo výrobe keramiky, kameniny a porcelánu
+Q001743	Formár vo výrobe žiaruvzdorných materiálov
+Q001744	Brusič skla
+Q001745	Formár vo výrobe skla
+Q001746	Písmomaliar
+Q001747	Dekoratér skla
+Q001748	Rytec kameňa (gravírovanie)
+Q001749	Umelecký patinér
+Q001750	Dekoratér keramiky a porcelánu
+Q001751	Rytec kovu (gravírovanie)
+Q001752	Písmomaliar, dekoratívny maliar, rytec a leptač inde neuvedený
+Q001753	Umelecký rezbár
+Q001754	Korytár (výrobca dlabaného riadu)
+Q001755	Remeselník spracúvajúci drevo, prútie a podobný materiál inde neuvedený
+Q001756	Umelecký farbiar textílií
+Q001757	Čipkár
+Q001758	Ručný tkáč
+Q001759	Remeselník spracúvajúci kožu (okrem obuvníka)
+Q001760	Krajčír technickej konfekcie
+Q001761	Remeselník spracúvajúci textil, kožu a podobný materiál inde neuvedený
+Q001762	Umelecký kováč
+Q001763	Umelecký drotár
+Q001764	Umelecký zámočník
+Q001765	Umelecký mozaikár
+Q001766	Umelecký kovolejár a kovotepec
+Q001767	Výrobca kraslíc
+Q001768	Výrobca bižutérie a ozdobných predmetov
+Q001769	Iný umelecký remeselník inde neuvedený
+Q001770	Grafik prípravy tlače
+Q001771	Pracovník zhotovovania tlačovej formy
+Q001772	Operátor farieb, kolorista v polygrafii
+Q001773	Pracovník pri príprave tlače inde neuvedený
+Q001774	Stavebný a prevádzkový elektrikár
+Q001775	Banský elektromechanik
+Q001776	Elektromechanik (okrem banského)
+Q001777	Autoelektrikár
+Q001778	Elektromontér a opravár elektrického vedenia
+Q001779	Elektromontér  elektroenergetických zariadení a systémov
+Q001780	Elektromontér trakčnej siete
+Q001781	Mechanik, opravár elektrotechnických zariadení
+Q001782	Mechanik rádiometrie a spektrometrie
+Q001783	Mechanik, opravár kancelárskej techniky
+Q001784	Mechanik, opravár televízorov a podobných zariadení
+Q001785	Mechanik a opravár elektrotechnických a elektronických zariadení (okrem IKT) inde neuvedený
+Q001786	Mechanik počítačových sietí
+Q001787	Mäsiar, údenár
+Q001788	Lahôdkar
+Q001789	Spracovateľ rýb
+Q001790	Spracovateľ hydiny
+Q001791	Spracovateľ mäsa a rýb a podobný výrobca inde neuvedený
+Q001792	Pekár
+Q001793	Cukrár
+Q001794	Cestovinár
+Q001795	Medovnikár
+Q001796	Výrobca syra a bryndze
+Q001797	Výrobca masla
+Q001798	Výrobca ostatných výrobkov z mlieka (okrem syra, bryndze a masla)
+Q001799	Spracovateľ obilia (mlynár)
+Q001800	Spracovateľ strukovín a okopanín
+Q001801	Spracovateľ čaju
+Q001802	Spracovateľ korenín a húb
+Q001803	Liehovarník
+Q001804	Spracovateľ rastlinných produktov inde neuvedený
+Q001805	Výrobca konštrukčných dosiek z dreva
+Q001806	Operátor sušiarne dreva
+Q001807	Spracovateľ dreva inde neuvedený
+Q001808	Stolár, výrobca nábytku
+Q001809	Stolár, výrobca stavebno-stolárskych výrobkov
+Q001810	Stolár, výrobca drevených konštrukcií
+Q001811	Stolár a výrobca výrobkov z dreva inde neuvedený
+Q001812	Klobučník
+Q001813	Vlásenkár (výrobca parochní)
+Q001814	Umelecký krajčír
+Q001815	Strihač textilu
+Q001816	Modelár odevov
+Q001817	Vyšívačka
+Q001818	Čalúnnik (okrem umeleckého)
+Q001819	Umelecký čalúnnik, dekoratér
+Q001820	Sedlár a manžetár
+Q001821	Rukavičkár
+Q001822	Brašnár
+Q001823	Výrobca kožušín
+Q001824	Garbiar
+Q001825	Spracovateľ kože a kožušín, garbiar a kožušník inde neuvedený
+Q001826	Obuvník prípravár, zvrškár a lepič obuvi
+Q001827	Obuvník pre zákazkovú výrobu a opravu obuvi
+Q001828	Umelecký obuvník
+Q001829	Obuvník pre výrobu ortopedickej obuvi
+Q001830	Obuvník a podobný pracovník inde neuvedený
+Q001831	Strelmajster
+Q001832	Kvalitár, kontrolór výrobkov z dreva
+Q001833	Kvalitár, kontrolór v celulózo-papierenskej výrobe
+Q001834	Kvalitár, kontrolór v polygrafickej výrobe
+Q001835	Kvalitár, kontrolór chemických výrobkov
+Q001836	Kvalitár, kontrolór v sklárskej výrobe
+Q001837	Kvalitár, kontrolór vo výrobe stavebných materiálov
+Q001838	Kvalitár, kontrolór vo výrobe žiaruvzdorných materiálov
+Q001839	Kvalitár, kontrolór v hutníctve a zlievarenstve
+Q001840	Kvalitár, kontrolór v strojárskej výrobe
+Q001841	Kvalitár, kontrolór v elektrotechnike, tester
+Q001842	Kvalitár, kontrolór v ťažobnom priemysle
+Q001843	Kvalitár, kontrolór v energetike
+Q001844	Kvalitár, kontrolór v stavebníctve
+Q001845	Kontrolór tovaru v logistike
+Q001846	Kvalitár a kontrolór výrobkov (okrem potravín a nápojov) inde neuvedený
+Q001847	Likvidátor škodcov a buriny inde neuvedený
+Q001848	Pracovník servisu športových potrieb (okrem bicyklov)
+Q001849	Iný remeselník inde neuvedený
+Q001850	Baník
+Q001851	Baník, strojník
+Q001852	Strojník ťažného stroja v bani
+Q001853	Lamač
+Q001854	Tunelár
+Q001855	Operátor drviaceho zariadenia pre spracovanie nerastov
+Q001856	Strojník briketárne
+Q001857	Operátor odkaliska
+Q001858	Operátor zariadenia na miešanie hmôt pri spracovaní nerastov
+Q001859	Úpravár žiaruvzdorných materiálov
+Q001860	Strojník zariadení na úpravu nerastných surovín
+Q001861	Operátor zariadenia na spracovanie nerastov inde neuvedený
+Q001862	Studniar
+Q001863	Operátor strojov na úpravu surovín a výrobu žiaruvzdorných materiálov
+Q001864	Operátor strojov na výrobu minerálnych vlákien a stavebných materiálov
+Q001865	Strojník na obsluhu strojov vo výrobe žiaruvzdorných materiálov
+Q001866	Tavič
+Q001867	Operátor stroja na valcovanie kovov
+Q001868	Hutník operátor, údržbár
+Q001869	Hutník oceliar
+Q001870	Operátor tvárniaceho zariadenia
+Q001871	Operátor zariadení prípravy vsádzky vo valcovniach
+Q001872	Operátor redukovne vo valcovniach
+Q001873	Hutník neželezných kovov
+Q001874	Operátor zlievarenských strojov a zariadení
+Q001875	Operátor zariadenia v hutníckom a zlievarenskom priemysle inde neuvedený
+Q001876	Morič
+Q001877	Galvanizér
+Q001878	Operátor pokovovania
+Q001879	Operátor zariadenia na konečnú úpravu, pokovovanie a povrchovú úpravu kovov inde neuvedený
+Q001880	Operátor zariadenia na výrobu fotografických výrobkov
+Q001881	Operátor stroja na výrobu výrobkov z gumy
+Q001882	Strojník linky pre výrobu výrobkov z papiera
+Q001883	Operátor snovania priadze
+Q001884	Operátor stroja na výrobu vlákien a pradiarenských výrobkov inde neuvedený
+Q001885	Operátor tkacieho stroja (tkáč)
+Q001886	Operátor stroja na pletenie (pletiar)
+Q001887	Operátor šijacieho stroja
+Q001888	Operátor stroja na pranie a chemické čistenie textilu
+Q001889	Operátor zariadenia na úpravu kožušín a kože
+Q001890	Operátor stroja na výrobu obuvníckych polotovarov
+Q001891	Vysekávač kožiarskych a obuvníckych materiálov
+Q001892	Operátor stroja na výrobu obuvi
+Q001893	Operátor zariadenia v práčovni a čistiarni
+Q001894	Iný operátor strojov na výrobu výrobkov z textilu, kože a kožušiny inde neuvedený
+Q001895	Operátor zariadenia na výrobu krmív pre zvieratá
+Q001896	Operátor zariadenia na výrobu potravín a podobných výrobkov inde neuvedený
+Q001897	Strojník zariadenia na výrobu celulózy
+Q001898	Operátor zariadenia na výrobu celulózy
+Q001899	Strojník zariadenia na výrobu papiera
+Q001900	Operátor stroja na manipuláciu, skracovanie a triedenie dreva
+Q001901	Operátor impregnácie dreva
+Q001902	Operátor strojov v nábytkárskej výrobe
+Q001903	Operátor stroja na rezanie dreva
+Q001904	Operátor zariadenia na spracovanie dreva inde neuvedený
+Q001905	Ťahač skleného vlákna
+Q001906	Spracovateľ skleného vlákna
+Q001907	Operátor sklárskeho taviaceho agregátu
+Q001908	Operátor parného stroja a kotla (kurič)
+Q001909	Operátor čerpacieho zariadenia
+Q001910	Strojník vodohospodárskych zariadení
+Q001911	Operátor výrobne obaľovaných zmesí
+Q001912	Strojník pre obsluhu úpravní pitných vôd a čerpacích staníc
+Q001913	Strojník pre obsluhu čistiarní odpadových vôd
+Q001914	Operátor robotiky
+Q001915	Iný operátor stacionárneho zariadenia a stroja inde neuvedený
+Q001916	Montážny pracovník (operátor) elektrických zariadení
+Q001917	Montážny pracovník (operátor) elektronických zariadení
+Q001918	Montážny pracovník (operátor) káblových zväzkov
+Q001919	Montážny pracovník elektrických a elektronických zariadení inde neuvedený
+Q001920	Montážny pracovník vo výrobe usní, kožušín a galantérie
+Q001921	Montážny pracovník vo výrobe obuvi
+Q001922	Montážny pracovník vo výrobe nábytku
+Q001923	Iný montážny pracovník inde neuvedený
+Q001924	Rušňovodič v železničnej doprave
+Q001925	Vodič banskej lokomotívy
+Q001926	Rušňovodič inde neuvedený
+Q001927	Operátor v železničnej doprave
+Q001928	Sprievodca a vlakvedúci nákladnej dopravy
+Q001929	Tranzitér
+Q001930	Vozmajster
+Q001931	Posunovač, signalista, výhybkár inde neuvedený
+Q001932	Vodič motocyklu
+Q001933	Vodič osobného motorového vozidla
+Q001934	Vodič taxislužby
+Q001935	Vodič pohrebného motorového vozidla
+Q001936	Vodič dopravnej zdravotnej služby
+Q001937	Vodič ambulancie záchrannej zdravotnej služby
+Q001938	Vodič osobného motorového vozidla, dodávky a taxíka inde neuvedený
+Q001939	Vodič autobusu
+Q001940	Vodič trolejbusu
+Q001941	Vodič električky
+Q001942	Vodič smetiarskeho vozidla
+Q001943	Vodič údržby na cestnej infraštruktúre
+Q001944	Vodič ťažkého nákladného vozidla, kamiónu (medzinárodná doprava)
+Q001945	Vodič ťažkého nákladného vozidla, kamiónu (vnútroštátna doprava)
+Q001946	Vodič nákladných automobilov a kamiónov inde neuvedený
+Q001947	Kombajnista
+Q001948	Traktorista (poľnohospodárstvo)
+Q001949	Operátor poľnohospodárskeho stroja a zariadenia (okrem traktoristu a kombajnistu)
+Q001950	Operátor lesných traktorov
+Q001951	Operátor pojazdných viacoperačných lesných strojov na spracovanie dreva
+Q001952	Operátor štiepkovačov a pojazdných zariadení na výrobu energetickej štiepky
+Q001953	Operátor poľnohospodárskeho a lesníckeho pojazdného zariadenia inde neuvedený
+Q001954	Operátor zdvíhacieho zariadenia (okrem žeriavnika)
+Q001955	Operátor lyžiarskeho vleku, lanovky
+Q001956	Operátor priemyselnej lanovky
+Q001957	Operátor lesníckej lanovky pri spracovaní dreva
+Q001958	Operátor žeriavu, zdvíhacieho a podobného zariadenia inde neuvedený
+Q001959	Operátor vysokozdvižného vozíka
+Q001960	Kormidelník člna
+Q001961	Kadet loďmajster
+Q001962	Lodník
+Q001963	Lodný strojník
+Q001964	Pomocník v domácnosti
+Q001965	Chyžná
+Q001966	Žehliar
+Q001967	Pracovník zberu zákaziek na pranie, žehlenie a chemické čistenie
+Q001968	Ručný práč, detašér
+Q001969	Umývač a prípravár motorových vozidiel
+Q001970	Umývač okien
+Q001971	Umývač laboratórneho skla
+Q001972	Pracovník obsluhy čistiaceho stroja
+Q001973	Umývač inde neuvedený
+Q001974	Pomocný pracovník v sadovníctve a záhradníctve
+Q001975	Pomocný pracovník v lesníctve
+Q001976	Pomocný pracovník v poľovníctve
+Q001977	Pomocný pracovník v bani
+Q001978	Pomocný pracovník na povrchu banských prevádzok
+Q001979	Pomocný lámač
+Q001980	Pomocný pracovník pri úprave nerastných surovín
+Q001981	Pomocný pracovník v ťažobnom priemysle inde neuvedený
+Q001982	Pomocný pracovník pri výstavbe a údržbe pozemných komunikácií
+Q001983	Pomocný pracovník vo vodárenstve
+Q001984	Čistič kanalizačných zariadení
+Q001985	Pomocný pracovník vo vodnom hospodárstve (okrem vodárenstva a kanalizácií)
+Q001986	Pomocný pracovník pri výstavbe a údržbe inžinierskych stavieb inde neuvedený
+Q001987	Kopáč
+Q001988	Pomocný pracovník na stavbe budov
+Q001989	Pomocný pracovník na stavbe budov inde neuvedený
+Q001990	Ručný balič, plnič
+Q001991	Pomocný pracovník v potravinárskej výrobe
+Q001992	Pomocný pracovník v textilnej a odevnej výrobe
+Q001993	Pomocný pracovník v kožiarskej a obuvníckej výrobe
+Q001994	Pomocný pracovník v drevospracujúcej výrobe
+Q001995	Pomocný pracovník v celulózo-papierenskej výrobe
+Q001996	Pomocný pracovník v polygrafickej výrobe
+Q001997	Pomocný pracovník v chemickej výrobe
+Q001998	Pomocný pracovník v sklárskej výrobe
+Q001999	Pomocný pracovník vo výrobe keramiky a porcelánu
+Q002000	Pomocný pracovník vo výrobe stavebných a izolačných materiálov
+Q002001	Pomocný pracovník vo výrobe a úprave žiaruvzdorných materiálov
+Q002002	Pomocný pracovník v strojárskej (automobilovej) výrobe
+Q002003	Pomocný pracovník v hutníckej a zlievarenskej výrobe
+Q002004	Pomocný pracovník v elektrotechnickej výrobe
+Q002005	Pomocný pracovník v energetike (výrobe a distribúcii elektriny, tepla a plynu)
+Q002006	Pomocný pracovník vo výrobe inde neuvedený
+Q002007	Pohonič (kočiš)
+Q002008	Viazač bremien
+Q002009	Vážnik
+Q002010	Knižničný manipulant
+Q002011	Manipulačný pracovník inde neuvedený
+Q002012	Dokladač tovaru
+Q002013	Pomocný pracovník pri príprave rýchleho občerstvenia
+Q002014	Pomocník v kuchyni
+Q002015	Lepič, odstraňovač plagátov a propagačných materiálov
+Q002016	Roznášač letákov (kolportér)
+Q002017	Pomocný pracovník v pouličných službách inde neuvedený
+Q002018	Pouličný predavač žrebov
+Q002019	Pouličný predavač novín, kamelot
+Q002020	Pouličný predavač (okrem jedla) inde neuvedený
+Q002021	Smetiar
+Q002022	Zberač odpadu a druhotných surovín inde neuvedený
+Q002023	Triedič odpadov
+Q002024	Pracovník na čistenie verejných priestranstiev
+Q002025	Zametač
+Q002026	Zametač a podobný pomocník inde neuvedený
+Q002027	Nosič batožiny (vrátane hotelového poslíčka)
+Q002028	Pomocný pracovník údržby budov a areálov
+Q002029	Odpočtár meracích prístrojov
+Q002030	Vyberač predajných automatov
+Q002031	Zberač vody a palivového dreva
+Q002032	Hrobár
+Q002033	Šatniar
+Q002034	Uvádzač, biletár v kultúrnom zariadení
+Q002035	Dozorca, zriadenec v kultúrnom zariadení
+Q002036	Vrátnik
+Q002037	Toaletár
+Q002038	Repasér
+Q002039	Asanačný pracovník (zberač uhynutých zvierat)
+Q002040	Iný pomocný pracovník inde neuvedený

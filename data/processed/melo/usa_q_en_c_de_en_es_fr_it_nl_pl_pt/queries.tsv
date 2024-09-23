@@ -1,0 +1,633 @@
+Q000001	Chief Executives
+Q000002	Chief Sustainability Officers
+Q000003	General and Operations Managers
+Q000004	Legislators
+Q000005	Advertising and Promotions Managers
+Q000006	Marketing Managers
+Q000007	Sales Managers
+Q000008	Public Relations Managers
+Q000009	Fundraising Managers
+Q000010	Administrative Services Managers
+Q000011	Facilities Managers
+Q000012	Security Managers
+Q000013	Financial Managers
+Q000014	Treasurers and Controllers
+Q000015	Investment Fund Managers
+Q000016	Industrial Production Managers
+Q000017	Geothermal Production Managers
+Q000018	Biofuels Production Managers
+Q000019	Biomass Power Plant Managers
+Q000020	Hydroelectric Production Managers
+Q000021	Purchasing Managers
+Q000022	Transportation, Storage, and Distribution Managers
+Q000023	Supply Chain Managers
+Q000024	Compensation and Benefits Managers
+Q000025	Human Resources Managers
+Q000026	Training and Development Managers
+Q000027	Construction Managers
+Q000028	Education and Childcare Administrators, Preschool and Daycare
+Q000029	Education Administrators, Kindergarten through Secondary
+Q000030	Education Administrators, Postsecondary
+Q000031	Architectural and Engineering Managers
+Q000032	Biofuels/Biodiesel Technology and Product Development Managers
+Q000033	Food Service Managers
+Q000034	Gambling Managers
+Q000035	Entertainment and Recreation Managers, Except Gambling
+Q000036	Lodging Managers
+Q000037	Medical and Health Services Managers
+Q000038	Clinical Research Coordinators
+Q000039	Property, Real Estate, and Community Association Managers
+Q000040	Social and Community Service Managers
+Q000041	Emergency Management Directors
+Q000042	Fitness and Wellness Coordinators
+Q000043	Spa Managers
+Q000044	Regulatory Affairs Managers
+Q000045	Wind Energy Operations Managers
+Q000046	Wind Energy Development Managers
+Q000047	Agents and Business Managers of Artists, Performers, and Athletes
+Q000048	Purchasing Agents, Except Wholesale, Retail, and Farm Products
+Q000049	Claims Adjusters, Examiners, and Investigators
+Q000050	Insurance Appraisers, Auto Damage
+Q000051	Compliance Officers
+Q000052	Environmental Compliance Inspectors
+Q000053	Government Property Inspectors and Investigators
+Q000054	Coroners
+Q000055	Customs Brokers
+Q000056	Human Resources Specialists
+Q000057	Labor Relations Specialists
+Q000058	Logisticians
+Q000059	Logistics Engineers
+Q000060	Project Management Specialists
+Q000061	Meeting, Convention, and Event Planners
+Q000062	Compensation, Benefits, and Job Analysis Specialists
+Q000063	Search Marketing Strategists
+Q000064	Business Continuity Planners
+Q000065	Sustainability Specialists
+Q000066	Online Merchants
+Q000067	Security Management Specialists
+Q000068	Accountants and Auditors
+Q000069	Appraisers of Personal and Business Property
+Q000070	Appraisers and Assessors of Real Estate
+Q000071	Budget Analysts
+Q000072	Credit Analysts
+Q000073	Personal Financial Advisors
+Q000074	Insurance Underwriters
+Q000075	Financial Risk Specialists
+Q000076	Financial Examiners
+Q000077	Credit Counselors
+Q000078	Loan Officers
+Q000079	Tax Examiners and Collectors, and Revenue Agents
+Q000080	Tax Preparers
+Q000081	Fraud Examiners, Investigators and Analysts
+Q000082	Computer Systems Analysts
+Q000083	Information Security Analysts
+Q000084	Computer and Information Research Scientists
+Q000085	Computer Network Support Specialists
+Q000086	Computer User Support Specialists
+Q000087	Telecommunications Engineering Specialists
+Q000088	Database Administrators
+Q000089	Data Warehousing Specialists
+Q000090	Software Developers
+Q000091	Software Quality Assurance Analysts and Testers
+Q000092	Web Developers
+Q000093	Web and Digital Interface Designers
+Q000094	Video Game Designers
+Q000095	Web Administrators
+Q000096	Geographic Information Systems Technologists and Technicians
+Q000097	Document Management Specialists
+Q000098	Penetration Testers
+Q000099	Digital Forensics Analysts
+Q000100	Computer Systems Engineers/Architects
+Q000101	Information Technology Project Managers
+Q000102	Actuaries
+Q000103	Mathematicians
+Q000104	Statisticians
+Q000105	Biostatisticians
+Q000106	Data Scientists
+Q000107	Business Intelligence Analysts
+Q000108	Bioinformatics Technicians
+Q000109	Architects, Except Landscape and Naval
+Q000110	Landscape Architects
+Q000111	Aerospace Engineers
+Q000112	Agricultural Engineers
+Q000113	Bioengineers and Biomedical Engineers
+Q000114	Chemical Engineers
+Q000115	Civil Engineers
+Q000116	Transportation Engineers
+Q000117	Computer Hardware Engineers
+Q000118	Electrical Engineers
+Q000119	Electronics Engineers, Except Computer
+Q000120	Environmental Engineers
+Q000121	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+Q000122	Fire-Prevention and Protection Engineers
+Q000123	Industrial Engineers
+Q000124	Human Factors Engineers and Ergonomists
+Q000125	Validation Engineers
+Q000126	Manufacturing Engineers
+Q000127	Mechanical Engineers
+Q000128	Fuel Cell Engineers
+Q000129	Automotive Engineers
+Q000130	Mining and Geological Engineers, Including Mining Safety Engineers
+Q000131	Nuclear Engineers
+Q000132	Petroleum Engineers
+Q000133	Mechatronics Engineers
+Q000134	Microsystems Engineers
+Q000135	Photonics Engineers
+Q000136	Robotics Engineers
+Q000137	Nanosystems Engineers
+Q000138	Solar Energy Systems Engineers
+Q000139	Architectural and Civil Drafters
+Q000140	Electrical and Electronics Drafters
+Q000141	Mechanical Drafters
+Q000142	Aerospace Engineering and Operations Technologists and Technicians
+Q000143	Civil Engineering Technologists and Technicians
+Q000144	Robotics Technicians
+Q000145	Industrial Engineering Technologists and Technicians
+Q000146	Mechanical Engineering Technologists and Technicians
+Q000147	Automotive Engineering Technicians
+Q000148	Calibration Technologists and Technicians
+Q000149	Non-Destructive Testing Specialists
+Q000150	Photonics Technicians
+Q000151	Surveying and Mapping Technicians
+Q000152	Animal Scientists
+Q000153	Soil and Plant Scientists
+Q000154	Microbiologists
+Q000155	Zoologists and Wildlife Biologists
+Q000156	Bioinformatics Scientists
+Q000157	Molecular and Cellular Biologists
+Q000158	Geneticists
+Q000159	Biologists
+Q000160	Conservation Scientists
+Q000161	Epidemiologists
+Q000162	Astronomers
+Q000163	Physicists
+Q000164	Chemists
+Q000165	Materials Scientists
+Q000166	Environmental Restoration Planners
+Q000167	Industrial Ecologists
+Q000168	Geoscientists, Except Hydrologists and Geographers
+Q000169	Hydrologists
+Q000170	Economists
+Q000171	Environmental Economists
+Q000172	Industrial-Organizational Psychologists
+Q000173	Clinical and Counseling Psychologists
+Q000174	School Psychologists
+Q000175	Neuropsychologists
+Q000176	Clinical Neuropsychologists
+Q000177	Sociologists
+Q000178	Geographers
+Q000179	Historians
+Q000180	Political Scientists
+Q000181	Transportation Planners
+Q000182	Agricultural Technicians
+Q000183	Food Science Technicians
+Q000184	Biological Technicians
+Q000185	Chemical Technicians
+Q000186	Environmental Science and Protection Technicians, Including Health
+Q000187	Geological Technicians, Except Hydrologic Technicians
+Q000188	Nuclear Technicians
+Q000189	Nuclear Monitoring Technicians
+Q000190	Social Science Research Assistants
+Q000191	Forest and Conservation Technicians
+Q000192	Remote Sensing Technicians
+Q000193	Occupational Health and Safety Specialists
+Q000194	Substance Abuse and Behavioral Disorder Counselors
+Q000195	Marriage and Family Therapists
+Q000196	Mental Health Counselors
+Q000197	Rehabilitation Counselors
+Q000198	Probation Officers and Correctional Treatment Specialists
+Q000199	Social and Human Service Assistants
+Q000200	Community Health Workers
+Q000201	Clergy
+Q000202	Directors, Religious Activities and Education
+Q000203	Lawyers
+Q000204	Judicial Law Clerks
+Q000205	Administrative Law Judges, Adjudicators, and Hearing Officers
+Q000206	Judges, Magistrate Judges, and Magistrates
+Q000207	Paralegals and Legal Assistants
+Q000208	Business Teachers, Postsecondary
+Q000209	Computer Science Teachers, Postsecondary
+Q000210	Mathematical Science Teachers, Postsecondary
+Q000211	Architecture Teachers, Postsecondary
+Q000212	Engineering Teachers, Postsecondary
+Q000213	Agricultural Sciences Teachers, Postsecondary
+Q000214	Biological Science Teachers, Postsecondary
+Q000215	Forestry and Conservation Science Teachers, Postsecondary
+Q000216	Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+Q000217	Chemistry Teachers, Postsecondary
+Q000218	Environmental Science Teachers, Postsecondary
+Q000219	Physics Teachers, Postsecondary
+Q000220	Economics Teachers, Postsecondary
+Q000221	Political Science Teachers, Postsecondary
+Q000222	Psychology Teachers, Postsecondary
+Q000223	Sociology Teachers, Postsecondary
+Q000224	Health Specialties Teachers, Postsecondary
+Q000225	Nursing Instructors and Teachers, Postsecondary
+Q000226	Education Teachers, Postsecondary
+Q000227	Library Science Teachers, Postsecondary
+Q000228	Criminal Justice and Law Enforcement Teachers, Postsecondary
+Q000229	Law Teachers, Postsecondary
+Q000230	Social Work Teachers, Postsecondary
+Q000231	Communications Teachers, Postsecondary
+Q000232	English Language and Literature Teachers, Postsecondary
+Q000233	History Teachers, Postsecondary
+Q000234	Philosophy and Religion Teachers, Postsecondary
+Q000235	Family and Consumer Sciences Teachers, Postsecondary
+Q000236	Career/Technical Education Teachers, Postsecondary
+Q000237	Preschool Teachers, Except Special Education
+Q000238	Kindergarten Teachers, Except Special Education
+Q000239	Elementary School Teachers, Except Special Education
+Q000240	Career/Technical Education Teachers, Middle School
+Q000241	Secondary School Teachers, Except Special and Career/Technical Education
+Q000242	Career/Technical Education Teachers, Secondary School
+Q000243	Special Education Teachers, Kindergarten
+Q000244	Special Education Teachers, Elementary School
+Q000245	Special Education Teachers, Middle School
+Q000246	Special Education Teachers, Secondary School
+Q000247	Adapted Physical Education Specialists
+Q000248	Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+Q000249	Self-Enrichment Teachers
+Q000250	Tutors
+Q000251	Archivists
+Q000252	Museum Technicians and Conservators
+Q000253	Librarians and Media Collections Specialists
+Q000254	Library Technicians
+Q000255	Instructional Coordinators
+Q000256	Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+Q000257	Teaching Assistants, Special Education
+Q000258	Teaching Assistants, Postsecondary
+Q000259	Art Directors
+Q000260	Fine Artists, Including Painters, Sculptors, and Illustrators
+Q000261	Commercial and Industrial Designers
+Q000262	Fashion Designers
+Q000263	Floral Designers
+Q000264	Graphic Designers
+Q000265	Interior Designers
+Q000266	Merchandise Displayers and Window Trimmers
+Q000267	Set and Exhibit Designers
+Q000268	Actors
+Q000269	Producers and Directors
+Q000270	Talent Directors
+Q000271	Athletes and Sports Competitors
+Q000272	Umpires, Referees, and Other Sports Officials
+Q000273	Dancers
+Q000274	Choreographers
+Q000275	Musicians and Singers
+Q000276	Disc Jockeys, Except Radio
+Q000277	Broadcast Announcers and Radio Disc Jockeys
+Q000278	Public Relations Specialists
+Q000279	Technical Writers
+Q000280	Interpreters and Translators
+Q000281	Court Reporters and Simultaneous Captioners
+Q000282	Broadcast Technicians
+Q000283	Sound Engineering Technicians
+Q000284	Lighting Technicians
+Q000285	Photographers
+Q000286	Camera Operators, Television, Video, and Film
+Q000287	Chiropractors
+Q000288	Dentists, General
+Q000289	Oral and Maxillofacial Surgeons
+Q000290	Prosthodontists
+Q000291	Dietitians and Nutritionists
+Q000292	Optometrists
+Q000293	Pharmacists
+Q000294	Anesthesiologist Assistants
+Q000295	Podiatrists
+Q000296	Occupational Therapists
+Q000297	Physical Therapists
+Q000298	Radiation Therapists
+Q000299	Recreational Therapists
+Q000300	Speech-Language Pathologists
+Q000301	Art Therapists
+Q000302	Music Therapists
+Q000303	Veterinarians
+Q000304	Registered Nurses
+Q000305	Nurse Anesthetists
+Q000306	Nurse Practitioners
+Q000307	Audiologists
+Q000308	Anesthesiologists
+Q000309	Cardiologists
+Q000310	Dermatologists
+Q000311	Emergency Medicine Physicians
+Q000312	Family Medicine Physicians
+Q000313	General Internal Medicine Physicians
+Q000314	Neurologists
+Q000315	Obstetricians and Gynecologists
+Q000316	Pediatricians, General
+Q000317	Physicians, Pathologists
+Q000318	Psychiatrists
+Q000319	Radiologists
+Q000320	Allergists and Immunologists
+Q000321	Urologists
+Q000322	Physical Medicine and Rehabilitation Physicians
+Q000323	Preventive Medicine Physicians
+Q000324	Sports Medicine Physicians
+Q000325	Ophthalmologists, Except Pediatric
+Q000326	Orthopedic Surgeons, Except Pediatric
+Q000327	Pediatric Surgeons
+Q000328	Acupuncturists
+Q000329	Dental Hygienists
+Q000330	Orthoptists
+Q000331	Medical and Clinical Laboratory Technologists
+Q000332	Cytogenetic Technologists
+Q000333	Cytotechnologists
+Q000334	Histotechnologists
+Q000335	Histology Technicians
+Q000336	Nuclear Medicine Technologists
+Q000337	Magnetic Resonance Imaging Technologists
+Q000338	Paramedics
+Q000339	Dietetic Technicians
+Q000340	Pharmacy Technicians
+Q000341	Psychiatric Technicians
+Q000342	Surgical Technologists
+Q000343	Veterinary Technologists and Technicians
+Q000344	Opticians, Dispensing
+Q000345	Orthotists and Prosthetists
+Q000346	Hearing Aid Specialists
+Q000347	Neurodiagnostic Technologists
+Q000348	Midwives
+Q000349	Home Health Aides
+Q000350	Nursing Assistants
+Q000351	Orderlies
+Q000352	Occupational Therapy Assistants
+Q000353	Occupational Therapy Aides
+Q000354	Massage Therapists
+Q000355	Dental Assistants
+Q000356	Medical Assistants
+Q000357	Medical Equipment Preparers
+Q000358	Medical Transcriptionists
+Q000359	Pharmacy Aides
+Q000360	Veterinary Assistants and Laboratory Animal Caretakers
+Q000361	Phlebotomists
+Q000362	First-Line Supervisors of Correctional Officers
+Q000363	First-Line Supervisors of Police and Detectives
+Q000364	First-Line Supervisors of Security Workers
+Q000365	Firefighters
+Q000366	Fire Inspectors and Investigators
+Q000367	Forest Fire Inspectors and Prevention Specialists
+Q000368	Bailiffs
+Q000369	Correctional Officers and Jailers
+Q000370	Detectives and Criminal Investigators
+Q000371	Intelligence Analysts
+Q000372	Fish and Game Wardens
+Q000373	Parking Enforcement Workers
+Q000374	Animal Control Workers
+Q000375	Private Detectives and Investigators
+Q000376	Gambling Surveillance Officers and Gambling Investigators
+Q000377	Security Guards
+Q000378	Transportation Security Screeners
+Q000379	School Bus Monitors
+Q000380	Chefs and Head Cooks
+Q000381	Cooks, Fast Food
+Q000382	Cooks, Institution and Cafeteria
+Q000383	Cooks, Private Household
+Q000384	Cooks, Restaurant
+Q000385	Cooks, Short Order
+Q000386	Food Preparation Workers
+Q000387	Bartenders
+Q000388	Fast Food and Counter Workers
+Q000389	Baristas
+Q000390	Waiters and Waitresses
+Q000391	Dishwashers
+Q000392	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+Q000393	First-Line Supervisors of Housekeeping and Janitorial Workers
+Q000394	Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+Q000395	Maids and Housekeeping Cleaners
+Q000396	Pest Control Workers
+Q000397	Landscaping and Groundskeeping Workers
+Q000398	Pesticide Handlers, Sprayers, and Applicators, Vegetation
+Q000399	Tree Trimmers and Pruners
+Q000400	First-Line Supervisors of Gambling Services Workers
+Q000401	Animal Trainers
+Q000402	Animal Caretakers
+Q000403	Gambling Dealers
+Q000404	Gambling and Sports Book Writers and Runners
+Q000405	Motion Picture Projectionists
+Q000406	Amusement and Recreation Attendants
+Q000407	Costume Attendants
+Q000408	Embalmers
+Q000409	Funeral Attendants
+Q000410	Morticians, Undertakers, and Funeral Arrangers
+Q000411	Barbers
+Q000412	Makeup Artists, Theatrical and Performance
+Q000413	Manicurists and Pedicurists
+Q000414	Shampooers
+Q000415	Skincare Specialists
+Q000416	Tour Guides and Escorts
+Q000417	Childcare Workers
+Q000418	Nannies
+Q000419	Exercise Trainers and Group Fitness Instructors
+Q000420	Recreation Workers
+Q000421	Residential Advisors
+Q000422	First-Line Supervisors of Non-Retail Sales Workers
+Q000423	Cashiers
+Q000424	Counter and Rental Clerks
+Q000425	Parts Salespersons
+Q000426	Retail Salespersons
+Q000427	Advertising Sales Agents
+Q000428	Insurance Sales Agents
+Q000429	Securities, Commodities, and Financial Services Sales Agents
+Q000430	Travel Agents
+Q000431	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+Q000432	Solar Sales Representatives and Assessors
+Q000433	Demonstrators and Product Promoters
+Q000434	Models
+Q000435	Real Estate Brokers
+Q000436	Real Estate Sales Agents
+Q000437	Sales Engineers
+Q000438	Telemarketers
+Q000439	First-Line Supervisors of Office and Administrative Support Workers
+Q000440	Switchboard Operators, Including Answering Service
+Q000441	Bill and Account Collectors
+Q000442	Billing and Posting Clerks
+Q000443	Gambling Cage Workers
+Q000444	Payroll and Timekeeping Clerks
+Q000445	Procurement Clerks
+Q000446	Tellers
+Q000447	Brokerage Clerks
+Q000448	Correspondence Clerks
+Q000449	Customer Service Representatives
+Q000450	File Clerks
+Q000451	Hotel, Motel, and Resort Desk Clerks
+Q000452	Library Assistants, Clerical
+Q000453	New Accounts Clerks
+Q000454	Order Clerks
+Q000455	Human Resources Assistants, Except Payroll and Timekeeping
+Q000456	Reservation and Transportation Ticket Agents and Travel Clerks
+Q000457	Freight Forwarders
+Q000458	Public Safety Telecommunicators
+Q000459	Meter Readers, Utilities
+Q000460	Postal Service Clerks
+Q000461	Postal Service Mail Carriers
+Q000462	Postal Service Mail Sorters, Processors, and Processing Machine Operators
+Q000463	Shipping, Receiving, and Inventory Clerks
+Q000464	Executive Secretaries and Executive Administrative Assistants
+Q000465	Legal Secretaries and Administrative Assistants
+Q000466	Medical Secretaries and Administrative Assistants
+Q000467	Data Entry Keyers
+Q000468	Word Processors and Typists
+Q000469	Desktop Publishers
+Q000470	Insurance Claims and Policy Processing Clerks
+Q000471	Mail Clerks and Mail Machine Operators, Except Postal Service
+Q000472	Office Clerks, General
+Q000473	Statistical Assistants
+Q000474	Agricultural Inspectors
+Q000475	Animal Breeders
+Q000476	Graders and Sorters, Agricultural Products
+Q000477	Agricultural Equipment Operators
+Q000478	Farmworkers, Farm, Ranch, and Aquacultural Animals
+Q000479	Fishing and Hunting Workers
+Q000480	Forest and Conservation Workers
+Q000481	Logging Equipment Operators
+Q000482	Log Graders and Scalers
+Q000483	Boilermakers
+Q000484	Brickmasons and Blockmasons
+Q000485	Stonemasons
+Q000486	Carpenters
+Q000487	Carpet Installers
+Q000488	Cement Masons and Concrete Finishers
+Q000489	Construction Laborers
+Q000490	Paving, Surfacing, and Tamping Equipment Operators
+Q000491	Pile Driver Operators
+Q000492	Electricians
+Q000493	Glaziers
+Q000494	Insulation Workers, Floor, Ceiling, and Wall
+Q000495	Insulation Workers, Mechanical
+Q000496	Painters, Construction and Maintenance
+Q000497	Paperhangers
+Q000498	Pipelayers
+Q000499	Solar Thermal Installers and Technicians
+Q000500	Roofers
+Q000501	Sheet Metal Workers
+Q000502	Structural Iron and Steel Workers
+Q000503	Solar Photovoltaic Installers
+Q000504	Energy Auditors
+Q000505	Elevator and Escalator Installers and Repairers
+Q000506	Fence Erectors
+Q000507	Highway Maintenance Workers
+Q000508	Rail-Track Laying and Maintenance Equipment Operators
+Q000509	Segmental Pavers
+Q000510	Derrick Operators, Oil and Gas
+Q000511	Excavating and Loading Machine and Dragline Operators, Surface Mining
+Q000512	Explosives Workers, Ordnance Handling Experts, and Blasters
+Q000513	Continuous Mining Machine Operators
+Q000514	Roof Bolters, Mining
+Q000515	Loading and Moving Machine Operators, Underground Mining
+Q000516	Rock Splitters, Quarry
+Q000517	Roustabouts, Oil and Gas
+Q000518	Helpers--Extraction Workers
+Q000519	Computer, Automated Teller, and Office Machine Repairers
+Q000520	Radio, Cellular, and Tower Equipment Installers and Repairers
+Q000521	Telecommunications Equipment Installers and Repairers, Except Line Installers
+Q000522	Avionics Technicians
+Q000523	Electric Motor, Power Tool, and Related Repairers
+Q000524	Electrical and Electronics Installers and Repairers, Transportation Equipment
+Q000525	Electrical and Electronics Repairers, Commercial and Industrial Equipment
+Q000526	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+Q000527	Electronic Equipment Installers and Repairers, Motor Vehicles
+Q000528	Security and Fire Alarm Systems Installers
+Q000529	Aircraft Mechanics and Service Technicians
+Q000530	Automotive Body and Related Repairers
+Q000531	Automotive Glass Installers and Repairers
+Q000532	Automotive Service Technicians and Mechanics
+Q000533	Farm Equipment Mechanics and Service Technicians
+Q000534	Motorboat Mechanics and Service Technicians
+Q000535	Motorcycle Mechanics
+Q000536	Outdoor Power Equipment and Other Small Engine Mechanics
+Q000537	Bicycle Repairers
+Q000538	Recreational Vehicle Service Technicians
+Q000539	Tire Repairers and Changers
+Q000540	Mechanical Door Repairers
+Q000541	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+Q000542	Home Appliance Repairers
+Q000543	Industrial Machinery Mechanics
+Q000544	Maintenance Workers, Machinery
+Q000545	Millwrights
+Q000546	Electrical Power-Line Installers and Repairers
+Q000547	Telecommunications Line Installers and Repairers
+Q000548	Camera and Photographic Equipment Repairers
+Q000549	Musical Instrument Repairers and Tuners
+Q000550	Watch and Clock Repairers
+Q000551	Maintenance and Repair Workers, General
+Q000552	Wind Turbine Service Technicians
+Q000553	Coin, Vending, and Amusement Machine Servicers and Repairers
+Q000554	Locksmiths and Safe Repairers
+Q000555	Manufactured Building and Mobile Home Installers
+Q000556	Riggers
+Q000557	Signal and Track Switch Repairers
+Q000558	Geothermal Technicians
+Q000559	First-Line Supervisors of Production and Operating Workers
+Q000560	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+Q000561	Electrical and Electronic Equipment Assemblers
+Q000562	Electromechanical Equipment Assemblers
+Q000563	Engine and Other Machine Assemblers
+Q000564	Fiberglass Laminators and Fabricators
+Q000565	Team Assemblers
+Q000566	Bakers
+Q000567	Butchers and Meat Cutters
+Q000568	Slaughterers and Meat Packers
+Q000569	Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+Q000570	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+Q000571	Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+Q000572	Metal-Refining Furnace Operators and Tenders
+Q000573	Pourers and Casters, Metal
+Q000574	Model Makers, Metal and Plastic
+Q000575	Foundry Mold and Coremakers
+Q000576	Tool and Die Makers
+Q000577	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+Q000578	Tool Grinders, Filers, and Sharpeners
+Q000579	Print Binding and Finishing Workers
+Q000580	Laundry and Dry-Cleaning Workers
+Q000581	Pressers, Textile, Garment, and Related Materials
+Q000582	Sewing Machine Operators
+Q000583	Textile Bleaching and Dyeing Machine Operators and Tenders
+Q000584	Textile Cutting Machine Setters, Operators, and Tenders
+Q000585	Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+Q000586	Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+Q000587	Fabric and Apparel Patternmakers
+Q000588	Upholsterers
+Q000589	Cabinetmakers and Bench Carpenters
+Q000590	Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+Q000591	Nuclear Power Reactor Operators
+Q000592	Power Plant Operators
+Q000593	Biomass Plant Technicians
+Q000594	Hydroelectric Plant Technicians
+Q000595	Gas Plant Operators
+Q000596	Chemical Equipment Operators and Tenders
+Q000597	Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+Q000598	Jewelers and Precious Stone and Metal Workers
+Q000599	Dental Laboratory Technicians
+Q000600	Medical Appliance Technicians
+Q000601	Ophthalmic Laboratory Technicians
+Q000602	Semiconductor Processing Technicians
+Q000603	Computer Numerically Controlled Tool Operators
+Q000604	Computer Numerically Controlled Tool Programmers
+Q000605	Glass Blowers, Molders, Benders, and Finishers
+Q000606	Potters, Manufacturing
+Q000607	Tire Builders
+Q000608	Helpers--Production Workers
+Q000609	Aircraft Cargo Handling Supervisors
+Q000610	Recycling Coordinators
+Q000611	Airline Pilots, Copilots, and Flight Engineers
+Q000612	Commercial Pilots
+Q000613	Air Traffic Controllers
+Q000614	Airfield Operations Specialists
+Q000615	Flight Attendants
+Q000616	Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+Q000617	Driver/Sales Workers
+Q000618	Heavy and Tractor-Trailer Truck Drivers
+Q000619	Bus Drivers, School
+Q000620	Bus Drivers, Transit and Intercity
+Q000621	Taxi Drivers
+Q000622	Locomotive Engineers
+Q000623	Rail Yard Engineers, Dinkey Operators, and Hostlers
+Q000624	Ship Engineers
+Q000625	Parking Attendants
+Q000626	Aviation Inspectors
+Q000627	Dredge Operators
+Q000628	Cleaners of Vehicles and Equipment
+Q000629	Packers and Packagers, Hand
+Q000630	Stockers and Order Fillers
+Q000631	Pump Operators, Except Wellhead Pumpers
+Q000632	Wellhead Pumpers
+Q000633	Refuse and Recyclable Material Collectors

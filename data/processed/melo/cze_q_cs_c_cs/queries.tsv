@@ -1,0 +1,988 @@
+Q000001	Vyšší důstojníci v ozbrojených silách
+Q000002	Nižší důstojníci v ozbrojených silách
+Q000003	Praporčíci v ozbrojených silách
+Q000004	Čekatelé v ozbrojených silách
+Q000005	Ostatní zaměstnanci v ozbrojených silách (kromě generálů, důstojníků a poddůstojníků)
+Q000006	Nejvyšší státní úředníci v právní oblasti
+Q000007	Poradci prezidenta republiky, předsedy vlády a vedoucích ústředních orgánů
+Q000008	Vedoucí kanceláře, sekretariátu ústředních orgánů
+Q000009	Ostatní nejvyšší státní úředníci
+Q000010	Nejvyšší představitelé politických, zájmových a příbuzných organizací
+Q000011	Nejvyšší představitelé velkých společností a institucí
+Q000012	Nejvyšší představitelé středních společností a institucí
+Q000013	Nejvyšší představitelé malých společností a institucí
+Q000014	Členové statutárních orgánů
+Q000015	Ekonomičtí a finanční náměstci (ředitelé)
+Q000016	Řídící pracovníci v oblasti ekonomiky a financí (kromě finančních a pojišťovacích služeb)
+Q000017	Řídící pracovníci v oblasti účetnictví a kontrolingu
+Q000018	Ostatní řídící pracovníci v oblasti financí (kromě finančních a pojišťovacích služeb)
+Q000019	Personální náměstci (ředitelé)
+Q000020	Řídící pracovníci v oblasti personální
+Q000021	Řídící pracovníci v oblasti zaměstnanosti
+Q000022	Ostatní řídící pracovníci v oblasti lidských zdrojů
+Q000023	Řídící pracovníci v oblasti úklidu
+Q000024	Řídící pracovníci v oblasti racionalizace výroby a investic
+Q000025	Řídící pracovníci v oblasti ochrany údajů
+Q000026	Řídící pracovníci v oblasti správy podniku, administrativních a podpůrných činností jinde neuvedení
+Q000027	Obchodní náměstci (ředitelé)
+Q000028	Řídící pracovníci servisních služeb a reklamací
+Q000029	Řídící pracovníci v oblasti půjčování a pronájmu movitých věcí
+Q000030	Ostatní řídící pracovníci v oblastech příbuzných obchodu a marketingu
+Q000031	Řídící pracovníci v oblasti reklamy
+Q000032	Řídící pracovníci v oblasti styku s veřejností
+Q000033	Náměstci (ředitelé) pro technický rozvoj, výzkum a vývoj
+Q000034	Řídící pracovníci v oblasti technického rozvoje
+Q000035	Řídící pracovníci v oblasti projektování (kromě ve stavebnictví)
+Q000036	Ostatní řídící pracovníci v oblasti výzkumu a vývoje
+Q000037	Výrobní náměstci (ředitelé) v zemědělství, lesnictví, myslivosti a vodním hospodářství
+Q000038	Řídící pracovníci v zemědělství a zahradnictví
+Q000039	Řídící pracovníci ve vodním hospodářství (kromě úpravy a rozvodu vody)
+Q000040	Výrobní náměstci (ředitelé) v rybářství a akvakultuře
+Q000041	Řídící pracovníci v oblasti úpravy a rozvodu vody
+Q000042	Řídící pracovníci v oblasti odpadů a sanací
+Q000043	Řídící pracovníci v geologii
+Q000044	Výrobní a investiční náměstci (ředitelé) ve stavebnictví
+Q000045	Hlavní stavbyvedoucí
+Q000046	Řídící pracovníci stavebního provozu
+Q000047	Řídící pracovníci v zeměměřictví a kartografii
+Q000048	Řídící pracovníci v oblasti projektování ve stavebnictví
+Q000049	Ostatní řídící pracovníci ve stavebnictví
+Q000050	Řídící pracovníci v oblasti zásobování a nákupu
+Q000051	Řídící pracovníci v oblasti skladování
+Q000052	Řídící pracovníci v oblasti poštovních a doručovatelských služeb
+Q000053	Řídící pracovníci v oblasti logistiky
+Q000054	Ostatní řídící pracovníci v oborech příbuzných dopravě a logistice
+Q000055	Ostatní řídící pracovníci v oblasti informačních a komunikačních technologií
+Q000056	Řídící pracovníci v oblasti předškolní výchovy (kromě pro žáky se speciálními vzdělávacími potřebami)
+Q000057	Řídící pracovníci v oblasti předškolní výchovy pro žáky se speciálními vzdělávacími potřebami
+Q000058	Náměstci pro zdravotní péči
+Q000059	Primáři v oblasti zdravotnictví
+Q000060	Hlavní sestry v oblasti zdravotnictví
+Q000061	Vrchní sestry v oblasti zdravotnictví
+Q000062	Řídící zdravotničtí pracovníci nelékařských povolání (kromě hlavních a vrchních sester)
+Q000063	Ostatní řídící pracovníci v oblasti zdravotnictví
+Q000064	Náměstci v oblasti péče o seniory
+Q000065	Primáři v oblasti péče o seniory
+Q000066	Hlavní sestry v oblasti péče o seniory
+Q000067	Vrchní sestry v oblasti péče o seniory
+Q000068	Ostatní řídící pracovníci v oblasti péče o seniory
+Q000069	Řídící pracovníci v oblasti důchodových, nemocenských, sociálních a jiných dávek
+Q000070	Řídící pracovníci v oblasti pobytových sociálních služeb (kromě péče o seniory)
+Q000071	Řídící pracovníci v oblasti ambulantních a terénních sociálních služeb (kromě péče o seniory)
+Q000072	Řídící pracovníci na základních školách
+Q000073	Řídící pracovníci na středních školách
+Q000074	Řídící pracovníci na konzervatořích
+Q000075	Řídící pracovníci na vyšších odborných školách
+Q000076	Řídící pracovníci na vysokých školách
+Q000077	Řídící pracovníci na školách pro žáky se speciálními vzdělávacími potřebami
+Q000078	Ostatní řídící pracovníci v oblasti vzdělávání
+Q000079	Řídící pracovníci v církevní oblasti
+Q000080	Řídící pracovníci v oblasti ostatních odborných služeb
+Q000081	Řídící pracovníci v hotelích
+Q000082	Řídící pracovníci v ubytovnách (kromě studentských)
+Q000083	Řídící pracovníci ve studentských ubytovnách
+Q000084	Ostatní řídící pracovníci v oblasti ubytovacích služeb
+Q000085	Řídící pracovníci v restauracích
+Q000086	Řídící pracovníci v jídelnách (kromě školních)
+Q000087	Řídící pracovníci v kavárnách a barech
+Q000088	Řídící pracovníci cateringových společností
+Q000089	Řídící pracovníci ve školních jídelnách
+Q000090	Řídící pracovníci v menzách
+Q000091	Ostatní řídící pracovníci v oblasti stravovacích služeb
+Q000092	Řídící pracovníci v hernách, kasinech a sázkových kancelářích
+Q000093	Řídící pracovníci v divadlech, kinech, rozhlasu a televizi
+Q000094	Ostatní řídící pracovníci v oblasti kultury a zábavy
+Q000095	Řídící pracovníci v oblasti nemovitostí
+Q000096	Řídící pracovníci v oblasti veterinárních činností
+Q000097	Řídící pracovníci v jiných službách
+Q000098	Výzkumní a vývojoví vědečtí pracovníci ve fyzikálních oborech
+Q000099	Fyzici atomoví, molekulární, nukleární
+Q000100	Radiologičtí fyzici
+Q000101	Ostatní specialisté v oblasti fyziky a astronomie
+Q000102	Meteorologové
+Q000103	Chemici anorganici
+Q000104	Chemici organici
+Q000105	Fyzikální chemici, chemici analytici
+Q000106	Jaderní chemici
+Q000107	Ostatní specialisté v oblasti chemie (kromě chemického inženýrství)
+Q000108	Výzkumní a vývojoví vědečtí pracovníci v geologických a příbuzných oborech
+Q000109	Geologové
+Q000110	Geofyzici
+Q000111	Hydrologové
+Q000112	Ostatní pracovníci v oborech příbuzných geologii a geofyzice
+Q000113	Specialisté v oblasti matematiky
+Q000114	Specialisté v oblasti pojistné matematiky
+Q000115	Biologové
+Q000116	Genetici
+Q000117	Botanici
+Q000118	Zoologové
+Q000119	Biochemici, biofyzici
+Q000120	Specialisté v laboratorních metodách
+Q000121	Ostatní specialisté v oborech příbuzných biologii, botanice a zoologii
+Q000122	Specialisté v oblasti agronomie
+Q000123	Specialisté v oblasti vodohospodářství
+Q000124	Ostatní specialisté v oblasti zemědělství
+Q000125	Ostatní specialisté v oblasti průmyslového inženýrství a v příbuzných oblastech
+Q000126	Inženýři projektanti budov
+Q000127	Inženýři projektanti inženýrských děl
+Q000128	Stavební inženýři technologové, normovači
+Q000129	Stavební inženýři přípravy a realizace investic
+Q000130	Stavební inženýři kontroly a řízení kvality
+Q000131	Stavební inženýři výstavby budov
+Q000132	Stavební inženýři výstavby inženýrských děl
+Q000133	Ostatní stavební inženýři
+Q000134	Strojní inženýři projektanti, konstruktéři
+Q000135	Strojní inženýři technologové, normovači
+Q000136	Strojní inženýři přípravy a realizace investic, inženýringu
+Q000137	Strojní inženýři přístrojů, strojů a zařízení
+Q000138	Ostatní strojní inženýři
+Q000139	Chemičtí inženýři projektanti, konstruktéři a specialisté v příbuzných oborech
+Q000140	Chemičtí inženýři technologové, normovači a specialisté v příbuzných oborech
+Q000141	Chemičtí inženýři přípravy a realizace investic, inženýringu a specialisté v příbuzných oborech
+Q000142	Chemičtí inženýři přístrojů, strojů a zařízení a specialisté v příbuzných oborech
+Q000143	Ostatní chemičtí inženýři a specialisté v příbuzných oborech
+Q000144	Důlní a hutní inženýři projektanti, konstruktéři a specialisté v příbuzných oborech
+Q000145	Důlní a hutní inženýři kontroly a řízení kvality a specialisté v příbuzných oborech
+Q000146	Ostatní důlní a hutní inženýři a specialisté v příbuzných oborech
+Q000147	Inženýři ve výzkumu a vývoji v ostatních oborech
+Q000148	Inženýři projektanti, konstruktéři v ostatních oborech
+Q000149	Inženýři kontroly a řízení kvality v ostatních oborech
+Q000150	Inženýři přístrojů, strojů a zařízení v ostatních oborech
+Q000151	Biomedicínští inženýři
+Q000152	Ostatní specialisté v oblasti techniky
+Q000153	Inženýři elektrotechnici a energetici projektanti, konstruktéři
+Q000154	Inženýři elektrotechnici a energetici technologové, normovači
+Q000155	Inženýři elektrotechnici a energetici přípravy a realizace investic, inženýringu
+Q000156	Inženýři elektrotechnici a energetici přístrojů, strojů a zařízení
+Q000157	Ostatní inženýři elektrotechnici a energetici
+Q000158	Inženýři elektronici projektanti, konstruktéři
+Q000159	Inženýři elektronici technologové, normovači
+Q000160	Inženýři elektronici přípravy a realizace investic, inženýringu
+Q000161	Inženýři elektronici přístrojů, strojů a zařízení
+Q000162	Ostatní inženýři elektronici
+Q000163	Inženýři projektanti, konstruktéři v oblasti elektronických komunikací
+Q000164	Inženýři technologové, normovači v oblasti elektronických komunikací
+Q000165	Inženýři přípravy a realizace investic, inženýringu v oblasti elektronických komunikací
+Q000166	Inženýři přístrojů, strojů a zařízení v oblasti elektronických komunikací
+Q000167	Ostatní inženýři v oblasti elektronických komunikací (včetně radiokomunikací)
+Q000168	Stavební architekti
+Q000169	Zahradní a krajinní architekti
+Q000170	Průmysloví a produktoví designéři
+Q000171	Módní návrháři
+Q000172	Praktičtí lékaři pro dospělé
+Q000173	Praktičtí lékaři pro děti a dorost
+Q000174	Lékaři bez atestace (v oborech praktického lékařství)
+Q000175	Ostatní praktičtí lékaři
+Q000176	Lékaři v interních oborech
+Q000177	Lékaři v chirurgických oborech
+Q000178	Lékaři v gynekologii a porodnictví
+Q000179	Lékaři v psychiatrických oborech
+Q000180	Lékaři v pediatrii
+Q000181	Lékaři v anesteziologických oborech
+Q000182	Lékaři v radiologických oborech
+Q000183	Lékaři bez atestace (kromě oborů praktického lékařství)
+Q000184	Ostatní lékaři specialisté
+Q000185	Staniční sestry (kromě sester v oblasti porodní asistence)
+Q000186	Sestry pro intenzivní péči (včetně pediatrie a neonatologie)
+Q000187	Sestry pro perioperační péči
+Q000188	Sestry pro pediatrii
+Q000189	Sestry pro péči v interních oborech
+Q000190	Sestry pro péči v chirurgických oborech
+Q000191	Sestry pro péči v psychiatrických oborech
+Q000192	Komunitní sestry
+Q000193	Ostatní všeobecné sestry se specializací
+Q000194	Staniční sestry v oblasti porodní asistence
+Q000195	Porodní asistentky pro intenzivní péči
+Q000196	Porodní asistentky pro perioperační péči
+Q000197	Porodní asistentky pro komunitní péči
+Q000198	Ostatní porodní asistentky se specializací
+Q000199	Specialisté v oblasti tradiční a alternativní medicíny
+Q000200	Nelékařští praktici
+Q000201	Zubní lékaři bez specializace
+Q000202	Kliničtí stomatologové
+Q000203	Ortodontisté
+Q000204	Orální a maxilofaciální chirurgové
+Q000205	Ostatní zubní lékaři se specializací
+Q000206	Farmaceuti bez specializace
+Q000207	Farmaceuti se specializací pro nemocniční lékárenství
+Q000208	Ostatní fyzioterapeuti specialisté
+Q000209	Specialisté v oblasti dietetiky a výživy
+Q000210	Kliničtí logopedi
+Q000211	Logopedi (kromě klinických logopedů)
+Q000212	Audiologové (kromě lékařských audiologů)
+Q000213	Ostatní specialisté v oblasti audiologie a řečové terapie
+Q000214	Optometristé
+Q000215	Ortoptisté
+Q000216	Zrakoví terapeuti
+Q000217	Ostatní specialisté v oblasti oční optiky a optometrie
+Q000218	Ergoterapeuti se specializací
+Q000219	Adiktologové
+Q000220	Behaviorální analytici
+Q000221	Ostatní specialisté v oblasti zdravotnictví jinde neuvedení
+Q000222	Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách
+Q000223	Profesoři na vysokých školách
+Q000224	Docenti na vysokých školách
+Q000225	Odborní asistenti na vysokých školách
+Q000226	Asistenti na vysokých školách
+Q000227	Lektoři na vysokých školách
+Q000228	Učitelé na vyšších odborných školách
+Q000229	Učitelé odborných předmětů (kromě pro žáky se speciálními vzdělávacími potřebami)
+Q000230	Učitelé praktického vyučování (kromě pro žáky se speciálními vzdělávacími potřebami)
+Q000231	Učitelé odborného výcviku (kromě pro žáky se speciálními vzdělávacími potřebami)
+Q000232	Lektoři dalšího vzdělávání
+Q000233	Učitelé všeobecně vzdělávacích předmětů na středních školách
+Q000234	Učitelé na konzervatořích
+Q000235	Učitelé na 2. stupni základních škol
+Q000236	Učitelé na 1. stupni základních škol (kromě v přípravných třídách základních škol)
+Q000237	Učitelé v přípravných třídách základních škol
+Q000238	Učitelé v oblasti předškolní výchovy
+Q000239	Školní inspektoři
+Q000240	Specialisté pro tvorbu vzdělávacích programů
+Q000241	Specialisté pro tvorbu učebních pomůcek
+Q000242	Specialisté, metodičtí poradci pro výuku cizích jazyků
+Q000243	Ostatní specialisté zaměření na metody výuky
+Q000244	Učitelé v mateřských školách pro děti se speciálními vzdělávacími potřebami
+Q000245	Učitelé na základních školách pro děti se speciálními vzdělávacími potřebami
+Q000246	Učitelé pro dospělé se speciálními vzdělávacími potřebami
+Q000247	Vychovatelé pro děti se speciálními vzdělávacími potřebami
+Q000248	Vychovatelé pro dospělé se speciálními vzdělávacími potřebami
+Q000249	Ostatní učitelé a vychovatelé pro osoby se speciálními vzdělávacími potřebami
+Q000250	Lektoři a učitelé jazyků na ostatních školách
+Q000251	Lektoři a učitelé hudby na ostatních školách
+Q000252	Speciální pedagogové
+Q000253	Pedagogové v oblasti dalšího vzdělávání pedagogických pracovníků
+Q000254	Vychovatelé (kromě vychovatelů pro osoby se speciálními vzdělávacími potřebami)
+Q000255	Pedagogové volného času
+Q000256	Ostatní specialisté a odborní pracovníci v oblasti výchovy a vzdělávání jinde neuvedení
+Q000257	Hlavní účetní
+Q000258	Účetní auditoři
+Q000259	Specialisté kalkulací, cen a nákladů
+Q000260	Metodici účetnictví
+Q000261	Rozpočtáři specialisté
+Q000262	Daňoví specialisté a daňoví poradci
+Q000263	Ostatní specialisté v oblasti účetnictví
+Q000264	Finanční poradci specialisté
+Q000265	Investiční poradci specialisté
+Q000266	Burzovní makléři
+Q000267	Bankovní makléři
+Q000268	Pojišťovací poradci specialisté
+Q000269	Ostatní specialisté v oblasti finančního a investičního poradenství
+Q000270	Metodici a analytici finančního trhu
+Q000271	Specialisté tvorby bankovních produktů
+Q000272	Finanční analytici
+Q000273	Ostatní specialisté v peněžnictví a pojišťovnictví
+Q000274	Specialisté v oblasti řízení rizik
+Q000275	Specialisté v oblasti strategie
+Q000276	Specialisté v oblasti hospodaření s majetkem státu a organizací
+Q000277	Specialisté v oblasti zahraničních vztahů a služeb
+Q000278	Specialisté v oblasti vnitřních věcí státu a regionálního rozvoje
+Q000279	Ostatní specialisté v oblasti politiky organizací
+Q000280	Specialisté v oblasti prodeje a nákupu strojů, přístrojů a zařízení (kromě informačních a komunikačních technologií)
+Q000281	Specialisté v oblasti prodeje a nákupu energií, přírodních surovin a stavebnin
+Q000282	Specialisté v oblasti prodeje a nákupu farmaceutických produktů
+Q000283	Specialisté v oblasti prodeje a nákupu potravinářských a chemických produktů
+Q000284	Specialisté v oblasti prodeje a nákupu gumárenských, plastikářských, sklářských a keramických produktů
+Q000285	Specialisté v oblasti prodeje a nákupu textilních a kožedělných produktů
+Q000286	Specialisté v oblasti prodeje a nákupu ostatních produktů (kromě informačních a komunikačních technologií)
+Q000287	Systémoví administrátoři, správci počítačových sítí
+Q000288	Advokáti
+Q000289	Státní zástupci
+Q000290	Advokátní koncipienti
+Q000291	Ostatní specialisté příbuzní advokátům a státním zástupcům
+Q000292	Soudci
+Q000293	Vyšší soudní úředníci
+Q000294	Asistenti soudců
+Q000295	Justiční čekatelé
+Q000296	Ostatní pracovníci příbuzní soudcům
+Q000297	Exekutoři
+Q000298	Notáři
+Q000299	Exekutorští koncipienti a kandidáti
+Q000300	Notářští koncipienti a kandidáti
+Q000301	Podnikoví právníci
+Q000302	Právníci legislativci
+Q000303	Ostatní specialisté v oblasti práva a příbuzných oblastech jinde neuvedení
+Q000304	Specialisté archiváři
+Q000305	Správci památkových objektů, kasteláni
+Q000306	Specialisté v oblasti národohospodářství
+Q000307	Specialisté v oblasti podnikové ekonomie
+Q000308	Výzkumní a vývojoví pracovníci v oboru sociologie, antropologie a v příbuzných oborech
+Q000309	Sociologové
+Q000310	Archeologové
+Q000311	Geografové
+Q000312	Etnologové
+Q000313	Antropologové
+Q000314	Ostatní specialisté v oborech příbuzných sociologii a antropologii
+Q000315	Kliničtí psychologové
+Q000316	Psychologové ve zdravotnictví (kromě klinických psychologů)
+Q000317	Pedagogičtí psychologové
+Q000318	Sportovní psychologové
+Q000319	Osobní, rodinní a sociální psychologové
+Q000320	Ostatní psychologové
+Q000321	Sociální pracovníci specialisté a další specialisté v sociální oblasti ve veřejné správě
+Q000322	Sociální pracovníci specialisté v oblasti zdravotnictví (kromě péče o zdravotně postižené)
+Q000323	Sociální pracovníci specialisté v oblasti péče o zdravotně postižené
+Q000324	Sociální pracovníci specialisté v oblasti péče o seniory (kromě péče o zdravotně postižené)
+Q000325	Sociální pracovníci specialisté v oblasti péče o děti a mládež (kromě péče o zdravotně postižené)
+Q000326	Sociální pracovníci specialisté v azylových domech, probačních střediscích, nápravných a jiných zařízeních
+Q000327	Sociální pracovníci specialisté v oblasti poradenství (včetně pedagogicko-psychologických poraden)
+Q000328	Ostatní specialisté v sociální oblasti
+Q000329	Redaktoři (kromě technických)
+Q000330	Techničtí redaktoři
+Q000331	Novináři
+Q000332	Ostatní specialisté v oblasti žurnalistiky
+Q000333	Překladatelé a tlumočníci
+Q000334	Jazykovědci
+Q000335	Sochaři
+Q000336	Umělečtí malíři
+Q000337	Umělečtí grafici
+Q000338	Umělečtí konzervátoři, restaurátoři a preparátoři
+Q000339	Ostatní výtvarní umělci
+Q000340	Zpěváci sólisté a zpěváci sboristé
+Q000341	Hudební skladatelé
+Q000342	Dirigenti, kapelníci, primáši
+Q000343	Koncertní mistři, sbormistři
+Q000344	Instrumentalisté
+Q000345	Ostatní hudebníci
+Q000346	Taneční a baletní mistři
+Q000347	Tanečníci baletu
+Q000348	Tanečníci (kromě baletu)
+Q000349	Choreografové
+Q000350	Ostatní umělci příbuzní tanečníkům
+Q000351	Dramaturgové
+Q000352	Produkční
+Q000353	Hlavní kameramani
+Q000354	Ostatní specialisté v rozhlasu, televizi, filmu a divadle
+Q000355	Herci
+Q000356	Televizní moderátoři
+Q000357	Rozhlasoví moderátoři
+Q000358	Ostatní moderátoři
+Q000359	Technici v oblasti chemie (kromě chemického inženýrství)
+Q000360	Technici v oblasti fyziky
+Q000361	Technici v oblasti geologie
+Q000362	Technici v oblasti meteorologie
+Q000363	Technici v oblasti astronomie
+Q000364	Technici v ostatních chemických a fyzikálních vědách (kromě chemického inženýrství)
+Q000365	Stavební technici technologové, normovači
+Q000366	Stavební technici přípravy a realizace investic, inženýringu
+Q000367	Stavební technici kontroly kvality, laboranti
+Q000368	Stavební technici provozní
+Q000369	Technici požární ochrany, revizní technici staveb
+Q000370	Ostatní stavební technici
+Q000371	Elektrotechnici a technici energetici ve výzkumu a vývoji
+Q000372	Elektrotechnici a technici energetici projektanti, konstruktéři
+Q000373	Elektrotechnici a technici energetici technologové, normovači
+Q000374	Elektrotechnici a technici energetici přípravy a realizace investic, inženýringu
+Q000375	Elektrotechnici a technici energetici kontroly kvality, laboranti
+Q000376	Revizní technici v elektrotechnice a energetice
+Q000377	Ostatní elektrotechnici a technici energetici
+Q000378	Technici elektronici přípravy a realizace investic, inženýringu
+Q000379	Technici elektronici přístrojů, strojů a zařízení
+Q000380	Revizní technici v elektronice
+Q000381	Ostatní technici elektronici
+Q000382	Strojírenští technici přípravy a realizace investic, inženýringu
+Q000383	Strojírenští technici přístrojů, strojů a zařízení
+Q000384	Revizní technici ve strojírenství, technici STK
+Q000385	Ostatní strojírenští technici
+Q000386	Technici v chemickém inženýrství a příbuzných oborech
+Q000387	Chemičtí technici projektanti, konstruktéři a pracovníci v příbuzných oborech
+Q000388	Chemičtí technici přípravy a realizace investic, inženýringu a pracovníci v příbuzných oborech
+Q000389	Chemičtí technici přístrojů, strojů a zařízení a pracovníci v příbuzných oborech
+Q000390	Ostatní technici v chemickém inženýrství a příbuzných oborech
+Q000391	Důlní a hutní technici pro rozvoj, výzkum a vývoj a pracovníci v příbuzných oborech
+Q000392	Důlní a hutní technici přípravy a realizace investic, inženýringu a pracovníci v příbuzných oborech
+Q000393	Důlní a hutní technici kontroly kvality, laboranti a pracovníci v příbuzných oborech
+Q000394	Důlní a hutní technici přístrojů, strojů a zařízení a pracovníci v příbuzných oborech
+Q000395	Důlní a hutní technici dispečeři a pracovníci v příbuzných oborech
+Q000396	Ostatní důlní a hutní technici a pracovníci v příbuzných oborech
+Q000397	Technici kartografové
+Q000398	Technici zeměměřiči
+Q000399	Technici geografové
+Q000400	Ostatní odborní pracovníci v oborech příbuzných kartografii a zeměměřictví
+Q000401	Technici ve výzkumu a vývoji v ostatních průmyslových oborech
+Q000402	Technici projektanti, konstruktéři v ostatních průmyslových oborech
+Q000403	Technici technologové, normovači v ostatních průmyslových oborech
+Q000404	Technici přípravy a realizace investic, inženýringu v ostatních průmyslových oborech
+Q000405	Technici kontroly kvality, laboranti v ostatních průmyslových oborech
+Q000406	Technici přístrojů, strojů a zařízení v ostatních průmyslových oborech
+Q000407	Technici v ostatních průmyslových oborech jinde neuvedení
+Q000408	Mistři a příbuzní pracovníci v oblasti hutní výroby
+Q000409	Mistři a příbuzní pracovníci v oblasti slévárenství
+Q000410	Mistři a příbuzní pracovníci ve sklářství, výrobě keramiky a bižuterie
+Q000411	Mistři a příbuzní pracovníci v ostatní výrobě
+Q000412	Operátoři velínů na výrobu a rozvod elektrické energie
+Q000413	Operátoři velínů na výrobu a rozvod tepla
+Q000414	Operátoři velínů spaloven
+Q000415	Operátoři velínů v hutní výrobě
+Q000416	Operátoři velínů ve slévárenství
+Q000417	Operátoři velínů v kovovýrobě
+Q000418	Operátoři velínů ve válcovnách plechu
+Q000419	Ostatní operátoři velínů na zpracování kovů
+Q000420	Operátoři velínů v betonárnách
+Q000421	Operátoři velínů montážních linek
+Q000422	Ostatní operátoři velínů jinde neuvedení
+Q000423	Technici v oboru biologie
+Q000424	Technici v oboru botanika
+Q000425	Technici v oboru zoologie
+Q000426	Technici v ostatních oborech příbuzných biologii (kromě zdravotnických)
+Q000427	Technici agronomové
+Q000428	Zootechnici
+Q000429	Zahradní technici
+Q000430	Technici v oblasti rybářství
+Q000431	Technici v oblasti vodohospodářství (kromě úpravy a rozvodu vody)
+Q000432	Ostatní technici v oblasti zemědělství
+Q000433	Piloti
+Q000434	Letečtí navigátoři
+Q000435	Letečtí instruktoři
+Q000436	Palubní technici letadel
+Q000437	Operátoři bezpilotních letadel (dronů)
+Q000438	Radiologičtí technici
+Q000439	Radiologičtí asistenti
+Q000440	Biomedicínští technici
+Q000441	Ostatní technici a asistenti pro obsluhu lékařských zařízení
+Q000442	Laboratorní asistenti
+Q000443	Ostatní odborní laboranti v oblasti zdravotnictví
+Q000444	Technici v oblasti ortotiky a protetiky
+Q000445	Zubní technici
+Q000446	Ortotici-protetici
+Q000447	Asistenti zubních techniků
+Q000448	Ostatní odborní pracovníci v oblasti zubní techniky, ortotiky a protetiky
+Q000449	Všeobecné sestry bez specializace (kromě dětských sester)
+Q000450	Dětské sestry bez specializace
+Q000451	Dentální hygienisti
+Q000452	Fyzioterapeuti bez specializace
+Q000453	Odborní maséři ve zdravotnictví
+Q000454	Ostatní odborní pracovníci v oblasti rehabilitace
+Q000455	Zdravotničtí záchranáři
+Q000456	Nutriční asistenti
+Q000457	Ostatní odborní pracovníci v oblasti zdravotnictví jinde neuvedení
+Q000458	Ostatní odborní pracovníci v oblasti peněžnictví
+Q000459	Odborní účetní všeobecní
+Q000460	Odborní účetní mzdoví
+Q000461	Odborní účetní finanční a investiční
+Q000462	Odborní plánovači a odborní účetní materiáloví
+Q000463	Odborní fakturanti
+Q000464	Odborní pracovníci kalkulací, cen, nákladů a rozpočtů
+Q000465	Ostatní odborní pracovníci v oblasti účetnictví a ekonomiky
+Q000466	Odborní pracovníci v oblasti matematiky
+Q000467	Odborní pracovníci v oblasti statistiky
+Q000468	Odborní pracovníci v oblasti pojistné matematiky
+Q000469	Odborní pojišťovací poradci
+Q000470	Přepážkoví konzultanti v pojišťovnách
+Q000471	Ostatní odborní pracovníci v oblasti pojišťovnictví
+Q000472	Obchodní zástupci
+Q000473	Nákupčí
+Q000474	Celní deklaranti
+Q000475	Odborní zprostředkovatelé práce
+Q000476	Odborní pracovníci trhu práce
+Q000477	Odborní pracovníci evidence a podpory
+Q000478	Odborní pracovníci rekvalifikací
+Q000479	Odborní pracovníci zahraniční zaměstnanosti
+Q000480	Odborní kontroloři služeb zaměstnanosti
+Q000481	Odborní profesní poradci služeb zaměstnanosti
+Q000482	Ostatní odborní pracovníci úřadů práce a pracovních agentur
+Q000483	Aukcionáři (dražebníci)
+Q000484	Sportovní agenti
+Q000485	Umělečtí agenti
+Q000486	Reklamační referenti
+Q000487	Ostatní zprostředkovatelé služeb jinde neuvedení
+Q000488	Vedoucí všeobecných administrativních pracovníků
+Q000489	Vedoucí všeobecných sekretářů
+Q000490	Vedoucí pracovníků pro zadávání dat a zpracování textů
+Q000491	Vedoucí pokladníků a přepážkových pracovníků
+Q000492	Vedoucí úředníků pro zpracování číselných údajů
+Q000493	Vedoucí úředníků v logistice
+Q000494	Vedoucí ostatních úředníků
+Q000495	Odborní asistenti v administrativě
+Q000496	Odborní pracovníci hospodářské správy
+Q000497	Odborní pracovníci organizace a řízení
+Q000498	Odborní pracovníci zahraničních vztahů a služeb, vnitřních věcí státu a regionálního rozvoje
+Q000499	Odborní pracovníci v oblasti správy školství, kultury a zdravotnictví
+Q000500	Odborní pracovníci v oblasti správy průmyslu a dopravy
+Q000501	Odborní administrativní pracovníci v oblasti zdravotnictví
+Q000502	Vrchní referenti Celní správy ČR
+Q000503	Asistenti Celní správy ČR
+Q000504	Vrchní asistenti Celní správy ČR
+Q000505	Inspektoři Celní správy ČR
+Q000506	Vrchní inspektoři Celní správy ČR
+Q000507	Komisaři Celní správy ČR
+Q000508	Vrchní komisaři Celní správy ČR
+Q000509	Radové Celní správy ČR
+Q000510	Ostatní pracovníci Celní správy ČR
+Q000511	Inspektoři Policie ČR
+Q000512	Vrchní inspektoři Policie ČR
+Q000513	Radové Policie ČR
+Q000514	Právní asistenti
+Q000515	Soudní vykonavatelé
+Q000516	Ostatní odborní pracovníci v právní oblasti a příbuzných oborech
+Q000517	Sociální pracovníci a ostatní odborní pracovníci v sociální oblasti ve veřejné správě
+Q000518	Sociální pracovníci v oblasti zdravotnictví (kromě péče o zdravotně postižené)
+Q000519	Sociální pracovníci v oblasti péče o zdravotně postižené
+Q000520	Sociální pracovníci v oblasti péče o seniory (kromě péče o zdravotně postižené)
+Q000521	Sociální pracovníci v oblasti péče o děti a mládež (kromě péče o zdravotně postižené)
+Q000522	Sociální pracovníci v azylových domech, probačních střediscích, nápravných a jiných zařízeních
+Q000523	Sociální pracovníci v oblasti poradenství (včetně pedagogicko-psychologických poraden)
+Q000524	Ostatní odborní pracovníci v sociální oblasti
+Q000525	Atleti a ostatní profesionální sportovci
+Q000526	Sportovní trenéři a instruktoři na školách se sportovním zaměřením
+Q000527	Umělečtí, reklamní fotografové
+Q000528	Fotoreportéři
+Q000529	Techničtí fotografové
+Q000530	Ostatní fotografové
+Q000531	Aranžéři
+Q000532	Návrháři interiérů
+Q000533	Návrháři (modeláři) výstavních modelů
+Q000534	Ostatní pracovníci příbuzní aranžérům
+Q000535	Konzervátoři (kromě uměleckých)
+Q000536	Restaurátoři (kromě uměleckých)
+Q000537	Preparátoři (kromě uměleckých)
+Q000538	Ostatní odborní pracovníci v galeriích, muzeích a knihovnách
+Q000539	Šéfkuchaři v jídelnách, menzách
+Q000540	Šéfkuchaři v hotelových restauracích
+Q000541	Šéfkuchaři v pohostinství
+Q000542	Šéfcukráři
+Q000543	Ostatní šéfkuchaři
+Q000544	Asistenti choreografie
+Q000545	Asistenti audiovize
+Q000546	Komparzisté
+Q000547	Kaskadéři
+Q000548	Odborní pracovníci v oblasti umění a kultury jinde neuvedení
+Q000549	Technici počítačových sítí a systémů
+Q000550	Správci webu
+Q000551	Zvukaři a osvětlovači
+Q000552	Technici videozáznamů
+Q000553	Technici audiovize
+Q000554	Technici promítacích zařízení
+Q000555	Ostatní technici v oblasti vysílání a audiovizuálních záznamů
+Q000556	Technici ve výzkumu a vývoji v oblasti telekomunikací a radiokomunikací
+Q000557	Technici technologové v oblasti telekomunikací a radiokomunikací
+Q000558	Technici přípravy a realizace investic, inženýringu v oblasti telekomunikací a radiokomunikací
+Q000559	Technici kontroly kvality, laboranti v oblasti telekomunikací a radiokomunikací
+Q000560	Technici přístrojů, strojů a zařízení v oblasti telekomunikací a radiokomunikací
+Q000561	Technici dispečeři v oblasti telekomunikací a radiokomunikací
+Q000562	Revizní technici, inspektoři v oblasti telekomunikací a radiokomunikací
+Q000563	Ostatní technici v oblasti telekomunikací a radiokomunikací
+Q000564	Všeobecní administrativní pracovníci
+Q000565	Sekretáři (všeobecní)
+Q000566	Pracovníci pro zpracování textů
+Q000567	Písaři
+Q000568	Operátoři počítačů pro vkládání dat
+Q000569	Operátoři počítačů pro kontrolu dat
+Q000570	Operátoři počítačů pro třídění a evidenci dat
+Q000571	Pokladníci ve finančních institucích
+Q000572	Pokladníci na poštách
+Q000573	Přepážkoví pracovníci na poštách
+Q000574	Směnárníci
+Q000575	Ostatní pracovníci příbuzní pokladníkům ve finančních institucích
+Q000576	Bookmakeři
+Q000577	Krupiéři
+Q000578	Zastavárníci a půjčovatelé peněz
+Q000579	Úředníci cestovních kanceláří a agentur
+Q000580	Ostatní pracovníci cestovního ruchu (kromě průvodců)
+Q000581	Pracovníci v zákaznických kontaktních centrech
+Q000582	Operátoři telefonních panelů
+Q000583	Recepční v hotelích a dalších ubytovacích zařízeních
+Q000584	Recepční (kromě recepčních v hotelích a dalších ubytovacích zařízeních)
+Q000585	Pracovníci informačních služeb jinde neuvedení
+Q000586	Účetní všeobecní
+Q000587	Účetní finanční a investiční
+Q000588	Účetní materiáloví
+Q000589	Fakturanti
+Q000590	Ostatní úředníci v oblasti účetnictví
+Q000591	Úředníci v oblasti statistiky
+Q000592	Úředníci v oblasti daní
+Q000593	Úředníci v oblasti pojišťovnictví
+Q000594	Ostatní úředníci v oblasti finančnictví
+Q000595	Mzdoví účetní
+Q000596	Úředníci ve skladech
+Q000597	Mistři v dopravě
+Q000598	Výpravčí
+Q000599	Dozorčí přepravy a depa
+Q000600	Komandující
+Q000601	Nádražní
+Q000602	Ostatní pracovníci v dopravě a přepravě
+Q000603	Knihovníci
+Q000604	Pracovníci vnitřní poštovní služby
+Q000605	Kontroloři poštovního provozu
+Q000606	Pracovníci poštovní přepravy
+Q000607	Třídiči poštovních zásilek
+Q000608	Doručovatelé listovních poštovních zásilek
+Q000609	Motorizovaní doručovatelé poštovních zásilek
+Q000610	Ostatní pracovníci poštovního provozu (kromě úředníků na přepážkách)
+Q000611	Pracovníci evidence dat a archivů
+Q000612	Personální referenti
+Q000613	Úředníci vnitřních věcí státu a regionálního rozvoje
+Q000614	Úředníci zahraničních vztahů a služeb
+Q000615	Úředníci v oblasti správy školství, kultury a zdravotnictví
+Q000616	Úředníci v oblasti správy průmyslu a dopravy
+Q000617	Ostatní úředníci jinde neuvedení
+Q000618	Stevardi a letušky v letadlech
+Q000619	Obslužní pracovníci v dopravě (kromě stevardů a letušek v letadlech)
+Q000620	Vlakvedoucí v osobní dopravě
+Q000621	Průvodčí vlaků v osobní dopravě
+Q000622	Revizoři v osobní dopravě
+Q000623	Ostatní průvodčí a příbuzní pracovníci v osobní dopravě
+Q000624	Průvodci v kulturních zařízeních
+Q000625	Horští průvodci
+Q000626	Ostatní průvodci
+Q000627	Kuchaři (kromě šéfkuchařů)
+Q000628	Kuchaři speciálních diet
+Q000629	Pomocní kuchaři
+Q000630	Číšníci a servírky
+Q000631	Barmani
+Q000632	Baristé
+Q000633	Ostatní pracovníci příbuzní barmanům
+Q000634	Kadeřníci
+Q000635	Maséři (kromě odborných masérů ve zdravotnictví)
+Q000636	Ostatní pracovníci v oborech příbuzných kosmetice
+Q000637	Vedoucí provozu školních jídelen a menz
+Q000638	Vedoucí provozu v ubytování, stravování a pohostinství (kromě školních jídelen a menz)
+Q000639	Vedoucí provozu sportovních zařízení
+Q000640	Vedoucí provozu v ostatních zařízeních
+Q000641	Hospodyně v domácnostech
+Q000642	Provozovatelé malých penzionů
+Q000643	Správci objektů
+Q000644	Chovatelé a ošetřovatelé zvířat v zoo
+Q000645	Chovatelé a ošetřovatelé laboratorních zvířat
+Q000646	Chovatelé a ošetřovatelé služebních zvířat
+Q000647	Ostatní chovatelé a ošetřovatelé zvířat v zařízeních určených pro chov a příbuzní pracovníci
+Q000648	Instruktoři autoškoly
+Q000649	Stánkoví prodavači potravin (kromě rychlého občerstvení)
+Q000650	Pouliční prodavači rychlého občerstvení
+Q000651	Provozovatelé maloobchodních a velkoobchodních prodejen
+Q000652	Vedoucí pracovních týmů v prodejnách
+Q000653	Prodavači smíšeného zboží
+Q000654	Prodavači potravinářského zboží
+Q000655	Prodavači drobného zboží, klenotů, nábytku a bytových doplňků
+Q000656	Prodavači drogistického zboží, kosmetiky
+Q000657	Prodavači textilu, obuvi a kožené galanterie
+Q000658	Prodavači elektrotechniky, elektroniky a domácích potřeb
+Q000659	Prodavači stavebnin a příbuzného materiálu
+Q000660	Prodavači sportovních potřeb
+Q000661	Prodavači ostatního zboží v prodejnách
+Q000662	Hlavní pokladníci v organizacích, prodejnách a různých zařízeních
+Q000663	Pokladníci v organizacích
+Q000664	Pokladníci v prodejnách
+Q000665	Pokladníci a prodavači vstupenek v kulturních zařízeních
+Q000666	Pokladníci a prodavači jízdenek v osobní dopravě
+Q000667	Ostatní pokladníci a prodavači vstupenek a jízdenek
+Q000668	Předváděči zboží
+Q000669	Podomní prodejci
+Q000670	Prodejci po telefonu
+Q000671	Obsluha čerpacích stanic a mycích linek dopravních prostředků
+Q000672	Pracovníci v půjčovnách
+Q000673	Pracovníci v oblasti prodeje jinde neuvedení
+Q000674	Pracovníci péče o děti v domácnostech
+Q000675	Ostatní pracovníci péče o děti v mimoškolských zařízeních
+Q000676	Asistenti vychovatelů
+Q000677	Asistenti pedagogů v poradenských zařízeních
+Q000678	Ošetřovatelé v oblasti pobytové péče
+Q000679	Pracovníci přímé obslužné péče v oblasti pobytové péče
+Q000680	Ostatní pracovníci v sociálních službách v oblasti pobytové péče
+Q000681	Ošetřovatelé v oblasti ambulantních a terénních služeb a domácí péče
+Q000682	Pracovníci přímé obslužné péče v oblasti ambulantních a terénních služeb a pečovatelé v oblasti domácí péče
+Q000683	Ostatní pracovníci v sociálních službách v oblasti ambulantních a terénních služeb a domácí péče
+Q000684	Autoptičtí laboranti
+Q000685	Zubní instrumentáři
+Q000686	Řidiči vozidel zdravotnické záchranné služby
+Q000687	Ostatní pracovníci osobní péče ve zdravotní a sociální oblasti jinde neuvedení
+Q000688	Příslušníci v jednotkách požární ochrany HZS ČR
+Q000689	Příslušníci operačních středisek HZS ČR
+Q000690	Zaměstnanci ve vojenských hasičských jednotkách
+Q000691	Hasiči podnikových sborů
+Q000692	Hasiči dobrovolných sborů obcí
+Q000693	Hasiči dobrovolných sborů podniků
+Q000694	Ostatní příslušníci HZS ČR
+Q000695	Referenti Policie ČR
+Q000696	Vrchní referenti Policie ČR
+Q000697	Asistenti Policie ČR
+Q000698	Vrchní asistenti Policie ČR
+Q000699	Strážníci
+Q000700	Referenti a vrchní referenti Vězeňské služby ČR
+Q000701	Asistenti Vězeňské služby ČR
+Q000702	Vrchní asistenti Vězeňské služby ČR
+Q000703	Inspektoři Vězeňské služby ČR
+Q000704	Vrchní inspektoři Vězeňské služby ČR
+Q000705	Komisaři Vězeňské služby ČR
+Q000706	Vrchní komisaři Vězeňské služby ČR
+Q000707	Radové Vězeňské služby ČR
+Q000708	Ostatní pracovníci vězeňské služby
+Q000709	Vrátní
+Q000710	Pracovníci ostrahy, strážní
+Q000711	Osobní, tělesní strážci
+Q000712	Operátoři bezpečnostních služeb
+Q000713	Ostatní pracovníci ostrahy a bezpečnostních agentur
+Q000714	Plavčíci, strážci pláží
+Q000715	Pracovníci horské záchranné služby
+Q000716	Vodní záchranáři
+Q000717	Strážci přírody
+Q000718	Ostatní pracovníci v oblasti ochrany a ostrahy
+Q000719	Zahradníci pro pěstování zahradních rostlin
+Q000720	Zahradníci krajináři
+Q000721	Zahradníci floristé a květináři
+Q000722	Zahradníci sadovníci a školkaři
+Q000723	Zahradníci zelináři
+Q000724	Zahradníci travnatých ploch, greenkeepeři
+Q000725	Ostatní zahradníci a pěstitelé v zahradnických školkách
+Q000726	Pěstitelé smíšených plodin
+Q000727	Chovatelé a ošetřovatelé koní
+Q000728	Chovatelé a ošetřovatelé prasat
+Q000729	Chovatelé a ošetřovatelé kožešinových zvířat
+Q000730	Chovatelé ostatních hospodářských zvířat (kromě drůbeže)
+Q000731	Chovatelé drůbeže
+Q000732	Chovatelé zvířat jinde neuvedení
+Q000733	Pěstitelé a chovatelé ve smíšeném hospodářství
+Q000734	Kvalifikovaní pracovníci pro pěstění a ošetřování lesa
+Q000735	Kvalifikovaní pracovníci pro těžbu dřeva
+Q000736	Ostatní kvalifikovaní pracovníci v lesnictví a příbuzných oblastech
+Q000737	Farmáři samozásobitelé v rostlinné výrobě
+Q000738	Farmáři samozásobitelé v živočišné výrobě
+Q000739	Farmáři samozásobitelé ve smíšeném hospodářství
+Q000740	Rybáři, lovci a sběrači samozásobitelé
+Q000741	Zedníci (kromě zedníků ohnivzdorného zdiva)
+Q000742	Kamnáři, zedníci ohnivzdorného zdiva
+Q000743	Dlaždiči
+Q000744	Kameníci, řezači a brusiči kamene
+Q000745	Tesaři
+Q000746	Stavební údržbáři budov a inženýrských děl
+Q000747	Kvalifikovaní pracovníci demoličních prací
+Q000748	Lešenáři
+Q000749	Kvalifikovaní stavební dělníci hlavní stavební výroby
+Q000750	Ostatní řemeslníci a kvalifikovaní pracovníci hlavní stavební výroby jinde neuvedení
+Q000751	Pokrývači
+Q000752	Parketáři
+Q000753	Obkladači
+Q000754	Štukatéři
+Q000755	Omítkáři
+Q000756	Izolatéři
+Q000757	Sklenáři
+Q000758	Instalatéři plynovodů
+Q000759	Instalatéři ústředního topení
+Q000760	Stavební zámečníci
+Q000761	Stavební klempíři
+Q000762	Mechanici klimatizací a chladicích zařízení
+Q000763	Malíři interiérů
+Q000764	Stavební lakýrníci a natěrači
+Q000765	Tapetáři
+Q000766	Lakýrníci automobilů a jiných vozidel
+Q000767	Lakýrníci a natěrači dřevěných výrobků
+Q000768	Lakýrníci a natěrači plastových výrobků
+Q000769	Ostatní lakýrníci a natěrači (kromě stavebních)
+Q000770	Čističi vnějších plášťů budov
+Q000771	Kominíci
+Q000772	Ostatní pracovníci povrchového čištění budov
+Q000773	Modeláři slévárenští
+Q000774	Formíři a jádraři ve slévárnách
+Q000775	Slévači
+Q000776	Svářeči
+Q000777	Řezači plamenem
+Q000778	Klempíři (kromě stavebních)
+Q000779	Karosáři a autoklempíři
+Q000780	Ostatní pracovníci na zpracování plechu
+Q000781	Zámečníci strojů
+Q000782	Provozní zámečníci, údržbáři
+Q000783	Strojírenští kovodělníci
+Q000784	Rytci kovů
+Q000785	Puškaři
+Q000786	Ostatní pracovníci příbuzní nástrojařům
+Q000787	Seřizovači a obsluha konvenčních fréz
+Q000788	Seřizovači a obsluha konvenčních strojů na broušení
+Q000789	Seřizovači a obsluha číslicově řízených strojů
+Q000790	Seřizovači a obsluha ostatních obráběcích strojů (kromě dřevoobráběcích)
+Q000791	Leštiči nástrojů a kovů
+Q000792	Ostřiči nástrojů a kovů
+Q000793	Mechanici a opraváři osobních automobilů
+Q000794	Mechanici a opraváři nákladních automobilů
+Q000795	Mechanici a opraváři autobusů a trolejbusů
+Q000796	Mechanici a opraváři motorek
+Q000797	Mechanici a opraváři ostatních motorových vozidel
+Q000798	Mechanici a opraváři kolejových vozidel
+Q000799	Mechanici a opraváři obráběcích strojů
+Q000800	Mechanici a opraváři zemědělských a lesnických strojů a zařízení
+Q000801	Mechanici a opraváři průmyslových strojů a zařízení
+Q000802	Mechanici a opraváři mechanických částí energetických zařízení a elektropřístrojů
+Q000803	Mechanici a opraváři ostatních strojů a zařízení (kromě přesných strojů)
+Q000804	Mechanici a opraváři jízdních kol a příbuzní pracovníci
+Q000805	Výrobci, mechanici a opraváři ostatních přesných přístrojů a zařízení
+Q000806	Klenotníci, zlatníci a šperkaři
+Q000807	Umělečtí keramici
+Q000808	Keramici (kromě uměleckých)
+Q000809	Ostatní řemeslní pracovníci v keramice
+Q000810	Umělečtí skláři a umělečtí sklenáři
+Q000811	Skláři dutého, lisovaného a technického skla
+Q000812	Brusiči skla
+Q000813	Výrobci bižuterie
+Q000814	Výrobci skleněných ozdob
+Q000815	Malíři skla a keramiky
+Q000816	Ostatní pracovníci pro zdobení skla, keramiky, kovu, dřeva a jiných materiálů
+Q000817	Umělečtí truhláři a řezbáři
+Q000818	Ostatní tradiční zpracovatelé dřeva, proutí a příbuzných materiálů
+Q000819	Pracovníci zhotovující umělecké výrobky z kovů
+Q000820	Umělečtí štukatéři, kašéři a pracovníci v příbuzných oborech
+Q000821	Umělečtí kameníci
+Q000822	Ostatní pracovníci v oblasti uměleckých a tradičních řemesel
+Q000823	Pracovníci přípravy tisku
+Q000824	Stavební a provozní elektrikáři
+Q000825	Montéři a opraváři silnoproudých elektrických vedení
+Q000826	Montéři a opraváři slaboproudých elektrických vedení
+Q000827	Řezníci a uzenáři
+Q000828	Ostatní zpracovatelé masa, ryb a příbuzní pracovníci
+Q000829	Pekaři
+Q000830	Cukráři (kromě šéfcukrářů)
+Q000831	Výrobci cukrovinek
+Q000832	Mlékaři
+Q000833	Výrobci sýrů
+Q000834	Ostatní výrobci mléčných produktů
+Q000835	Seřizovači a obsluha konvenčních dřevoobráběcích strojů na výrobu dřevěných výrobků
+Q000836	Seřizovači a obsluha číslicově řízených dřevoobráběcích strojů na výrobu dřevěných výrobků
+Q000837	Kloboučníci
+Q000838	Modeláři technické konfekce
+Q000839	Ostatní pracovníci příbuzní modelářům oděvů a střihačům
+Q000840	Čalouníci nábytku
+Q000841	Čalouníci dopravních prostředků
+Q000842	Výrobci matrací
+Q000843	Ostatní čalouníci a příbuzní pracovníci
+Q000844	Výrobci a opraváři obuvi
+Q000845	Výrobci a opraváři kožené galanterie (kromě sedlářů)
+Q000846	Sedláři
+Q000847	Ostatní pracovníci v oborech příbuzných obuvnictví
+Q000848	Střelmistři
+Q000849	Hubitelé škůdců
+Q000850	Modeláři a formíři (kromě modelářů a formířů ve slévárenství)
+Q000851	Ostatní řemeslní pracovníci a pracovníci v dalších oborech jinde neuvedení
+Q000852	Horníci v uhelných dolech (převážně ruční)
+Q000853	Horníci v rudných dolech (převážně ruční)
+Q000854	Horníci v dolech jiných než uhelných a rudných, kamenolamači (převážně ruční)
+Q000855	Horníci hlubinné těžby strojní
+Q000856	Horníci povrchové těžby strojní
+Q000857	Obsluha razicích strojů, štítů, strojníci tuneláři
+Q000858	Obsluha důlních vrtacích strojů a rypadel
+Q000859	Strojníci báňských zařízení
+Q000860	Obsluha ostatních důlních zařízení
+Q000861	Obsluha zařízení na úpravu rudných surovin
+Q000862	Obsluha zařízení na úpravu nerudných surovin
+Q000863	Vrtači při ropných nebo plynových vrtech
+Q000864	Vrtači při geologických a hydrologických průzkumech
+Q000865	Ostatní vrtači a příbuzní pracovníci
+Q000866	Obsluha strojů na výrobu ostatních výrobků z nerostů
+Q000867	Obsluha zařízení na hutní zpracování kovů (obsluha pecí a konvertorů)
+Q000868	Obsluha zařízení ve slévárenství (taviči, slévači)
+Q000869	Obsluha zařízení na tepelné zpracování kovů
+Q000870	Obsluha zařízení na tažení a protlačování kovů
+Q000871	Obsluha zařízení na tváření kovů ve válcovnách
+Q000872	Obsluha kovacích lisů a bucharů
+Q000873	Obsluha ostatních zařízení na zpracování kovů
+Q000874	Obsluha strojů a zařízení na zpracování radioaktivního a jiného nebezpečného materiálu
+Q000875	Obsluha ostatních strojů a zařízení pro chemickou výrobu
+Q000876	Obsluha strojů a zařízení na výrobu fotografických materiálů
+Q000877	Obsluha strojů na výrobu a zpracování výrobků z pryže
+Q000878	Obsluha tkacích strojů
+Q000879	Obsluha pletacích strojů
+Q000880	Obsluha šicích a vyšívacích strojů
+Q000881	Obsluha strojů na úpravu kůží a kožešin
+Q000882	Obsluha strojů na výrobu obuvi
+Q000883	Obsluha strojů na výrobu kožené galanterie
+Q000884	Obsluha ostatních strojů v oborech příbuzných obuvnictví
+Q000885	Obsluha strojů na výrobu klobouků (včetně obsluhy strojů na výrobu forem na klobouky)
+Q000886	Obsluha ostatních strojů na výrobu a úpravu textilních, kožených a kožešinových výrobků jinde neuvedená
+Q000887	Obsluha ostatních strojů a zařízení na výrobu, zpracování, uchování potravin a příbuzných výrobků
+Q000888	Obsluha strojů a zařízení na výrobu a zpracování papíru
+Q000889	Obsluha parních turbín
+Q000890	Obsluha kotlů na vytápění, ohřívačů a výměníků (kromě obsluhy kotlů lodí a lokomotiv)
+Q000891	Obsluha kotlů lodí a lokomotiv
+Q000892	Obsluha tepelných motorů
+Q000893	Obsluha zařízení spaloven
+Q000894	Obsluha ostatních kotlů a příbuzných zařízení
+Q000895	Obsluha zařízení na zpracování a recyklaci odpadů (kromě kovového odpadu)
+Q000896	Obsluha zařízení na úpravu kovového odpadu
+Q000897	Obsluha zařízení na výrobu akumulátorů, baterií
+Q000898	Obsluha zařízení na výrobu a rozvod energií
+Q000899	Obsluha průmyslových robotů
+Q000900	Obsluha ostatních stacionárních strojů a zařízení jinde neuvedená
+Q000901	Montážní dělníci elektrických a energetických zařízení
+Q000902	Montážní dělníci elektronických zařízení
+Q000903	Montážní dělníci výrobků z textilu a kůže
+Q000904	Montážní dělníci výrobků ze skla a keramiky
+Q000905	Montážní dělníci výrobků z kombinovaných materiálů
+Q000906	Montážní dělníci výrobků z ostatních materiálů
+Q000907	Strojvedoucí důlní kolejové dopravy
+Q000908	Strojvedoucí lokomotiv, vlaků
+Q000909	Strojvedoucí metra, podzemních drah
+Q000910	Řidiči kolejových motorových vozíků a drezín
+Q000911	Ostatní strojvedoucí
+Q000912	Vlakvedoucí v nákladní dopravě
+Q000913	Vedoucí posunu, posunovači, brzdaři
+Q000914	Výhybkáři, výhybkáři - točnáři
+Q000915	Tranzitéři (dělníci)
+Q000916	Průvodčí v nákladní dopravě
+Q000917	Staniční dozorci (dělníci)
+Q000918	Hradlaři - hláskaři
+Q000919	Ostatní pracovníci zabezpečující sestavování a jízdu vlaků v mezistaničních úsecích
+Q000920	Taxikáři osobních a malých dodávkových automobilů
+Q000921	Řidiči zdravotnické dopravní služby
+Q000922	Řidiči autobusů v městské hromadné dopravě
+Q000923	Řidiči autobusů v dálkové přepravě osob
+Q000924	Řidiči trolejbusů
+Q000925	Řidiči tramvají
+Q000926	Řidiči nákladních automobilů (kromě tahačů)
+Q000927	Řidiči tahačů
+Q000928	Řidiči popelářských vozů
+Q000929	Řidiči silničních úklidových vozidel
+Q000930	Řidiči cisternových vozů
+Q000931	Řidiči hasicích vozů
+Q000932	Řidiči ostatních speciálních vozidel
+Q000933	Řidiči a obsluha zemědělských strojů
+Q000934	Řidiči a obsluha lesnických strojů
+Q000935	Obsluha strojů a zařízení pro práce na železniční trati
+Q000936	Obsluha zdvihacích a skladovacích zařízení
+Q000937	Řidiči kontejnerových překladačů
+Q000938	Obsluha ostatních manipulačních zařízení (kromě obsluhy vysokozdvižných vozíků)
+Q000939	Řidiči vysokozdvižných vozíků
+Q000940	Řidiči paletovacích vozíků
+Q000941	Skladníci, obsluha manipulačních vozíků
+Q000942	Řidiči ostatních skladovacích vozíků
+Q000943	Lodní strojníci
+Q000944	Ostatní pracovníci lodní posádky
+Q000945	Uklízeči a pomocníci v domácnostech (kromě hospodyní)
+Q000946	Uklízeči a pomocníci v administrativních objektech
+Q000947	Uklízeči a pomocníci ve zdravotnických a sociálních zařízeních
+Q000948	Uklízeči a pomocníci v ubytovacích a vzdělávacích zařízeních
+Q000949	Uklízeči ve stravovacích zařízeních, potravinářských a farmaceutických výrobních prostorech
+Q000950	Uklízeči výrobních prostor (kromě potravinářské a farmaceutické výroby) a skladů
+Q000951	Uklízeči prodejních prostor
+Q000952	Uklízeči v provozovnách osobních služeb
+Q000953	Ostatní uklízeči a pomocníci
+Q000954	Pracovníci pro mytí oken
+Q000955	Pomocní pracovníci v zahradnictví
+Q000956	Pomocní pracovníci při hlubinné těžbě
+Q000957	Pomocní pracovníci při povrchové těžbě
+Q000958	Pomocní pracovníci při úpravě nerostných surovin
+Q000959	Pomocní pracovníci na povrchu hornických provozů
+Q000960	Pomocní pracovníci při těžbě ropy a zemního plynu
+Q000961	Ostatní pomocní pracovníci v oblasti těžby
+Q000962	Figuranti
+Q000963	Dělníci výkopových prací
+Q000964	Dělníci v oblasti výstavby a údržby inženýrských děl
+Q000965	Dělníci v oblasti výstavby a údržby budov
+Q000966	Manipulační dělníci ve výrobě
+Q000967	Pomocní dělníci ve výrobě
+Q000968	Pomocní montážní dělníci
+Q000969	Mazači a čističi strojů a zařízení
+Q000970	Pomocní pracovníci ve výrobě jinde neuvedení
+Q000971	Kočí
+Q000972	Pomocní skladníci
+Q000973	Pomocní pracovníci obchodního provozu
+Q000974	Pomocní pracovníci ve sběrných surovinách
+Q000975	Ostatní pomocní manipulační pracovníci (kromě výroby)
+Q000976	Doplňovači zboží
+Q000977	Svačináři
+Q000978	Pracovníci přípravy jídel v zařízeních rychlého občerstvení a ve výdejnách jídla
+Q000979	Ostatní pracovníci pro přípravu rychlého občerstvení
+Q000980	Pouliční prodejci (kromě potravin)
+Q000981	Čističi kanalizací
+Q000982	Ostatní pracovníci v oblasti odpadu a čištění
+Q000983	Pomocní pracovníci údržby budov a souvisejících prostor
+Q000984	Hlídači parkovišť a tržišť
+Q000985	Uvaděči
+Q000986	Šatnáři
+Q000987	Toaletáři
+Q000988	Ostatní pomocní a nekvalifikovaní pracovníci ve službách jinde neuvedení

@@ -1,0 +1,18 @@
+
+=============== Statistics Log ===============
+
+Processed queries
+    Accepted:                   4438
+    Total Rejected:             1190
+     - Rejected (ambiguous):    53
+     - Rejected (vague):        1137
+
+----------------------------------------------
+
+Corpus elements:                21080
+
+----------------------------------------------
+
+Median relevant per query:      1.0
+
+==============================================

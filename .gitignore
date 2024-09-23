@@ -1,4 +1,4 @@
-data/*
+data/esco_original/*
 
 reports/*
 !reports/.gitkeep

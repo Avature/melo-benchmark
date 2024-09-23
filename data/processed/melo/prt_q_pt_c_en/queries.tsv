@@ -1,0 +1,379 @@
+Q000001	Oficial de Marinha
+Q000002	Oficial de administração naval
+Q000003	Oficial engenheiro naval
+Q000004	Oficial fuzileiro
+Q000005	Outros oficiais da Marinha e equiparados
+Q000006	Oficial de infantaria
+Q000007	Oficial de artilharia
+Q000008	Oficial de transmissões (Exército)
+Q000009	Oficial de engenharia militar
+Q000010	Oficial de material militar (Exército)
+Q000011	Oficial de administração militar (Exército)
+Q000012	Outros oficiais do Exército
+Q000013	Oficial piloto aviador
+Q000014	Oficial da área de operações aéreas
+Q000015	Oficial da Força Aérea da área de manutenção de sistemas de armas
+Q000016	Oficial da Polícia Aérea
+Q000017	Outros oficiais da Força Aérea
+Q000018	Sargento fuzileiro
+Q000019	Sargento mergulhador
+Q000020	Sargento de operações (Marinha)
+Q000021	Sargento de manobra e serviços (Marinha)
+Q000022	Sargento técnico de armamento (Marinha)
+Q000023	Outros sargentos de Marinha e equiparados
+Q000024	Sargento de infantaria
+Q000025	Sargento de artilharia
+Q000026	Sargento de cavalaria
+Q000027	Sargento de engenharia militar
+Q000028	Sargento de material militar (Exército)
+Q000029	Sargento de administração militar (Exército)
+Q000030	Outros sargentos do Exército
+Q000031	Sargento da área de operações aéreas
+Q000032	Sargento da Força Aérea da área de manutenção de sistemas de armas
+Q000033	Sargento de Polícia Aérea
+Q000034	Outros sargentos da Força Aérea
+Q000035	Praça de comunicações (Marinha)
+Q000036	Praça técnico de armamento (Marinha)
+Q000037	Praça de infantaria
+Q000038	Praça de artilharia
+Q000039	Praça de cavalaria
+Q000040	Praça de transmissões (Exército)
+Q000041	Praça de engenharia militar
+Q000042	Praça de material militar (Exército)
+Q000043	Praça da Força Aérea da área de manutenção de sistemas de armas
+Q000044	Director geral e gestor executivo, de empresas
+Q000045	Director financeiro
+Q000046	Director de recursos humanos
+Q000047	Directores de estratégia e planeamento
+Q000048	Director de vendas
+Q000049	Director de marketing
+Q000050	Director de publicidade
+Q000051	Director de relações públicas
+Q000052	Directores de investigação e desenvolvimento
+Q000053	Director de produção florestal
+Q000054	Director de produção na aquicultura
+Q000055	Directores de armazenagem, distribuição e relacionados
+Q000056	Físico
+Q000057	Astrónomo
+Q000058	Meteorologista
+Q000059	Químico
+Q000060	Geólogo
+Q000061	Geofísico
+Q000062	Oceanógrafo
+Q000063	Matemático
+Q000064	Actuário
+Q000065	Biólogo
+Q000066	Botânico
+Q000067	Engenheiro agrónomo
+Q000068	Consultor de actividades das pescas
+Q000069	Engenheiro de construção de edifícios
+Q000070	Engenheiro de obras de engenharia civil
+Q000071	Engenheiro do ambiente
+Q000072	Engenheiro mecânico
+Q000073	Engenheiro químico
+Q000074	Engenheiro metalúrgico
+Q000075	Engenheiro electrónico
+Q000076	Engenheiro de telecomunicações
+Q000077	Arquitecto de edifícios
+Q000078	Arquitecto paisagista
+Q000079	Médico de medicina geral e familiar
+Q000080	Outros médicos generalistas
+Q000081	Médico de especialidades cirúrgicas
+Q000082	Médico de especialidades médicas
+Q000083	Médico de especialidades técnicas
+Q000084	Enfermeiro de cuidados gerais
+Q000085	Enfermeiro especialista em reabilitação
+Q000086	Enfermeiro especialista em saúde infantil e pediátrica
+Q000087	Enfermeiro especialista em saúde mental e psiquiátrica
+Q000088	Enfermeiro especialista em enfermagem comunitária
+Q000089	Enfermeiro especialista em enfermagem médico-cirúrgica
+Q000090	Outros enfermeiros especialistas (excepto em saúde materna e obstétrica)
+Q000091	Acupunctor
+Q000092	Homeopata
+Q000093	Outros especialistas em medicina tradicional e alternativa
+Q000094	Profissional paramédico
+Q000095	Veterinário
+Q000096	Médico estomatologista
+Q000097	Médico dentista
+Q000098	Farmacêutico
+Q000099	Fisioterapeuta
+Q000100	Dietista e nutricionista
+Q000101	Audiologista
+Q000102	Terapeuta da fala
+Q000103	Optometrista e óptico oftálmico
+Q000104	Terapeuta ocupacional
+Q000105	Professor dos ensinos universitário e superior
+Q000106	Professor dos ensinos, tecnológico, artístico e profissional
+Q000107	Professor do ensino básico (1º ciclo)
+Q000108	Educador de infância
+Q000109	Especialista em métodos de ensino
+Q000110	Professor do ensino especial
+Q000111	Outros professores de música
+Q000112	Outros professores de arte
+Q000113	Formador em tecnologias de informação
+Q000114	Consultor financeiro e de investimentos
+Q000115	Analista financeiro
+Q000116	Analista em gestão e organização
+Q000117	Especialista em recursos humanos
+Q000118	Delegado de informação médica
+Q000119	Especialista em vendas de tecnologias de informação e comunicação (TIC)
+Q000120	Analista de sistemas
+Q000121	Programador de software
+Q000122	Administrador de sistemas
+Q000123	Advogado
+Q000124	Solicitador
+Q000125	Conservador dos registos civil, automóvel, comercial e predial
+Q000126	Notário
+Q000127	Arquivista
+Q000128	Economista
+Q000129	Sociólogo
+Q000130	Geógrafo
+Q000131	Arqueólogo
+Q000132	Antropólogo e similares
+Q000133	Filósofo
+Q000134	Historiador
+Q000135	Especialista em ciências políticas
+Q000136	Psicólogo
+Q000137	Ministro de culto
+Q000138	Jornalista
+Q000139	Tradutor
+Q000140	Escultor
+Q000141	Pintor de arte
+Q000142	Caricaturista
+Q000143	Compositor
+Q000144	Músico
+Q000145	Cantor
+Q000146	Bailarino
+Q000147	Coreógrafo
+Q000148	Realizador de cinema e teatro
+Q000149	Encenador de teatro
+Q000150	Produtor de cinema e teatro
+Q000151	Actor
+Q000152	Disc jockey
+Q000153	Técnico das ciências químicas
+Q000154	Técnico de engenharia civil
+Q000155	Técnico de electrónica
+Q000156	Técnico de gás
+Q000157	Outros encarregados da indústria transformadora
+Q000158	Técnico de operação de instalações de produção de energia
+Q000159	Técnico de operação de instalações de tratamento de água
+Q000160	Técnico de operação de instalações de refinação de petróleo e gás natural
+Q000161	Oficial de convés e piloto de navios
+Q000162	Piloto de aeronaves
+Q000163	Técnico de segurança de sistemas electrónicos aeronáuticos
+Q000164	Técnico de radiologia
+Q000165	Técnico de medicina nuclear
+Q000166	Técnico de radioterapia
+Q000167	Outros técnicos de equipamento de diagnóstico e terapêutico
+Q000168	Técnico de análises clínicas
+Q000169	Técnico de próteses médicas e dentárias
+Q000170	Auxiliar de enfermagem
+Q000171	Parteira
+Q000172	Outros profissionais de nível intermédio da saúde, n.e.
+Q000173	Corretor de bolsa, cambista e similares
+Q000174	Agente de seguros
+Q000175	Organizador de conferências e eventos
+Q000176	Técnico da área do emprego
+Q000177	Agente imobiliário e gestor de propriedades
+Q000178	Chefe de escritório
+Q000179	Encarregado de armazém
+Q000180	Agente de serviços da segurança social
+Q000181	Inspector e detective da polícia
+Q000182	Jogador profissional de futebol
+Q000183	Ciclista profissional
+Q000184	Outros atletas e desportistas de competição
+Q000185	Treinador de desportos
+Q000186	Árbitro (juiz) de desportos
+Q000187	Instrutor de desportos
+Q000188	Fotógrafo
+Q000189	Chefe de cozinha
+Q000190	Técnico operador das tecnologias de informação e comunicação (TIC)
+Q000191	Técnico de apoio aos utilizadores das tecnologias da informação e comunicação (TIC)
+Q000192	Técnico em redes e sistemas de computadores
+Q000193	Técnico da Web
+Q000194	Técnico de gravação audiovisual
+Q000195	Técnico de sistemas de comunicações via rádio
+Q000196	Técnico de telecomunicações
+Q000197	Empregado de escritório em geral
+Q000198	Técnico de secretariado
+Q000199	Dactilógrafo e operador de processamento de texto
+Q000200	Operador de registo de dados
+Q000201	Caixa bancário e similar
+Q000202	Empregado de banca nos casinos e outros empregados de apostas
+Q000203	Penhorista e prestamista
+Q000204	Empregado das agências de viagens
+Q000205	Empregado dos centros de chamadas
+Q000206	Operador de central telefónica
+Q000207	Recepcionista de hotel
+Q000208	Pessoal de informação administrativa
+Q000209	Recepcionista, excepto de hotel
+Q000210	Entrevistador de inquéritos e de estudos de mercado
+Q000211	Operador de contabilidade e escrituração comercial
+Q000212	Operador dos serviços de estatística, financeiros e seguros
+Q000213	Operador de dados de processamento de pagamentos
+Q000214	Empregado de aprovisionamento
+Q000215	Empregado de serviços de apoio à produção
+Q000216	Controlador de transportes terrestres de passageiros
+Q000217	Empregado de controlo dos serviços de transportes aéreos e marítimos
+Q000218	Empregado de biblioteca
+Q000219	Carteiro e similares
+Q000220	Codificador, revisor de provas e similares
+Q000221	Escrivão e similares
+Q000222	Classificador arquivista
+Q000223	Empregado de serviço de pessoal
+Q000224	Assistentes de viagem e comissários
+Q000225	Fiscal e cobrador de transportes públicos
+Q000226	Guia intérprete
+Q000227	Cozinheiro
+Q000228	Empregado de mesa
+Q000229	Empregado de bar
+Q000230	Esteticista
+Q000231	Governante doméstico
+Q000232	Porteiro de edifícios
+Q000233	Astrólogo
+Q000234	Agente funerário
+Q000235	Prestador de cuidados a animais
+Q000236	Instrutor de condução
+Q000237	Vendedor ambulante de produtos alimentares
+Q000238	Comerciante de loja (estabelecimento)
+Q000239	Encarregado de loja (estabelecimento)
+Q000240	Operador de caixa
+Q000241	Manequim e outros modelos
+Q000242	Vendedor ao domicílio
+Q000243	Vendedor de centros de contacto
+Q000244	Assistente de estação de serviço ao condutor
+Q000245	Auxiliar de cuidados de crianças
+Q000246	Ajudante familiar
+Q000247	Bombeiro
+Q000248	Sargentos da Guarda Nacional Republicana
+Q000249	Guardas da Guarda Nacional Republicana
+Q000250	Agente de Polícia de Segurança Pública
+Q000251	Agente de Polícia Marítima
+Q000252	Agente de Polícia Municipal
+Q000253	Guarda dos serviços prisionais
+Q000254	Porteiro de hotelaria
+Q000255	Agricultor e trabalhador qualificado de cereais e outras culturas extensivas
+Q000256	Trabalhador qualificado da jardinagem
+Q000257	Produtor e trabalhador qualificado na produção de bovinos
+Q000258	Produtor e trabalhador qualificado na produção de suinos
+Q000259	Avicultor e trabalhador qualificado da avicultura
+Q000260	Apicultor e trabalhador qualificado da apicultura
+Q000261	Motosserrista
+Q000262	Sapador florestal
+Q000263	Outros trabalhadores qualificados da floresta e similares
+Q000264	Pescador de águas interiores
+Q000265	Pescador e marinheiro pescador, de pesca marítima costeira
+Q000266	Outros trabalhadores qualificados de pesca de águas interiores
+Q000267	Outros trabalhadores qualificados de pesca marítima costeira
+Q000268	Mestre, contramestre e arrais, de pesca marítima do largo
+Q000269	Caçador qualificado (inclui com armadilhas) orientado para o mercado
+Q000270	Construtor de casas rudimentares
+Q000271	Pedreiro
+Q000272	Polidor de pedra
+Q000273	Canteiro
+Q000274	Cimenteiro
+Q000275	Carpinteiro de limpos e de tosco
+Q000276	Montador de andaimes
+Q000277	Colocador de telhados e de coberturas
+Q000278	Ladrilhador
+Q000279	Estucador
+Q000280	Trabalhador qualificado em isolamentos acústicos e térmicos
+Q000281	Canalizador
+Q000282	Instalador de ar condicionado e de sistemas de refrigeração
+Q000283	Pintor de construções
+Q000284	Limpador de chaminés e de outras estruturas de edifícios
+Q000285	Operador de fundição
+Q000286	Soldador
+Q000287	Trabalhador de corte a oxi-gás
+Q000288	Bate-chapa de veículos automóveis
+Q000289	Armador e montador de cabos metálicos
+Q000290	Forjador e ferreiro
+Q000291	Mecânico e reparador de veículos automóveis
+Q000292	Técnico de manutenção e reparação de motores de avião
+Q000293	Mecânico e reparador, de máquinas agrícolas e industriais
+Q000294	Reparador de bicicletas e similares
+Q000295	Joalheiro
+Q000296	Filigranista
+Q000297	Oleiro
+Q000298	Modelador e formista, de cerâmica
+Q000299	Outros oleiros e similares
+Q000300	Soprador de artigos de vidro
+Q000301	Pintor-decorador de vidro, cerâmica e outros materiais
+Q000302	Artesão de artigos de couro
+Q000303	Serígrafo e similar
+Q000304	Outros operadores de impressão
+Q000305	Electricista de construções e similares
+Q000306	Instalador e reparador, de tecnologias de informação e comunicação
+Q000307	Matador de animais
+Q000308	Cortador de carne
+Q000309	Salsicheiro
+Q000310	Preparador e conservador de peixe
+Q000311	Padeiro
+Q000312	Pasteleiro
+Q000313	Confeiteiro
+Q000314	Trabalhador do tratamento da madeira
+Q000315	Trabalhador do tratamento da cortiça
+Q000316	Marceneiro
+Q000317	Bordador
+Q000318	Estofador
+Q000319	Colchoeiro
+Q000320	Outros trabalhadores similares a estofador
+Q000321	Sapateiro
+Q000322	Maleiro
+Q000323	Correeiro
+Q000324	Albardeiro e similares
+Q000325	Fumigador e outros controladores, de pragas e ervas daninhas
+Q000326	Mineiro
+Q000327	Operador de instalações de processamento de minérios
+Q000328	Perfurador de poços, sondador e similares
+Q000329	Operador de máquinas para trabalhar o cimento
+Q000330	Operador de instalações e máquinas, para petróleo e gás
+Q000331	Operador de máquinas para o fabrico de produtos de borracha
+Q000332	Operador de máquinas para preparar, fiar e bobinar, fibras têxteis
+Q000333	Operador de máquinas de tecer e tricotar
+Q000334	Operador de máquinas de costura
+Q000335	Operador de máquinas para preparar peles com pêlo e couro
+Q000336	Operador de máquinas de fabrico de calçado e similares
+Q000337	Operador de máquinas de lavandaria
+Q000338	Operador de máquinas de fabrico de produtos lácteos
+Q000339	Operador de máquinas de produção e refinação de açúcar
+Q000340	Operador de máquinas para preparação de vinhos e outras bebidas
+Q000341	Operador de máquinas para o fabrico do tabaco
+Q000342	Maquinista de locomotivas
+Q000343	Guarda-freios, agulheiro e agente de manobras de caminhos-de-ferro
+Q000344	Condutor de motociclos
+Q000345	Motorista de táxis
+Q000346	Motorista de autocarros
+Q000347	Guarda-freio de eléctrico
+Q000348	Motorista de veículos pesados de mercadorias
+Q000349	Operador de empilhadores
+Q000350	Trabalhador de limpeza em casas particulares
+Q000351	Trabalhador de limpeza em escritórios, hotéis e outros estabelecimentos
+Q000352	Lavadeiro e engomador de roupa
+Q000353	Lavador de veículos
+Q000354	Lavador de janelas
+Q000355	Trabalhador não qualificado da produção animal
+Q000356	Trabalhador não qualificado da agricultura e produção animal combinadas
+Q000357	Trabalhador não qualificado da floresta
+Q000358	Trabalhador não qualificado das minas
+Q000359	Trabalhador não qualificado de engenharia civil
+Q000360	Trabalhador não qualificado da construção de edifícios
+Q000361	Embalador manual da indústria transformadora
+Q000362	Outros trabalhadores não qualificados da indústria transformadora
+Q000363	Condutor de veículos accionados à mão ou ao pé
+Q000364	Condutor de veículos de tracção animal
+Q000365	Carregadores e descarregadores não qualificados de mercadorias
+Q000366	Repositor de produtos em prateleiras
+Q000367	Preparador de refeições rápidas
+Q000368	Ajudante de cozinha
+Q000369	Prestador de serviços na rua
+Q000370	Vendedor ambulante (excepto de alimentos)
+Q000371	Trabalhador da recolha de resíduos
+Q000372	Trabalhador da triagem de resíduos
+Q000373	Cantoneiro de limpeza
+Q000374	Estafeta
+Q000375	Colocador de anúncios (montador de anúncios)
+Q000376	Outros trabalhadores polivalentes
+Q000377	Leitor de contadores
+Q000378	Colector de dinheiro em máquinas de venda automática, parquímetros e similares
+Q000379	Coveiro

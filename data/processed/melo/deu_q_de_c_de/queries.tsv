@@ -1,0 +1,1779 @@
+Q000001	Offizier im militärfachlichen Dienst
+Q000002	Offizier im Truppendienst
+Q000003	Offizier im Sanitätsdienst
+Q000004	Offizier im Geoinformationsdienst
+Q000005	Offizier im Militärmusikdienst
+Q000006	Feldwebel im Truppendienst
+Q000007	Feldwebel im allgemeinen Fachdienst
+Q000008	Feldwebel im Sanitätsdienst
+Q000009	Feldwebel im Militärmusikdienst
+Q000010	Feldwebel im Geoinformationsdienst
+Q000011	Fachunteroffizier im allgemeinen Fachdienst
+Q000012	Fachunteroffizier im Sanitätsdienst
+Q000013	Fachunteroffizier im Geoinformationsdienst
+Q000014	Fachunteroffizier im Militärmusikdienst
+Q000015	Freiwillig Wehrdienstleistender/Freiwillig Wehrdienstleistende - Laufbahngruppe Mannschaften
+Q000016	Landwirt/Landwirtin
+Q000017	Fachkraft Agrarservice
+Q000018	Landwirtschaftsberater/Landwirtschaftsberaterin
+Q000019	Pflanzenschützer/Pflanzenschützerin
+Q000020	Staatlich geprüfte Fachkraft für EDV-gestützte Unternehmensführung
+Q000021	Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin - Landwirtschaftliche Direktvermarktung
+Q000022	Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin - Erneuerbare Energien/Biomasse
+Q000023	Entwicklungshelfer/Entwicklungshelferin
+Q000024	Betriebsleiter/Betriebsleiterin - landwirtschaftlich
+Q000025	Tierwirt/Tierwirtin Fachrichtung Schäferei
+Q000026	Tierwirt/Tierwirtin Fachrichtung Schweinehaltung
+Q000027	Fachagrarwirt/Fachagrarwirtin - Leistungs- und Qualitätsprüfungen in der Tierproduktion
+Q000028	Geprüfter Klauenpfleger/Geprüfte Klauenpflegerin
+Q000029	Tierwirt/Tierwirtin Fachrichtung Geflügelhaltung
+Q000030	Tierwirt/Tierwirtin Fachrichtung Imkerei
+Q000031	Imker/Imkerin
+Q000032	Tierwirt/Tierwirtin Schwerpunkt Pelztierhaltung
+Q000033	Pelztierzüchter/Pelztierzüchterin
+Q000034	Vogelzüchter/Vogelzüchterin
+Q000035	Hundezüchter/Hundezüchterin
+Q000036	Stallmeister/Stallmeisterin
+Q000037	Tierwirtschaftsmeister/Tierwirtschaftsmeisterin Fachrichtung Rinderhaltung
+Q000038	Tierwirtschaftsmeister/Tierwirtschaftsmeisterin Fachrichtung Schäferei
+Q000039	Tierwirtschaftsmeister/Tierwirtschaftsmeisterin Fachrichtung Geflügelhaltung
+Q000040	Tierwirtschaftsmeister/Tierwirtschaftsmeisterin Teilbereich Pelztierhaltung
+Q000041	Tierwirtschaftsmeister/Tierwirtschaftsmeisterin Fachrichtung Schweinehaltung
+Q000042	Pferdewirt/Pferdewirtin Fachrichtung Pferdezucht
+Q000043	Pferdewirt/Pferdewirtin Schwerpunkt Reiten
+Q000044	Pferdewirt/Pferdewirtin Schwerpunkt Rennreiten
+Q000045	Pferdewirt/Pferdewirtin Fachrichtung Spezialreitweisen
+Q000046	Pferdewirt/Pferdewirtin Fachrichtung Klassische Reitausbildung
+Q000047	Hufbeschlagschmied/Hufbeschlagschmiedin
+Q000048	Kutscher/Kutscherin
+Q000049	Pferdewirtschaftsmeister/Pferdewirtschaftsmeisterin Teilbereich Pferdezucht und -haltung
+Q000050	Pferdewirtschafter/Pferdewirtschafterin (Hochschule)
+Q000051	Pferdewirtschaftsmeister/Pferdewirtschaftsmeisterin Fachrichtung Pferdehaltung und Service
+Q000052	Pferdewirtschaftsmeister/Pferdewirtschaftsmeisterin Fachrichtung Pferdezucht
+Q000053	Gestütsverwalter/Gestütsverwalterin
+Q000054	Gestütsleiter/Gestütsleiterin
+Q000055	Fischwirt/Fischwirtin Fachrichtung Küstenfischerei und Kleine Hochseefischerei
+Q000056	Tierpfleger/Tierpflegerin Fachrichtung Zoo
+Q000057	Tierpfleger/Tierpflegerin Fachrichtung Forschung und Klinik
+Q000058	Tierlehrer/Tierlehrerin
+Q000059	Winzer/Winzerin
+Q000060	Weinbauberater/Weinbauberaterin
+Q000061	Önologe/Önologin
+Q000062	Helfer/Helferin in der Forstwirtschaft
+Q000063	Forstwirt/Forstwirtin
+Q000064	Beamter/Beamtin im Forstdienst (gehobener Dienst)
+Q000065	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Forsttechnik
+Q000066	Förster/Försterin (Hochschule)
+Q000067	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Umwelt/Landschaft
+Q000068	Geprüfter Natur- und Landschaftspfleger/Geprüfte Natur- und Landschaftspflegerin
+Q000069	Ranger/Rangerin
+Q000070	Revierjäger/Revierjägerin
+Q000071	Wildheger/Wildhegerin
+Q000072	Berufsjäger/Berufsjägerin
+Q000073	Jäger (Berufsjäger)/Jägerin (Berufsjägerin)
+Q000074	Staatlich geprüfter Wirtschafter/Staatlich geprüfte Wirtschafterin Fachrichtung Forstwirtschaft
+Q000075	Forstwirtschaftsmeister/Forstwirtschaftsmeisterin
+Q000076	Revierförster/Revierförsterin
+Q000077	Forstverwalter/Betriebsleiter / Forstverwalterin/Betriebsleiterin - Forst
+Q000078	Friedhofsarbeiter/Friedhofsarbeiterin
+Q000079	Gärtner/Gärtnerin Fachrichtung Garten- und Landschaftsbau
+Q000080	Baumpfleger/Baumpflegerin
+Q000081	Gartengestalter/Landschaftsgestalter / Gartengestalterin/Landschaftsgestalterin
+Q000082	Ingenieur/Ingenieurin für Landschaftsarchitektur
+Q000083	Landschaftsarchitekt/Landschaftsarchitektin
+Q000084	Gartenbauverwalter/Gartenbauverwalterin
+Q000085	Florist/Floristin
+Q000086	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin für Blumenkunst
+Q000087	Helfer/Helferin im Bergbau, Tagebau
+Q000088	Bergmechaniker/Bergmechanikerin
+Q000089	Berg- und Maschinenmann/Berg- und Maschinenfrau Fachrichtung Transport und Instandhaltung
+Q000090	Tiefbohrfacharbeiter/Tiefbohrfacharbeiterin (Erdöl-, Erdgasgewinnung)
+Q000091	Bergbautechnologe/Bergbautechnologin Fachrichtung Tiefbohrtechnik
+Q000092	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Bohrtechnik
+Q000093	Sprengberechtigter/Sprengberechtigte
+Q000094	Kampfmittelbeseitiger/Kampfmittelbeseitigerin
+Q000095	Aufbereitungsmechaniker/Aufbereitungsmechanikerin Fachrichtung Steinkohle
+Q000096	Aufbereitungsmechaniker/Aufbereitungsmechanikerin Fachrichtung feuerfeste und keramische Rohstoffe
+Q000097	Aufbereitungsmechaniker/Aufbereitungsmechanikerin Fachrichtung Sand und Kies
+Q000098	Naturwerksteinmechaniker/Naturwerksteinmechanikerin Fachrichtung Maschinenbearbeitungstechnik
+Q000099	Naturwerksteinmechaniker/Naturwerksteinmechanikerin Fachrichtung Schleiftechnik
+Q000100	Natursteinschleifer/Natursteinschleiferin
+Q000101	Aufbereitungsmechaniker/Aufbereitungsmechanikerin Fachrichtung Braunkohle
+Q000102	Aufbereiter/Aufbereiterin im Bergbau
+Q000103	Verfahrensmechaniker/Verfahrensmechanikerin in der Steine- und Erdenindustrie Fachrichtung Transportbeton
+Q000104	Verfahrensmechaniker/Verfahrensmechanikerin in der Steine- und Erdenindustrie Fachrichtung Asphalttechnik
+Q000105	Grabsteinmetz/Grabsteinmetzin
+Q000106	Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin Fachrichtung Steinmetzarbeiten
+Q000107	Steinmetz/Steinmetzin (Industrie)
+Q000108	Naturwerksteinmechaniker/Naturwerksteinmechanikerin Fachrichtung Steinmetztechnik
+Q000109	Werkstein- und Terrazzoherstellermeister/Werkstein- und Terrazzoherstellermeisterin
+Q000110	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Glastechnik Schwerpunkt Glasbautechnik
+Q000111	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Glastechnik (ohne Schwerpunkt)
+Q000112	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Glastechnik Schwerpunkt Optik
+Q000113	Flachglasmechaniker/Flachglasmechanikerin
+Q000114	Glasveredler/Glasveredlerin Fachrichtung Flächenveredlung
+Q000115	Glasveredler/Glasveredlerin Fachrichtung Gravur
+Q000116	Glasveredler/Glasveredlerin Fachrichtung Glasmalerei und Kunstverglasung
+Q000117	Glasveredler/Glasveredlerin Fachrichtung Schliff und Gravur
+Q000118	Flachglasveredler/Flachglasveredlerin
+Q000119	Glasgraveur/Glasgraveurin
+Q000120	Flachglastechnologe/Flachglastechnologin
+Q000121	Feinoptiker/Feinoptikerin
+Q000122	Feinoptikermeister/Feinoptikermeisterin
+Q000123	Industriemeister/Industriemeisterin Fachrichtung Optik
+Q000124	Gummiverarbeiter/Gummiverarbeiterin
+Q000125	Verfahrensmechaniker/Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik Fachrichtung Halbzeuge
+Q000126	Kunststoffpresser/Kunststoffpresserin
+Q000127	Kunststoffspritzer/Kunststoffspritzerin
+Q000128	Kunststofftiefzieher/Kunststofftiefzieherin
+Q000129	Laminierer/Laminiererin (Kunststoffverarbeitung)
+Q000130	Extruderführer/Extruderführerin
+Q000131	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Kunststoff- und Kautschuktechnik
+Q000132	Ingenieur/Ingenieurin für Kunststofftechnik
+Q000133	Reifenmonteur/Reifenmonteurin
+Q000134	Vulkaniseur/Vulkaniseurin
+Q000135	Industriemeister/Industriemeisterin Fachrichtung Kunststoff und Kautschuk
+Q000136	Meister/Meisterin für Kunststofftechnik
+Q000137	Lackierer/Lackiererin in der Spritzlackierung
+Q000138	Lackierer/Lackiererin in der Tauchlackierung
+Q000139	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Farb- und Lacktechnik (ohne Schwerpunkt)
+Q000140	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Farb- und Lacktechnik Schwerpunkt Anwendungs- und Betriebstechnik
+Q000141	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Farb- und Lacktechnik Schwerpunkt industrielle Beschichtungstechnik
+Q000142	Maler und Lackierer Schwerpunkt Fahrzeuglackierer/Malerin und Lackiererin Schwerpunkt Fahrzeuglackiererin
+Q000143	Fahrzeuglackierer/Fahrzeuglackiererin
+Q000144	Staatlich geprüfter Betriebsmanager/Staatlich geprüfte Betriebsmanagerin Fachrichtung Farbtechnik
+Q000145	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Holztechnik Schwerpunkt Betriebstechnik
+Q000146	Ingenieur/Ingenieurin für Holztechnik
+Q000147	Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin Fachrichtung Sägeindustrie
+Q000148	Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin Fachrichtung Hobelindustrie
+Q000149	Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin Fachrichtung Holzleimbauindustrie
+Q000150	Holzmechaniker/Holzmechanikerin Fachrichtung Parkettindustrie
+Q000151	Sägewerker/Sägewerkerin
+Q000152	Kunsttischler/Kunsttischlerin
+Q000153	Oberflächenbearbeiter/Oberflächenbearbeiterin (Tischlerei)
+Q000154	Furnierer/Furniererin
+Q000155	Geprüfter Bildeinrahmer/Geprüfte Bildeinrahmerin
+Q000156	Geprüfter Restaurator im Tischlerhandwerk/Geprüfte Restauratorin im Tischlerhandwerk - Master Professional für Restaurierung im Handwerk
+Q000157	Tischler/Tischlerin für Restaurierungsarbeiten
+Q000158	Staatlich geprüfter Restaurator/Staatlich geprüfte Restauratorin für Möbel und Holzobjekte - Bachelor Professional Technik
+Q000159	Bürsten- und Pinselmacher/Bürsten- und Pinselmacherin Fachrichtung Bürstenherstellung
+Q000160	Korbmacher/Korbmacherin Fachrichtung Korbmöbelbau
+Q000161	Flechtwerkgestalter/Flechtwerkgestalterin
+Q000162	Flechtwerkgestalter/Flechtwerkgestalterin Schwerpunkt Flechtmöbel
+Q000163	Bürsten- und Pinselmacher/Bürsten- und Pinselmacherin
+Q000164	Bürsten- und Pinselmacher/Bürsten- und Pinselmacherin Schwerpunkt Herstellen von Bürsten
+Q000165	Böttcher/Böttcherin
+Q000166	Bürsten- und Pinselmachermeister/Bürsten- und Pinselmachermeisterin
+Q000167	Industriemeister/Industriemeisterin Fachrichtung Sägeindustrie
+Q000168	Fachwirt/Fachwirtin für Holzindustrie und Holzhandel
+Q000169	Betriebswirt/Betriebswirtin (Fachschule) für Holz
+Q000170	Staatlich geprüfter Betriebsmanager/Staatlich geprüfte Betriebsmanagerin Fachrichtung Bau- und Holztechnik
+Q000171	Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk
+Q000172	Holzwirt/Holzwirtin
+Q000173	Papiermacher/Papiermacherin Fachrichtung Zellstoff
+Q000174	Papiertechnologe/Papiertechnologin Fachrichtung Zellstoff
+Q000175	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Papiertechnik
+Q000176	Ingenieur/Ingenieurin für Papiertechnik
+Q000177	Kartonagenmacher/Kartonagenmacherin
+Q000178	Ingenieur/Ingenieurin für Verpackungstechnik
+Q000179	Industriemeister/Industriemeisterin Fachrichtung Papiererzeugung
+Q000180	Mediengestalter/Mediengestalterin für Digital- und Printmedien Fachrichtung Mediendesign
+Q000181	Schriftsetzer/Schriftsetzerin
+Q000182	Druckvorlagenhersteller/Druckvorlagenherstellerin
+Q000183	Scanner-Operator/Scanner-Operatorin
+Q000184	Mediengestalter/Mediengestalterin für Digital- und Printmedien Fachrichtung Medienoperating
+Q000185	Mediengestalter/Mediengestalterin für Digital- und Printmedien Fachrichtung Medientechnik
+Q000186	Staatlich geprüfter Gestaltungstechnischer Assistent/Staatlich geprüfte Gestaltungstechnische Assistentin
+Q000187	Mediengestalter/Mediengestalterin Digital und Print Fachrichtung Gestaltung und Technik
+Q000188	Mediengestalter/Mediengestalterin Digital und Print Fachrichtung Konzeption und Visualisierung
+Q000189	Staatlich geprüfter Grafikdesigner/Staatlich geprüfte Grafikdesignerin
+Q000190	Gamedesigner/Gamedesignerin
+Q000191	Webdesigner/Webdesignerin
+Q000192	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Grafikdesign
+Q000193	Computer-Animator/Computer-Animatorin
+Q000194	Kommunikationsdesigner/Kommunikationsdesignerin
+Q000195	Flexografenmeister/Flexografenmeisterin
+Q000196	Industriemeister/Industriemeisterin Fachrichtung Digital- und Printmedien
+Q000197	Industriemeister/Industriemeisterin Fachrichtung Printmedien - Bachelor Professional in Print
+Q000198	Art-Director
+Q000199	Fotomedienlaborant/Fotomedienlaborantin
+Q000200	Fotolaborant/Fotolaborantin
+Q000201	Film- und Videolaborant/Film- und Videolaborantin
+Q000202	Filmkopienfertiger/Filmkopenfertigerin
+Q000203	Fotograf/Fotografin
+Q000204	Pressefotograf/Pressefotografin
+Q000205	Bildjournalist/Bildjournalistin
+Q000206	Papierpräger/Papierprägerin
+Q000207	Flexodrucker/Flexodruckerin
+Q000208	Foliendrucker/Foliendruckerin
+Q000209	Textildrucker/Textildruckerin
+Q000210	Vervielfältiger/Vervielfältigerin
+Q000211	Kleinoffsetdrucker/Kleinoffsetdruckerin
+Q000212	Drucker/Druckerin Fachrichtung Digitaldruck
+Q000213	Drucker/Druckerin Fachrichtung Tiefdruck
+Q000214	Drucker/Druckerin Fachrichtung Hochdruck
+Q000215	Drucker/Druckerin Fachrichtung Flachdruck
+Q000216	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Druck- und Medientechnik
+Q000217	Ingenieur/Ingenieurin für Druck- und Medientechnik
+Q000218	Buchbinder/Buchbinderin für Restaurierungsarbeiten
+Q000219	Geprüfter Restaurator im Buchbinderhandwerk/Geprüfte Restauratorin im Buchbinderhandwerk - Master Professional für Restaurierung im Handwerk
+Q000220	Druckermeister/Druckermeisterin
+Q000221	Siebdruckermeister/Siebdruckermeisterin
+Q000222	Industriemeister/Industriemeisterin Fachrichtung Buchbinderei
+Q000223	Metallschmelzer/Metallschmelzerin
+Q000224	Verfahrenstechnologe/Verfahrenstechnologin Metall Fachrichtung Nichteisenmetallurgie
+Q000225	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Hüttentechnik
+Q000226	Ingenieur/Ingenieurin für Hüttentechnik
+Q000227	Walzer/Walzerin
+Q000228	Kabeljungwerker/Kabeljungwerkerin
+Q000229	Gießereimechaniker/Gießereimechanikerin Fachrichtung Druck- und Kokillenguss
+Q000230	Gießereimechaniker/Gießereimechanikerin Fachrichtung Maschinenformguss
+Q000231	Gießereimechaniker/Gießereimechanikerin
+Q000232	Gießereimechaniker/Gießereimechanikerin Schwerpunkt Druck- und Kokillenguss
+Q000233	Gießereimechaniker/Gießereimechanikerin Schwerpunkt Kernherstellung
+Q000234	Gießereimechaniker/Gießereimechanikerin Schwerpunkt Maschinenformguss
+Q000235	Gießereimechaniker/Gießereimechanikerin Fachrichtung Handformguss
+Q000236	Kernmacher/Kernmacherin
+Q000237	Gießereimechaniker/Gießereimechanikerin Schwerpunkt Handformguss
+Q000238	Industriemeister/Industriemeisterin Fachrichtung Gießerei
+Q000239	Helfer/Helferin in der Metallbearbeitung
+Q000240	Teilezurichter/Teilezurichterin
+Q000241	Metallbearbeiter/Metallbearbeiterin
+Q000242	Metallbearbeitungstechniker/Metallbearbeitungstechnikerin
+Q000243	Metallstanzer/Metallstanzerin
+Q000244	Metallgewebemacher/Metallgewebemacherin
+Q000245	Drahtwarenmacher/Drahtwarenmacherin
+Q000246	Federmacher/Federmacherin
+Q000247	CNC-Schleifer/CNC-Schleiferin
+Q000248	Metallschleifer/Metallschleiferin
+Q000249	Zerspanungsmechaniker/Zerspanungsmechanikerin Fachrichtung Schleiftechnik
+Q000250	Schleifer/Schleiferin
+Q000251	Flächenschleifer/Flächenschleiferin
+Q000252	Rundschleifer/Rundschleiferin
+Q000253	Werkzeugschleifer/Werkzeugschleiferin
+Q000254	Vorpolierer/Vorpoliererin - Schmuck- und Kleingeräteherstellung
+Q000255	CNC-Dreher/CNC-Dreherin
+Q000256	Dreher/Dreherin
+Q000257	CNC-Fräser/CNC-Fräserin
+Q000258	Fräser/Fräserin
+Q000259	Zerspanungsmechaniker/Zerspanungsmechanikerin Fachrichtung Frästechnik
+Q000260	Hobler/Hoblerin
+Q000261	Bohrer/Bohrerin
+Q000262	CNC-Bohrer/CNC-Bohrerin
+Q000263	Metallsäger/Metallsägerin
+Q000264	Erodierer/Erodiererin
+Q000265	Zerspanungsmechaniker/Zerspanungsmechanikerin
+Q000266	Universalhobler/Universalhoblerin
+Q000267	Feinwerkmechaniker/Feinwerkmechanikerin Schwerpunkt Zerspanungstechnik
+Q000268	Fachkraft für Metalltechnik Fachrichtung Zerspanungstechnik
+Q000269	CNC-Fachkraft/NC-Anwendungsfachmann / CNC-Fachkraft/NC-Anwendungsfachfrau
+Q000270	Industriemeister/Industriemeisterin Fachrichtung Metall
+Q000271	Industriemeister/Industriemeisterin Fachrichtung Aluminiumbe- und -verarbeitung
+Q000272	Metallvergüter, -härter/Metallvergüterin, -härterin
+Q000273	Galvaniseur/Galvaniseurin
+Q000274	Galvaniseur und Metallschleifer/Galvaniseurin und Metallschleifer
+Q000275	Oberflächenbeschichter/Oberflächenbeschichterin
+Q000276	Universalhärter/Universalhärterin
+Q000277	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Korrosionsschutztechnik
+Q000278	Schmied/Schmiedin
+Q000279	Metallbauer/Metallbauerin Fachrichtung Metallgestaltung
+Q000280	Metallbauer/Metallbauerin Fachrichtung Konstruktionstechnik
+Q000281	Konstruktionsmechaniker/Konstruktionsmechanikerin
+Q000282	Fachkraft für Metalltechnik Fachrichtung Konstruktionstechnik
+Q000283	Anlagenmechaniker/Anlagenmechanikerin Fachrichtung Schweißtechnik
+Q000284	Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Schweißtechnik
+Q000285	Schweißer/Schweißerin
+Q000286	Elektroschweißer/Elektroschweißerin
+Q000287	Brennschneider/Brennschneiderin
+Q000288	Rohrschweißer/Rohrschweißerin
+Q000289	Löter/Löterin
+Q000290	Nieter/Nieterin
+Q000291	Schweißfachingenieur/Schweißfachingenieurin
+Q000292	Geprüfter Taucher/Geprüfte Taucherin
+Q000293	Metallbauermeister/Metallbauermeisterin
+Q000294	Industriemechaniker/Industriemechanikerin Fachrichtung Geräte- und Feinwerktechnik
+Q000295	Feinmechaniker/Feinmechanikerin Fachrichtung Feingerätebau
+Q000296	Feinwerkmechaniker/Feinwerkmechanikerin
+Q000297	Feinwerkmechaniker/Feinwerkmechanikerin Schwerpunkt Feinmechanik
+Q000298	Chirurgiemechaniker/Chirurgiemechanikerin
+Q000299	Ingenieur/Ingenieurin für Feinwerktechnik
+Q000300	Büchsenmacher/Büchsenmacherin
+Q000301	Werkzeugmacher/Werkzeugmacherin
+Q000302	Werkzeugmechaniker/Werkzeugmechanikerin
+Q000303	Systemmacher/Systemmacherin - Gewehr
+Q000304	Werkzeugingenieur/Werkzeugingenieurin
+Q000305	Uhrmacher/Uhrmacherin
+Q000306	Feinwerkmechanikermeister/Feinwerkmechanikermeisterin
+Q000307	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Geräte- und Feinwerktechnik
+Q000308	Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Ausrüstungstechnik
+Q000309	Betriebsschlosser/Betriebsschlosserin
+Q000310	Industriemechaniker/Industriemechanikerin
+Q000311	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Maschinentechnik (ohne Schwerpunkt)
+Q000312	Ingenieur/Ingenieurin für Maschinenbau
+Q000313	Ingenieur/Ingenieurin für Verfahrenstechnik
+Q000314	Maschinenzusammensetzer/Maschinenzusammensetzerin
+Q000315	Fachkraft für Metalltechnik Fachrichtung Montagetechnik
+Q000316	Fachkraft für Demontage
+Q000317	Geprüfter Kesselwärter/Geprüfte Kesselwärterin
+Q000318	Zählerableser/Zählerableserin
+Q000319	Wartungs- und Servicetechniker/Wartungs- und Servicetechnikerin im Maschinenbau
+Q000320	Aufzugmonteur/Aufzugmonteurin
+Q000321	Kundendienstmonteur, Kundendiensttechniker/Kundendienstmonteurin, Kundendiensttechnikerin
+Q000322	Serviceingenieur/Serviceingenieurin
+Q000323	Motorenmechaniker/Motorenmechanikerin
+Q000324	Hydraulik-Fachkraft
+Q000325	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Mühlenbau, Getreide- und Futtermitteltechnik Schwerpunkt Verfahrenstechnik
+Q000326	Industriemeister/Industriemeisterin in Instandhaltung und Kundendienst
+Q000327	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Produktionstechnik
+Q000328	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Ausrüstungstechnik
+Q000329	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Betriebstechnik
+Q000330	Leiter/Leiterin des Kundendienstes (technisch)
+Q000331	Leiter/Leiterin - Betriebliche Instandhaltung
+Q000332	Helfer/Helferin für Fahrzeugbau und -instandhaltung
+Q000333	Karosserie- und Fahrzeugbauer/Karosserie- und Fahrzeugbauerin Fachrichtung Karosseriebau
+Q000334	Kraftfahrzeugmechaniker/Kraftfahrzeugmechanikerin
+Q000335	Pannendienstfahrer/Pannendienstfahrerin
+Q000336	Karosserie- und Fahrzeugbaumechaniker/Karosserie- und Fahrzeugbaumechanikerin Fachrichtung Karosseriebautechnik
+Q000337	Karosseriebauer/Karosseriebauerin
+Q000338	Kraftfahrzeugmechatroniker/Kraftfahrzeugmechatronikerin Schwerpunkt System- und Hochvolttechnik
+Q000339	Karosserie- und Fahrzeugbaumechaniker/Karosserie- und Fahrzeugbaumechanikerin Fachrichtung Karosserie- und Fahrzeugbautechnik
+Q000340	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Kraftfahrzeugtechnik
+Q000341	Baumaschinenmechaniker/Baumaschinenmechanikerin
+Q000342	Kranmonteur/Kranmonteurin
+Q000343	Landmaschinenmechaniker/Landmaschinenmechanikerin
+Q000344	Metallbauer/Metallbauerin Fachrichtung Landtechnik
+Q000345	Ingenieur/Ingenieurin für Agrartechnik
+Q000346	Fluggerätmechaniker/Fluggerätmechanikerin Fachrichtung Instandhaltungstechnik
+Q000347	Fluggerätmechaniker/Fluggerätmechanikerin Fachrichtung Triebwerkstechnik
+Q000348	Leichtflugzeugbauer/Leichtflugzeugbauerin
+Q000349	Fluggerätbauer/Fluggerätbauerin
+Q000350	Flugtriebwerkmechaniker/Flugtriebwerkmechanikerin
+Q000351	Holzflugzeugbauer/Holzflugzeugbauerin
+Q000352	Metallflugzeugbauer/Metallflugzeugbauerin
+Q000353	Ingenieur/Ingenieurin für Luft- und Raumfahrttechnik
+Q000354	Schiffbauer/Schiffbauerin
+Q000355	Schiffsmechaniker/Schiffsmechanikerin
+Q000356	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Schiffbautechnik
+Q000357	Ingenieur/Ingenieurin für Schiffbau und Meerestechnik
+Q000358	Zweiradmechaniker/Zweiradmechanikerin Fachrichtung Motorradtechnik
+Q000359	Zweiradmechaniker/Zweiradmechanikerin Fachrichtung Fahrradtechnik
+Q000360	Fahrradmonteur/Fahrradmonteurin
+Q000361	Zweiradmechatroniker/Zweiradmechatronikerin Fachrichtung Motorradtechnik
+Q000362	Zweiradmechatroniker/Zweiradmechatronikerin Fachrichtung Fahrradtechnik
+Q000363	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Automobilindustrie
+Q000364	Roboterprogrammierer/Roboterprogrammiererin
+Q000365	Mechatroniker/Mechatronikerin
+Q000366	Staatlich geprüfter Technischer Assistent/Staatlich geprüfte Technische Assistentin für Automatisierungstechnik
+Q000367	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Mechatronik
+Q000368	Ingenieur/Ingenieurin für Mechatronik
+Q000369	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Elektrotechnik Schwerpunkt Automatisierungstechnik
+Q000370	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Produktionstechnik und Datenmanagement
+Q000371	Ingenieur/Ingenieurin für Automatisierungstechnik
+Q000372	Messingenieur/Messingenieurin
+Q000373	Ingenieur/Ingenieurin für Robotik, Autonome Systeme
+Q000374	Bauelektriker/Bauelektrikerin
+Q000375	Elektroinstallateur/Elektroinstallateurin
+Q000376	Elektroniker/Elektronikerin Fachrichtung Energie- und Gebäudetechnik
+Q000377	Elektroniker/Elektronikerin für Gebäude- und Infrastruktursysteme
+Q000378	Elektromaschinenbauer/Elektromaschinenbauerin
+Q000379	Elektromaschinenmonteur/Elektromaschinenmonteurin
+Q000380	Elektroniker/Elektronikerin für Maschinen und Antriebstechnik (Ausbildung bis 2021)
+Q000381	Elektroniker/Elektronikerin für Maschinen und Antriebstechnik nach der Handwerksordnung
+Q000382	Elektroniker/Elektronikerin für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz
+Q000383	Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
+Q000384	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Elektrotechnik Schwerpunkt Energietechnik
+Q000385	Ingenieur/Ingenieurin für Energietechnik
+Q000386	Staatlich geprüfter Technischer Assistent/Staatlich geprüfte Technische Assistentin - nachwachsende Rohstoffe
+Q000387	Servicetechniker/Servicetechnikerin für Biogasanlagen
+Q000388	Solarmonteur/Solarmonteurin
+Q000389	Solartechniker/Solartechnikerin
+Q000390	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Windenergietechnik
+Q000391	Fachwirt/Fachwirtin für Solartechnik
+Q000392	Ingenieur/Ingenieurin für Erneuerbare Energien
+Q000393	Elektroniker/Elektronikerin - Prüffeld
+Q000394	Industrieelektriker/Industrieelektrikerin - Betriebstechnik
+Q000395	Energieelektroniker/Energieelektronikerin Fachrichtung Betriebstechnik
+Q000396	Elektroniker/Elektronikerin für Betriebstechnik
+Q000397	Elektromaschinenbauermeister/Elektromaschinenbauermeisterin
+Q000398	Kraftwerksmeister/Kraftwerksmeisterin Fachrichtung Maschinentechnik/Kerntechnik
+Q000399	Kraftwerksmeister/Kraftwerksmeisterin - Fachrichtung Produktion Elektrotechnik/Leittechnik
+Q000400	Elektromechaniker/Elektromechanikerin
+Q000401	Industrieelektriker/Industrieelektrikerin - Geräte und Systeme
+Q000402	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Elektrotechnik (ohne Schwerpunkt)
+Q000403	Ingenieur/Ingenieurin für Elektrotechnik
+Q000404	Elektrotechniksachverständiger/Elektrotechniksachverständige
+Q000405	Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung Telekommunikationstechnik
+Q000406	Fernmeldeanlagenelektroniker/Fernmeldeanlagenelektronikerin
+Q000407	Informations- und Telekommunikationssystem-Elektroniker/Informations- und Telekommunikationssystem-Elektronikerin
+Q000408	Servicetechniker/Servicetechnikerin für Informationstechnologie
+Q000409	Beamter/Beamtin für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+Q000410	Fernmeldeelektroniker/Fernmeldeelektronikerin
+Q000411	Systemtechniker/Systemtechnikerin (Telekommunikationstechnik)
+Q000412	Medientechniker/Medientechnikerin (Kommunikationselektronik)
+Q000413	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Elektrotechnik Schwerpunkt Informations- und Kommunikationstechnik
+Q000414	Komponentenentwickler/Komponentenentwicklerin
+Q000415	Mikrotechnologe/Mikrotechnologin
+Q000416	Mikrotechnologe/Mikrotechnologin Schwerpunkt Halbleitertechnik
+Q000417	Mikrotechnologe/Mikrotechnologin Schwerpunkt Mikrosystemtechnik
+Q000418	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Mikrosystemtechnik
+Q000419	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Leiterplattentechnik
+Q000420	Ingenieur/Ingenieurin für Mikrosystemtechnik
+Q000421	Ingenieur/Ingenieurin für Mikroelektronik
+Q000422	Ingenieur/Ingenieurin für Nanotechnologie
+Q000423	Ingenieur/Ingenieurin für Sensortechnik
+Q000424	Schiffselektriker/Schiffselektrikerin
+Q000425	Elektroniker/Elektronikerin für luftfahrttechnische Systeme
+Q000426	Fluggerätelektroniker/Fluggerätelektronikerin
+Q000427	Kraftfahrzeugelektriker/Kraftfahrzeugelektrikerin
+Q000428	Elektroprüfer/Elektroprüferin
+Q000429	Systemtester im Bereich Elektrotechnik/Systemtesterin im Bereich Elektrotechnik
+Q000430	Ingenieur/Ingenieurin für Optoelektronik
+Q000431	Industriemeister/Industriemeisterin Fachrichtung Elektrotechnik Schwerpunkt Nachrichtentechnik/Informationstechnik
+Q000432	Industriemeister/Industriemeisterin Fachrichtung Elektrotechnik Schwerpunkt Elektronik
+Q000433	Entwicklungstechniker/Entwicklungstechnikerin
+Q000434	3-D-Druck-Spezialist/3-D-Druck-Spezialistin
+Q000435	Forschungs- und Entwicklungsingenieur/Forschungs- und Entwicklungsingenieurin
+Q000436	Projektingenieur/Projektingenieurin
+Q000437	Berechnungsingenieur/Berechnungsingenieurin
+Q000438	Produktingenieur/Produktingenieurin
+Q000439	Inbetriebnahmeingenieur/Inbetriebnahmeingenieurin
+Q000440	Produktentwickler/Produktentwicklerin
+Q000441	Patentingenieur/Patentingenieurin
+Q000442	Leiter/Leiterin in der Forschung und Entwicklung
+Q000443	Technischer Zeichner/Technische Zeichnerin Fachrichtung Maschinen- und Anlagentechnik
+Q000444	Technischer Zeichner/Technische Zeichnerin Fachrichtung Elektrotechnik
+Q000445	Technischer Zeichner/Technische Zeichnerin Fachrichtung Heizungs-, Klima- und Sanitärtechnik
+Q000446	Bauzeichner/Bauzeichnerin
+Q000447	Bauzeichner/Bauzeichnerin Schwerpunkt Architektur
+Q000448	Technischer Produktdesigner/Technische Produktdesignerin (ohne Fachrichtungen)
+Q000449	Technischer Produktdesigner/Technische Produktdesignerin Fachrichtung Produktgestaltung und -konstruktion
+Q000450	Technischer Systemplaner/Technische Systemplanerin Fachrichtung Elektrotechnische Systeme
+Q000451	Technischer Systemplaner/Technische Systemplanerin Fachrichtung Versorgungs- und Ausrüstungstechnik
+Q000452	CAD-Fachkraft (ohne Schwerpunkt)
+Q000453	Konstruktionsingenieur/Konstruktionsingenieurin
+Q000454	Modellbaumechaniker/Modellbaumechanikerin Fachrichtung Gießereimodellbau
+Q000455	Technischer Modellbauer/Technische Modellbauerin Fachrichtung Gießerei
+Q000456	Produktionstechnologe/Produktionstechnologin
+Q000457	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Maschinentechnik Schwerpunkt Produktionsorganisation
+Q000458	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Wirtschaftstechnik
+Q000459	REFA-Techniker/REFA-Technikerin
+Q000460	Staatlich anerkannter Techniker/Staatlich anerkannte Technikerin für Betriebswissenschaft
+Q000461	Assistent/Assistentin der Produktionsleitung
+Q000462	Geprüfter Prozessmanager/Geprüfte Prozessmanagerin - Produktionstechnologie
+Q000463	Betriebsingenieur/Betriebsingenieurin
+Q000464	Wirtschaftsingenieur/Wirtschaftsingenieurin
+Q000465	Ingenieur/Ingenieurin für Service/Instandhaltung
+Q000466	Product-Lifecycle-Manager/Product-Lifecycle-Managerin
+Q000467	Testfahrer/Testfahrerin
+Q000468	Güte- und Materialprüfer/Qualitätsfachmann / Güte- und Materialprüferin/Qualitätsfachfrau
+Q000469	Qualitätssicherungstechniker/Qualitätssicherungstechnikerin
+Q000470	Fachkraft - Qualitätssicherung/Qualitätsmanagement
+Q000471	Qualitätsingenieur/Qualitätsingenieurin
+Q000472	Bandleiter/Bandleiterin
+Q000473	Qualitätsmanager/Qualitätsmanagerin
+Q000474	Werkleiter/Werkleiterin
+Q000475	Produktionsmechaniker/Produktionsmechanikerin - Textil
+Q000476	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin Schwerpunkt Textiltechnik
+Q000477	Ingenieur/Ingenieurin für Textiltechnik
+Q000478	Sticker/Stickerin
+Q000479	Tapisserist/Tapisseristin
+Q000480	Textilmustergestalter/Textilmustergestalterin Fachrichtung Handstickerei
+Q000481	Textilmustergestalter/Textilmustergestalterin Fachrichtung Gewebe
+Q000482	Textilmustergestalter/Textilmustergestalterin Fachrichtung Textildruck
+Q000483	Textilmustergestalter/Textilmustergestalterin Fachrichtung Masche
+Q000484	Produktgestalter/Produktgestalterin - Textil
+Q000485	Textilmustergestalter/Textilmustergestalterin Fachrichtung Maschinenstickerei
+Q000486	Textilmustergestalter/Textilmustergestalterin Fachrichtung Tufting (Nadelflor)
+Q000487	Musterzeichner/Musterzeichnerin in der Stickerei
+Q000488	Musterzeichner/Musterzeichnerin in der Stoffdruckerei
+Q000489	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Sticken
+Q000490	Textildesigner/Textildesignerin
+Q000491	Weber/Weberin
+Q000492	Textilmaschinenführer/Textilmaschinenführerin - Weberei
+Q000493	Textilmechaniker/Textilmechanikerin - Weberei
+Q000494	Textilstopfer/Textilstopferin
+Q000495	Textilmaschinenführer/Textilmaschinenführerin - Tufting
+Q000496	Textilmechaniker/Textilmechanikerin - Tufting
+Q000497	Stricker/Strickerin
+Q000498	Textilmaschinenführer/Textilmaschinenführerin - Maschenindustrie
+Q000499	Textilmechaniker/Textilmechanikerin - Maschenindustrie
+Q000500	Textilmaschinenführer/Textilmaschinenführerin - Vliesstoff
+Q000501	Textilmechaniker/Textilmechanikerin - Vliesstoff
+Q000502	Produktprüfer/Produktprüferin - Textil
+Q000503	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Weberei)
+Q000504	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Tufting)
+Q000505	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Maschen)
+Q000506	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Vliesstoff)
+Q000507	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Schmucktextilien)
+Q000508	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Stricken
+Q000509	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Weben
+Q000510	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Posamentieren
+Q000511	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Klöppeln
+Q000512	Textilgestalter/Textilgestalterin im Handwerk Fachrichtung Filzen
+Q000513	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Textiltechnik Schwerpunkt Webereitechnik
+Q000514	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Textiltechnik Schwerpunkt Vliesstofferzeugung
+Q000515	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Textiltechnik Schwerpunkt Maschentechnik
+Q000516	Textilmaschinenführer/Textilmaschinenführerin - Spinnerei
+Q000517	Textilmechaniker/Textilmechanikerin - Spinnerei
+Q000518	Seiler/Seilerin
+Q000519	Spuler - Textiltechnik/Spulerin - Textiltechnik
+Q000520	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin - Textiltechnik (Spinnerei)
+Q000521	Seiler/Seilerin Schwerpunkt Netzkonfektion
+Q000522	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Textiltechnik Schwerpunkt Spinnereitechnik
+Q000523	Textilveredler/Textilveredlerin
+Q000524	Textilmaschinenführer/Textilmaschinenführerin - Veredlung
+Q000525	Produktveredler/Produktveredlerin - Textil
+Q000526	Textilveredler/Textilveredlerin - Maschinenführung
+Q000527	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin Schwerpunkt Textilveredelung
+Q000528	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Textiltechnik Schwerpunkt Textilveredelung
+Q000529	Staatlich geprüfter Modedesigner/Staatlich geprüfte Modedesignerin
+Q000530	Schnitt-, Entwurfs- und Fertigungsmodelleur/Schnitt-, Entwurfs- und Fertigungsdirektrice
+Q000531	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Bekleidung, Mode
+Q000532	Staatlich geprüfter Produktentwickler/Staatlich geprüfte Produktentwicklerin (Mode)
+Q000533	Modedesigner/Modedesignerin
+Q000534	Helfer/Helferin in der Textilverarbeitung
+Q000535	Herrenschneider/Herrenschneiderin
+Q000536	Damenschneider/Damenschneiderin
+Q000537	Theaterschneider/Theaterschneiderin
+Q000538	Musterschneider/Musterschneiderin
+Q000539	Änderungsschneider/Änderungsschneiderin
+Q000540	Zuschneider/Zuschneiderin (Bekleidung)
+Q000541	Modenäher/Modenäherin
+Q000542	Hut- und Mützenmacher/Hut- und Mützenmacherin
+Q000543	Modist/Modistin
+Q000544	Textil- und Modeschneider/Textil- und Modeschneiderin
+Q000545	Maßschneider/Maßschneiderin Schwerpunkt Damen
+Q000546	Maßschneider/Maßschneiderin Schwerpunkt Herren
+Q000547	Ingenieur/Ingenieurin für Bekleidungstechnik
+Q000548	Polsterer/Polsterin
+Q000549	Möbelpolsterer/Möbelpolsterin
+Q000550	Raumausstatter/Raumausstatterin Schwerpunkt Polstern
+Q000551	Sattler/Sattlerin (ohne Fachrichtungen)
+Q000552	Feinsattler/Feinsattlerin
+Q000553	Täschner/Täschnerin
+Q000554	Feintäschner/Feintäschnerin
+Q000555	Sattler/Sattlerin Fachrichtung Feintäschnerei
+Q000556	Sattler/Sattlerin Fachrichtung Fahrzeugsattlerei
+Q000557	Schuhmacher/Schuhmacherin
+Q000558	Schuhinstandsetzer/Schuhinstandsetzerin
+Q000559	Orthopädieschuhmacher/Orthopädieschuhmacherin
+Q000560	Schäftemacher (Schuhmacher)/Schäftemacherin (Schuhmacherin)
+Q000561	Maßschuhmacher/Maßschuhmacherin Fachrichtung Maßschuhe
+Q000562	Maßschuhmacher/Maßschuhmacherin Fachrichtung Schaftbau
+Q000563	Schuhmodelleur/Schuhmodelleurin
+Q000564	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Schuhtechnik Schwerpunkt Betriebstechnik
+Q000565	Kürschnermeister/Kürschnermeisterin
+Q000566	Brauer und Mälzer/Brauerin und Mälzerin
+Q000567	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Kellerwirtschaft
+Q000568	Destillateur/Destillateurin
+Q000569	Destillatbrenner/Destillatbrennerin
+Q000570	Nahrungs- und Genussmittelkoster/Nahrungs- und Genussmittelkosterin
+Q000571	Weinküfermeister/Weinküfermeisterin
+Q000572	Kellermeister/Kellermeisterin
+Q000573	Brauer- und Mälzermeister/Brauer- und Mälzermeisterin
+Q000574	Landwirtschaftlicher Brennmeister/Landwirtschaftliche Brennmeisterin
+Q000575	Destillateurmeister/Destillateurmeisterin
+Q000576	Betriebsbraumeister/Betriebsbraumeisterin
+Q000577	Nährmittelhersteller/Nährmittelherstellerin
+Q000578	Fachkraft für Lebensmitteltechnik
+Q000579	Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin Schwerpunkt Lebensmitteltechnik
+Q000580	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Lebensmitteltechnik (ohne Schwerpunkt)
+Q000581	Ingenieur/Ingenieurin für Lebensmitteltechnologie
+Q000582	Lebensmittelsachverständiger/Lebensmittelsachverständige
+Q000583	Müller/Müllerin
+Q000584	Müller - Verfahrenstechnologe/Müllerin - Verfahrenstechnologin in der Mühlen- und Futtermittelwirtschaft
+Q000585	Verfahrenstechnologe/Verfahrenstechnologin - Mühlen- und Getreidewirtschaft - Müllerei
+Q000586	Bäcker/Bäckerin
+Q000587	Ofenführer/Ofenführerin (Bäckerei)
+Q000588	Bäckereimaschinenführer/Bäckereimaschinenführerin
+Q000589	Patissier/Patissière
+Q000590	Fleischer/Fleischerin Fachrichtung Schlachten
+Q000591	Fleischzerleger/Fleischzerlegerin
+Q000592	Fischverarbeiter/Fischverarbeiterin
+Q000593	Fischwerker/Fischwerkerin
+Q000594	Milchwirtschaftlicher Fachberater/Milchwirtschaftliche Fachberaterin
+Q000595	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Milchwirtschaft und Molkereiwesen
+Q000596	Fachkraft für Süßwarentechnik Fachrichtung Konfekt
+Q000597	Fachkraft für Süßwarentechnik Fachrichtung Schokolade
+Q000598	Konfektmacher/Konfektmacherin
+Q000599	Süßwarentechnologe/Süßwarentechnologin
+Q000600	Tiefkühlkosthersteller/Tiefkühlkostherstellerin
+Q000601	Helfer/Helferin in der Küche
+Q000602	Koch/Köchin
+Q000603	Grilleur/Grilleurin
+Q000604	Poissonnier/Poissonnierin
+Q000605	Rotisseur/Rotisseurin
+Q000606	Diätkoch/Diätköchin
+Q000607	Pizzabäcker/Pizzabäckerin
+Q000608	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Bautechnik (ohne Schwerpunkt)
+Q000609	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Bautechnik Schwerpunkt Baubetrieb
+Q000610	Ingenieur/Ingenieurin für Bau
+Q000611	Architekt/Architektin
+Q000612	Ingenieur/Ingenieurin für Architektur
+Q000613	Ingenieur/Ingenieurin für Stadt- und Regionalplanung
+Q000614	Stadt- und Regionalplaner/Stadt- und Regionalplanerin
+Q000615	Verkehrsbauingenieur/Verkehrsbauingenieurin
+Q000616	Ingenieur/Ingenieurin für Wasserwirtschaft
+Q000617	Baukontrolleur (Sicherheitskontrolleur), Baukontrolleurin (Sicherheitskontrolleurin)
+Q000618	Baukalkulator/Baukalkulatorin
+Q000619	Bauabrechner/Bauabrechnerin
+Q000620	Geprüfter Baufachwirt/Geprüfte Baufachwirtin
+Q000621	Bau- und Projektkaufmann/Bau- und Projektkauffrau
+Q000622	Montageleiter im Bereich Bau/Montageleiterin im Bereich Bau
+Q000623	Vermessungstechniker/Vermessungstechnikerin Fachrichtung Bergvermessung
+Q000624	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Vermessungstechnik
+Q000625	Katastertechniker/Katastertechnikerin
+Q000626	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Seevermessungstechnik
+Q000627	Ingenieur/Ingenieurin für Markscheidewesen
+Q000628	Vermessungsingenieur/Vermessungsingenieurin
+Q000629	Kartograf/Kartografin (Hochschule)
+Q000630	Helfer/Helferin im Hochbau
+Q000631	Hochbaufacharbeiter/Hochbaufacharbeiterin (ohne Angabe des Schwerpunkts)
+Q000632	Beton- und Stahlbetonbauer/Beton- und Stahlbetonbauerin
+Q000633	Hochbaufacharbeiter/Hochbaufacharbeiterin Schwerpunkt Beton- und Stahlbetonarbeiten
+Q000634	Maurer/Maurerin
+Q000635	Hochbaufacharbeiter/Hochbaufacharbeiterin Schwerpunkt Maurerarbeiten
+Q000636	Dachdecker/Dachdeckerin
+Q000637	Dachdecker/Dachdeckerin Schwerpunkt Dachdeckungstechnik
+Q000638	Gerüstbauer/Gerüstbauerin
+Q000639	Tribünenbauer/Tribünenbauerin
+Q000640	Industriekletterer/Industriekletterin
+Q000641	Dachdeckermeister/Dachdeckermeisterin
+Q000642	Gerüstbau-Kolonnenführer/Gerüstbau-Kolonnenführerin
+Q000643	Gerüstbauermeister/Gerüstbauermeisterin
+Q000644	Helfer/Helferin im Tiefbau
+Q000645	Tiefbauingenieur/Tiefbauingenieurin
+Q000646	Asphaltbauer/Asphaltbauerin
+Q000647	Gleisbauer/Gleisbauerin
+Q000648	Tiefbaufacharbeiter/Tiefbaufacharbeiterin Schwerpunkt Gleisbauarbeiten
+Q000649	Brunnenbauer/Brunnenbauerin
+Q000650	Bohrgeräteführer/Bohrgeräteführerin
+Q000651	Tunnelbauer, Mineur/Tunnelbauerin, Mineurin
+Q000652	Kanalbauer/Kanalbauerin
+Q000653	Tiefbaufacharbeiter/Tiefbaufacharbeiterin Schwerpunkt Kanalbauarbeiten
+Q000654	Drainagearbeiter/Drainagearbeiterin
+Q000655	Kulturbauarbeiter/Kulturbauarbeiterin
+Q000656	Wasserbauer/Wasserbauerin
+Q000657	Straßenbauermeister/Straßenbauermeisterin
+Q000658	Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin
+Q000659	Ausbaufacharbeiter/Ausbaufacharbeiterin Schwerpunkt Fliesen-, Platten- und Mosaikarbeiten
+Q000660	Terrazzoleger/Terrazzolegerin
+Q000661	Parkettleger/Parkettlegerin
+Q000662	Fliesen-, Platten- und Mosaiklegermeister/Fliesen-, Platten- und Mosaiklegermeisterin
+Q000663	Maler und Lackierer/Malerin und Lackiererin - Schwerpunkt Maler/Malerin
+Q000664	Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin
+Q000665	Maler und Lackierer/Malerin und Lackiererin Fachrichtung Gestaltung und Instandhaltung
+Q000666	Maler und Lackierer/Malerin und Lackiererin Fachrichtung Bauten- und Korrosionsschutz
+Q000667	Maler und Lackierer/Malerin und Lackiererin Fachrichtung Energieeffizienz- und Gestaltungstechnik
+Q000668	Maler und Lackierer/Malerin und Lackiererin Fachrichtung Ausbautechnik und Oberflächengestaltung
+Q000669	Stuckateur/Stuckateurin
+Q000670	Ausbaufacharbeiter/Ausbaufacharbeiterin Schwerpunkt Stuckateurarbeiten
+Q000671	Bauwerksabdichter/Bauwerksabdichterin
+Q000672	Klebeabdichter/Klebeabdichterin
+Q000673	Holz- und Bautenschützer/Holz- und Bautenschützerin Fachrichtung Holzschutz
+Q000674	Fachkraft  für Holz- und Bautenschutzarbeiten
+Q000675	Stuckateurmeister/Stuckateurmeisterin
+Q000676	Ausbaumanager/Ausbaumanagerin
+Q000677	Ausbaufacharbeiter/Ausbaufacharbeiterin Schwerpunkt Trockenbauarbeiten
+Q000678	Trockenbaumonteur/Trockenbaumonteurin
+Q000679	Fachkraft - Trockenbau
+Q000680	Brandschutzfachkraft (Brandschutzmonteur/Brandschutzmonteurin)
+Q000681	Isolierfacharbeiter/Isolierfacharbeiterin
+Q000682	Ausbaufacharbeiter/Ausbaufacharbeiterin Schwerpunkt Wärme-, Kälte- und Schallschutzarbeiten
+Q000683	Industrie-Isolierer/Industrie-Isoliererin
+Q000684	Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin
+Q000685	Isolierer/Isoliererin
+Q000686	Zimmerer/Zimmerin
+Q000687	Treppenbauzimmerer/Treppenbauzimmerin
+Q000688	Fertighausmonteur/Fertighausmonteurin
+Q000689	Bootsbauer/Bootsbauerin (ohne Fachrichtungen)
+Q000690	Ausbaufacharbeiter/Ausbaufacharbeiterin Schwerpunkt Zimmerarbeiten
+Q000691	Bootsbauer/Bootsbauerin Fachrichtung Neu-, Aus- und Umbau
+Q000692	Bauglaser/Bauglaserin
+Q000693	Glaser/Glaserin Fachrichtung Fenster- und Glasfassadenbau
+Q000694	Glaser/Glaserin Fachrichtung Verglasung und Glasbau
+Q000695	Fahrzeugglaser/Fahrzeugglaserin
+Q000696	Zimmerermeister/Zimmerermeisterin
+Q000697	Wärme-, Kälte- und Schallschutzisolierermeister/Wärme-, Kälte- und Schallschutzisolierermeisterin
+Q000698	Glasermeister/Glasermeisterin
+Q000699	Industriemeister/Industriemeisterin Fachrichtung Isolierung
+Q000700	Industriemeister/Industriemeisterin Fachrichtung Akustik- und Trockenbau
+Q000701	Hausmeister/Hausmeisterin
+Q000702	Hauswart/Haustechniker/Hauswartin/Haustechnikerin
+Q000703	Staatlich geprüfter Technischer Assistent/Staatlich geprüfte Technische Assistentin für Gebäudetechnik
+Q000704	Fachkraft für Gebäudetechnik
+Q000705	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Gebäudesystemtechnik
+Q000706	Ingenieur/Ingenieurin für Gebäudetechnik/Facility-Management
+Q000707	Leitender Haustechniker/Leitende Haustechnikerin
+Q000708	Industriemeister/Industriemeisterin Fachrichtung Gebäudetechnik
+Q000709	Klempner/Klempnerin
+Q000710	Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Feinblechbautechnik
+Q000711	Gas- und Wasserinstallateur/Gas- und Wasserinstallateurin
+Q000712	Zentralheizungs- und Lüftungsbauer/Zentralheizungs- und Lüftungsbauerin
+Q000713	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Heizungs-, Lüftungs-, Klimatechnik
+Q000714	Ingenieur/Ingenieurin für Lüftungstechnik
+Q000715	Klempnermeister/Klempnermeisterin
+Q000716	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Versorgungstechnik
+Q000717	Ver- und Entsorger/Ver- und Entsorgerin Fachrichtung Wasserversorgung
+Q000718	Fachkraft für Wasserversorgungstechnik
+Q000719	Geprüfter Verteilnetztechniker/Geprüfte Verteilnetztechnikerin
+Q000720	Rohrnetzingenieur/Rohrnetzingenieurin
+Q000721	Recycling-Fachkraft
+Q000722	Fachkraft für Kreislauf- und Abfallwirtschaft Schwerpunkt Abfallverwertung und -behandlung
+Q000723	Ingenieur/Ingenieurin für Abfallwirtschaft
+Q000724	Montagemechaniker, Anlagenmonteur / Montagemechanikerin, Anlagenmonteurin
+Q000725	Behälter- und Apparatebauermeister/Behälter- und Apparatebauermeisterin
+Q000726	Wassermeister/Wassermeisterin
+Q000727	Industriemeister/Industriemeisterin Fachrichtung Metall Schwerpunkt Apparatetechnik
+Q000728	Abwassermeister/Abwassermeisterin
+Q000729	Deponieleiter/Deponieleiterin
+Q000730	Mathematiker/Mathematikerin
+Q000731	Risikoanalytiker/Risikoanalytikerin (Versicherung)
+Q000732	Biometriker/Biometrikerin
+Q000733	Statistiker/Statistikerin
+Q000734	Aktuar/Aktuarin
+Q000735	Biologe/Biologin
+Q000736	Staatlich geprüfter Biologisch-technischer Assistent/Staatlich geprüfte Biologisch-technische Assistentin
+Q000737	Biologielaborant/Biologielaborantin
+Q000738	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Biotechnik
+Q000739	Medizinischer Sektions- und Präparationsassistent/Medizinische Sektions- und Präparationsassistentin
+Q000740	Agrarbiologe/Agrarbiologin
+Q000741	Meeresbiologe/Meeresbiologin
+Q000742	Toxikologe/Toxikologin
+Q000743	Verhaltensforscher/Verhaltensforscherin
+Q000744	Tierschutzbeauftragter/Tierschutzbeauftragte
+Q000745	Mikrobiologe/Mikrobiologin
+Q000746	Epidemiologe/Epidemiologin
+Q000747	Genetiker/Genetikerin
+Q000748	Biochemiker/Biochemikerin
+Q000749	Laborleiter/Laborleiterin
+Q000750	Chemiker/Chemikerin
+Q000751	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Chemietechnik (ohne Schwerpunkt)
+Q000752	Ingenieur/Ingenieurin für Chemietechnik
+Q000753	Ingenieur/Ingenieurin für Pharmatechnik
+Q000754	Staatlich geprüfter Chemisch-technischer Assistent/Staatlich geprüfte Chemisch-technische Assistentin
+Q000755	Chemielaborant/Chemielaborantin
+Q000756	Textillaborant/Textillaborantin
+Q000757	Textillaborant/Textillaborantin Schwerpunkt Textilchemie
+Q000758	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Chemietechnik Schwerpunkt Biochemie
+Q000759	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Chemietechnik Schwerpunkt Laboratoriumstechnik
+Q000760	Steuerer/Steuerin von chemischen Filter- und Trennausrüstungen
+Q000761	Analytiker/Analytikerin - Chemie
+Q000762	Lebensmittelchemiker/Lebensmittelchemikerin
+Q000763	Industriemeister/Industriemeisterin Fachrichtung Chemie
+Q000764	Physiker/Physikerin
+Q000765	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Physiktechnik
+Q000766	Werkstoffprüfer/Werkstoffprüferin Fachrichtung Metalltechnik
+Q000767	Edelmetallprüfer/Edelmetallprüferin
+Q000768	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Werkstofftechnik
+Q000769	Ingenieur/Ingenieurin für Werkstofftechnik
+Q000770	Ingenieur/Ingenieurin für Materialwissenschaften
+Q000771	Baustoffprüfer/Baustoffprüferin Schwerpunkt Asphalttechnik
+Q000772	Akustiker/Akustikerin
+Q000773	Astrophysiker/Astrophysikerin, Astronom/Astronomin
+Q000774	Biophysiker/Biophysikerin
+Q000775	Ingenieur/Ingenieurin für Geotechnik
+Q000776	Geologe/Geologin
+Q000777	Geophysiker/Geophysikerin
+Q000778	Hydrologe/Hydrologin
+Q000779	Mineraloge/Mineralogin
+Q000780	Ozeanograf/Ozeanografin
+Q000781	Paläontologe/Paläontologin
+Q000782	Geograf/Geografin
+Q000783	Beamter/Beamtin im gehobenen nichttechnischen Dienst des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr
+Q000784	Meteorologe/Meteorologin
+Q000785	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Umweltschutztechnik (ohne Schwerpunkt)
+Q000786	Ingenieur/Ingenieurin für Umweltschutz/Umwelttechnik
+Q000787	Schornsteinfeger/Schornsteinfegerin
+Q000788	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Umweltschutztechnik Schwerpunkt Landschaftsökologie
+Q000789	Schornsteinfegermeister/Schornsteinfegermeisterin
+Q000790	Umweltberater/Umweltberaterin im Handwerk
+Q000791	Umweltgutachter/Umweltgutachterin
+Q000792	Umweltwissenschaftler/Umweltwissenschaftlerin
+Q000793	Abfallbeauftragter/Abfallbeauftragte
+Q000794	Strahlenschutzfachkraft
+Q000795	Dekontreiniger/Dekontreinigerin
+Q000796	Strahlenschutzbeauftragter/Strahlenschutzbeauftragte
+Q000797	Informatiker/Informatikerin (Hochschule)
+Q000798	Data Scientist
+Q000799	Data Engineer
+Q000800	Betriebswirt/Betriebswirtin (Fachschule) für E-Business
+Q000801	Umweltinformatiker/Umweltinformatikerin
+Q000802	Informationsmanager/Informationsmanagerin
+Q000803	Embedded-Systems-Entwickler/Embedded-Systems-Entwicklerin
+Q000804	Ingenieurinformatiker/Ingenieurinformatikerin
+Q000805	Bioinformatiker/Bioinformatikerin
+Q000806	Geoinformatiker/Geoinformatikerin
+Q000807	Multimediaentwickler/Multimediaentwicklerin
+Q000808	Internettechnologe/Internettechnologin
+Q000809	Entwickler Digitale Medien/Entwicklerin Digitale Medien
+Q000810	IT-Systemanalytiker/IT-Systemanalytikerin
+Q000811	IT-Kundenbetreuer/IT-Kundenbetreuerin
+Q000812	IT-Berater/IT-Beraterin
+Q000813	CRM-Consultant
+Q000814	Kaufmann/Kauffrau für IT-System-Management
+Q000815	Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin - IT-Systeme
+Q000816	IT-Vertriebsbeauftragter/IT-Vertriebsbeauftragte
+Q000817	Geprüfter IT-Ökonom/Geprüfte IT-Ökonomin
+Q000818	Netzwerk-Servicetechniker/Netzwerk-Servicetechnikerin
+Q000819	Netzplaner/Netzplanerin
+Q000820	IT-Konfigurationskoordinator/IT-Konfigurationskoordinatorin
+Q000821	IT-Qualitätssicherungskoordinator/IT-Qualitätssicherungskoordinatorin
+Q000822	Operator/Operatorin (EDV)
+Q000823	IT-Systemadministrator/IT-Systemadministratorin
+Q000824	IT-Administrator/IT-Administratorin
+Q000825	Datenbankadministrator/Datenbankadministratorin
+Q000826	Datenbankentwickler/Datenbankentwicklerin
+Q000827	Webadministrator/Webadministratorin
+Q000828	Sicherheitstechniker/Sicherheitstechnikerin (IT)
+Q000829	IT-Sicherheitskoordinator/IT-Sicherheitskoordinatorin
+Q000830	Ethical Hacker
+Q000831	Business-Continuity-Manager/Business-Continuity-Managerin
+Q000832	IT-Forensiker/IT-Forensikerin
+Q000833	Cyber-Security-Consultant
+Q000834	Geprüfter IT-Projektleiter/Geprüfte IT-Projektleiterin (Weiterbildung/Ausbildung)
+Q000835	Leiter/Leiterin der IT
+Q000836	IT-Manager/IT-Managerin
+Q000837	Leiter/Leiterin - Informations-/Cybersicherheit
+Q000838	Chief-Information-Security-Officer
+Q000839	Nutzerschnittstellenentwickler/Nutzerschnittstellenentwicklerin
+Q000840	Softwareentwickler/Softwareentwicklerin
+Q000841	Software-Architect
+Q000842	Anwendungsprogrammierer/Anwendungsprogrammiererin
+Q000843	Game Programmer
+Q000844	Wagenmeister/Wagenmeisterin (Schienenverkehr)
+Q000845	Geprüfter Flugzeugabfertiger/Geprüfte Flugzeugabfertigerin
+Q000846	Fachkraft Bodenverkehrsdienst im Luftverkehr
+Q000847	Prüfer/Prüferin von Luftfahrtgerät / Certifying Staff
+Q000848	Bootsmann/Bootsfrau/Pumpenmann/Pumpenfrau
+Q000849	Zweiter Technischer Schiffsoffizier/Zweite Technische Schiffsoffizierin (Fachschule)
+Q000850	Schiffselektrotechniker/Schiffselektrotechnikerin
+Q000851	Schiffsmaschinist/Schiffsmaschinistin
+Q000852	Technischer Wachoffizier/Technische Wachoffizierin
+Q000853	Leiter/Leiterin der Maschinenanlagen auf Schiffen (FS)
+Q000854	Leiter/Leiterin - Maschinenanlagen
+Q000855	Zweiter Technischer Schiffsoffizier/Zweite Technische Schiffsoffizierin
+Q000856	Technischer Wachoffizier/Technische Wachoffizierin (Fachschule)
+Q000857	Zweite/r Technische/r Offizier/in (mit Einschr.)
+Q000858	Zweiter Technischer Schiffsoffizier/Zweite Technische Schiffsoffizierin (FH)
+Q000859	Schiffsinspektor/Schiffsinspektorin (Nautik/Technik)
+Q000860	Leiter/Leiterin der Maschinenanlagen auf Schiffen (FH) (Schiff - jede Antriebsleistung)
+Q000861	Technischer Wachoffizier/Technische Wachoffizierin (FH)
+Q000862	Funker/Funkerin
+Q000863	Fahrbahnmarkierer/Fahrbahnmarkiererin
+Q000864	Flugsicherungstechniker/Flugsicherungstechnikerin
+Q000865	Brückenwärter/Brückenwärterin
+Q000866	Straßenwärtermeister/Straßenwärtermeisterin
+Q000867	Hafenarbeiter/Hafenarbeiterin
+Q000868	Kommissionierer/Kommissioniererin
+Q000869	Warenannehmer/Warenannehmerin
+Q000870	Plakatierer/Plakatiererin
+Q000871	Postabfertiger/Postabfertigerin
+Q000872	Fachkraft für Brief- und Frachtverkehr
+Q000873	Fachkraft für Kurier-, Express- und Postdienstleistungen
+Q000874	Postjungbote/Postjungbotin
+Q000875	Seegüterkontrolleur/Seegüterkontrolleurin
+Q000876	Hafenfacharbeiter/Hafenfacharbeiterin
+Q000877	Fachkraft für Hafenlogistik
+Q000878	Küper/Küperin
+Q000879	Meister/Meisterin Fachrichtung Lagerwirtschaft
+Q000880	Leiter/Leiterin - Lagerwirtschaft
+Q000881	Flugbegleiter/Flugbegleiterin
+Q000882	Zugbegleiter/Zugbegleiterin
+Q000883	Servicekaufmann/Servicekauffrau im Luftverkehr
+Q000884	Bodensteward/Bodenstewardess
+Q000885	Purser/Purserette (Luftfahrt)
+Q000886	Schiffssteward/Schiffsstewardess
+Q000887	Zugführer/Zugführerin
+Q000888	Zugchef/Zugchefin
+Q000889	Verkehrsplaner/Verkehrsplanerin
+Q000890	Ingenieur/Ingenieurin für Verkehrswesen
+Q000891	Funkbediener/Funkbedienerin (Taxibetrieb)
+Q000892	Rangierbegleiter/Rangierbegleiterin
+Q000893	Flugdienstberater/Flugdienstberaterin
+Q000894	Fluglotse/Fluglotsin
+Q000895	Sachbearbeiter/Sachbearbeiterin für Luftaufsicht
+Q000896	Flugunfalluntersucher/Flugunfalluntersucherin
+Q000897	Lotse/Lotsin
+Q000898	Hafenmeister/Hafenmeisterin
+Q000899	Gefahrgutbeauftragter/Gefahrgutbeauftragte
+Q000900	Industriemeister/Industriemeisterin Fachrichtung Werksbahnbetrieb
+Q000901	Fuhrparkleiter/Fuhrparkleiterin
+Q000902	Geprüfter Meister/Geprüfte Meisterin Leit- und Sicherungstechnik - Eisenbahn
+Q000903	Meister/Meisterin für Bahnverkehr
+Q000904	Betriebsleiter/Betriebsleiterin für Eisenbahnen
+Q000905	Luftverkehrsmanager/Luftverkehrsmanagerin
+Q000906	Expedient/Expedientin
+Q000907	Speditionskaufmann/Speditionskauffrau
+Q000908	Supply-Chain-Manager/Supply-Chain-Managerin
+Q000909	Disponent/Disponentin - Güterverkehr
+Q000910	Fachwirt/Fachwirtin für den Bahnbetrieb
+Q000911	Luftverkehrskaufmann/Luftverkehrskauffrau
+Q000912	Duty-Officer
+Q000913	Luftfrachtagent/Luftfrachtagentin
+Q000914	Fachwirt/Fachwirtin für Luftverkehr
+Q000915	Schiffsmakler/Schiffsmaklerin
+Q000916	Postverkehrskaufmann/Postverkehrskauffrau
+Q000917	Kaufmann für Kurier-, Express- und Postdienstleistungen/Kauffrau für Kurier-, Express- und Postdienstleistungen
+Q000918	Dienstleistungsfachkraft im Postbetrieb
+Q000919	Leiter/Leiterin - Materialwirtschaft
+Q000920	Dienstwagenfahrer/Dienstwagenfahrerin
+Q000921	Taxifahrer/Taxifahrerin
+Q000922	Zugmaschinen-, Sonderfahrzeugführer/Zugmaschinen-, Sonderfahrzeugführerin
+Q000923	Kraftfahrzeugführer/Kraftfahrzeugführerin in der Ver- und Entsorgung
+Q000924	Betonmischerfahrer/Betonmischerfahrerin
+Q000925	Tankwagenfahrer/Tankwagenfahrerin
+Q000926	Schienenfahrzeugführer/Schienenfahrzeugführerin
+Q000927	Busfahrer/Busfahrerin
+Q000928	Auslieferungsfahrer/Auslieferungsfahrerin (nicht Verkaufsfahrer/Verkaufsfahrerin)
+Q000929	Botenfahrer/Botenfahrerin
+Q000930	Servicefahrer/Servicefahrerin
+Q000931	Fahrradkurier/Fahrradkurierin
+Q000932	Eisenbahner/Eisenbahnerin im Betriebsdienst Fachrichtung Lokführer und Transport (Ausbildung bis 2022)
+Q000933	Eisenbahner im Betriebsdienst Lokführer und Transport/Eisenbahnerin im Betriebsdienst Lokführerin und Transport
+Q000934	Co-Pilot/Co-Pilotin
+Q000935	Berufsflugzeugführer/Berufsflugzeugführerin (CPL (A))
+Q000936	Verkehrsflugzeugführer/Verkehrsflugzeugführerin (ATPL (A))
+Q000937	Berufshubschrauberführer/Berufshubschrauberführerin (CPL (H))
+Q000938	Freiballonführer/Freiballonführerin
+Q000939	Luftschiffführer/Luftschiffführerin
+Q000940	Checkkapitän/Checkkapitänin
+Q000941	Skipper/Skipperin
+Q000942	Erster Nautischer Offizier/Erste Nautische Offizierin
+Q000943	Nautischer Wachoffizier/Nautische Wachoffizierin
+Q000944	Erster Nautischer Schiffsoffizier/Erste Nautische Schiffsoffizierin (FH)
+Q000945	Erster Nautischer Schiffsoffizier/Erste Nautische Schiffsoffizierin (Fachschule)
+Q000946	Nautischer Wachoffizier/Nautische Wachoffizierin (Fachschule)
+Q000947	Nautischer Wachoffizier/Nautische Wachoffizierin (FH)
+Q000948	Kapitän/Kapitänin - Küstenfischerei
+Q000949	Kapitän/Kapitänin
+Q000950	Binnenschiffer/Binnenschifferin
+Q000951	Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin
+Q000952	Steuermann/Steuerfrau (Binnenschifffahrt)
+Q000953	Schiffsführer/Schiffsführerin (Binnenschifffahrt)
+Q000954	Binnenschiffermeister/Binnenschiffermeisterin
+Q000955	Landmaschinenführer/Landmaschinenführerin
+Q000956	Forstmaschinenführer/Forstmaschinenführerin
+Q000957	Planierraupenführer/Planierraupenführerin
+Q000958	Baggerführer/Baggerführerin
+Q000959	Transportgeräteführer/Transportgeräteführerin
+Q000960	Gabelstaplerfahrer/Gabelstaplerfahrerin
+Q000961	Brückenkranführer/Brückenkranführerin
+Q000962	Drehkranführer/Drehkranführerin
+Q000963	Mobil- und Autokranführer/Mobil- und Autokranführerin
+Q000964	Hafenkranführer/Hafenkranführerin
+Q000965	Seilbahnbetriebsregler/Seilbahnbetriebsreglerin
+Q000966	Anschläger/Anschlägerin
+Q000967	Spielhallenaufsicht
+Q000968	Ordner/Ordnerin bei Veranstaltungen
+Q000969	Pförtner/Pförtnerin
+Q000970	Luftsicherheitsassistent/Luftsicherheitsassistentin gemäß § 5 LuftSiG
+Q000971	Fachkraft für Schutz und Sicherheit
+Q000972	Servicekraft - Schutz und Sicherheit
+Q000973	Geprüfte Schutz- und Sicherheitskraft (IHK)
+Q000974	Fachkraft für Arbeitssicherheit
+Q000975	Ingenieur/Ingenieurin für Sicherheitstechnik
+Q000976	CE-Beauftragter/CE-Beauftragte
+Q000977	Feuerwehrgerätewart/Feuerwehrgerätewartin
+Q000978	Beamter/Beamtin im feuerwehrtechnischen Dienst (mittlerer technischer Dienst)
+Q000979	Berufsfeuerwehrmann/Berufsfeuerwehrfrau
+Q000980	Werkfeuerwehrmann/Werkfeuerwehrfrau
+Q000981	Geprüfter Werkfeuerwehrtechniker/Geprüfte Werkfeuerwehrtechnikerin
+Q000982	Brandschutzsachverständiger/Brandschutzsachverständige
+Q000983	Badewärter/Badewärterin (Schwimmbad)
+Q000984	Fachangestellter/Fachangestellte für Bäderbetriebe
+Q000985	Rettungsschwimmer/Rettungsschwimmerin
+Q000986	Wirtschafts-Detektiv/Wirtschafts-Detektivin
+Q000987	Detektiv/Detektivin
+Q000988	Versicherungsdetektiv/Versicherungsdetektivin
+Q000989	Inkassobeauftragter/Inkassobeauftragte im Außendienst
+Q000990	Servicetechniker/Servicetechnikerin für Sicherheits- und Alarmanlagen
+Q000991	Geprüfter Schließ- und Sicherungstechniker/Geprüfte Schließ- und Sicherungstechnikerin
+Q000992	Sicherheitsmanager/Sicherheitsmanagerin
+Q000993	Ingenieur/Ingenieurin für Rettungswesen
+Q000994	Werkschutzleiter/Werkschutzleiterin
+Q000995	Meister/Meisterin für Schutz und Sicherheit
+Q000996	Einsatzleiter/Einsatzleiterin (Sicherheitsgewerbe)
+Q000997	Einsatzleiter/Einsatzleiterin (Feuerwehr)
+Q000998	Leiter im Rettungsdienst/Leiterin im Rettungsdienst
+Q000999	Polizeivollzugsbeamter/Polizeivollzugsbeamtin in der Bundespolizei (mittlerer  nichttechnischer Dienst)
+Q001000	Wachpolizist/Wachpolizistin
+Q001001	Beamter/Beamtin im Kriminaldienst (mittlerer Dienst)
+Q001002	Beamter/Beamtin im Kriminaldienst (höherer Dienst)
+Q001003	Vollziehungsbeamter/Vollziehungsbeamtin
+Q001004	Gerichtsvollzieher/Gerichtsvollzieherin
+Q001005	Justizwachtmeister/Justizwachtmeisterin
+Q001006	Beamter/Beamtin im Justizvollzugsdienst (mittlerer nichttechnischer Dienst)
+Q001007	Beamter/Beamtin im Justizvollzugsdienst (gehobener nichttechnischer Dienst)
+Q001008	Betriebsleiter/Betriebsleiterin - Justiz-, Strafvollzugsdienst
+Q001009	Gefängnisdirektor/Gefängnisdirektorin
+Q001010	Beamter/Beamtin in der Gewerbeaufsichtsverwaltung (mittlerer technischer Dienst)
+Q001011	Beamter/Beamtin im Eichwesen (mittlerer technischer Dienst)
+Q001012	Beamter/Beamtin in der Gewerbeaufsichtsverwaltung (gehobener technischer Dienst)
+Q001013	Beamter/Beamtin im Eichwesen (gehobener technischer Dienst)
+Q001014	Beamter/Beamtin in der Gewerbeaufsichtsverwaltung (höherer technischer Dienst)
+Q001015	Beamter/Beamterin im Gesundheitsdienst (mittlerer Dienst)
+Q001016	Fachkraft für Hygieneüberwachung
+Q001017	Lebensmittelkontrolleur/Lebensmittelkontrolleurin
+Q001018	Schädlingsbekämpfer/Schädlingsbekämpferin
+Q001019	Gebäudereiniger/Gebäudereinigerin
+Q001020	Fassadenreiniger/Fassadenreinigerin (Gebäudereinigung)
+Q001021	Glasreiniger/Glasreinigerin
+Q001022	Bügler/Büglerin
+Q001023	Textilreiniger/Textilreinigerin
+Q001024	Maschinen-, Anlagen- und Behälterreiniger/Maschinen-, Anlagen- und Behälterreinigerin
+Q001025	Schankanlagenreiniger/Schankanlagenreinigerin
+Q001026	Fahrzeugpfleger/Fahrzeugpflegerin
+Q001027	Schienenfahrzeugreiniger/Schienenfahrzeugreinigerin
+Q001028	Flugzeugreiniger/Flugzeugreinigerin
+Q001029	Einkäufer/Einkäuferin
+Q001030	Global-Sourcing-Manager/Global-Sourcing-Managerin
+Q001031	IT-Einkäufer/IT-Einkäuferin
+Q001032	Vertriebsassistent/Vertriebsassistentin
+Q001033	Verkaufssachbearbeiter/Verkaufssachbearbeiterin
+Q001034	Vertriebstechniker/Vertriebstechnikerin
+Q001035	Handelsvertreter/Handelsvertreterin
+Q001036	Fachberater/Fachberaterin für Vertrieb
+Q001037	Application-Engineer/-Manager/in
+Q001038	Sales-Manager/Sales-Managerin
+Q001039	Digital-Sales-Manager/Digital-Sales-Managerin
+Q001040	Auktionator, Versteigerer/Auktionatorin, Versteigerin
+Q001041	Automatenaufsteller (Verleiher)/Automatenaufstellerin (Verleiherin)
+Q001042	Automatenbefüller/Automatenbefüllerin
+Q001043	Automatenfachmann/Automatenfachfrau (ohne Fachrichtungen)
+Q001044	Fachkraft für Automatenservice
+Q001045	Automatenfachmann/Automatenfachfrau Fachrichtung Automatendienstleistung
+Q001046	Pfandleiher/Pfandleiherin
+Q001047	Leiter/Leiterin - Vertrieb
+Q001048	Leiter/Leiterin des Einkaufs
+Q001049	Bezirksleiter/Bezirksleiterin
+Q001050	Vertriebs-Geschäftsführer/Vertriebs-Geschäftsführerin
+Q001051	Kaufmann/Kauffrau im Groß- und Außenhandel Fachrichtung Außenhandel
+Q001052	Kaufmann/Kauffrau im Groß- und Außenhandel Fachrichtung Großhandel
+Q001053	Außenhandelsassistent/Außenhandelsassistentin
+Q001054	Kaufmann/Kauffrau für Groß- und Außenhandelsmanagement Fachrichtung Außenhandel
+Q001055	Kaufmann/Kauffrau für Groß- und Außenhandelsmanagement Fachrichtung Großhandel
+Q001056	Gebrauchtwarenhändler/Gebrauchtwarenhändlerin
+Q001057	Betriebswirt/Betriebswirtin (Fachschule) für Möbelhandel
+Q001058	Betriebswirt/Betriebswirtin (Fachschule) für Kraftfahrzeuge
+Q001059	Immobilienassistent/Immobilienassistentin
+Q001060	Kaufmann/Kauffrau in der Grundstücks- und Wohnungswirtschaft
+Q001061	Immobilienkaufmann/Immobilienkauffrau
+Q001062	Geprüfter Fachkaufmann/Geprüfte Fachkauffrau für die Verwaltung von Wohnungseigentum
+Q001063	Objektverwalter/Objektverwalterin (Immobilien)
+Q001064	Immobilienmakler/Immobilienmaklerin
+Q001065	Fachmann für Gebäudebewirtschaftung/Fachfrau für Gebäudebewirtschaftung
+Q001066	Facility-Manager/Facility-Managerin
+Q001067	Fachwirt/Fachwirtin für Facility-Management
+Q001068	Helfer/Helferin im Verkauf
+Q001069	Kaufmann/Kauffrau im Einzelhandel
+Q001070	Verkäufer/Verkäuferin
+Q001071	Verkaufsberater/Verkaufsberaterin
+Q001072	Einzelhandelskaufmann/Einzelhandelskauffrau
+Q001073	Warengruppenleiter/Warengruppenleiterin
+Q001074	Substitut/Substitutin (Warenhandel)
+Q001075	Wett- und Lotterieannehmer/Wett- und Lotterieannehmerin
+Q001076	Kassierer/Kassiererin (Eintrittsgelder, Beiträge, Fahrkarten)
+Q001077	Kassierer/Kassiererin (Handel)
+Q001078	Promoter/Promoterin
+Q001079	Kundendienstberater/Kundendienstberaterin
+Q001080	Kassenaufsicht (Handel)
+Q001081	Filialleiter, Verkaufsstellenleiter/Filialleiterin, Verkaufsstellenleiterin
+Q001082	Kaufmann/Kauffrau im Einzelhandel Fachbereich Sportartikel
+Q001083	Fachverkäufer/Fachverkäuferin für Sportartikel
+Q001084	Kaufmann/Kauffrau im Einzelhandel Fachbereich Uhren, Schmuck, Juwelen, Gold- und Silberwaren
+Q001085	Fachverkäufer/Fachverkäuferin für Schmuck/Uhren/Gold-/Silberwaren
+Q001086	Kaufmann/Kauffrau im Einzelhandel Fachbereich Spielwaren
+Q001087	Fachverkäufer/Fachverkäuferin für Spielwaren
+Q001088	Kaufmann/Kauffrau im Einzelhandel Fachbereich Elektrogeräte
+Q001089	Fachverkäufer/Fachverkäuferin für Haushaltswaren
+Q001090	Kaufmann/Kauffrau im Einzelhandel Fachbereich Wohnbedarf, Hausrat, Glas, Porzellan
+Q001091	Staatlich geprüfter Einrichtungsfachberater/Staatlich geprüfte Einrichtungsfachberaterin
+Q001092	Kaufmann/Kauffrau im Einzelhandel Fachbereich Küchenhandel
+Q001093	Verkaufsgärtner/Verkaufsgärtnerin
+Q001094	Geprüfter Kundenberater/Geprüfte Kundenberaterin im Gartenbau
+Q001095	Fachverkäufer/Fachverkäuferin für Pflanzen und Saatgut
+Q001096	Fachverkäufer/Fachverkäuferin für Zoobedarf und Heimtierverkauf
+Q001097	Fachverkäufer/Fachberater / Fachverkäuferin/Fachberaterin - Bau-/Heimwerkerbedarf
+Q001098	Fachverkäufer/Fachverkäuferin für Kfz-Zubehör, Reifen
+Q001099	Fachverkäufer/Fachverkäuferin für Kraftfahrzeuge
+Q001100	Kaufmann/Kauffrau im Einzelhandel Fachbereich Tankstelle
+Q001101	Tankwart/Tankwartin
+Q001102	Fachverkäufer/Fachverkäuferin im Nahrungsmittelhandwerk Schwerpunkt Bäckerei/Konditorei
+Q001103	Fachverkäufer/Fachverkäuferin im Nahrungsmittelhandwerk Schwerpunkt Fleischerei
+Q001104	Gewerbegehilfe/Gewerbegehilfin im Fleischerhandwerk
+Q001105	Fachverkäufer/Fachverkäuferin im Lebensmittelhandwerk Schwerpunkt Fleischerei
+Q001106	Kaufmann/Kauffrau im Einzelhandel Fachbereich Kosmetik, Körperpflege
+Q001107	Fachverkäufer/Fachverkäuferin für Kosmetik und Körperpflege
+Q001108	Fachverkäufer/Fachverkäuferin für Drogeriewaren
+Q001109	Drogist/Drogistin
+Q001110	Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutisch-kaufmännische Angestellte
+Q001111	Kaufmann/Kauffrau im Einzelhandel Fachbereich Medizintechnischer und Sanitätsfachhandel
+Q001112	Fachverkäufer/Fachverkäuferin im Sanitätsfachhandel
+Q001113	Fachmann/Fachfrau für Rehatechnik und Sanitätshauswaren
+Q001114	Buchhändler/Buchhändlerin
+Q001115	Fachverkäufer/Fachverkäuferin im Kunst-/Antiquitätenhandel
+Q001116	Musikalienhändler/Musikalienhändlerin
+Q001117	Musikfachhändler/Musikfachhändlerin
+Q001118	Reiseverkehrskaufmann/Reiseverkehrskauffrau Fachrichtung Kuren und Fremdenverkehr
+Q001119	Kaufmann/Kauffrau für Tourismus und Freizeit
+Q001120	Touristikmanager/Touristikmanagerin
+Q001121	Sport- und Fitnesskaufmann/Sport- und Fitnesskauffrau
+Q001122	Staatlich geprüfter Sportassistent/Staatlich geprüfte Sportassistentin
+Q001123	Staatlich geprüfter Wirtschaftsassistent/Staatlich geprüfte Wirtschaftsassistentin - Schwerpunkt Sportverwaltung und -organisation
+Q001124	Guest-Relations-Manager/Guest-Relations-Managerin
+Q001125	Staatlich geprüfter Berg- und Skiführer/Staatlich geprüfte Berg- und Skiführerin
+Q001126	Reiseleiter/Reiseleiterin
+Q001127	Fremdenführer/Fremdenführerin
+Q001128	Fremdenverkehrsamtsleiter/Fremdenverkehrsamtsleiterin
+Q001129	Empfangskraft
+Q001130	Empfangsmitarbeiter/Empfangsmitarbeiterin (Hotel)
+Q001131	Night-Auditor
+Q001132	Portier (Gaststätte, Hotel)
+Q001133	Pensionsleiter/Pensionsleiterin
+Q001134	Hausdame/Housekeeper
+Q001135	Rooms-Division-Manager/Rooms-Division-Managerin
+Q001136	Helfer/Helferin im Gastgewerbe
+Q001137	Servicekraft - Gastronomie und Gastgewerbe
+Q001138	Oberkellner/Oberkellnerin
+Q001139	Fachkraft im Gastgewerbe
+Q001140	Fachkraft für Gastronomie
+Q001141	Fachkraft für Gastronomie (Restaurantservice)
+Q001142	Staatlich geprüfter Gastronomischer Assistent/Staatlich geprüfte Gastronomische Assistentin
+Q001143	Fachmann/Fachfrau für Systemgastronomie
+Q001144	Fachkraft für Gastronomie (Systemgastronomie)
+Q001145	Geprüfter Fachwirt/Geprüfte Fachwirtin im Gastgewerbe
+Q001146	Barmixer, Barkeeper/Barmixerin, Barkeeperin
+Q001147	Barista
+Q001148	Zugsteward/Zugstewardess
+Q001149	Sommelier/Sommelière
+Q001150	Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin
+Q001151	Gastwirt/Gastwirtin
+Q001152	Leiter/Leiterin eines Gastronomiebetriebs
+Q001153	Staatlich geprüfter Gastronom/Staatlich geprüfte Gastronomin
+Q001154	Hostess/Host
+Q001155	Saaldiener/Saaldienerin
+Q001156	Event-Manager/Event-Managerin
+Q001157	Geschäftsführer/Geschäftsführerin
+Q001158	Kaufmännischer Geschäftsführer/Kaufmännische Geschäftsführerin
+Q001159	Bürgermeister/Bürgermeisterin
+Q001160	Stadtrat/Stadträtin
+Q001161	Abgeordneter/Abgeordnete
+Q001162	Betriebswirt/Betriebswirtin (Fachschule) für Projektmanagement
+Q001163	Idea- und Innovations-Manager/Idea- und Innovations-Managerin
+Q001164	Business-Analyst/Business-Analystin
+Q001165	Operations Manager/Operations Managerin
+Q001166	Coach / Supervisor/Coach / Supervisorin
+Q001167	Unternehmensberater/Unternehmensberaterin
+Q001168	Mergers-and-Acquisitions-Specialist
+Q001169	Business-Development-Manager/Business-Development-Managerin
+Q001170	Wirtschaftsförderer/Wirtschaftsförderin
+Q001171	KI-Manager/KI-Managerin
+Q001172	Berater/Beraterin für erneuerbare Energien
+Q001173	Energiemanager/Energiemanagerin
+Q001174	Corporate-Responsibility-Manager/Corporate-Responsibility-Managerin
+Q001175	Projektleiter/Projektleiterin
+Q001176	Gruppen-, Teamleiter/Gruppen-, Teamleiterin
+Q001177	Betriebsleiter/Betriebsleiterin - kaufmännisch
+Q001178	Bereichsleiter/Bereichsleiterin
+Q001179	Niederlassungsleiter/Niederlassungsleiterin
+Q001180	Leiter/Leiterin - Unternehmensentwicklung
+Q001181	Leiter/Leiterin - Projekt-/Programmmanagement
+Q001182	Telefonist/Telefonistin
+Q001183	Datenerfasser/Datenerfasserin
+Q001184	Kundeninformationsfachkraft
+Q001185	Sekretär/Sekretärin
+Q001186	Büroassistent/Büroassistentin
+Q001187	Kaufmännische Fachkraft
+Q001188	Bürogehilfe/Bürogehilfin
+Q001189	Geprüfter Sekretär/Geprüfte Sekretärin
+Q001190	Managementassistent / Managementassistentin
+Q001191	Kaufmännischer Assistent/Wirtschaftsassistent / Kaufmännische Assistentin/Wirtschaftsassistentin - Fremdsprachen
+Q001192	Fremdsprachenkorrespondent/Fremdsprachenkorrespondentin
+Q001193	Gebärdensprachdolmetscher/Gebärdensprachdolmetscherin
+Q001194	Personalsachbearbeiter/Personalsachbearbeiterin
+Q001195	Assistent/Assistentin für Personalwesen
+Q001196	Personalentwickler/Personalentwicklerin
+Q001197	Leiter/Leiterin - betriebliche Aus- und Weiterbildung
+Q001198	Personaldienstleistungskaufmann/Personaldienstleistungskauffrau
+Q001199	Recruiter
+Q001200	Researcher/Personalvermittler / Researcher/Personalvermittlerin
+Q001201	Personalberater/Personalberaterin
+Q001202	Relocation-Specialist/Relocation-Manager / Relocation-Specialist/Relocation-Managerin
+Q001203	Personalreferent/Personalreferentin
+Q001204	Fallmanager/Fallmanagerin
+Q001205	Arbeitsvermittler/Arbeitsvermittlerin
+Q001206	Berufsberater/Berufsberaterin
+Q001207	Leiter/Leiterin des Personalwesens
+Q001208	Bankkaufmann/Bankkauffrau
+Q001209	Kundenberater/Kundenberaterin (Bank, Sparkasse)
+Q001210	Sparkassenkaufmann/Sparkassenkauffrau
+Q001211	Kreditmanager/Kreditmanagerin
+Q001212	Kreditsachbearbeiter/Kreditsachbearbeiterin
+Q001213	Börsenhändler/Börsenhändlerin
+Q001214	Finanzmakler/Finanzmaklerin
+Q001215	Fondsmanager/Fondsmanagerin
+Q001216	Anlageberater/Anlageberaterin
+Q001217	Vermögensberater/Vermögensberaterin
+Q001218	Geprüfter Fachmann für Versicherungsvermittlung/Geprüfte Fachfrau für Versicherungsvermittlung
+Q001219	Schadensregulierer/Schadensreguliererin (Versicherung)
+Q001220	Generalagent/Generalagentin (Versicherung)
+Q001221	Versicherungsprüfer/Versicherungsprüferin
+Q001222	Underwriter/Underwriter (Versicherung)
+Q001223	Versicherungsmakler/Versicherungsmaklerin
+Q001224	Wertpapieranalyst/Wertpapieranalystin
+Q001225	Venture-Capitalist
+Q001226	Risk-Manager/Risk-Managerin
+Q001227	Rating-Analyst/Rating-Analystin
+Q001228	Finanzierungs- und Leasingwirt/Finanzierungs- und Leasingwirtin
+Q001229	Leasing-Berater/Leasing-Beraterin
+Q001230	Buchhalter/Buchhalterin
+Q001231	Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin - Bachelor Professional in Bilanzbuchhaltung
+Q001232	Lohn- und Gehaltsbuchhalter/Lohn- und Gehaltsbuchhalterin
+Q001233	Fachagrarwirt/Fachagrarwirtin - Rechnungswesen
+Q001234	Geprüfter Fachkaufmann/Geprüfte Fachkauffrau - Geschäfts- und Finanzbuchführung
+Q001235	Fachassistent/Fachassistentin Lohn und Gehalt
+Q001236	Fachassistent/Fachassistentin Land- und Forstwirtschaft
+Q001237	Kalkulator/Kalkulatorin
+Q001238	Kostenanalytiker/Kostenanalytikerin
+Q001239	Betriebswirt/Betriebswirtin (Fachschule) für Controlling
+Q001240	Fachwirt/Fachwirtin für Controlling
+Q001241	Controller/Controllerin
+Q001242	Assistent für Wirtschaftsprüfung/Assistentin für Wirtschaftsprüfung
+Q001243	Treuhänder/Treuhänderin
+Q001244	Revisor/Revisorin
+Q001245	Leiter/Leiterin der Revision
+Q001246	Leiter/Leiterin - Finanz- und Rechnungswesen
+Q001247	Leiter/Leiterin - Treasury
+Q001248	Leiter/Leiterin - Konzernrevision
+Q001249	Steuerfachangestellter/Steuerfachangestellte
+Q001250	Fachgehilfe/Fachgehilfin in steuer- und wirtschaftsberatenden Berufen
+Q001251	Gehilfe/Gehilfin für Buchprüfung und Steuerberatung
+Q001252	Gehilfe/Gehilfin in wirtschafts- und steuerberatenden Berufen
+Q001253	Assistent/Assistentin in der Steuerberatung
+Q001254	Steuerberater/Steuerberaterin
+Q001255	Rechtsanwaltsfachangestellter/Rechtsanwaltsfachangestellte
+Q001256	Rechtsbeistandsgehilfe/Rechtsbeistandsgehilfin
+Q001257	Rechtsanwaltsgehilfe/Rechtsanwaltsgehilfin
+Q001258	Geprüfter Notarfachwirt/Geprüfte Notarfachwirtin
+Q001259	Notar/Notarin
+Q001260	Rechtsanwalt/Rechtsanwältin
+Q001261	Syndikus-Anwalt/Syndikus-Anwältin
+Q001262	Patentanwalt/Patentanwältin
+Q001263	Staatsanwalt/Staatsanwältin
+Q001264	Richter/Richterin
+Q001265	Beamter/Beamtin in der Kommunalverwaltung (einfacher Dienst)
+Q001266	Beamter/Beamtin in der Kommunalverwaltung (mittlerer technischer Dienst)
+Q001267	Beamter/Beamtin bei Behörden der Länder (mittlerer technischer Dienst)
+Q001268	Verwaltungsfachangestellter/Verwaltungsfachangestellte Fachrichtung Kommunalverwaltung
+Q001269	Beamter/Beamtin in der Kommunalverwaltung (mittlerer nichttechnischer Dienst)
+Q001270	Beamter/Beamtin bei Behörden des Bundes (gehobener technischer Dienst)
+Q001271	Beamter/Beamtin in der Kommunalverwaltung (gehobener technischer Dienst)
+Q001272	Beamter/Beamtin bei Behörden der Länder (gehobener technischer Dienst)
+Q001273	Verwaltungsangestellter/Verwaltungsangestellte im höheren Dienst
+Q001274	Beamter/Beamtin bei Behörden des Bundes (höherer Dienst)
+Q001275	Beamter/Beamtin bei Behörden der Länder (höherer Dienst)
+Q001276	Beamter/Beamtin in der Kommunalverwaltung (höherer Dienst)
+Q001277	Beamter/Beamtin bei Behörden des Bundes (höherer technischer Dienst)
+Q001278	Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte Fachrichtung gesetzliche Rentenversicherung
+Q001279	Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte Fachrichtung knappschaftliche Sozialversicherung
+Q001280	Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte Fachrichtung landwirtschaftliche Sozialversicherung
+Q001281	Beamter/Beamtin für den gehobenen technischen Dienst bei der Eisenbahn-Unfallkasse
+Q001282	Betriebswirt/Betriebswirtin (Fachschule) für Krankenkassen
+Q001283	Krankenkassenfachwirt/Krankenkassenfachwirtin
+Q001284	Geprüfter Sozialversicherungsfachwirt/Geprüfte Sozialversicherungsfachwirtin Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung
+Q001285	Beamter/Beamtin in der Versorgungsverwaltung (gehobener nichttechnischer Dienst)
+Q001286	Beamter/Beamtin für den höheren technischen Dienst bei der Eisenbahn-Unfallkasse
+Q001287	Arztsekretär/Arztsekretärin
+Q001288	Sekretär/Sekretärin im Gesundheitswesen
+Q001289	Zahnmedizinischer Verwaltungsassistent/Zahnmedizinische Verwaltungsassistentin
+Q001290	Betriebswirt/Betriebswirtin (Fachschule) für Sozialwesen
+Q001291	Praxismanager/Praxismanagerin
+Q001292	Betriebswirt/Betriebswirtin (Fachschule) für Management im Gesundheitswesen
+Q001293	Beamter/Beamtin in der Steuerverwaltung (einfacher Dienst)
+Q001294	Beamter/Beamtin im mittleren Zolldienst
+Q001295	Beamter/Beamtin im Justizdienst (mittlerer nichttechnischer Dienst)
+Q001296	Justizfachangestellter/Justizfachangestellte
+Q001297	Beamter/Beamtin in der Justizverwaltung (höherer Dienst)
+Q001298	Beamter/Beamtin in der Allgemeinen Inneren Verwaltung (mittlerer nichttechnischer Dienst)
+Q001299	Beamter/Beamtin in der Allgemeinen Inneren Verwaltung (gehobener nichttechnischer Dienst)
+Q001300	Beamter/Beamtin in der Digitalen Verwaltung (gehobener nichttechnischer Dienst)
+Q001301	Dienststellenleiter/Dienststellenleiterin
+Q001302	Registrator/Registratorin
+Q001303	Beamter/Beamtin im Archivdienst (höherer Dienst)
+Q001304	Archivar/Archivarin
+Q001305	Fachangestellter/Fachangestellte für Medien- und Informationsdienste Fachrichtung Bibliothek
+Q001306	Assistent/Assistentin an Bibliotheken
+Q001307	Bibliothekar/Bibliothekarin
+Q001308	Fachangestellter/Fachangestellte für Medien- und Informationsdienste Fachrichtung Information und Dokumentation
+Q001309	Informationswissenschaftler/Informationswissenschaftlerin
+Q001310	Medizinischer Dokumentar/Medizinische Dokumentarin
+Q001311	Medizinischer Dokumentationsassistent/Medizinische Dokumentationsassistentin
+Q001312	Fachangestellter/Fachangestellte für Medien- und Informationsdienste Fachrichtung Medizinische Dokumentation
+Q001313	Klinische Kodierfachkraft
+Q001314	Bibliotheksleiter/Bibliotheksleiterin
+Q001315	Arzthelfer/Arzthelferin
+Q001316	Medizinischer Fachangestellter/Medizinische Fachangestellte
+Q001317	Fachwirt/Fachwirtin für ambulante medizinische Versorgung
+Q001318	Zahnmedizinischer Fachangestellter/Zahnmedizinische Fachangestellte
+Q001319	Zahnmedizinischer Fachassistent/Zahnmedizinische Fachassistentin
+Q001320	Dentalhygieniker/Dentalhygienikerin
+Q001321	Zahnmedizinischer Prophylaxeassistent/Zahnmedizinische Prophylaxeassistentin
+Q001322	Orthoptist/Orthoptistin
+Q001323	Tierarzthelfer/Tierarzthelferin
+Q001324	Tiermedizinischer Fachangestellter/Tiermedizinische Fachangestellte
+Q001325	Fachagrarwirt/Fachagrarwirtin - Besamungswesen
+Q001326	Fachkraft für Medizinprodukteaufbereitung
+Q001327	Coronatester/Coronatesterin
+Q001328	Staatlich geprüfter Medizin Laborant/Staatlich geprüfte Medizin Laborantin
+Q001329	Medizinisch-technischer Laboratoriumsassistent/Medizinisch-technische Laboratoriumsassistentin
+Q001330	Zytologieassistent/Zytologieassistentin
+Q001331	Medizinischer Technologe/Medizinische Technologin für Laboratoriumsanalytik
+Q001332	Fachassistent/Fachassistentin für Mikrobiologie
+Q001333	Biomedizinischer Fachanalytiker/Biomedizinische Fachanalytikerin für medizinische Mikrobiologie, Virologie und Hygiene
+Q001334	Facharzt/Fachärztin Fachrichtung Rechtsmedizin
+Q001335	EEG-Assistent/EEG-Assistentin
+Q001336	Medizinisch-technischer Assistent/Medizinisch-technische Assistentin für Funktionsdiagnostik
+Q001337	Medizinischer Technologe/Medizinische Technologin für Funktionsdiagnostik
+Q001338	Staatlich geprüfter Kardiotechniker/Staatlich geprüfte Kardiotechnikerin
+Q001339	Medizinisch-technischer Assistent/Medizinisch-technische Assistentin für Nuklearmedizin
+Q001340	Medizinisch-technischer Radiologieassistent/Medizinisch-technische Radiologieassistentin
+Q001341	Röntgenhelfer/Röntgenhelferin
+Q001342	Medizinischer Technologe/Medizinische Technologin für Radiologie
+Q001343	Fachassistent/Fachassistentin für Nuklearmedizin
+Q001344	Fachradiologietechnologe/Fachradiologietechnologin für radiologische Diagnostik und Interventionen
+Q001345	Pflegeassistent/Pflegeassistentin
+Q001346	Krankenpfleger/Krankenschwester
+Q001347	Gesundheits- und Krankenpfleger/Gesundheits- und Krankenpflegerin
+Q001348	Pflegefachmann/Pflegefachfrau
+Q001349	Fachkraft - Frühe Hilfen
+Q001350	Anästhesietechnischer Assistent/Anästhesietechnische Assistentin
+Q001351	Rettungsassistent/Rettungsassistentin
+Q001352	Notfallsanitäter/Notfallsanitäterin
+Q001353	Hebamme/Entbindungspfleger
+Q001354	Pflegewissenschaftler/Pflegewissenschaftlerin
+Q001355	Einsatzleiter/Einsatzleiterin (Rettungsdienst)
+Q001356	Facharzt/Fachärztin Fachrichtung Allgemeinmedizin (Hausarzt/Hausärztin)
+Q001357	Arzt/Ärztin
+Q001358	Facharzt/Fachärztin Fachrichtung Hals-Nasen-Ohrenheilkunde
+Q001359	Fachzahnarzt/Fachzahnärztin
+Q001360	Zahnarzt/Zahnärztin
+Q001361	Tierarzt/Tierärztin
+Q001362	Fachtierarzt/Fachtierärztin
+Q001363	Tierheilpraktiker/Tierheilpraktikerin
+Q001364	Tierpsychologe/Tierpsychologin
+Q001365	Pädagogischer Psychologe/Pädagogische Psychologin
+Q001366	Psychologisch-technischer Assistent/Psychologisch-technische Assistentin
+Q001367	Klinischer Psychologe/Klinische Psychologin
+Q001368	Psychologe/Psychologin
+Q001369	Gesundheits- und Rehabilitationspsychologe/Gesundheits- und Rehabilitationspsychologin
+Q001370	Mediator/Mediatorin
+Q001371	Psychologischer Psychotherapeut/Psychologische Psychotherapeutin
+Q001372	Familientherapeut und Paartherapeut/Familientherapeutin und Paartherapeutin
+Q001373	Psychotherapeut/Psychotherapeutin
+Q001374	Physiotherapeut/Physiotherapeutin
+Q001375	Chiropraktiker/Chiropraktikerin
+Q001376	Fachassistent/Fachassistentin für Hirnleistungstraining
+Q001377	Ergotherapeut/Ergotherapeutin
+Q001378	Sprachtherapeut/Sprachtherapeutin
+Q001379	Staatlich geprüfter Atem-, Sprech- und Stimmlehrer/Staatlich geprüfte Atem-, Sprech- und Stimmlehrerin
+Q001380	Klinischer Linguist/Klinische Linguistin
+Q001381	Sprechwissenschaftler/Sprechwissenschaftlerin
+Q001382	Kunsttherapeut/Kunsttherapeutin
+Q001383	Musiktherapeut/Musiktherapeutin
+Q001384	Heilpraktiker/Heilpraktikerin
+Q001385	Homöopath/Homöopathin
+Q001386	Osteopath/Osteopathin
+Q001387	Diätassistent/Diätassistentin
+Q001388	Staatlich geprüfter Podologe/Staatlich geprüfte Podologin
+Q001389	Tanz- und Bewegungstherapeut/Tanz- und Bewegungstherapeutin
+Q001390	Sporttherapeut/Sporttherapeutin
+Q001391	Staatlich geprüfter Gymnastik- und Tanzpädagoge/Staatlich geprüfte Gymnastik- und Tanzpädagogin Schwerpunkt Bewegungstherapie
+Q001392	Krankenhausapotheker/Krankenhausapothekerin
+Q001393	Pharmazeut/Pharmazeutin
+Q001394	Apotheker/Apothekerin
+Q001395	Fachapotheker/Fachapothekerin
+Q001396	Pharmazeutisch-technischer Assistent/Pharmazeutisch-technische Assistentin
+Q001397	Apothekerassistent/Apothekerassistentin
+Q001398	Pharmareferent/Pharmareferentin
+Q001399	Regulatory-Affairs-Manager/Regulatory-Affairs-Managerin
+Q001400	Medical Advisor
+Q001401	Pflegeassistent/Pflegeassistentin (Altenpflege)
+Q001402	Leiter/Leiterin einer Altenpflegeeinrichtung
+Q001403	Gesundheitstrainer/Gesundheitstrainerin
+Q001404	Sozialmedizinischer Assistent/Sozialmedizinische Assistentin
+Q001405	Leiter/Leiterin - Medizincontrolling
+Q001406	Assistent/Assistentin für Gesundheitstourismus/-prophylaxe
+Q001407	Wellnessberater/Wellnessberaterin
+Q001408	Wellnessmanager/Wellnessmanagerin
+Q001409	Fachwirt/Fachwirtin für Kosmetik und Wellness
+Q001410	Ernährungsassistent/Ernährungsassistentin
+Q001411	Ernährungs- und Fitnessberater/Ernährungs- und Fitnessberaterin (Gesundheit/Sport)
+Q001412	Pflegesachverständiger/Pflegesachverständige
+Q001413	Helfer/Helferin im Friseurgewerbe
+Q001414	Friseur/Friseurin
+Q001415	Herrenfriseur/Herrenfriseurin
+Q001416	Meisterassistent/Meisterassistentin - Kosmetik im Friseurhandwerk
+Q001417	Visagist/Visagistin
+Q001418	Geprüfter Nageldesigner/Geprüfte Nageldesignerin
+Q001419	Solariumfachberater/Solariumfachberaterin
+Q001420	Farb-, Stil- und Imageberater/Farb-, Stil- und Imageberaterin
+Q001421	Kosmetiker/Kosmetikerin
+Q001422	Fußpfleger/Fußpflegerin (kosmetisch)
+Q001423	Maskenbildner/Maskenbildnerin
+Q001424	Maskenbildner/Maskenbildnerin (Hochschule)
+Q001425	Kosmetikermeister/Kosmetikermeisterin
+Q001426	Bestattungsgehilfe/Bestattungsgehilfin
+Q001427	Bestattungsfachkraft
+Q001428	Bestattungsfachwirt/Bestattungsfachwirtin
+Q001429	Funeralmaster
+Q001430	Bestattermeister/Bestattermeisterin
+Q001431	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Medizintechnik
+Q001432	Ingenieur/Ingenieurin für Medizintechnik
+Q001433	Orthopädiemechaniker und Bandagist/Orthopädiemechanikerin und Bandagistin
+Q001434	Orthopädietechnik-Mechaniker/Orthopädietechnik-Mechanikerin
+Q001435	Augenoptiker/Augenoptikerin
+Q001436	Optometrist/Optometristin
+Q001437	Ingenieur/Ingenieurin für Augenoptik/Optometrie
+Q001438	Hörgeräteakustiker/Hörgeräteakustikerin
+Q001439	Hörgerätetechniker/Hörgerätetechnikerin
+Q001440	Ingenieur/Ingenieurin für Hörtechnik und Audiologie
+Q001441	Zahntechniker/Zahntechnikerin
+Q001442	Au-pair/Au-pair
+Q001443	Kinderbetreuer/Kinderbetreuerin
+Q001444	Staatlich anerkannter Erzieher/Staatlich anerkannte Erzieherin
+Q001445	Erzieher/Erzieherin Fachrichtung Jugend- und Heimerziehung
+Q001446	Fachkraft für Sozialarbeit
+Q001447	Sozialarbeiter/Sozialarbeiterin im Strafvollzug
+Q001448	Streetworker/Streetworkerin
+Q001449	Bewährungshelfer/Bewährungshelferin
+Q001450	Staatlich anerkannter Sonderpädagoge/Staatlich anerkannte Sonderpädagogin
+Q001451	Fachkraft für Arbeits- und Berufsförderung
+Q001452	Staatlich anerkannter Heilerziehungspfleger/Staatlich anerkannte Heilerziehungspflegerin
+Q001453	Sozialassistent/Sozialassistentin
+Q001454	Fachkraft für Pflegeassistenz
+Q001455	Staatlich anerkannter Haus- und Familienpfleger/Staatlich anerkannte Haus- und Familienpflegerin
+Q001456	Suchtberater/Drogenberater / Suchtberaterin/Drogenberaterin
+Q001457	Sozialtherapeut/Sozialtherapeutin
+Q001458	Kindergartenleiter/Kindergartenleiterin
+Q001459	Erwachsenenheimleiter/Erwachsenenheimleiterin
+Q001460	Hauswirtschafter/Hauswirtschafterin (ohne Schwerpunkte)
+Q001461	Haushälter/Haushälterin (Privathaushalt)
+Q001462	Staatlich geprüfter Hauswirtschaftsassistent/Staatlich geprüfte Hauswirtschaftsassistentin
+Q001463	Hauswirtschafter/Hauswirtschafterin
+Q001464	Hauswirtschafter/Hauswirtschafterin Schwerpunkt Ländlich-agrarische Dienstleistungen
+Q001465	Hauswirtschafter/Hauswirtschafterin Schwerpunkt Personenbetreuende Dienstleistungen
+Q001466	Hauswirtschafter/Hauswirtschafterin Schwerpunkt Serviceorientierte Dienstleistungen
+Q001467	Geprüfter Fachhauswirtschafter/Geprüfte Fachhauswirtschafterin
+Q001468	Staatlich geprüfter Fachwirt/Staatlich geprüfte Fachwirtin für Organisation und Führung Schwerpunkt Ernährung und Hauswirtschaft
+Q001469	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Ernährungs- und Versorgungsmanagement
+Q001470	Betriebswirt/Betriebswirtin (Fachschule) für Hauswirtschaft
+Q001471	Fachkraft für landwirtschaftlichen Haushalt
+Q001472	Verbraucherberater/Verbraucherberaterin
+Q001473	Meister/Meisterin der Hauswirtschaft
+Q001474	Pastoralreferent/Pastoralreferentin
+Q001475	Theologe/Theologin - evangelisch
+Q001476	Theologe/Theologin - katholisch
+Q001477	Diakon/Diakonin (Sozialarbeit)
+Q001478	Diakon/Diakonin (evangelisch)
+Q001479	Angehöriger geistlicher Orden und Mutterhäuser/Angehörige geistlicher Orden und Mutterhäuser
+Q001480	Küster/Küsterin
+Q001481	Missionar/Missionarin
+Q001482	Lehrer/Lehrerin an Grundschulen
+Q001483	Lehrer/Lehrerin an Waldorfschulen
+Q001484	Lehrer/Lehrerin für Begabtenförderung
+Q001485	Lehrer/Lehrerin für Stützunterricht
+Q001486	Lehrer/Lehrerin - Förderschulen
+Q001487	Dozent/Dozentin am Waldorflehrerseminar
+Q001488	Lernbetreuer/Lernbetreuerin
+Q001489	Beratungslehrer/Beratungslehrerin
+Q001490	Fachleiter/Fachleiterin an allgemeinbildenden Schulen
+Q001491	Lehrer/Lehrerin an Fachschulen für die Seefahrt
+Q001492	Pflegepädagoge/Pflegepädagogin
+Q001493	Kosmetologe/Kosmetologin
+Q001494	Ausbildungsmeister/Ausbildungsmeisterin
+Q001495	Berufspädagoge/Berufspädagogin
+Q001496	Dozent/Dozentin an Hochschulen und Akademien
+Q001497	Professor/Professorin an Hochschulen
+Q001498	Wissenschaftlicher Mitarbeiter/Wissenschaftliche Mitarbeiterin an Hochschulen
+Q001499	Dozent/Dozentin für Musikberufe
+Q001500	Lehrer/Dozent/Lehrerin/Dozentin in der Erwachsenenbildung
+Q001501	Musiklehrer/Musiklehrerin
+Q001502	Musikpädagoge/Musikpädagogin
+Q001503	Rhythmiklehrer/Rhythmiklehrerin
+Q001504	Katechet/Katechetin (evangelisch)
+Q001505	Religionspädagoge/Religionspädagogin - evangelisch
+Q001506	Theaterpädagoge/Theaterpädagogin
+Q001507	Kreativitätspädagoge/Kreativitätspädagogin
+Q001508	Fachlehrer/Fachlehrerin für Informationsverarbeitung/Textverarbeitung/Bürowirtschaft
+Q001509	IT-Trainer/IT-Trainerin
+Q001510	Fremdsprachenlehrer/Fremdsprachenlehrerin
+Q001511	Ausbilder/Ausbilderin für Erste Hilfe
+Q001512	Nachhilfelehrer/Nachhilfelehrerin
+Q001513	Schulleiter in der Erwachsenenbildung/Schulleiterin in der Erwachsenenbildung
+Q001514	Staatlich geprüfter Sportlehrer/Staatlich geprüfte Sportlehrerin
+Q001515	Berufstrainer/Berufstrainerin im Sport
+Q001516	Sportpädagoge/Sportpädagogin
+Q001517	Fahrlehrer/Fahrlehrerin
+Q001518	Fluglehrer/Fluglehrerin
+Q001519	Tanzpädagoge/Tanzpädagogin
+Q001520	Staatlich geprüfter Tennislehrer/Staatlich geprüfte Tennislehrerin
+Q001521	Fußballtrainer/Fußballtrainerin (staatlich geprüft)
+Q001522	Fitnesstrainer/Fitnesstrainerin
+Q001523	Snowboardlehrer/Snowboardlehrerin
+Q001524	Skilehrer/Skilehrerin
+Q001525	Reitlehrer/Reitlehrerin
+Q001526	Reit- und Fahrlehrer/Reit- und Fahrlehrerin (Pferdesport)
+Q001527	Boxlehrer/Boxlehrerin
+Q001528	Eislauflehrer/Eislauflehrerin
+Q001529	Golflehrer/Golflehrerin
+Q001530	Schwimmlehrer/Schwimmlehrerin
+Q001531	Literaturwissenschaftler/Literaturwissenschaftlerin
+Q001532	Sprachwissenschaftler/Sprachwissenschaftlerin
+Q001533	Computerlinguist/Computerlinguistin
+Q001534	Philosoph/Philosophin
+Q001535	Religionswissenschaftler/Religionswissenschaftlerin
+Q001536	Historiker/Historikerin
+Q001537	Archäologe/Archäologin
+Q001538	Kommunikationswissenschaftler/Kommunikationswissenschaftlerin
+Q001539	Medienwissenschaftler/Medienwissenschaftlerin
+Q001540	Anthropologe/Anthropologin
+Q001541	Politologe/Politologin
+Q001542	Sozialwissenschaftler/Sozialwissenschaftlerin
+Q001543	Soziologe/Soziologin
+Q001544	Bildungsforscher/Bildungsforscherin
+Q001545	Kulturpädagoge/Kulturpädagogin
+Q001546	Fachwirt/Fachwirtin für Marktforschung
+Q001547	Meinungsforscher/Meinungsforscherin
+Q001548	Marktforscher/Marktforscherin
+Q001549	Demograf/Demografin
+Q001550	Arbeitswissenschaftler/Arbeitswissenschaftlerin
+Q001551	Kriminologe/Kriminologin
+Q001552	Kulturwissenschaftler/Kulturwissenschaftlerin
+Q001553	Interkultureller Kommunikationsberater/Interkulturelle Kommunikationsberaterin
+Q001554	Volkswirt/Volkswirtin
+Q001555	Werbekaufmann/Werbekauffrau
+Q001556	Marketingfachkraft / Marketingassistent/Marketingassistentin
+Q001557	Kaufmann/Kauffrau für Marketingkommunikation
+Q001558	Fachkaufmann/Fachkauffrau für Werbung und Kommunikation
+Q001559	Mediaplaner/Mediaplanerin
+Q001560	Werbetexter/Werbetexterin
+Q001561	Produktmanager/Produktmanagerin
+Q001562	Absatz- und Werbewirtschaftler/Absatz- und Werbewirtschaftlerin
+Q001563	Fachwirt/Fachwirtin für Werbung
+Q001564	Merchandiser/Merchandiserin
+Q001565	Onlinemarketing-Manager/Onlinemarketing-Managerin
+Q001566	Betriebswirt/Betriebswirtin (Fachschule) für Marketingkommunikation
+Q001567	Betriebswirt/Betriebswirtin (Fachschule) für Absatz/Marketing
+Q001568	Geprüfter Fachwirt/Geprüfte Fachwirtin für Marketing
+Q001569	Social-Media-Manager/Social-Media-Managerin
+Q001570	SEO-Manager/SEO-Managerin
+Q001571	Customer-Experience-Manager/Customer-Experience-Managerin
+Q001572	Category-Manager/Category-Managerin
+Q001573	Betriebswirt/Betriebswirtin (Hochschule) für Marketing
+Q001574	Brand-Manager/Brand-Managerin
+Q001575	Callcenteragent/Callcenteragentin
+Q001576	Servicefachkraft für Dialogmarketing
+Q001577	Trainer/Trainerin, Supervisor/Supervisorin im Callcenter
+Q001578	Relationship-Manager/Relationship-Managerin
+Q001579	Werbeleiter/Werbeleiterin
+Q001580	Leiter/Leiterin - Marketing
+Q001581	Investor-Relations-Manager/Investor-Relations-Managerin
+Q001582	PR-Fachkraft
+Q001583	Fundraiser/Fundraiserin
+Q001584	Politischer Berater/Politische Beraterin
+Q001585	Campaigner/Campaignerin
+Q001586	Pressesprecher/Pressesprecherin
+Q001587	Public-Affairs-Manager/Public-Affairs-Managerin
+Q001588	Leiter/Leiterin - Presse- und Öffentlichkeitsarbeit
+Q001589	Staatlich geprüfter kaufmännischer Medienassistent/Staatlich geprüfte kaufmännische Medienassistentin
+Q001590	Kaufmann/Kauffrau für audiovisuelle Medien
+Q001591	Verlagskaufmann/Verlagskauffrau
+Q001592	Medienkaufmann/Medienkauffrau Digital und Print
+Q001593	Anzeigenverkäufer/Anzeigenverkäuferin
+Q001594	Listbroker/in
+Q001595	Verleger/Verlegerin (Medien, Musik)
+Q001596	Redaktionsassistent/Redaktionsassistentin
+Q001597	E-Learning-Autor/E-Learning-Autorin
+Q001598	Content-Manager/Content-Managerin
+Q001599	Community-Manager/Community-Managerin
+Q001600	Bildredakteur/Bildredakteurin
+Q001601	Technischer Redakteur/Technische Redakteurin
+Q001602	Journalist/Journalistin
+Q001603	Auslandskorrespondent/Auslandskorrespondentin
+Q001604	Lektor/Lektorin in Verlagen
+Q001605	Autor/Schriftsteller / Autorin/Schriftstellerin
+Q001606	Drehbuchautor/Drehbuchautorin
+Q001607	Redenschreiber/Redenschreiberin
+Q001608	Chefredakteur/Chefredakteurin
+Q001609	Staatlich geprüfter Assistent/Staatlich geprüfte Assistentin für Produktdesign
+Q001610	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Produktdesign
+Q001611	Industrie-, Produktdesigner/Industrie-, Produktdesignerin
+Q001612	Ingenieur/Ingenieurin für Innenarchitektur
+Q001613	Innenarchitekt/Innenarchitektin
+Q001614	Schauwerbegestalter/Schauwerbegestalterin
+Q001615	Gestalter/Gestalterin für visuelles Marketing
+Q001616	Raumausstatter/Raumausstatterin
+Q001617	Geprüfter Restaurator im Raumausstatterhandwerk/Geprüfte Restauratorin im Raumausstatterhandwerk - Master Professional für Restaurierung im Handwerk
+Q001618	Raumausstatter/Raumausstatterin für Restaurierungsarbeiten
+Q001619	Geprüfter Gestaltungsberater/Geprüfte Gestaltungsberaterin im Raumausstatterhandwerk
+Q001620	Restaurator/Restauratorin (Hochschule)
+Q001621	Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin Fachrichtung Steinbildhauerarbeiten
+Q001622	Holzbildhauer/Holzbildhauerin
+Q001623	Bildhauer/Bildhauerin
+Q001624	Geprüfter Restaurator im Holzbildhauerhandwerk/Geprüfte Restauratorin im Holzbildhauerhandwerk - Master Professional für Restaurierung im Handwerk
+Q001625	Kunstmaler/Kunstmalerin
+Q001626	Karikaturist/Karikaturistin
+Q001627	Comic-Zeichner/Comic-Zeichnerin
+Q001628	Trickfilmzeichner/Trickfilmzeichnerin
+Q001629	Scherenschneider/Scherenschneiderin
+Q001630	Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin) Fachrichtung Drechseln
+Q001631	Holzspielzeugmacher/Holzspielzeugmacherin
+Q001632	Spielzeughersteller/Spielzeugherstellerin
+Q001633	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Spielzeug
+Q001634	Vergolder/Vergolderin
+Q001635	Wachszieher/Wachszieherin Fachrichtung Kerzenherstellung
+Q001636	Kerzenhersteller und Wachsbildner/Kerzenherstellerin und Wachsbildnerin Schwerpunkt Kerzenherstellung
+Q001637	Vergoldermeister/Vergoldermeisterin
+Q001638	Keramiker/Keramikerin Fachrichtung Baukeramik
+Q001639	Töpfer/Töpferin
+Q001640	Keramiker/Keramikerin
+Q001641	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Keramik
+Q001642	Keramiker/Keramikerin Fachrichtung Dekoration
+Q001643	Glas- und Kerammaler/Glas- und Kerammalerin Fachrichtung Kerammalerei
+Q001644	Glas- und Kerammaler/Glas- und Kerammalerin Fachrichtung Glasmalerei
+Q001645	Glas- und Porzellanmaler/Glas- und Porzellanmalerin
+Q001646	Kerammaler/Kerammalerin
+Q001647	Manufakturporzellanmaler/Manufakturporzellanmalerin
+Q001648	Industriekeramiker/Industriekeramikerin Dekorationstechnik
+Q001649	Staatlich geprüfter Glasbildner/Staatlich geprüfte Glasbildnerin
+Q001650	Edelsteinschleifer/Edelsteinschleiferin (ohne Fachrichtungen)
+Q001651	Edelsteingraveur/Edelsteingraveurin
+Q001652	Goldschmied/Goldschmiedin Fachrichtung Juwelen
+Q001653	Goldschmied/Goldschmiedin Fachrichtung Ketten
+Q001654	Edelsteinfasser/Edelsteinfasserin
+Q001655	Metallbildner/Metallbildnerin Fachrichtung Goldschlagtechnik
+Q001656	Silberschmied/Silberschmiedin
+Q001657	Staatlich geprüfter Designer/Staatlich geprüfte Designerin - angewandte Formgebung, Schmuck und Gerät
+Q001658	Gold-, Silber- und Aluminiumschläger/Gold-, Silber- und Aluminiumschlägerin
+Q001659	Edelsteinschleifer/Edelsteinschleiferin Fachrichtung Edelsteingravieren
+Q001660	Edelsteinschleifer/Edelsteinschleiferin Fachrichtung Edelsteinschleifen
+Q001661	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Edelstein, Schmuck und Gerät
+Q001662	Staatlich geprüfter Gestalter/Staatlich geprüfte Gestalterin Fachrichtung Edelmetall
+Q001663	Schmuckdesigner/Schmuckdesignerin
+Q001664	Graveur/Graveurin (mit Schwerpunkten)
+Q001665	Flachgraveur/Flachgraveurin
+Q001666	Graveur/Graveurin
+Q001667	Maler/Malerin in der Herstellung von Beschriftungen, Schildern, Werbeobjekten
+Q001668	Schilder- und Lichtreklamehersteller/Schilder- und Lichtreklameherstellerin
+Q001669	Schilder- und Lichtreklamehersteller/Schilder- und Lichtreklameherstellerin Schwerpunkt Technik, Montage, Werbeelektrik/-elektronik
+Q001670	Schilder- und Lichtreklamehersteller/Schilder- und Lichtreklameherstellerin Schwerpunkt Grafik, Druck, Applikation
+Q001671	Gold- und Silberschmiedemeister/Gold- und Silberschmiedemeisterin
+Q001672	Musikinstrumentenbauer/Musikinstrumentenbauerin
+Q001673	Geigenbauer/Geigenbauerin
+Q001674	Zupfinstrumentenmacher/Zupfinstrumentenmacherin Fachrichtung Gitarrenbau
+Q001675	Zupfinstrumentenmacher/Zupfinstrumentenmacherin Fachrichtung Harfenbau
+Q001676	Klavier- und Cembalobauer/Klavier- und Cembalobauerin Fachrichtung Cembalobau
+Q001677	Klavier- und Cembalobauer/Klavier- und Cembalobauerin Fachrichtung Klavierbau
+Q001678	Klavierbauer/Klavierbauerin
+Q001679	Orgel- und Harmoniumbauer/Orgel- und Harmoniumbauerin Fachrichtung Orgelbau
+Q001680	Orgelbauer/Orgelbauerin Fachrichtung Orgelbau
+Q001681	Musikwissenschaftler/Musikwissenschaftlerin
+Q001682	Sänger/Sängerin
+Q001683	Liedermacher/Liedermacherin
+Q001684	Staatlich geprüfter Ensembleleiter/Staatlich geprüfte Ensembleleiterin
+Q001685	Chordirektor/Chordirektorin
+Q001686	Dirigent/Dirigentin
+Q001687	Musikalischer Oberleiter/Musikalische Oberleiterin
+Q001688	Musikdirektor/Musikdirektorin
+Q001689	Chefdirigent/Chefdirigentin
+Q001690	Arrangeur/Arrangeurin
+Q001691	Komponist/Komponistin
+Q001692	Audiodesigner/Audiodesignerin - Musik
+Q001693	Ballettrepetitor/Ballettrepititorin
+Q001694	Korrepetitor/Korrepetitorin
+Q001695	Studienleiter/Studienleiterin für Musik
+Q001696	Schauspieler/Schauspielerin
+Q001697	Synchronsprecher/Synchronsprecherin
+Q001698	Trainingsleiter/Trainingsleiter (Ballett)
+Q001699	Ballettmeister/Ballettmeisterin
+Q001700	Bühnentänzer/Bühnentänzerin
+Q001701	Choreograf/Choreografin
+Q001702	Mannequin/Dressman
+Q001703	Berufssportler/Berufssportlerin
+Q001704	Stuntman/Stuntwoman
+Q001705	Komparse/Komparsin
+Q001706	Statist/Statistin
+Q001707	Kleindarsteller/Kleindarstellerin
+Q001708	Puppenspieler (Hochschule)/Puppenspielerin (Hochschule)
+Q001709	Komiker/Komikerin
+Q001710	Humorist/Humoristin
+Q001711	Hörfunk- und Fernsehsprecher/Hörfunk- und Fernsehsprecherin
+Q001712	Sprecher/Sprecherin (Fernsehen/Film/Rundfunk)
+Q001713	Moderator/Moderatorin (Funk, Fernsehen)
+Q001714	Schausteller/Schaustellerin
+Q001715	Croupier/Croupière
+Q001716	Wahrsager/Wahrsager
+Q001717	Diskjockey
+Q001718	Astrologe/Astrologin
+Q001719	Script Supervisor
+Q001720	Dramaturg/Dramaturgin
+Q001721	Producer/Producerin
+Q001722	Regieassistent/Regieassistentin
+Q001723	Inspizient/Inspizientin
+Q001724	Regie-Anfänger/Regie-Anfängerin
+Q001725	Erster Regieassistent/Erste Regieassistentin
+Q001726	Zweiter Regieassistent/Zweite Regieassistentin
+Q001727	Regisseur/Regisseurin
+Q001728	Souffleur/Souffleuse
+Q001729	Programmberufe (Fernsehen/Rundfunk)
+Q001730	Künstlervermittler/Künstlervermittlerin (nicht bei der Agentur für Arbeit)
+Q001731	Casting-Direktor/Casting-Direktorin
+Q001732	Produktionsleiter/Produktionsleiterin - Film und Fernsehen
+Q001733	Leiter/Leiterin des Künstlerischen Betriebsbüros
+Q001734	Intendant/Intendantin
+Q001735	Künstlerischer Betriebsdirektor/Künstlerische Betriebsdirektorin
+Q001736	Technischer Assistent/Technische Assistentin - Bühne/Film/Fernsehen
+Q001737	Fachkraft für Veranstaltungstechnik (mit Schwerpunkten)
+Q001738	Assistent/Assistentin für Veranstaltungstechnik
+Q001739	Fachkraft für Veranstaltungstechnik
+Q001740	Beleuchter/Beleuchterin
+Q001741	Lichtplaner/Lichtplanerin
+Q001742	Diplom-Ingenieur/Diplom-Ingenieurin (FH) Fachrichtung Theater- und Veranstaltungstechnik
+Q001743	Ingenieur/Ingenieurin für Veranstaltungstechnik
+Q001744	Kameramann/Kamerafrau
+Q001745	Kamera-Operator/Kamera-Operatorin
+Q001746	Audio-Engineer
+Q001747	Tonassistent/Tonassistentin (Tontechnik)
+Q001748	Film- und Videoeditor/Film- und Videoeditorin
+Q001749	Pyrotechniker/Pyrotechnikerin
+Q001750	Bühnenmeister/Bühnenmeisterin
+Q001751	Technischer Leiter/Technische Leiterin - Bühne/Film/Fernsehen
+Q001752	Beleuchtungsmeister/Beleuchtungsmeisterin
+Q001753	Geprüfter Meister für Veranstaltungstechnik Fachrichtung Bühne/Studio / Geprüfte Meisterin für Veranstaltungstechnik Fachrichtung Bühne/Studio
+Q001754	Geprüfter Meister für Veranstaltungstechnik Fachrichtung Beleuchtung/Geprüfte Meisterin für Veranstaltungstechnik Fachrichtung Beleuchtung
+Q001755	Technischer Direktor/Technische Direktorin
+Q001756	Leiter/Leiterin der Beleuchtung
+Q001757	Bühnenmaler und Bühnenplastiker/Bühnenmalerin und Bühnenplastikerin Fachrichtung Malerei
+Q001758	Bühnenbild-Assistent/Bühnenbild-Assistentin
+Q001759	Bühnenmaler und Bühnenplastiker/Bühnenmalerin und Bühnenplastikerin Fachrichtung Plastik
+Q001760	Set-Decorator
+Q001761	Erster Bühnenmaler und Bühnenplastiker/Erste Bühnenmalerin und Bühnenplastikerin - Plastik
+Q001762	Erster Bühnenmaler und Bühnenplastiker/Erste Bühnenmalerin und Bühnenplastikerin - Malerei
+Q001763	Kostümbildner/Kostümbildnerin
+Q001764	Bühnenbildner/Bühnenbildnerin
+Q001765	Szenenbildner/Szenenbildnerin
+Q001766	Filmarchitekt/Filmarchitektin
+Q001767	Ausstatter/Ausstatterin
+Q001768	Bühnenbildner/Bühnenbildnerin mit technischen Mitarbeitern
+Q001769	Geprüfter Requisiteur/Geprüfte Requisiteurin
+Q001770	Requisitenmeister/Requisitenmeisterin
+Q001771	Registrar/Registrarin (Museum)
+Q001772	Kurator/Kuratorin
+Q001773	Museologe/Museologin
+Q001774	Technischer Assistent/Technische Assistentin für naturkundliche Museen und Forschungsinstitute
+Q001775	Staatlich geprüfter Techniker/Staatlich geprüfte Technikerin Fachrichtung Museums- und Ausstellungstechnik
+Q001776	Konservator/Konservatorin
+Q001777	Technikwissenschaftler/Technikwissenschaftlerin
+Q001778	Gemmologe/Gemmologin
+Q001779	Leiter/Leiterin eines Museums

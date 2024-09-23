@@ -1,0 +1,362 @@
+Q000001	Commissari di governo, prefetti e vice prefetti
+Q000002	Segretari generali e responsabili del controllo e della gestione nella amministrazione pubblica
+Q000003	Dirigenti di sindacati e altre organizzazioni a tutela di interessi economici e sociali
+Q000004	Imprenditori e amministratori di grandi aziende
+Q000005	Imprenditori e amministratori di grandi aziende che operano nell'agricoltura, nell'allevamento, nella silvicoltura, nella caccia e nella pesca
+Q000006	Imprenditori e amministratori di grandi aziende che operano nell'estrazione dei minerali, nella manifattura, nella produzione e distribuzione di energia elettrica, gas e acqua e nella gestione dei rifiuti
+Q000007	Imprenditori e amministratori di grandi aziende di costruzioni
+Q000008	Imprenditori e amministratori di grandi aziende nel commercio
+Q000009	Imprenditori e amministratori di grandi aziende nei servizi di alloggio e ristorazione
+Q000010	Imprenditori e amministratori di grandi aziende nel settore dei trasporti e magazzinaggio
+Q000011	Imprenditori e amministratori di grandi aziende nei servizi editoriali, di produzione cinematografica, radiofonica e televisiva
+Q000012	Imprenditori e amministratori di grandi aziende nei servizi informatici e di telecomunicazione
+Q000013	Imprenditori e amministratori di grandi banche, assicurazioni, agenzie immobiliari, di intermediazione finanziaria
+Q000014	Imprenditori e amministratori di grandi aziende nei servizi alle imprese e alle persone
+Q000015	Imprenditori e amministratori di grandi istituti scolastici, universitari e di ricerca privati
+Q000016	Imprenditori e amministratori di grandi ospedali, cliniche private o grandi aziende di assistenza sociale
+Q000017	Imprenditori e amministratori di grandi aziende nel settore delle attività sportive, ricreative, di intrattenimento e di divertimento
+Q000018	Direttori e dirigenti generali di aziende che operano nell'agricoltura, nell'allevamento, nella silvicoltura, nella caccia e nella pesca
+Q000019	Direttori e dirigenti generali di aziende che operano nella manifattura, nell'estrazione dei minerali, nella produzione e distribuzione di energia elettrica, gas, acqua e nelle attività di gestione dei rifiuti
+Q000020	Direttori e dirigenti generali di aziende nelle costruzioni
+Q000021	Direttori e dirigenti generali di aziende nel commercio
+Q000022	Direttori e dirigenti generali di aziende nei servizi editoriali, di produzione cinematografica, radiofonica e televisiva
+Q000023	Direttori e dirigenti generali di banche, assicurazioni, agenzie immobiliari e di intermediazione finanziaria
+Q000024	Direttori e dirigenti del dipartimento finanza ed amministrazione
+Q000025	Imprenditori e responsabili di piccole aziende che operano nell'agricoltura, nell'allevamento, nella silvicoltura, nella caccia e nella pesca
+Q000026	Imprenditori e responsabili di piccole aziende che operano nell'estrazione di minerali, nella manifattura, nella produzione e distribuzione di energia elettrica, gas e acqua e nelle attività di gestione dei rifiuti
+Q000027	Imprenditori e responsabili di piccole aziende nelle costruzioni
+Q000028	Imprenditori e responsabili di piccole aziende nel commercio
+Q000029	Imprenditori e responsabili di piccoli alberghi, alloggi o aree di campeggio e di piccoli esercizi di ristorazione
+Q000030	Imprenditori e responsabili di piccole aziende nei trasporti e magazzinaggio
+Q000031	Imprenditori e responsabili di piccole aziende nei servizi editoriali, di produzione cinematografica, radiofonica e televisiva
+Q000032	Imprenditori e responsabili di piccole aziende nei servizi informatici e di telecomunicazione
+Q000033	Imprenditori e responsabili di piccoli istituti di credito e di intermediazione finanziaria, assicurativa e immobiliare
+Q000034	Imprenditori e responsabili di piccole aziende nei servizi alle imprese e alle persone
+Q000035	Imprenditori e responsabili di piccole aziende nei servizi di sanità e assistenza sociale
+Q000036	Imprenditori e responsabili di piccole aziende nel settore delle attività sportive, ricreative, di intrattenimento e divertimento
+Q000037	Fisici
+Q000038	Chimici informatori e divulgatori
+Q000039	Matematici
+Q000040	Statistici
+Q000041	Specialisti in reti e comunicazioni informatiche
+Q000042	Geologi
+Q000043	Paleontologi
+Q000044	Geofisici
+Q000045	Meteorologi
+Q000046	Idrologi
+Q000047	Ingegneri meccanici
+Q000048	Ingegneri navali
+Q000049	Ingegneri metallurgici
+Q000050	Ingegneri elettronici
+Q000051	Ingegneri in telecomunicazioni
+Q000052	Ingegneri dei materiali
+Q000053	Ingegneri edili e ambientali
+Q000054	Ingegneri idraulici
+Q000055	Ingegneri industriali e gestionali
+Q000056	Architetti
+Q000057	Biochimici
+Q000058	Biofisici
+Q000059	Botanici
+Q000060	Zoologi
+Q000061	Ecologi
+Q000062	Farmacologi
+Q000063	Microbiologi
+Q000064	Veterinari
+Q000065	Farmacisti
+Q000066	Medici generici
+Q000067	Specialisti in terapie chirurgiche
+Q000068	Laboratoristi e patologi clinici
+Q000069	Specialisti in diagnostica per immagini e radioterapia
+Q000070	Specialisti in medicina sociale e del lavoro
+Q000071	Epidemiologi
+Q000072	Specialisti dell’organizzazione del lavoro
+Q000073	Avvocati
+Q000074	Esperi legali in enti pubblici
+Q000075	Notai
+Q000076	Magistrati
+Q000077	Antropologi
+Q000078	Geografi
+Q000079	Archeologi
+Q000080	Psicologi clinici e psicoterapeuti
+Q000081	Psicologi dello sviluppo e dell’educazione
+Q000082	Psicologi del lavoro e delle organizzazioni
+Q000083	Storici
+Q000084	Specialisti in scienza politica
+Q000085	Filosofi
+Q000086	Giornalisti
+Q000087	Interpreti e traduttori di livello elevato
+Q000088	Revisori di testi
+Q000089	Archivisti
+Q000090	Bibliotecari
+Q000091	Curatori e conservatori di musei
+Q000092	Pittori e scultori
+Q000093	Disegnatori di moda
+Q000094	Restauratori di beni culturali
+Q000095	Registi
+Q000096	Attori
+Q000097	Direttori artistici
+Q000098	Sceneggiatori
+Q000099	Scenografi
+Q000100	Coreografi
+Q000101	Ballerini
+Q000102	Compositori
+Q000103	Cantanti
+Q000104	Artisti di varietà
+Q000105	Acrobati e artisti circensi
+Q000106	Docenti universitari in scienze fisiche
+Q000107	Docenti universitari in scienze della terra
+Q000108	Docenti universitari in scienze biologiche
+Q000109	Docenti universitari in scienze agrarie, zootecniche e della produzione animale
+Q000110	Docenti universitari in scienze mediche
+Q000111	Docenti universitari in scienze ingegneristiche e dell'architettura
+Q000112	Docenti universitari in scienze ingegneristiche civili e dell’architettura
+Q000113	Docenti universitari in scienze ingegneristiche industriali e dell’informazione
+Q000114	Docenti universitari in scienze giuridiche
+Q000115	Ricercatori e tecnici laureati nelle scienze matematiche e dell’informazione
+Q000116	Ricercatori e tecnici laureati nelle scienze fisiche
+Q000117	Ricercatori e tecnici laureati nelle scienze chimiche e farmaceutiche
+Q000118	Ricercatori e tecnici laureati nelle scienze della terra
+Q000119	Ricercatori e tecnici laureati nelle scienze biologiche
+Q000120	Ricercatori e tecnici laureati nelle scienze agrarie, zootecniche e della produzione animale
+Q000121	Ricercatori e tecnici laureati nelle scienze mediche
+Q000122	Ricercatori e tecnici laureati nelle scienze ingegneristiche civili e dell’architettura
+Q000123	Ricercatori e tecnici laureati nelle scienze ingegneristiche industriali e dell’informazione
+Q000124	Ricercatori e tecnici laureati nelle scienze dell'antichità, filologico-letterarie e storico-artistiche
+Q000125	Ricercatori e tecnici laureati nelle scienze storiche e filosofiche
+Q000126	Ricercatori e tecnici laureati nelle scienze pedagogiche e psicologiche
+Q000127	Ricercatori e tecnici laureati nelle scienze economiche e statistiche
+Q000128	Ricercatori e tecnici laureati nelle scienze giuridiche
+Q000129	Ricercatori e tecnici laureati nelle scienze politiche e sociali
+Q000130	Professori di scuola secondaria, post-secondaria e professioni assimilate
+Q000131	Professori di scienze della vita e della salute nella scuola secondaria superiore
+Q000132	Professori di discipline tecnico-ingegneristiche nella scuola secondaria superiore
+Q000133	Professori di scienze dell'informazione nella scuola secondaria superiore
+Q000134	Professori di discipline tecniche e scientifiche nella scuola secondaria inferiore
+Q000135	Professori di scuola primaria
+Q000136	Esperti della progettazione formativa e curricolare
+Q000137	Consiglieri dell'orientamento
+Q000138	Insegnanti di arti figurative
+Q000139	Insegnanti di danza
+Q000140	Insegnanti di canto
+Q000141	Insegnanti di strumenti musicali
+Q000142	Insegnanti di lingue
+Q000143	Tecnici geologici
+Q000144	Tecnici chimici
+Q000145	Tecnici programmatori
+Q000146	Tecnici esperti in applicazioni
+Q000147	Tecnici web
+Q000148	Tecnici per le telecomunicazioni
+Q000149	Tecnici meccanici
+Q000150	Tecnici minerari
+Q000151	Tecnici metallurgici
+Q000152	Elettrotecnici
+Q000153	Tecnici elettronici
+Q000154	Disegnatori tessili
+Q000155	Rilevatori e disegnatori di prospezioni
+Q000156	Tecnici della conduzione e del controllo di impianti di produzione dei metalli
+Q000157	Tecnici della conduzione e del controllo di impianti di produzione della carta
+Q000158	Tecnici della conduzione e del controllo di catene di montaggio automatiche
+Q000159	Tecnici dell'esercizio di reti idriche e di altri fluidi
+Q000160	Tecnici della produzione manifatturiera
+Q000161	Tecnici della produzione alimentare
+Q000162	Piloti navali
+Q000163	Piloti e ufficiali di aeromobili
+Q000164	Tecnici avionici
+Q000165	Tecnici aerospaziali
+Q000166	Tecnici del traffico aeroportuale
+Q000167	Tecnici della raccolta e trattamento dei rifiuti e della bonifica ambientale
+Q000168	Podologi
+Q000169	Fisioterapisti
+Q000170	Logopedisti
+Q000171	Ortottisti - assistenti di oftalmologia
+Q000172	Terapisti della neuro e psicomotricità dell’età evolutiva
+Q000173	Tecnici della riabilitazione psichiatrica
+Q000174	Terapisti occupazionali
+Q000175	Tecnici sanitari di laboratorio biomedico
+Q000176	Tecnici sanitari di radiologia medica
+Q000177	Tecnici ortopedici
+Q000178	Tecnici audioprotesisti
+Q000179	Igienisti dentali
+Q000180	Assistenti sanitari
+Q000181	Odontotecnici
+Q000182	Tecnici agronomi
+Q000183	Tecnici forestali
+Q000184	Zootecnici
+Q000185	Tecnici di laboratorio biochimico
+Q000186	Contabili
+Q000187	Amministratore di stabili e condomini
+Q000188	Tecnici dell'acquisizione delle informazioni
+Q000189	Tecnici dei contratti di scambio, a premi e del recupero crediti
+Q000190	Tecnici della locazione finanziaria
+Q000191	Tecnici della vendita e della distribuzione
+Q000192	Agenti di pubblicità
+Q000193	Rappresentanti di commercio
+Q000194	Organizzatori di fiere, esposizioni ed eventi culturali
+Q000195	Animatori turistici e professioni assimilate
+Q000196	Agenti di viaggio
+Q000197	Istruttori di volo
+Q000198	Istruttori di guida automobilistica
+Q000199	Insegnanti nella formazione professionale
+Q000200	Osservatori sportivi
+Q000201	Atleti
+Q000202	Allestitori di scena
+Q000203	Tecnici dei musei
+Q000204	Stimatori di opere d'arte
+Q000205	Periti filatelici e numismatici
+Q000206	Periti calligrafi
+Q000207	Assistenti sociali
+Q000208	Tecnici del reinserimento e dell’integrazione sociale
+Q000209	Tecnici dei servizi di sicurezza dei vigili urbani
+Q000210	Tecnici dei servizi di sicurezza dei vigili del fuoco
+Q000211	Controllori fiscali
+Q000212	Addetti agli affari generali
+Q000213	Addetti al protocollo e allo smistamento di documenti
+Q000214	Addetti all'immissione dati
+Q000215	Addetti alle macchine per la riproduzione e l'invio di materiali e documenti
+Q000216	Addetti agli sportelli dei servizi postali
+Q000217	Addetti alla vendita di biglietti
+Q000218	Addetti all'accoglienza e all'informazione nelle imprese e negli enti pubblici
+Q000219	Addetti all'accoglienza nei servizi di alloggio e ristorazione
+Q000220	Addetti all'informazione nei Call Center (senza funzioni di vendita)
+Q000221	Addetti alle buste paga
+Q000222	Addetti ai servizi statistici
+Q000223	Addetti agli uffici interni di cassa
+Q000224	Addetti al controllo della documentazione di viaggio
+Q000225	Esercenti delle vendite al minuto in negozi
+Q000226	Cassieri di esercizi commerciali
+Q000227	Addetti all'informazione e all'assistenza dei clienti
+Q000228	Camerieri di albergo
+Q000229	Camerieri di ristorante
+Q000230	Esercenti di attività di ristorazione nei mercati e in posti assegnati
+Q000231	Assistenti di volo
+Q000232	Accompagnatori turistici
+Q000233	Esercenti di cinema e teatri
+Q000234	Esercenti di locali notturni
+Q000235	Esercenti di attività ricreative
+Q000236	Allibratori
+Q000237	Croupiers
+Q000238	Addestratori di animali
+Q000239	Custodi e allevatori di animali domestici e da esposizione
+Q000240	Esercenti di agenzie per il disbrigo di pratiche e professioni assimilate
+Q000241	Addetti di agenzie per il disbrigo di pratiche e professioni assimilate
+Q000242	Vigili urbani
+Q000243	Agenti della Polizia di Stato
+Q000244	Vigili del fuoco
+Q000245	Agenti di istituti di pena e rieducazione
+Q000246	Coltivatori di saline
+Q000247	Artigiani ed operai specializzati addetti alle costruzioni e al mantenimento di strutture edili
+Q000248	Ponteggiatori
+Q000249	Armatori di gallerie e pozzi
+Q000250	Armatori di ferrovie
+Q000251	Asfaltisti
+Q000252	Lastricatori e pavimentatori stradali
+Q000253	Montatori di manufatti prefabbricati e di preformati
+Q000254	Intonacatori
+Q000255	Vetrai
+Q000256	Installatori di impianti termici nelle costruzioni civili
+Q000257	Pittori edili
+Q000258	Aggiustatori meccanici
+Q000259	Gommisti
+Q000260	Meccanici di biciclette e veicoli assimilati
+Q000261	Riparatori e manutentori di macchinari e impianti industriali
+Q000262	Riparatori e manutentori di apparecchi e impianti termoidraulici industriali
+Q000263	Installatori e montatori di apparecchi e impianti termoidraulici industriali
+Q000264	Riparatori di apparecchi elettrici e di elettrodomestici
+Q000265	Riparatori di apparecchi radio televisivi
+Q000266	Installatori, manutentori e riparatori di apparecchiature informatiche
+Q000267	Meccanici di precisione
+Q000268	Accordatori di strumenti musicali
+Q000269	Addetti alla costruzione e riparazione di strumenti musicali
+Q000270	Addetti alla costruzione e riparazione di orologi
+Q000271	Addetti alla produzione di lenti e occhiali
+Q000272	Orafi
+Q000273	Addetti alla lavorazione di bigiotteria
+Q000274	Ceramisti
+Q000275	Soffiatori e modellatori del vetro
+Q000276	Cartapestai
+Q000277	Incisori e intarsiatori su legno
+Q000278	Operatori delle attività poligrafiche di pre-stampa
+Q000279	Artigiani acquafortisti
+Q000280	Agricoltori e operai agricoli specializzati di colture in pieno campo
+Q000281	Agricoltori e operai agricoli specializzati di coltivazioni legnose agrarie
+Q000282	Agricoltori e operai agricoli specializzati di colture miste
+Q000283	Allevatori e operai specializzati degli allevamenti di bovini ed equini
+Q000284	Allevatori e operai specializzati degli allevamenti di suini
+Q000285	Abbattitori di alberi e rimboschitori
+Q000286	Sugherai e raccoglitori di resine
+Q000287	Pescatori della pesca costiera e in acque interne
+Q000288	Pescatori d'alto mare
+Q000289	Cacciatori
+Q000290	Macellai e abbattitori di animali
+Q000291	Panettieri
+Q000292	Pastai
+Q000293	Gelatai
+Q000294	Stagionatori ed operai specializzati del primo trattamento del legno
+Q000295	Curvatori, sagomatori ed operai specializzati della prima lavorazione del legno
+Q000296	Attrezzisti di falegnameria
+Q000297	Montatori di mobili
+Q000298	Lavoranti in sughero e spugna
+Q000299	Tessitori
+Q000300	Tintori e addetti al trattamento chimico dei tessuti
+Q000301	Modellisti di capi di abbigliamento
+Q000302	Tagliatori di capi di abbigliamento
+Q000303	Sarti
+Q000304	Cappellai
+Q000305	Pellicciai e sarti in pelle
+Q000306	Confezionatori e rifinitori di biancheria intima
+Q000307	Confezionatori e rifinitori di biancheria per la casa
+Q000308	Bottonai
+Q000309	Confezionatori di tende e drappeggi
+Q000310	Modellisti di poltrone e divani
+Q000311	Materassai
+Q000312	Conciatori di pelli e di pellicce
+Q000313	Modellisti di calzature
+Q000314	Tagliatori di calzature
+Q000315	Modellisti di pelletteria
+Q000316	Conduttori di impianti per il primo trattamento di minerali e di pietre
+Q000317	Trivellatori di pozzi
+Q000318	Operatori di colata
+Q000319	Operatori di laminatoi
+Q000320	Conduttori di macchine per la trafila di metalli
+Q000321	Conduttori di forni per la produzione di articoli in ceramica e terracotta
+Q000322	Conduttori di impianti per la formatura di laterizi
+Q000323	Conduttori di forni per la produzione di laterizi
+Q000324	Operatori di impianti per la preparazione della pasta di legno e di altri materiali per cartiera
+Q000325	Operatori di macchinari per la produzione di prodotti derivati dalla chimica (farmaci esclusi)
+Q000326	Operatori di catene di montaggio automatizzate
+Q000327	Conduttori di mulini e impastatrici
+Q000328	Conduttori di macchinari per la fabbricazione di altri articoli in gomma
+Q000329	Addetti a macchinari per la produzione in serie di mobili e di articoli in legno
+Q000330	Conduttori di macchinari per tipografia e stampa su carta e cartone
+Q000331	Conduttori di macchinari per la fabbricazione di prodotti in carta e cartone
+Q000332	Conduttori di macchinari per rilegatura di libri e assimilati
+Q000333	Addetti a macchinari per la stampa dei tessuti
+Q000334	Addetti a macchinari per la produzione in serie di articoli in pelle e pelliccia
+Q000335	Addetti a macchinari per la produzione in serie di calzature
+Q000336	Altri operai addetti a macchinari dell'industria tessile e delle confezioni ed assimilati
+Q000337	Assemblatori in serie di parti di macchine
+Q000338	Assemblatori in serie di articoli in cartone, in tessuto e materie assimilate
+Q000339	Assemblatori in serie di articoli industriali compositi
+Q000340	Conduttori di macchinari per la cernita e la calibratura di prodotti ortofrutticoli
+Q000341	Conduttori di macchinari per la conservazione di frutta e verdura
+Q000342	Conduttori di macchinari per la produzione e la raffinazione dello zucchero
+Q000343	Conduttori di macchinari per la preparazione e la produzione della cioccolata
+Q000344	Conduttori di macchinari per la produzione di pasticceria e prodotti da forno
+Q000345	Manovratori di impianti a fune
+Q000346	Conduttori di trattori agricoli
+Q000347	Conduttori di macchine raccoglitrici, trinciatrici e pressatrici agricole
+Q000348	Conduttori di mietitrebbiatrici
+Q000349	Conduttori di macchine per la raccolta di prodotti agricoli (barbabietole, patate, frutta, uva e ortive)
+Q000350	Conduttori di gru e di apparecchi di sollevamento
+Q000351	Marinai di coperta
+Q000352	Conduttori di caldaie ed altre attrezzature navali
+Q000353	Venditori ambulanti di beni
+Q000354	Venditori ambulanti di servizi
+Q000355	Personale non qualificato addetto ai servizi di pulizia di uffici ed esercizi commerciali
+Q000356	Addetti al lavaggio veicoli
+Q000357	Bidelli e professioni assimilate
+Q000358	Braccianti agricoli
+Q000359	Manovali ed altro personale non qualificato delle miniere e delle cave
+Q000360	Manovali e personale non qualificato dell’edilizia civile e professioni assimilate
+Q000361	Manovali e personale non qualificato della costruzione e manutenzione di strade, dighe e altre opere pubbliche
+Q000362	Ufficiali delle forze armate

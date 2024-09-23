@@ -1,0 +1,734 @@
+Q000001	Officer
+Q000002	Departementschef
+Q000003	Diplomat
+Q000004	Politidirektør
+Q000005	Leder af offentlig forvaltning
+Q000006	Sygehusdirektør
+Q000007	Generalsekretær
+Q000008	Regionsdirektør
+Q000009	Lufthavnschef
+Q000010	Driftsleder
+Q000011	Økonomichef
+Q000012	Regnskabschef
+Q000013	Finanschef
+Q000014	Personalechef
+Q000015	Ligestillings- og inklusionschef
+Q000016	Chefstrateg
+Q000017	Chefkonsulent
+Q000018	Turismechef
+Q000019	Programchef
+Q000020	Administrationschef
+Q000021	Sikkerhedschef
+Q000022	CSR-ansvarlig
+Q000023	Afdelingsleder, offentlig
+Q000024	Områdechef
+Q000025	Facility manager
+Q000026	Projektleder
+Q000027	Kontorleder
+Q000028	Destinationschef
+Q000029	Salgschef
+Q000030	Produktchef
+Q000031	Kontraktchef
+Q000032	E-commerce manager
+Q000033	Marketingchef
+Q000034	Salgsdirektør
+Q000035	Kommunikationschef
+Q000036	Reklamechef
+Q000037	IT-produktchef
+Q000038	Skovrider
+Q000039	Produktionschef
+Q000040	Driftschef
+Q000041	Logistikchef
+Q000042	Transportchef
+Q000043	Import- og eksportchef
+Q000044	Supply chain manager
+Q000045	Indkøbschef
+Q000046	Ressourceleder
+Q000047	Lagerchef
+Q000048	Chief data officer
+Q000049	Information- og videnchef IT
+Q000050	IT-chef
+Q000051	IT-direktør
+Q000052	IT-dokumentationschef
+Q000053	IT-projektleder
+Q000054	Dagtilbudsleder
+Q000055	Vuggestueleder
+Q000056	Daglig leder, institution for børn og unge
+Q000057	Souschef, institution for børn og unge
+Q000058	Institutionsleder, ældre
+Q000059	Institutionsleder, børn og unge
+Q000060	Souschef, institution for ældre
+Q000061	Daglig leder, institution
+Q000062	Plejehjemsleder
+Q000063	Daglig leder, institution for ældre
+Q000064	Leder af børne- og ungdomsklub
+Q000065	Børne- og ungekoordinator
+Q000066	Institutleder på universitet
+Q000067	Viceskoleleder
+Q000068	Efterskoleforstander
+Q000069	Rektor
+Q000070	Institut- / centerleder
+Q000071	Uddannelsesleder
+Q000072	Bankdirektør
+Q000073	Flysikkerhedschef
+Q000074	Miljø- og sikkerhedschef
+Q000075	Bibliotekschef
+Q000076	Laboratorieleder
+Q000077	Museumsleder
+Q000078	Kommunikationskoordinator
+Q000079	Kundeservicechef
+Q000080	Juridisk chef
+Q000081	Idrætsleder, kommunal
+Q000082	Rigsarkivar
+Q000083	Kunstnerisk leder
+Q000084	Brandchef
+Q000085	Hotelchef
+Q000086	Receptionschef, hotel
+Q000087	Restaurantchef
+Q000088	Souschef, køkken
+Q000089	Salgs- og kundeansvarlig
+Q000090	Bagermester
+Q000091	Cykelhandler
+Q000092	Regionschef
+Q000093	Centerleder
+Q000094	Produktionsleder inden for film og teater
+Q000095	Campingpladsbestyrer
+Q000096	Værkstedsleder
+Q000097	Receptionschef, kontor
+Q000098	Turistchef
+Q000099	Astronom
+Q000100	Fysiker
+Q000101	Meteorolog
+Q000102	Klimaforsker
+Q000103	Vejrvært
+Q000104	Metrolog
+Q000105	Kemiker
+Q000106	Geolog
+Q000107	Geofysiker
+Q000108	Aktuar
+Q000109	Demograf
+Q000110	Matematiker
+Q000111	Statistiker
+Q000112	Fysiolog
+Q000113	Specialist i biomedicin
+Q000114	Botaniker
+Q000115	Molekylærbiolog
+Q000116	Specialarbejder, medicinal
+Q000117	Farmakolog
+Q000118	Agronom
+Q000119	Skovbrugsrådgiver
+Q000120	Skov- og naturteknikerelev
+Q000121	Landbrugskonsulent
+Q000122	Økologikonsulent
+Q000123	Miljøanalytiker
+Q000124	Naturvejleder
+Q000125	Miljøkoordinator
+Q000126	Miljøkonsulent
+Q000127	Automationsingeniør
+Q000128	Levnedsmiddelingeniør
+Q000129	Logistiker
+Q000130	Procesingeniør
+Q000131	Byggetekniker
+Q000132	Civilingeniør
+Q000133	Miljøingeniør
+Q000134	Maskinkonstruktør
+Q000135	VVS-tekniker
+Q000136	Fødevareteknolog
+Q000137	Testingeniør
+Q000138	Energiingeniør
+Q000139	Elektronikingeniør
+Q000140	Hardware-udvikler
+Q000141	Sensortekniker
+Q000142	Medicoingeniør
+Q000143	Telekommunikationsingeniør
+Q000144	Arkitekt
+Q000145	Landskabsarkitekt
+Q000146	Havearkitekt
+Q000147	Industriel designer
+Q000148	Kostumedesigner
+Q000149	Designer
+Q000150	Beklædningsdesigner
+Q000151	Modelkonstruktør
+Q000152	Tekstildesigner
+Q000153	Trafikplanlægger
+Q000154	Byplanlægger
+Q000155	GIS-medarbejder
+Q000156	Landinspektør
+Q000157	Mediegrafiker
+Q000158	Grafikerelev
+Q000159	Illustrator
+Q000160	Artdirector
+Q000161	Caster
+Q000162	Filmfotograf
+Q000163	Sceneinstruktør
+Q000164	Filminstruktør
+Q000165	Artdirector assistent
+Q000166	Multimediedesigner
+Q000167	Praktiserende læge
+Q000168	Sygehuslæge
+Q000169	Læge
+Q000170	Speciallæge
+Q000171	Oversygeplejerske
+Q000172	Teamleder, sundhed
+Q000173	Sygeplejerske
+Q000174	Specialsygeplejerske
+Q000175	Anæstesisygeplejerske
+Q000176	Sundhedsplejerske
+Q000177	Jordemoder
+Q000178	Akupunktør
+Q000179	Zoneterapeut
+Q000180	Tandlæge
+Q000181	Specialtandlæge
+Q000182	Vagtcentralassistent
+Q000183	Vagtcentralmedarbejder
+Q000184	Fødevareinspektør
+Q000185	Arbejdsmiljøkonsulent
+Q000186	Vagtcentralleder
+Q000187	Bevægelsespædagog
+Q000188	Ernæringsassistentelev
+Q000189	Audiolog
+Q000190	Audiologiassistentelev
+Q000191	Logopæd
+Q000192	Øjenlæge
+Q000193	Musikterapeut
+Q000194	Kunstlærer
+Q000195	Assistant professor, sundhedsvidenskab
+Q000196	Adjunkt, sundhedsvidenskab
+Q000197	Videnskabelig assistent, sundhedsvidenskab
+Q000198	Lektor, humaniora
+Q000199	Videnskabelig assistent, humaniora
+Q000200	Lektor, naturvidenskab og teknik
+Q000201	Videnskabelig assistent, naturvidenskab og teknik
+Q000202	Lærer på skuespillerskole
+Q000203	Videnskabelig assistent, samfundsvidenskab
+Q000204	Adjunkt, teologi
+Q000205	Assistant professor, teologi
+Q000206	Videnskabelig assistent, teologi
+Q000207	Associate professor, kunstakademi
+Q000208	Videnskabelig assistent, kunstakademi
+Q000209	Adjunkt, professionshøjskole
+Q000210	Assistant professor, professionshøjskole
+Q000211	Associate professor, professionshøjskole
+Q000212	Ekstern lektor, professionshøjskole
+Q000213	Lektor, professionshøjskole og erhvervsakademi
+Q000214	Videnskabelig assistent, professionshøjskole
+Q000215	Adjunkt
+Q000216	Adjunkt, kunstakademi
+Q000217	Erhvervsskolelærer
+Q000218	Ungdomsskolelærer
+Q000219	Handelsskolelærer
+Q000220	Aftenskolelærer
+Q000221	Faglærer
+Q000222	FVU-lærer
+Q000223	Ordblindelærer
+Q000224	Produktionsskolelærer
+Q000225	Musikpædadog
+Q000226	Højskolelærer
+Q000227	Folkeskolelærer
+Q000228	Friskolelærer
+Q000229	Efterskolelærer
+Q000230	Undervisningsassistent, folkeskole
+Q000231	Lærervikar
+Q000232	Pædagog
+Q000233	Pædagogmedhjælper
+Q000234	Pædagogisk assistent
+Q000235	Klubpædagog
+Q000236	Studiesekretær
+Q000237	Skolekonsulent
+Q000238	Tale-hørelærer
+Q000239	Sproglærer
+Q000240	Tegnsprogslærer
+Q000241	Musiklærer
+Q000242	Sanglærer
+Q000243	Danselærer
+Q000244	Uddannelses- og erhvervsvejleder
+Q000245	VUC-lærer
+Q000246	Pædagogisk konsulent
+Q000247	Studentermedhjælp
+Q000248	Underviser, social- og sundhedsskoler
+Q000249	Klubmedarbejder
+Q000250	Skatterevisor
+Q000251	Økonomicontroller
+Q000252	Businesscontroller
+Q000253	Handelselev
+Q000254	Finanselev
+Q000255	Relationship manager, finans
+Q000256	Finansanalytiker
+Q000257	Risikoanalytiker
+Q000258	Forsikringsanalytiker
+Q000259	Værdipapiranalytiker
+Q000260	Økonomiassistent
+Q000261	Fuldmægtig
+Q000262	Specialkonsulent
+Q000263	Idrætsinstruktør og -konsulent
+Q000264	Kommunal planlægger
+Q000265	Efterretningsofficer
+Q000266	Projektmedarbejder
+Q000267	Pantefoged
+Q000268	Job- og virksomhedskonsulent
+Q000269	Researcher, rekruttering
+Q000270	Kursusleder
+Q000271	Tekstforfatter
+Q000272	Marketingmedarbejder
+Q000273	Virksomhedsudvikler
+Q000274	Kreativ chef
+Q000275	Serviceøkonom
+Q000276	Fundraiser
+Q000277	SOME-medarbejder
+Q000278	Pressesekretær
+Q000279	IT-revisor
+Q000280	Datalog
+Q000281	Programmør og systemudvikler
+Q000282	Softwareudvikler, backend
+Q000283	Softwareudvikler, frontend
+Q000284	UX designer
+Q000285	Webredaktør
+Q000286	Webudvikler
+Q000287	Datakonsulent
+Q000288	IT-kvalitetsmedarbejder
+Q000289	Datateknikerelev
+Q000290	Databaseadministrator
+Q000291	Advokat
+Q000292	Politifuldmægtig
+Q000293	Advokatfuldmægtig
+Q000294	Dommerfuldmægtig
+Q000295	Kontorelev
+Q000296	Notar
+Q000297	Arkivar
+Q000298	Kunstformidler
+Q000299	Kustode
+Q000300	Kurator
+Q000301	Registrar
+Q000302	Museumsinspektør
+Q000303	Dokumentationsmedarbejder
+Q000304	Bibliotekar
+Q000305	Antropolog
+Q000306	Arkæolog
+Q000307	Kriminolog
+Q000308	Geograf
+Q000309	Historiker
+Q000310	Filosof
+Q000311	Politolog
+Q000312	Psykolog
+Q000313	Klinisk psykolog
+Q000314	Psykoterapeut
+Q000315	Socialrådgiver
+Q000316	Misbrugsbehandler
+Q000317	Socialpædagog
+Q000318	Socialarbejder
+Q000319	HR-konsulent
+Q000320	Familievejleder
+Q000321	Børneværnskonsulent
+Q000322	Socialfaglig leder
+Q000323	Fagkonsulent
+Q000324	Faglig konsulent
+Q000325	SSP-medarbejder
+Q000326	Socialformidler
+Q000327	Sagsbehandler, a-kasse
+Q000328	Præst
+Q000329	Forlagsredaktør
+Q000330	Dramaturg
+Q000331	Teknisk kommunikator
+Q000332	Forlagskonsulent
+Q000333	Journalist
+Q000334	Researcher
+Q000335	Redaktionschef
+Q000336	Kommunikationsmedarbejder
+Q000337	Tolk
+Q000338	Lingvist
+Q000339	Tegnsprogstolk
+Q000340	Døvekonsulent
+Q000341	Oversætter
+Q000342	Tekster
+Q000343	Keramiker
+Q000344	Gravør
+Q000345	Dirigent
+Q000346	Korleder
+Q000347	Korsanger
+Q000348	Kirkesanger
+Q000349	Organist
+Q000350	Organist, kantor
+Q000351	Koreograf
+Q000352	Danser
+Q000353	Producer
+Q000354	Filmklipper
+Q000355	Filmklipperelev
+Q000356	Jordbrugsteknolog
+Q000357	Miljøtekniker
+Q000358	Bygningsingeniør
+Q000359	Brandinspektør
+Q000360	Kort- og landmålingstekniker
+Q000361	Elektronikfagtekniker
+Q000362	Elektronikfagteknikerelev
+Q000363	Elektronikfagtekniker-elev
+Q000364	Medicotekniker
+Q000365	Produktionstekniker
+Q000366	Svejseinspektør
+Q000367	Automatikteknikerelev
+Q000368	Oliefyrstekniker
+Q000369	Geotekniker
+Q000370	Servicetekniker, jern og metal
+Q000371	Teknisk designerelev
+Q000372	Produktudvikler
+Q000373	Robottekniker
+Q000374	Industriteknikerlærling
+Q000375	Mejeritekniker
+Q000376	Produktionsleder
+Q000377	Produktspecialist
+Q000378	Værkfører
+Q000379	Arbejdsleder, produktion
+Q000380	Formand, drift og produktion
+Q000381	Laboratorietekniker
+Q000382	Skov- og naturtekniker
+Q000383	Køleteknikerlærling
+Q000384	Maskinmester
+Q000385	Maskinmesteraspirant
+Q000386	Skibsmaskinist
+Q000387	Lods
+Q000388	Styrmand
+Q000389	Flyinstruktør
+Q000390	Helikopterfører
+Q000391	Flyveleder
+Q000392	Flyveklarerer
+Q000393	Flyteknikerlærling
+Q000394	Biomediciner
+Q000395	Laboratorieassistent
+Q000396	Bioanalytiker
+Q000397	Apotekerassistent
+Q000398	Apotekstekniker
+Q000399	Klinisk tandtekniker
+Q000400	Ortopædiingeniør
+Q000401	Ortopædist
+Q000402	Inseminør
+Q000403	Veterinærsygeplejerske
+Q000404	Tandklinikassistent
+Q000405	Tandplejer
+Q000406	Optiker
+Q000407	Massageterapeut
+Q000408	Psykomotorisk terapeut
+Q000409	Ambulancefører
+Q000410	Paramediciner
+Q000411	Neurofysiologiassistent
+Q000412	Neurofysiologiassistentelev
+Q000413	Bankrådgiver
+Q000414	Realkreditmedarbejder
+Q000415	Finansmedarbejder
+Q000416	Regnskabselev
+Q000417	Bogholder
+Q000418	Assurandør
+Q000419	Valuar
+Q000420	Salgskonsulent
+Q000421	Account manager
+Q000422	Designteknolog
+Q000423	Skibsmægler
+Q000424	Speditionsleder
+Q000425	Eventmanager
+Q000426	Arrangementchef
+Q000427	Ejendomsmægler
+Q000428	Reklamekonsulent
+Q000429	Redaktionssekretær
+Q000430	Politiinspektør
+Q000431	Fiskeribetjent
+Q000432	Detektiv
+Q000433	Butiksdetektiv
+Q000434	Psykiatrisk sygeplejerske
+Q000435	Kordegn
+Q000436	Sognehjælper
+Q000437	Sportsudøver, prof.
+Q000438	Sportstræner, prof.
+Q000439	Skilærer
+Q000440	Yogalærer
+Q000441	Ridelærer
+Q000442	Fotograf
+Q000443	Fotojournalist
+Q000444	Indretningsarkitekt
+Q000445	Merchandiser
+Q000446	Scenograf
+Q000447	Visual merchandiser
+Q000448	Instruktørassistent
+Q000449	Researcher, film og tv
+Q000450	Regissør
+Q000451	Stuntman/stuntwoman
+Q000452	Programdirektør
+Q000453	Kulturmedarbejder
+Q000454	Datatekniker
+Q000455	IT-supporter
+Q000456	Webmaster
+Q000457	Tonemester
+Q000458	Kameramand
+Q000459	Eventtekniker
+Q000460	Studietekniker
+Q000461	Kontorelev, administation
+Q000462	Kontorelev, revision
+Q000463	Kontorelev, shipping
+Q000464	Kontorelev, økonomi
+Q000465	Kursuskoordinator
+Q000466	Tasteoperatør
+Q000467	Bankassistent
+Q000468	Croupier
+Q000469	Inkassomedarbejder
+Q000470	Trafikassistent
+Q000471	Billetsælger
+Q000472	Medarbejder på turistkontor
+Q000473	Rejsebureaumedarbejder
+Q000474	Rejsebureauelev
+Q000475	Telefonist
+Q000476	Receptionist, hotel
+Q000477	Natportier
+Q000478	Assistent til salgssupport
+Q000479	Revisorassistent
+Q000480	Vekselbureaumedarbejder
+Q000481	Forsikringsfunktionær
+Q000482	Skattefunktionær
+Q000483	Lønbogholder
+Q000484	Lagerforvalter
+Q000485	Overstyrmand
+Q000486	Flyklarerer
+Q000487	Biblioteksassistent
+Q000488	Postfunktionær
+Q000489	Korrekturlæser
+Q000490	Arkivmedarbejder
+Q000491	HR-assistent
+Q000492	Korrespondent
+Q000493	Piccolo / piccoline, kontor
+Q000494	Purser
+Q000495	Cater
+Q000496	Togsteward / -stewardesse
+Q000497	Togfører
+Q000498	Trafikinformationsmedarbejder
+Q000499	Kok
+Q000500	Kantineleder
+Q000501	Økonoma
+Q000502	Smørrebrødsjomfru
+Q000503	Kokkeelev
+Q000504	Vært i restaurant
+Q000505	Sommelier
+Q000506	Barista
+Q000507	Frisør inden for teater- og TV-branchen
+Q000508	Frisørelev
+Q000509	Kosmetolog
+Q000510	Massør
+Q000511	Stylist
+Q000512	Oldfrue
+Q000513	Kirketjener
+Q000514	Ledsager
+Q000515	Graver
+Q000516	Bedemandsassistent
+Q000517	Bedemand
+Q000518	Hundefrisør
+Q000519	Hundefører
+Q000520	Hundetræner
+Q000521	Medarbejder på et dyreinternat
+Q000522	Kørelærer
+Q000523	Reservedelsekspedient
+Q000524	Ordrebehandler
+Q000525	Fiskehandler
+Q000526	Farvehandler
+Q000527	Blomsterbinder
+Q000528	Farmakonom
+Q000529	Boghandler
+Q000530	Kasseassistent
+Q000531	Model
+Q000532	Demonstratør
+Q000533	Call centermedarbejder
+Q000534	Logistikmedarbejder, salg og indkøb
+Q000535	Au pair
+Q000536	Dagplejeleder
+Q000537	Dagplejer
+Q000538	Skolepædagog
+Q000539	Social- og sundhedshjælper
+Q000540	Hospitals-serviceassistent
+Q000541	Brandmand
+Q000542	Politibetjent / -assistent
+Q000543	Fængselsfunktionær
+Q000544	Dørmand
+Q000545	Parkeringsvagt
+Q000546	Nødhjælpsarbejder
+Q000547	Livredder
+Q000548	Kældermester
+Q000549	Chef for gartneriproduktion
+Q000550	Gartneriarbejder
+Q000551	Anlægsgartner
+Q000552	Staldmester
+Q000553	Fodermester
+Q000554	Pelsdyravler
+Q000555	Forvalter, landbrug
+Q000556	Skovfoged
+Q000557	Fisker
+Q000558	Skytte
+Q000559	Murer
+Q000560	Brolægger
+Q000561	Stenhugger
+Q000562	Betonmager
+Q000563	Anlægsstruktør
+Q000564	Bygningsstruktør
+Q000565	Tømrer
+Q000566	Tømrerlærling
+Q000567	Køkkenmontør
+Q000568	Bygningssnedkerlærling
+Q000569	Bygningssnedker
+Q000570	Nedriver
+Q000571	Byggemontagetekniker
+Q000572	Tagdækker
+Q000573	Tagdækkerlærling
+Q000574	Tæppemontør
+Q000575	Gulvlægger
+Q000576	Flisemontør
+Q000577	Stukkatør
+Q000578	Stukkatørlærling
+Q000579	Isolatør
+Q000580	Kloakrørlægger
+Q000581	Rørlægger
+Q000582	Kloakmester
+Q000583	Gastekniker
+Q000584	Oliefyrsteknikerelev
+Q000585	Blikkenslager
+Q000586	VVS-lærling
+Q000587	HVAC-tekniker
+Q000588	Bygningsmalerlærling
+Q000589	Autolakerer
+Q000590	Autolakererlærling
+Q000591	Skorstensfejerlærling
+Q000592	Svejser
+Q000593	Plade- og konstruktionssmed
+Q000594	Galvanisør
+Q000595	Skibsbygger
+Q000596	Bådebygger
+Q000597	Skibsmontør
+Q000598	Smed
+Q000599	Beslagsmed
+Q000600	Modelsnedker
+Q000601	Låsesmed
+Q000602	Værktøjsmager
+Q000603	Fræser
+Q000604	Jern- og metalsliber
+Q000605	Karosserismed
+Q000606	Dækmontør
+Q000607	Mekaniker
+Q000608	Flymekaniker
+Q000609	Kranmekaniker
+Q000610	Skibsmekaniker
+Q000611	Cykelmekaniker
+Q000612	Cykelmekanikerlærling
+Q000613	Værkstedsassistent
+Q000614	Urmagerelev
+Q000615	Guitarbygger
+Q000616	Ciselør
+Q000617	Pottemager
+Q000618	Glasmager
+Q000619	Glarmesterlærling
+Q000620	Skiltemalerlærling
+Q000621	Tekstiltrykker
+Q000622	Elinstallatør
+Q000623	Elektrikerlærling
+Q000624	Vindmølleoperatør
+Q000625	Vindmølleoperatørelev
+Q000626	Elektrotekniker
+Q000627	Automatiktekniker
+Q000628	Teleteknikerelev
+Q000629	Slagterlærling
+Q000630	Slagteriarbejder
+Q000631	Industrislagter
+Q000632	Industrislagterlærling
+Q000633	Bager
+Q000634	Bagerlærling
+Q000635	Bageriarbejder
+Q000636	Mejerist
+Q000637	Mejeriarbejder
+Q000638	Levnedsmiddeltekniker
+Q000639	Vinkyper
+Q000640	Møbelsnedker
+Q000641	Møbelsnedkerelev
+Q000642	Møbelarkitekt
+Q000643	Kostumier
+Q000644	Buntmager
+Q000645	Parykmager
+Q000646	Sadelmager
+Q000647	Møbelpolstrer
+Q000648	Sejlmager
+Q000649	Skomager
+Q000650	Ortopædiskomager
+Q000651	Bore- og udvindingsarbejder
+Q000652	Offshorearbejder
+Q000653	Operatør, jern & metal
+Q000654	Operatør, kemisk
+Q000655	Fotografmedhjælper
+Q000656	Servicemedarbejder, foto
+Q000657	Vulkanisør
+Q000658	Plastmager
+Q000659	Operatør, plastmager
+Q000660	Garver
+Q000661	Møller
+Q000662	Bryggeriarbejder
+Q000663	Operatør, træ
+Q000664	Operatør, glas
+Q000665	Procesoperatør
+Q000666	Forsyningsoperatør
+Q000667	Operatør, serviceindustri
+Q000668	Maskinoperatør
+Q000669	Operatør, emballage
+Q000670	Operatør, drikkevarer
+Q000671	Operatør, logistik
+Q000672	Operatør, pharma
+Q000673	Industrioperatør, uddannet
+Q000674	Industrioperatørelev
+Q000675	Industrioperatør, ikke uddannet
+Q000676	Plastmagerelev
+Q000677	Motorcykelmekanikerlærling
+Q000678	Elektronikarbejder
+Q000679	Forsyningsoperatørelev
+Q000680	Elektronikoperatørelev
+Q000681	Lokomotivfører
+Q000682	Togklargører
+Q000683	Klargører
+Q000684	Chauffør, budtransport, køretøj under 3½ ton
+Q000685	Chauffør, persontransport
+Q000686	Taxichauffør
+Q000687	Buschauffør
+Q000688	Chauffør, specialtransport
+Q000689	Chauffør, dyretransport
+Q000690	Chauffør, fragt, distribution, blandet kørsel
+Q000691	Chaufførelev
+Q000692	Maskinfører
+Q000693	Truckfører
+Q000694	Rengøringsassistent, privat
+Q000695	Rengøringsassistent i transportmidler
+Q000696	Hotelmedarbejder
+Q000697	Vinduespudser
+Q000698	Bademester
+Q000699	Badeassistent
+Q000700	Minkfarmmedhjælper
+Q000701	Landbrugselev
+Q000702	Gartner
+Q000703	Gartnerelev
+Q000704	Væksthusgartner
+Q000705	Skovarbejder
+Q000706	Struktør
+Q000707	Asfaltør
+Q000708	Asfaltørelev
+Q000709	Specialarbejder, grønne områder
+Q000710	Anlægsarbejder
+Q000711	Specialarbejder, byggeri
+Q000712	Specialarbejder, maler
+Q000713	Specialarbejder, murer
+Q000714	Pakkerimedarbejder
+Q000715	Specialarbejder, glasfiber
+Q000716	Specialarbejder, læder
+Q000717	Specialarbejder, papir og karton
+Q000718	Specialarbejder, tekstil
+Q000719	Cykelbud
+Q000720	Speditør
+Q000721	Speditørelev
+Q000722	Havnearbejder
+Q000723	Lagerekspedient
+Q000724	Kørselsleder
+Q000725	Butiksmedhjælper
+Q000726	Pizzabager
+Q000727	Fast food ekspedient
+Q000728	Køkkenmedhjælper
+Q000729	Opvasker
+Q000730	Omdeler
+Q000731	Renovationsarbejder
+Q000732	Gadefejer
+Q000733	Servicetekniker, rengøring og ejendomsservice
+Q000734	Måleraflæser

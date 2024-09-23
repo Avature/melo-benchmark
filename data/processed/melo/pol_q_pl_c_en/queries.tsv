@@ -1,0 +1,1937 @@
+Q000001	Żołnierz szeregowy
+Q000002	Parlamentarzysta
+Q000003	Pozostali przedstawiciele władz publicznych
+Q000004	Wyższy urzędnik państwowy
+Q000005	Wyższy urzędnik placówki dyplomatycznej
+Q000006	Wyższy urzędnik samorządowy
+Q000007	Zawodowy działacz organizacji komercyjnej / pracodawców
+Q000008	Zawodowy działacz organizacji politycznej
+Q000009	Zawodowy działacz organizacji pozarządowej
+Q000010	Zawodowy działacz organizacji zawodowej
+Q000011	Zawodowy działacz organizacji związkowej
+Q000012	Pozostali zawodowi działacze organizacji członkowskich
+Q000013	Dyrektor do spraw administracyjnych
+Q000014	Dyrektor finansowy
+Q000015	Dyrektor generalny
+Q000016	Dyrektor handlowy
+Q000017	Dyrektor marketingu
+Q000018	Dyrektor operacyjny
+Q000019	Dyrektor produkcji
+Q000020	Dyrektor rozwoju biznesu
+Q000021	Dyrektor wykonawczy
+Q000022	Prezes
+Q000023	Rektor
+Q000024	Syndyk
+Q000025	Główny księgowy
+Q000026	Kierownik działu finansowego
+Q000027	Pozostali kierownicy do spraw finansowych
+Q000028	Kierownik działu kadr i płac
+Q000029	Kierownik działu szkoleń
+Q000030	Kierownik działu zarządzania zasobami ludzkimi
+Q000031	Naczelnik / kierownik wydziału
+Q000032	Pozostali kierownicy do spraw strategii i planowania
+Q000033	Kierownik działu administracyjno-gospodarczego
+Q000034	Kierownik przedsiębiorstwa świadczącego usługi z zakresu obsługi biznesu
+Q000035	Kierownik projektu
+Q000036	Pozostali kierownicy do spraw obsługi biznesu i zarządzania gdzie indziej niesklasyfikowani
+Q000037	Kierownik do spraw marketingu
+Q000038	Kierownik do spraw sprzedaży
+Q000039	Kierownik do spraw marketingu internetowego
+Q000040	Kierownik do spraw marketingu sieciowego (wielopoziomowego)
+Q000041	Regionalny kierownik sprzedaży
+Q000042	Kierownik działu reklamy / promocji / public relations
+Q000043	Pozostali kierownicy do spraw reklamy i public relations
+Q000044	Kierownik do spraw rozwoju produktu
+Q000045	Kierownik działu badawczo-rozwojowego
+Q000046	Pozostali kierownicy do spraw badań i rozwoju
+Q000047	Kierownik w gospodarce leśnej
+Q000048	Kierownik produkcji w  przedsiębiorstwie ogrodniczym
+Q000049	Kierownik produkcji w  przedsiębiorstwie hodowlanym
+Q000050	Pozostali kierownicy produkcji w rolnictwie i leśnictwie
+Q000051	Kierownik produkcji w zakładzie akwakultury
+Q000052	Kierownik przedsiębiorstwa w rybołówstwie
+Q000053	Pozostali kierownicy produkcji w zakładach akwakultury i rybołówstwie
+Q000054	Kierownik małego przedsiębiorstwa w przemyśle przetwórczym
+Q000055	Kierownik utrzymania ruchu
+Q000056	Pozostali kierownicy do spraw produkcji przemysłowej
+Q000057	Kierownik działu ruchu zakładu górniczego lub zakładu
+Q000058	Kierownik małego przedsiębiorstwa w przemyśle wydobywczym
+Q000059	Kierownik ruchu zakładu górniczego lub zakładu
+Q000060	Pozostali kierownicy w górnictwie
+Q000061	Kierownik budowy
+Q000062	Kierownik działu logistyki
+Q000063	Kierownik działu transportu
+Q000064	Kierownik działu zakupów
+Q000065	Kierownik magazynu
+Q000066	Kierownik przedsiębiorstwa spedycyjnego
+Q000067	Kierownik przedsiębiorstwa transportowego
+Q000068	Zawiadowca stacji
+Q000069	Kierownik punktu skupu
+Q000070	Kierownik działu w przedsiębiorstwie telekomunikacyjnym
+Q000071	Kierownik przedsiębiorstwa telekomunikacyjnego
+Q000072	Kierownik rozwoju technologii informatycznych
+Q000073	Kierownik sieci informatycznych
+Q000074	Kierownik przedszkola
+Q000075	Kierownik placówki wsparcia dziennego
+Q000076	Pozostali kierownicy / dyrektorzy w instytucjach opieki nad dziećmi
+Q000077	Kierownik hospicjum
+Q000078	Kierownik podmiotu leczniczego
+Q000079	Położna oddziałowa
+Q000080	Lekarz ordynator oddziału
+Q000081	Pozostali kierownicy w instytucjach opieki zdrowotnej
+Q000082	Kierownik domu spokojnej starości
+Q000083	Kierownik domu pomocy społecznej
+Q000084	Kierownik działu w instytucjach pomocy społecznej
+Q000085	Kierownik ośrodka pomocy rodzinie
+Q000086	Dyrektor szkoły
+Q000087	Dziekan
+Q000088	Kierownik warsztatów szkolnych
+Q000089	Kierownik agencji doradztwa finansowego
+Q000090	Kierownik agencji ubezpieczeniowej
+Q000091	Kierownik działu operacji finansowych
+Q000092	Kierownik placówki bankowej
+Q000093	Pozostali kierownicy instytucji finansowych i ubezpieczeniowych
+Q000094	Dyrektor aresztu śledczego / zakładu karnego
+Q000095	Dyrektor zakładu dla nieletnich
+Q000096	Kierownik firmy audytorskiej
+Q000097	Kierownik kancelarii prawnej
+Q000098	Kierownik archiwum
+Q000099	Kierownik biblioteki
+Q000100	Kierownik galerii sztuki
+Q000101	Kierownik muzeum
+Q000102	Komendant policji (powiatowej,miejskiej, rejonowej, komisariatu)
+Q000103	Kierownik działu w hotelu
+Q000104	Kierownik hostelu / motelu
+Q000105	Kierownik hotelu
+Q000106	Kierownik pensjonatu
+Q000107	Pozostali kierownicy w hotelarstwie
+Q000108	Kierownik działu w lokalu gastronomicznym
+Q000109	Kierownik lokalu gastronomicznego
+Q000110	Kierownik działu w handlu detalicznym
+Q000111	Kierownik apteki
+Q000112	Kierownik domu kultury
+Q000113	Kierownik kasyna
+Q000114	Kierownik klubu fitness
+Q000115	Kierownik klubu sportowego
+Q000116	Kierownik parku rozrywki / cyrku
+Q000117	Kierownik siłowni
+Q000118	Kierownik szkółki jeździeckiej
+Q000119	Dyrektor teatru
+Q000120	Kierownik szkoły tańca
+Q000121	Dyrektor filharmonii/opery/operetki/orkiestry
+Q000122	Kierownik biura podroży
+Q000123	Kierownik biura tłumaczeń
+Q000124	Kierownik centrum obsługi telefonicznej (kierownik call center)
+Q000125	Kierownik do spraw windykacji
+Q000126	Kierownik firmy sprzątającej
+Q000127	Kierownik kempingu
+Q000128	Kierownik / właściciel zakładu usługowego
+Q000129	Kierownik / właściciel stacji paliw
+Q000130	Kierownik / właściciel szkoły jazdy
+Q000131	Pozostali kierownicy do spraw innych typów usług gdzie indziej niesklasyfikowani
+Q000132	Astronom
+Q000133	Fizyk
+Q000134	Fizyk medyczny
+Q000135	Pozostali fizycy i astronomowie
+Q000136	Hydrometeorolog
+Q000137	Meteorolog
+Q000138	Synoptyk
+Q000139	Klimatolog
+Q000140	Chemik
+Q000141	Chemik – technologia chemiczna
+Q000142	Agrochemik
+Q000143	Perfumiarz
+Q000144	Geofizyk
+Q000145	Geograf
+Q000146	Geolog
+Q000147	Hydrograf morski
+Q000148	Hydrolog
+Q000149	Oceanolog
+Q000150	Aktuariusz
+Q000151	Matematyk
+Q000152	Demograf
+Q000153	Statystyk
+Q000154	Biochemik
+Q000155	Biofizyk
+Q000156	Biolog
+Q000157	Genetyk
+Q000158	Mikrobiolog
+Q000159	Bioinformatyk
+Q000160	Doradca rolniczy
+Q000161	Gleboznawca
+Q000162	Inżynier ogrodnictwa
+Q000163	Klasyfikator gruntów
+Q000164	Rzeczoznawca rolniczy
+Q000165	Pozostali specjaliści w zakresie rolnictwa, leśnictwa i pokrewni
+Q000166	Ekolog
+Q000167	Specjalista ochrony środowiska
+Q000168	Inżynier normowania pracy
+Q000169	Inżynier utrzymania ruchu
+Q000170	Konsultant komitetu technicznego
+Q000171	Specjalista kontroli jakości
+Q000172	Towaroznawca
+Q000173	Pozostali inżynierowie do spraw przemysłu i produkcji
+Q000174	Inżynier budownictwa – budownictwo ogólne
+Q000175	Inżynier budownictwa – budownictwo przemysłowe
+Q000176	Inżynier budownictwa – linie, węzły i stacje kolejowe
+Q000177	Inżynier budowy dróg
+Q000178	Inżynier budowy mostów
+Q000179	Inżynier geotechnik
+Q000180	Inżynier inżynierii środowiska – gazowe urządzenia, instalacje i sieci energetyczne
+Q000181	Inżynier inżynierii środowiska – gospodarka wodna i hydrologia
+Q000182	Inżynier inżynierii środowiska – instalacje sanitarne
+Q000183	Inżynier inżynierii środowiska – melioracje
+Q000184	Inżynier inżynierii środowiska – oczyszczanie miast i gospodarka odpadami
+Q000185	Inżynier mechanik – cieplno-mechaniczne urządzenia, instalacje i sieci energetyczne
+Q000186	Inżynier mechanik – maszyny i urządzenia do obróbki metali
+Q000187	Inżynier mechanik – maszyny i urządzenia energetyczne
+Q000188	Inżynier mechanik – mechanika precyzyjna
+Q000189	Inżynier mechanik – środki transportu
+Q000190	Inżynier mechanik – technologia mechaniczna
+Q000191	Inżynier mechanik lotniczy
+Q000192	Inżynier mechanizacji rolnictwa
+Q000193	Inżynier spawalnik
+Q000194	Konstruktor form wtryskowych
+Q000195	Inżynier budownictwa okrętowego
+Q000196	Inżynier technologii chemicznej
+Q000197	Inżynier górnik – górnictwo odkrywkowe
+Q000198	Inżynier górnik – wiertnictwo
+Q000199	Inżynier hutnik
+Q000200	Inżynier odlewnik
+Q000201	Inżynier geofizyk - geofizyka górnicza
+Q000202	Inżynier geolog - hydrologia górnicza
+Q000203	Audytor energetyczny
+Q000204	Inżynier awionik
+Q000205	Inżynier biocybernetyki i inżynierii biomedycznej
+Q000206	Inżynier energetyki
+Q000207	Inżynier poligrafii
+Q000208	Inżynier pożarnictwa
+Q000209	Inżynier technologii betonów
+Q000210	Inżynier technologii ceramiki
+Q000211	Inżynier technologii drewna
+Q000212	Inżynier technologii przetwórstwa skóry
+Q000213	Inżynier technologii szkła
+Q000214	Inżynier transportu drogowego
+Q000215	Inżynier transportu kolejowego
+Q000216	Inżynier włókiennik
+Q000217	Metrolog
+Q000218	Nanotechnolog (inżynier nanostruktur)
+Q000219	Specjalista do spraw ergonomii i projektowania form użytkowych
+Q000220	Specjalista do spraw pakowania i opakowań
+Q000221	Specjalista monitoringu systemów zabezpieczeń technicznych osób i mienia
+Q000222	Inżynier akustyk
+Q000223	Inżynier procesu malowania
+Q000224	Rzeczoznawca samochodowy
+Q000225	Technolog – programista obrabiarek
+Q000226	Inżynier inżynierii materiałowej
+Q000227	Zarządca energii
+Q000228	Inżynier elektroenergetyk
+Q000229	Inżynier elektroenergetyk kolejowych sieci i podstacji trakcyjnych
+Q000230	Inżynier elektryk
+Q000231	Inżynier techniki świetlnej
+Q000232	Inżynier urządzeń i systemów energetyki odnawialnej
+Q000233	Inżynier elektronik
+Q000234	Inżynier mechatronik
+Q000235	Inżynier urządzeń zabezpieczenia i sterowania ruchem kolejowym
+Q000236	Optoelektronik
+Q000237	Inżynier telekomunikacji
+Q000238	Technolog inżynierii telekomunikacyjnej
+Q000239	Inżynier teleinformatyk
+Q000240	Pozostali inżynierowie telekomunikacji
+Q000241	Architekt
+Q000242	Architekt wnętrz
+Q000243	Pozostali architekci
+Q000244	Architekt krajobrazu
+Q000245	Architekt zieleni wewnątrz budynków
+Q000246	Projektant biżuterii
+Q000247	Kostiumograf
+Q000248	Projektant mody
+Q000249	Projektant wzornictwa przemysłowego
+Q000250	Projektant ekspozycji towarów i usług (visual merchandiser)
+Q000251	Inżynier ruchu drogowego
+Q000252	Inżynier ruchu kolejowego
+Q000253	Urbanista
+Q000254	Pozostali urbaniści i inżynierowie ruchu drogowego
+Q000255	Inżynier geodeta – fotogrametria i teledetekcja
+Q000256	Inżynier geodeta – geodezja górnicza
+Q000257	Inżynier geodeta – geodezja inżynieryjno-przemysłowa
+Q000258	Inżynier geodeta – geodezja urządzania terenów rolnych i leśnych
+Q000259	Inżynier geodeta – geodezyjne pomiary podstawowe i satelitarne
+Q000260	Inżynier geodeta – geomatyka
+Q000261	Kartograf
+Q000262	Grafik komputerowy DTP
+Q000263	Grafik komputerowy multimediów
+Q000264	Ilustrator
+Q000265	Projektant grafiki
+Q000266	Projektant grafiki stron internetowych
+Q000267	Specjalista do spraw animacji multimedialnej
+Q000268	Lekarz – specjalista alergologii
+Q000269	Lekarz – specjalista anestezjologii i intensywnej terapii
+Q000270	Lekarz – specjalista angiologii
+Q000271	Lekarz – specjalista audiologii i foniatrii
+Q000272	Lekarz – specjalista balneologii i medycyny fizykalnej
+Q000273	Lekarz – specjalista chirurgii dziecięcej
+Q000274	Lekarz – specjalista chirurgii klatki piersiowej
+Q000275	Lekarz – specjalista chirurgii naczyniowej
+Q000276	Lekarz – specjalista chirurgii ogólnej
+Q000277	Lekarz – specjalista chirurgii onkologicznej
+Q000278	Lekarz – specjalista chirurgii plastycznej
+Q000279	Lekarz – specjalista chirurgii szczękowo-twarzowe
+Q000280	Lekarz – specjalista chorób płuc
+Q000281	Lekarz – specjalista chorób wewnętrznych
+Q000282	Lekarz – specjalista chorób zakaźnych
+Q000283	Lekarz – specjalista dermatologii i wenerologii
+Q000284	Lekarz – specjalista diabetologii
+Q000285	Lekarz – specjalista diagnostyki laboratoryjnej
+Q000286	Lekarz – specjalista endokrynologii
+Q000287	Lekarz – specjalista epidemiologii
+Q000288	Lekarz – specjalista farmakologii klinicznej
+Q000289	Lekarz – specjalista gastroenterologii
+Q000290	Lekarz – specjalista genetyki klinicznej
+Q000291	Lekarz – specjalista geriatrii
+Q000292	Lekarz – specjalista ginekologii onkologicznej
+Q000293	Lekarz – specjalista hematologii
+Q000294	Lekarz – specjalista hipertensjologii
+Q000295	Lekarz – specjalista kardiochirurgii
+Q000296	Lekarz – specjalista kardiologii
+Q000297	Lekarz – specjalista kardiologii dziecięcej
+Q000298	Lekarz – specjalista medycyny nuklearnej
+Q000299	Lekarz – specjalista medycyny paliatywnej
+Q000300	Lekarz – specjalista medycyny pracy
+Q000301	Lekarz – specjalista medycyny ratunkowej
+Q000302	Lekarz – specjalista medycyny rodzinnej
+Q000303	Lekarz – specjalista medycyny sądowej
+Q000304	Lekarz – specjalista medycyny sportowej
+Q000305	Lekarz – specjalista medycyny transportu
+Q000306	Lekarz – specjalista mikrobiologii lekarskiej
+Q000307	Lekarz – specjalista nefrologii
+Q000308	Lekarz – specjalista neonatologii
+Q000309	Lekarz – specjalista neurochirurgii
+Q000310	Lekarz – specjalista neurologii
+Q000311	Lekarz – specjalista neurologii dziecięcej
+Q000312	Lekarz – specjalista neuropatologii
+Q000313	Lekarz – specjalista okulistyki
+Q000314	Lekarz – specjalista onkologii i hematologii dziecięcej
+Q000315	Lekarz – specjalista onkologii klinicznej
+Q000316	Lekarz – specjalista ortopedii i traumatologii narządu ruchu
+Q000317	Lekarz – specjalista otorynolaryngologii
+Q000318	Lekarz – specjalista otorynolaryngologii dziecięcej
+Q000319	Lekarz – specjalista patomorfologii
+Q000320	Lekarz – specjalista pediatrii
+Q000321	Lekarz – specjalista położnictwa i ginekologii
+Q000322	Lekarz – specjalista psychiatrii
+Q000323	Lekarz – specjalista psychiatrii dzieci i młodzieży
+Q000324	Lekarz – specjalista radiologii i diagnostyki obrazowej
+Q000325	Lekarz – specjalista radioterapii onkologicznej
+Q000326	Lekarz – specjalista rehabilitacji medycznej
+Q000327	Lekarz – specjalista reumatologii
+Q000328	Lekarz – specjalista seksuologii
+Q000329	Lekarz – specjalista toksykologii klinicznej
+Q000330	Lekarz – specjalista transfuzjologii klinicznej
+Q000331	Lekarz – specjalista transplantologii klinicznej
+Q000332	Lekarz – specjalista urologii
+Q000333	Lekarz – specjalista urologii dziecięcej
+Q000334	Lekarz – specjalista zdrowia publicznego
+Q000335	Lekarz – specjalista chorób płuc dzieci
+Q000336	Lekarz – specjalista endokrynologii ginekologicznej i rozrodczości
+Q000337	Lekarz – specjalista endokrynologii i diabetologii dziecięcej
+Q000338	Lekarz – specjalista gastrologii dziecięcej
+Q000339	Lekarz – specjalista intensywnej terapii
+Q000340	Lekarz – specjalista medycyny lotniczej
+Q000341	Lekarz – specjalista medycyny morskiej i tropikalnej
+Q000342	Lekarz – specjalista nefrologii dziecięcej
+Q000343	Lekarz – specjalista pediatrii metabolicznej
+Q000344	Lekarz – specjalista perinatologii
+Q000345	Pozostali lekarze specjaliści
+Q000346	Pielęgniarka – specjalista organizacji i zarządzania
+Q000347	Pielęgniarka – specjalista pielęgniarstwa anestezjologicznego i intensywnej opieki
+Q000348	Pielęgniarka – specjalista pielęgniarstwa chirurgicznego
+Q000349	Pielęgniarka – specjalista pielęgniarstwa diabetologicznego
+Q000350	Pielęgniarka – specjalista pielęgniarstwa epidemiologicznego
+Q000351	Pielęgniarka – specjalista pielęgniarstwa geriatrycznego
+Q000352	Pielęgniarka – specjalista pielęgniarstwa kardiologicznego
+Q000353	Pielęgniarka – specjalista pielęgniarstwa nefrologicznego
+Q000354	Pielęgniarka – specjalista pielęgniarstwa neonatologicznego
+Q000355	Pielęgniarka – specjalista pielęgniarstwa neurologicznego
+Q000356	Pielęgniarka – specjalista pielęgniarstwa onkologicznego
+Q000357	Pielęgniarka – specjalista pielęgniarstwa operacyjnego
+Q000358	Pielęgniarka – specjalista pielęgniarstwa opieki długoterminowej
+Q000359	Pielęgniarka – specjalista pielęgniarstwa opieki paliatywnej
+Q000360	Pielęgniarka – specjalista pielęgniarstwa pediatrycznego
+Q000361	Pielęgniarka – specjalista pielęgniarstwa psychiatrycznego
+Q000362	Pielęgniarka – specjalista pielęgniarstwa ratunkowego
+Q000363	Pielęgniarka – specjalista pielęgniarstwa rodzinnego
+Q000364	Pielęgniarka – specjalista pielęgniarstwa środowiska nauczania i wychowania
+Q000365	Pielęgniarka – specjalista pielęgniarstwa w ochronie zdrowia pracujących
+Q000366	Pielęgniarka – specjalista pielęgniarstwa zachowawczego
+Q000367	Pielęgniarka – specjalista promocji zdrowia i edukacji zdrowotnej
+Q000368	Pozostałe pielęgniarki z tytułem specjalisty
+Q000369	Położna
+Q000370	Położna – specjalista organizacji i zarządzania
+Q000371	Położna – specjalista pielęgniarstwa epidemiologicznego
+Q000372	Położna – specjalista pielęgniarstwa ginekologicznego
+Q000373	Położna – specjalista pielęgniarstwa neonatologicznego
+Q000374	Położna – specjalista pielęgniarstwa położniczego
+Q000375	Położna – specjalista pielęgniarstwa rodzinnego
+Q000376	Położna – specjalista promocji zdrowia i edukacji zdrowotnej
+Q000377	Pozostałe położne z tytułem specjalisty
+Q000378	Lekarz weterynarii – specjalista chirurgii weterynaryjnej
+Q000379	Lekarz weterynarii – specjalista chorób drobiu i ptaków ozdobnych
+Q000380	Lekarz weterynarii – specjalista chorób koni
+Q000381	Lekarz weterynarii – specjalista chorób owadów użytkowych
+Q000382	Lekarz weterynarii – specjalista chorób przeżuwaczy
+Q000383	Lekarz weterynarii – specjalista chorób psów i kotów
+Q000384	Lekarz weterynarii – specjalista chorób ryb
+Q000385	Lekarz weterynarii – specjalista chorób trzody chlewnej
+Q000386	Lekarz weterynarii – specjalista chorób zwierząt futerkowych
+Q000387	Lekarz weterynarii – specjalista chorób zwierząt nieudomowionych
+Q000388	Lekarz weterynarii – specjalista epizootiologii i administracji weterynaryjnej
+Q000389	Lekarz weterynarii – specjalista higieny zwierząt rzeźnych i żywności pochodzenia zwierzęcego
+Q000390	Lekarz weterynarii – specjalista prewencji weterynaryjnej i higieny pasz
+Q000391	Lekarz weterynarii – specjalista radiologii weterynaryjnej
+Q000392	Lekarz weterynarii – specjalista rozrodu zwierząt
+Q000393	Lekarz weterynarii – specjalista użytkowania i patologii zwierząt laboratoryjnych
+Q000394	Lekarz weterynarii – specjalista weterynaryjnej diagnostyki laboratoryjnej
+Q000395	Pozostali lekarze weterynarii specjaliści
+Q000396	Lekarz dentysta – specjalista chirurgii stomatologicznej
+Q000397	Lekarz dentysta – specjalista chirurgii szczękowo-twarzowej
+Q000398	Lekarz dentysta – specjalista epidemiologii
+Q000399	Lekarz dentysta – specjalista ortodoncji
+Q000400	Lekarz dentysta – specjalista periodontologii
+Q000401	Lekarz dentysta – specjalista protetyki stomatologicznej
+Q000402	Lekarz dentysta – specjalista stomatologii dziecięcej
+Q000403	Lekarz dentysta – specjalista stomatologii zachowawczej z endodoncją
+Q000404	Lekarz dentysta – specjalista zdrowia publicznego
+Q000405	Pozostali lekarze dentyści specjaliści
+Q000406	Diagnosta laboratoryjny – specjalista cytomorfologii medycznej
+Q000407	Diagnosta laboratoryjny – specjalista epidemiologii
+Q000408	Diagnosta laboratoryjny – specjalista laboratoryjnej diagnostyki medycznej
+Q000409	Diagnosta laboratoryjny – specjalista laboratoryjnej genetyki sądowej
+Q000410	Diagnosta laboratoryjny – specjalista laboratoryjnej genetyki medycznej
+Q000411	Diagnosta laboratoryjny – specjalista laboratoryjnej hematologii medycznej
+Q000412	Diagnosta laboratoryjny – specjalista laboratoryjnej parazytologii medycznej
+Q000413	Diagnosta laboratoryjny – specjalista laboratoryjnej toksykologii medycznej
+Q000414	Diagnosta laboratoryjny – specjalista laboratoryjnej transfuzjologii medycznej
+Q000415	Diagnosta laboratoryjny – specjalista mikrobiologii medycznej
+Q000416	Diagnosta laboratoryjny – specjalista zdrowia publicznego
+Q000417	Diagnosta laboratoryjny – specjalista zdrowia środowiskowego
+Q000418	Diagnosta laboratoryjny – specjalista laboratoryjnej toksykologii sądowej
+Q000419	Farmaceuta
+Q000420	Farmaceuta – specjalista analityki farmaceutycznej
+Q000421	Farmaceuta – specjalista bromatologii
+Q000422	Farmaceuta – specjalista farmacji aptecznej
+Q000423	Farmaceuta – specjalista farmacji klinicznej
+Q000424	Farmaceuta – specjalista farmacji szpitalnej
+Q000425	Farmaceuta – specjalista farmakologii
+Q000426	Farmaceuta – specjalista leku roślinnego
+Q000427	Farmaceuta – specjalista mikrobiologii i biotechnologii farmaceutycznej
+Q000428	Farmaceuta – specjalista toksykologii
+Q000429	Farmaceuta – specjalista zdrowia publicznego
+Q000430	Farmaceuta – specjalista zdrowia środowiskowego
+Q000431	Pozostali farmaceuci specjaliści
+Q000432	Specjalista promocji zdrowia i edukacji zdrowotnej
+Q000433	Specjalista bezpieczeństwa i higieny pracy
+Q000434	Rzeczoznawca do spraw bezpieczeństwa i higieny pracy
+Q000435	Pozostali specjaliści do spraw higieny, bezpieczeństwa pracy i ochrony środowiska
+Q000436	Fizjoterapeuta
+Q000437	Specjalista do spraw dietetyki
+Q000438	Audiofonolog
+Q000439	Logopeda
+Q000440	Neurologopeda
+Q000441	Surdologopeda
+Q000442	Pozostali audiofonolodzy i logopedzi
+Q000443	Optometrysta
+Q000444	Epidemiolog
+Q000445	Koordynator badań klinicznych
+Q000446	Kosmetolog
+Q000447	Osoba wykwalifikowana w przemyśle farmaceutycznym
+Q000448	Psychoterapeuta
+Q000449	Specjalista psychoterapii uzależnień
+Q000450	Toksykolog
+Q000451	Psychoonkolog
+Q000452	Psychotraumatolog
+Q000453	Specjalista radiofarmacji
+Q000454	Specjalista inżynierii medycznej
+Q000455	Elektroradiolog
+Q000456	Nauczyciel akademicki – nauki biologiczne
+Q000457	Nauczyciel akademicki – nauki chemiczne
+Q000458	Nauczyciel akademicki – nauki ekonomiczne
+Q000459	Nauczyciel akademicki – nauki farmaceutyczne
+Q000460	Nauczyciel akademicki – nauki fizyczne
+Q000461	Nauczyciel akademicki – nauki humanistyczne
+Q000462	Nauczyciel akademicki – nauki leśne
+Q000463	Nauczyciel akademicki – nauki matematyczne
+Q000464	Nauczyciel akademicki – nauki medyczne
+Q000465	Nauczyciel akademicki – nauki o kulturze fizycznej
+Q000466	Nauczyciel akademicki – nauki o Ziemi
+Q000467	Nauczyciel akademicki – nauki prawne
+Q000468	Nauczyciel akademicki – nauki rolnicze
+Q000469	Nauczyciel akademicki – nauki techniczne
+Q000470	Nauczyciel akademicki – nauki teologiczne
+Q000471	Nauczyciel akademicki – nauki weterynaryjne
+Q000472	Nauczyciel akademicki – nauki wojskowe
+Q000473	Nauczyciel akademicki – sztuki filmowe
+Q000474	Nauczyciel akademicki – sztuki muzyczne
+Q000475	Nauczyciel akademicki – sztuki plastyczne
+Q000476	Nauczyciel akademicki – sztuki teatralne
+Q000477	Nauczyciel / instruktor praktycznej nauki zawodu
+Q000478	Nauczyciel przedmiotów zawodowych artystycznych
+Q000479	Nauczyciel przedmiotów zawodowych ekonomicznych
+Q000480	Nauczyciel przedmiotów zawodowych medycznych
+Q000481	Nauczyciel przedmiotów zawodowych rolniczych i leśnych
+Q000482	Nauczyciel przedmiotów zawodowych technicznych
+Q000483	Nauczyciel przedmiotów zawodowych turystycznych
+Q000484	Nauczyciel biologii
+Q000485	Nauczyciel chemii
+Q000486	Nauczyciel etyki
+Q000487	Nauczyciel fizyki i astronomii
+Q000488	Nauczyciel geografii
+Q000489	Nauczyciel historii
+Q000490	Nauczyciel informatyki / technologii informacyjnej
+Q000491	Nauczyciel języka obcego
+Q000492	Nauczyciel języka polskiego
+Q000493	Nauczyciel matematyki
+Q000494	Nauczyciel muzyki
+Q000495	Nauczyciel plastyki
+Q000496	Nauczyciel przedsiębiorczości
+Q000497	Nauczyciel przysposobienia obronnego
+Q000498	Nauczyciel religii
+Q000499	Nauczyciel techniki
+Q000500	Nauczyciel wiedzy o kulturze
+Q000501	Nauczyciel wiedzy o społeczeństwie
+Q000502	Nauczyciel wychowania do życia w rodzinie
+Q000503	Nauczyciel wychowania fizycznego
+Q000504	Nauczyciel etyki w szkole podstawowej
+Q000505	Nauczyciel historii i społeczeństwa w szkole podstawowej
+Q000506	Nauczyciel informatyki w szkole podstawowej
+Q000507	Nauczyciel języka obcego w szkole podstawowej
+Q000508	Nauczyciel języka polskiego w szkole podstawowej
+Q000509	Nauczyciel matematyki w szkole podstawowej
+Q000510	Nauczyciel muzyki w szkole podstawowej
+Q000511	Nauczyciel nauczania początkowego
+Q000512	Nauczyciel plastyki w szkole podstawowej
+Q000513	Nauczyciel przyrody w szkole podstawowej
+Q000514	Nauczyciel religii w szkole podstawowej
+Q000515	Nauczyciel techniki w szkole podstawowej
+Q000516	Nauczyciel wychowania fizycznego w szkole podstawowej
+Q000517	Nauczyciel przedszkola
+Q000518	Wychowawca małego dziecka
+Q000519	Andragog
+Q000520	Metodyk edukacji na odległość
+Q000521	Metodyk technologii informacyjnych i komunikacyjnych
+Q000522	Wizytator
+Q000523	Pozostali wizytatorzy i specjaliści metod nauczani
+Q000524	Nauczyciel niedostosowanych społecznie (pedagog resocjalizacji,socjoterapeuta)
+Q000525	Lektor języka obcego
+Q000526	Nauczyciel muzyki w placówkach pozaszkolnych
+Q000527	Instruktor tańca
+Q000528	Nauczyciel technologii informatycznych w placówkach pozaszkolnych
+Q000529	Egzaminator on-line
+Q000530	Nauczyciel bibliotekarz
+Q000531	Nauczyciel logopeda
+Q000532	Nauczyciel nauczania na odległość
+Q000533	Nauczyciel specjalista terapii pedagogicznej
+Q000534	Nauczyciel w placówkach pozaszkolnych
+Q000535	Animator czasu wolnego młodzieży (pracownik młodzieżowy)
+Q000536	Biegły rewident
+Q000537	Specjalista do spraw controllingu
+Q000538	Specjalista do spraw rachunkowości
+Q000539	Kontroler finansowy
+Q000540	Pozostali specjaliści do spraw księgowości i rachunkowości
+Q000541	Doradca emerytalny
+Q000542	Doradca inwestycyjny
+Q000543	Doradca podatkowy
+Q000544	Analityk kredytowy
+Q000545	Analityk finansowy
+Q000546	Specjalista zarządzania ryzykiem (underwriter)
+Q000547	Analityk inwestycyjny
+Q000548	Pozostali analitycy finansowi
+Q000549	Administrator produkcji filmowej
+Q000550	Organizator transportu drogowego
+Q000551	Specjalista do spraw doskonalenia organizacji
+Q000552	Specjalista do spraw logistyki
+Q000553	Specjalista do spraw pozyskiwania funduszy (fundraiser)
+Q000554	Analityk biznesowy
+Q000555	Pozostali specjaliści do spraw zarządzania i organizacji
+Q000556	Animator gospodarczy do spraw rozwoju regionalnego
+Q000557	Specjalista do spraw komercjalizacji innowacyjnych technologii
+Q000558	Audytor/Kontroler
+Q000559	Doradca do spraw bezpieczeństwa w transporcie towarów niebezpiecznych
+Q000560	Ekspert w Urzędzie Patentowym RP
+Q000561	Inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego
+Q000562	Inspektor farmaceutyczny
+Q000563	Inspektor kontroli skarbowej
+Q000564	Inspektor nadzoru bankowego
+Q000565	Inspektor nadzoru budowlanego
+Q000566	Inspektor ochrony danych osobowych
+Q000567	Inspektor pracy
+Q000568	Rzecznik patentowy
+Q000569	Specjalista do spraw integracji europejskiej
+Q000570	Specjalista do spraw organizacji i rozwoju przemysłu
+Q000571	Specjalista do spraw organizacji i rozwoju transportu
+Q000572	Specjalista do spraw stosunków międzynarodowych
+Q000573	Specjalista do spraw zamówień publicznych
+Q000574	Specjalista organizacji i zarządzania w ochronie zdrowia
+Q000575	Specjalista zarządzania kryzysowego
+Q000576	Inspektor do spraw obrotu hurtowego lekami
+Q000577	Analityk pracy
+Q000578	Doradca EURES
+Q000579	Doradca personalny
+Q000580	Doradca zawodowy
+Q000581	Konsultant do spraw kariery
+Q000582	Lider klubu pracy
+Q000583	Specjalista do spraw kadr
+Q000584	Specjalista do spraw kultury firmy
+Q000585	Specjalista do spraw rekrutacji pracowników
+Q000586	Specjalista do spraw wynagrodzeń
+Q000587	Specjalista do spraw zarządzania talentami
+Q000588	Broker edukacyjny
+Q000589	Specjalista do spraw rozwoju zawodowego
+Q000590	Autor tekstów i sloganów reklamowych (copywriter)
+Q000591	Menedżer marki (brand manager)
+Q000592	Specjalista analizy i rozwoju rynku
+Q000593	Specjalista do spraw marketingu i handlu
+Q000594	Specjalista do spraw reklamy
+Q000595	Specjalista sprzedaży internetowej
+Q000596	Specjalista etyki biznesu
+Q000597	Lobbysta
+Q000598	Specjalista do spraw public relations
+Q000599	Inżynier sprzedaży
+Q000600	Opiekun klienta
+Q000601	Przedstawiciel medyczny
+Q000602	Specjalista do spraw kluczowych klientów (key account manager)
+Q000603	Specjalista do spraw sprzedaży
+Q000604	Specjalista do spraw obsługi posprzedażowej
+Q000605	Inżynier sprzedaży technologii i usług teleinformatycznych
+Q000606	Pozostali specjaliści do spraw rynku nieruchomości
+Q000607	Pośrednik w obrocie nieruchomościami
+Q000608	Rzeczoznawca majątkowy
+Q000609	Zarządca nieruchomości
+Q000610	Analityk systemów teleinformatycznych
+Q000611	Konsultant do spraw systemów teleinformatycznych
+Q000612	Projektant / architekt systemów teleinformatycznych
+Q000613	Specjalista do spraw doskonalenia i rozwoju aplikacji
+Q000614	Pozostali specjaliści do spraw rozwoju systemów informatycznych
+Q000615	Specjalista do spraw rozwoju stron internetowych
+Q000616	Pozostali projektanci aplikacji sieciowych i multimediów
+Q000617	Programista aplikacji
+Q000618	Programista aplikacji mobilnych
+Q000619	Pozostali programiści aplikacji
+Q000620	Informatyk medyczny
+Q000621	Tester oprogramowania komputerowego
+Q000622	Tester systemów teleinformatycznych
+Q000623	Administrator baz danych
+Q000624	Projektant baz danych
+Q000625	Pozostali projektanci i administratorzy baz danych
+Q000626	Administrator systemów komputerowych
+Q000627	Administrator zintegrowanych systemów zarządzania
+Q000628	Pozostali specjaliści do spraw sieci komputerowych
+Q000629	Specjalista bezpieczeństwa oprogramowania
+Q000630	Specjalista do spraw systemów zarządzania bezpieczeństwem informacji
+Q000631	Adwokat
+Q000632	Prokurator
+Q000633	Sędzia
+Q000634	Asystent prawny
+Q000635	Asystent prokuratora
+Q000636	Komornik sądowy
+Q000637	Notariusz
+Q000638	Legislator
+Q000639	Radca Prokuratorii Generalnej Skarbu Państwa
+Q000640	Referendarz sądowy
+Q000641	Archiwista
+Q000642	Muzealnik
+Q000643	Analityk informacji i raportów medialnych
+Q000644	Bibliotekoznawca
+Q000645	Menedżer zawartości serwisów internetowych
+Q000646	Specjalista zarządzania informacją
+Q000647	Pozostali bibliotekoznawcy i specjaliści zarządzania informacją
+Q000648	Ekonometryk
+Q000649	Ekonomista
+Q000650	Archeolog
+Q000651	Etnograf
+Q000652	Kulturoznawca
+Q000653	Socjolog
+Q000654	Antropolog
+Q000655	Kryminolog
+Q000656	Religioznawca
+Q000657	Filozof
+Q000658	Historyk
+Q000659	Historyk sztuki
+Q000660	Politolog
+Q000661	Specjalista polityki społecznej
+Q000662	Teolog
+Q000663	Pozostali filozofowie, historycy i politolodzy
+Q000664	Psycholog
+Q000665	Psycholog biznesu
+Q000666	Psycholog kliniczny
+Q000667	Psycholog organizacji
+Q000668	Psycholog sportowy
+Q000669	Psycholog wychowawczy
+Q000670	Specjalista do spraw uzależnień od mediów cyfrowych
+Q000671	Kurator sądowy
+Q000672	Mediator
+Q000673	Specjalista poradnictwa psychospołecznego i rodzinnego
+Q000674	Specjalista pracy socjalnej
+Q000675	Wychowawca w jednostkach penitencjarnych
+Q000676	Mediator sądowy
+Q000677	Koordynator rodzinnej pieczy zastępczej
+Q000678	Specjalista do spraw adopcji
+Q000679	Duchowny religii mojżeszowej
+Q000680	Duchowny religii muzułmańskiej
+Q000681	Duchowny wyznania prawosławnego
+Q000682	Duchowny wyznania rzymskokatolickiego
+Q000683	Duchowny wyznania ewangelickiego
+Q000684	Zakonnik (bez święceń kapłańskich)
+Q000685	Pisarz
+Q000686	Poeta
+Q000687	Redaktor wydawniczy
+Q000688	Scenarzysta
+Q000689	Dziennikarz
+Q000690	Fotoedytor
+Q000691	Krytyk artystyczny
+Q000692	Krytyk kulinarny
+Q000693	Redaktor serwisu internetowego
+Q000694	Filolog klasyczny
+Q000695	Filolog języka nowożytnego
+Q000696	Filolog polski
+Q000697	Tłumacz języka migowego
+Q000698	Artysta grafik
+Q000699	Artysta malarz
+Q000700	Artysta rzeźbiarz
+Q000701	Konserwator dzieł sztuki
+Q000702	Scenograf
+Q000703	Konserwator zabytków architektury
+Q000704	Wokalista
+Q000705	Dyrygent
+Q000706	Kompozytor
+Q000707	Muzykolog
+Q000708	Piosenkarz
+Q000709	Pozostali kompozytorzy, artyści muzycy i śpiewacy
+Q000710	Choreograf
+Q000711	Tancerz baletowy
+Q000712	Asystent reżysera filmowego
+Q000713	Operator obrazu
+Q000714	Producent filmowy
+Q000715	Producent teatralny
+Q000716	Producent telewizyjny
+Q000717	Realizator programu telewizyjnego / radiowego
+Q000718	Reżyser filmowy
+Q000719	Reżyser teatralny
+Q000720	Reżyser telewizyjny / radiowy
+Q000721	Aktor
+Q000722	Aktor lalkarz
+Q000723	Mim
+Q000724	Konferansjer
+Q000725	Prezenter muzyczny (DJ / didżej)
+Q000726	Prezenter telewizyjny
+Q000727	Spiker radiowy
+Q000728	Pozostali prezenterzy radiowi, telewizyjni i pokrewni
+Q000729	Twórca ludowy
+Q000730	Laborant chemiczny
+Q000731	Probierz
+Q000732	Technik geodeta
+Q000733	Technik geofizyk
+Q000734	Technik geolog
+Q000735	Technik hydrolog
+Q000736	Technik meteorolog
+Q000737	Technik metrolog
+Q000738	Kosztorysant budowlany
+Q000739	Laborant budowlany
+Q000740	Technik architekt
+Q000741	Technik budownictwa
+Q000742	Technik renowacji elementów architektury
+Q000743	Inspektor budowy dróg
+Q000744	Technik elektroenergetyk transportu szynowego
+Q000745	Technik elektryk
+Q000746	Technik elektryk kolejowych sieci elektroenergetycznych
+Q000747	Technik elektryk samochodowy
+Q000748	Diagnosta kolejowy
+Q000749	Instalator systemów alarmowych
+Q000750	Instalator systemów alarmowych przeciwkradzieżowych
+Q000751	Instalator systemów telewizji przemysłowej
+Q000752	Technik elektronik
+Q000753	Technik elektroniki medycznej
+Q000754	Technik mechatronik
+Q000755	Technik mechanik
+Q000756	Technik mechanik maszyn i urządzeń
+Q000757	Technik mechanik obróbki skrawaniem
+Q000758	Technik mechanik urządzeń przemysłowych
+Q000759	Technik pojazdów samochodowych
+Q000760	Technik utrzymania ruchu
+Q000761	Technik technologii chemicznej
+Q000762	Technik technologii środków farmaceutycznych
+Q000763	Technik technologii środków kosmetycznych
+Q000764	Technik zabezpieczeń przeciwkorozyjnych
+Q000765	Technik górnictwa otworowego
+Q000766	Technik górnictwa podziemnego
+Q000767	Technik hutnik
+Q000768	Technik odlewnik
+Q000769	Operator CAD
+Q000770	Cechowniczy
+Q000771	Kontroler jakości połączeń spawanych
+Q000772	Korektor i stroiciel instrumentów muzycznych
+Q000773	Operator badań defektoskopowych
+Q000774	Operator reaktora
+Q000775	Pracownik obsługi bankomatów
+Q000776	Technik akustyk
+Q000777	Technik automatyk
+Q000778	Technik budownictwa okrętowego
+Q000779	Technik instrumentów muzycznych
+Q000780	Technik normowania pracy
+Q000781	Technik obuwnik
+Q000782	Technik organizacji produkcji
+Q000783	Technik technologii ceramicznej
+Q000784	Technik technologii materiałów budowlanych
+Q000785	Technik technologii odzieży
+Q000786	Technik technologii szkła
+Q000787	Technik technologii wyrobów skórzanych
+Q000788	Technik chłodnictwa i klimatyzacji
+Q000789	Technik włókienniczych wyrobów dekoracyjnych
+Q000790	Stroiciel fortepianów i pianin
+Q000791	Technik budowy fortepianów i pianin
+Q000792	Osoba dozoru ruchu w górnictwie odkrywkowym
+Q000793	Osoba dozoru ruchu w górnictwie otworowym
+Q000794	Osoba dozoru ruchu w górnictwie podziemnym
+Q000795	Mistrz produkcji w przemyśle chemicznym
+Q000796	Mistrz produkcji w przemyśle elektronicznym
+Q000797	Mistrz produkcji w przemyśle metalurgicznym
+Q000798	Mistrz produkcji w przemyśle samochodowym
+Q000799	Mistrz produkcji w przemyśle spożywczym
+Q000800	Mistrz produkcji w przemyśle włókienniczym
+Q000801	Mistrz produkcji w poligrafii
+Q000802	Mistrz produkcji w budownictwie drogowym
+Q000803	Mistrz produkcji w budownictwie kolejowym
+Q000804	Mistrz produkcji w budownictwie mostowym
+Q000805	Mistrz produkcji w budownictwie ogólnym
+Q000806	Mistrz produkcji w budownictwie przemysłowym
+Q000807	Elektroenergetyk elektrowni cieplnych
+Q000808	Elektroenergetyk elektrowni wodnych
+Q000809	Elektroenergetyk nastawni
+Q000810	Elektroenergetyk pomiarów i zabezpieczeń
+Q000811	Maszynista agregatów prądotwórczych
+Q000812	Maszynista turbozespołu parowego
+Q000813	Maszynista turbozespołu wodnego
+Q000814	Maszynista urządzeń ciepłowniczych elektrowni
+Q000815	Maszynista urządzeń pomocniczych elektrowni
+Q000816	Obchodowy bloku
+Q000817	Maszynista chłodni
+Q000818	Maszynista sprężarek
+Q000819	Operator (maszynista) stacji pomp
+Q000820	Operator spalarni odpadów komunalnych
+Q000821	Operator urządzeń klimatyzacyjnych i odpylających
+Q000822	Operator urządzeń oczyszczania ścieków
+Q000823	Operator urządzeń uzdatniania i demineralizacji wody
+Q000824	Pozostali operatorzy urządzeń do spalania odpadów, uzdatniania wody i pokrewni
+Q000825	Kontroler (sterowniczy) urządzeń do wytopu metali
+Q000826	Kontroler (sterowniczy) urządzeń obróbki cieplnej metali
+Q000827	Operator zautomatyzowanej linii produkcyjnej
+Q000828	Laborant mikrobiologiczny
+Q000829	Laborant biochemiczny
+Q000830	Laborant w hodowli roślin
+Q000831	Laborant nasiennictwa
+Q000832	Technik ogrodnik
+Q000833	Technik rolnik
+Q000834	Technik leśnik
+Q000835	Technik przetwórstwa mleczarskiego
+Q000836	Technik technologii żywności
+Q000837	Technik technologii żywności – cukrownictwo
+Q000838	Technik technologii żywności – produkcja cukiernicza
+Q000839	Technik technologii żywności – produkcja koncentratów spożywczych
+Q000840	Technik technologii żywności – produkcja piekarsko-ciastkarska
+Q000841	Technik technologii żywności – przechowalnictwo chłodnicze i technologia żywności mrożonej
+Q000842	Technik technologii żywności – przetwórstwo fermentacyjne
+Q000843	Technik technologii żywności – przetwórstwo jajczarsko-drobiarskie
+Q000844	Technik technologii żywności – przetwórstwo mięsne
+Q000845	Technik technologii żywności – przetwórstwo mleczarskie
+Q000846	Technik technologii żywności – przetwórstwo owocowo-warzywne
+Q000847	Technik technologii żywności – przetwórstwo rybne
+Q000848	Technik technologii żywności – przetwórstwo surowców olejarskich
+Q000849	Technik technologii żywności – przetwórstwo zbożowe
+Q000850	Technik technologii żywności – przetwórstwo ziemniaczane
+Q000851	Pozostali technicy technologii żywności
+Q000852	Kapitan statku morskiego
+Q000853	Kapitan żeglugi śródlądowej
+Q000854	Oficer pokładowy
+Q000855	Obserwator radarowy żeglugi śródlądowej
+Q000856	Pilot morski
+Q000857	Pozostali oficerowie pokładowi, piloci żeglugi i pokrewni
+Q000858	Mechanik pokładowy
+Q000859	Operator tankowania statków powietrznych
+Q000860	Pilot samolotowy zawodowy / liniowy
+Q000861	Pilot śmigłowcowy zawodowy / liniowy
+Q000862	Skoczek spadochronowy
+Q000863	Technik awionik
+Q000864	Technik mechanik lotniczy
+Q000865	Mechanik lotniczy obsługi technicznej
+Q000866	Dyspozytor lotniczy
+Q000867	Informator służby informacji powietrznej
+Q000868	Kontroler ruchu lotniczego
+Q000869	Technik lotniskowych służb operacyjnych
+Q000870	Technik urządzeń ruchu lotniczego
+Q000871	Operator systemów sterylizacji artykułów sanitarnych, sprzętu i aparatów medycznych
+Q000872	Perfuzjonista
+Q000873	Technik elektroradiolog
+Q000874	Technik sterylizacji medycznej
+Q000875	Pozostali operatorzy aparatury medycznej
+Q000876	Technik analityki medycznej
+Q000877	Technik farmaceutyczny
+Q000878	Protetyk słuchu
+Q000879	Technik dentystyczny
+Q000880	Technik ortopeda
+Q000881	Pozostali technicy medyczni i dentystyczni
+Q000882	Dietetyk
+Q000883	Akupunkturzysta
+Q000884	Chiropraktyk
+Q000885	Homeopata
+Q000886	Instruktor hipoterapii
+Q000887	Kynoterapeuta (dogoterapeuta)
+Q000888	Muzykoterapeuta
+Q000889	Naturopata
+Q000890	Osteopata
+Q000891	Zielarz-fitoterapeuta
+Q000892	Arteterapeuta
+Q000893	Podolog
+Q000894	Technik weterynarii
+Q000895	Asystentka stomatologiczna
+Q000896	Higienistka stomatologiczna
+Q000897	Pozostali asystenci dentystyczni
+Q000898	Terapeuta środowiskowy
+Q000899	Optyk okularowy
+Q000900	Technik optyk
+Q000901	Technik masażysta
+Q000902	Edukator ekologiczny
+Q000903	Inspektor bezpieczeństwa i higieny pracy
+Q000904	Inspektor ochrony radiologicznej
+Q000905	Kontroler higieny mięsa
+Q000906	Strażnik ochrony przyrody / środowiska
+Q000907	Technik dozymetrysta
+Q000908	Technik ochrony środowiska
+Q000909	Weterynaryjny kontroler sanitarny
+Q000910	Inspektor obrony cywilnej
+Q000911	Inspektor sanitarny
+Q000912	Technik gospodarki odpadami
+Q000913	Ratownik medyczny
+Q000914	Felczer
+Q000915	Koordynator pobierania i przeszczepiania tkanek i narządów
+Q000916	Opiekunka dziecięca
+Q000917	Ortoptystka
+Q000918	Terapeuta zajęciowy
+Q000919	Pozostały średni personel do spraw zdrowia gdzie indziej niesklasyfikowany
+Q000920	Dealer aktywów finansowych
+Q000921	Pracownik do spraw produktów finansowych
+Q000922	Pracownik scentralizowanych systemów rozliczeniowych
+Q000923	Pracownik do spraw kredytów
+Q000924	Księgowy
+Q000925	Asystent do spraw statystyki
+Q000926	Asystent przetwarzania danych
+Q000927	Pozostały średni personel do spraw statystyki i dziedzin pokrewnych
+Q000928	Gemmolog
+Q000929	Likwidator szkód
+Q000930	Pozostali rzeczoznawcy (z wyłączeniem majątkowych)
+Q000931	Agent ubezpieczeniowy
+Q000932	Broker ubezpieczeniowy
+Q000933	Pozostali agenci ubezpieczeniowi
+Q000934	Ekspozytor towarów (merchandiser)
+Q000935	Pracownik centrum elektronicznej obsługi klienta
+Q000936	Przedstawiciel handlowy
+Q000937	Zaopatrzeniowiec
+Q000938	Makler giełd towarowych
+Q000939	Makler morski
+Q000940	Agent celny
+Q000941	Eksploatator portu
+Q000942	Pracownik działu logistyki
+Q000943	Doradca do spraw bezpieczeństwa przewozu koleją towarów niebezpiecznych (Doradca RID)
+Q000944	Organizator imprez rozrywkowych (organizator eventów)
+Q000945	Organizator imprez ślubnych
+Q000946	Organizator usług konferencyjnych
+Q000947	Organizator widowni
+Q000948	Pozostali organizatorzy konferencji i imprez
+Q000949	Pośrednik pracy
+Q000950	Pracownik agencji pracy tymczasowej
+Q000951	Agent do spraw pozyskiwania gruntów
+Q000952	Menedżer artystyczny
+Q000953	Licytator
+Q000954	Promotor marki (trendsetter)
+Q000955	Sprzedawca reklam internetowych
+Q000956	Tajemniczy klient (mystery shopper)
+Q000957	Technik organizacji reklamy
+Q000958	Kierownik biura
+Q000959	Sekretarka w kancelarii prawnej
+Q000960	Akredytowany asystent parlamentarny
+Q000961	Asystent dyrektora
+Q000962	Asystent parlamentarny
+Q000963	Asystent zarządu
+Q000964	Stenograf-protokolant
+Q000965	Pracownik do spraw ubezpieczeń medycznych
+Q000966	Sekretarka medyczna
+Q000967	Funkcjonariusz celny
+Q000968	Funkcjonariusz straży granicznej
+Q000969	Urzędnik do spraw imigracji
+Q000970	Rewident kontroli skarbowej
+Q000971	Pozostali urzędnicy do spraw podatków
+Q000972	Urzędnik ubezpieczeń społecznych
+Q000973	Pozostali urzędnicy do spraw świadczeń społecznych
+Q000974	Urzędnik do spraw licencji
+Q000975	Urzędnik do spraw paszportów
+Q000976	Urzędnik do spraw udzielania pozwoleń na budowę
+Q000977	Urzędnik do spraw udzielania pozwoleń na prowadzenie działalności gospodarczej
+Q000978	Negocjator policyjny
+Q000979	Policjant służby kryminalnej
+Q000980	Technik kryminalistyki
+Q000981	Policjant służby prewencji
+Q000982	Policjant służby wspomagającej
+Q000983	Funkcjonariusz służby ochrony
+Q000984	Funkcjonariusz służby penitencjarnej
+Q000985	Pozostali funkcjonariusze służby więziennej
+Q000986	Funkcjonariusz służb specjalnych
+Q000987	Inspektor kontroli handlu i usług
+Q000988	Inspektor do spraw miar i wag
+Q000989	Inspektor Inspekcji Transportu Drogowego
+Q000990	Detektyw prywatny
+Q000991	Sekretarka notarialna
+Q000992	Asystent osoby niepełnosprawnej
+Q000993	Opiekun osoby starszej
+Q000994	Opiekun w domu pomocy społecznej
+Q000995	Opiekunka środowiskowa
+Q000996	Pracownik socjalny
+Q000997	Asystent rodziny
+Q000998	Pracownik parafialny
+Q000999	Świecki krzewiciel wiary
+Q001000	Dżokej
+Q001001	Zawodnik dyscypliny sportu
+Q001002	Instruktor sportu
+Q001003	Instruktor sportu osób niepełnosprawnych
+Q001004	Menedżer dyscypliny sportu
+Q001005	Menedżer imprez sportowych
+Q001006	Menedżer sportu
+Q001007	Sędzia sportowy
+Q001008	Trener sportu
+Q001009	Instruktor fitness
+Q001010	Instruktor gimnastyki korekcyjnej
+Q001011	Instruktor jazdy konnej
+Q001012	Instruktor odnowy biologicznej
+Q001013	Instruktor rekreacji ruchowej
+Q001014	Instruktor sportów siłowych
+Q001015	Instruktor sztuki walki
+Q001016	Animator rekreacji i organizacji czasu wolnego
+Q001017	Fotograf
+Q001018	Fotoreporter
+Q001019	Fotosista
+Q001020	Pozostali fotografowie
+Q001021	Dekorator sklepów
+Q001022	Dekorator wnętrz
+Q001023	Rzeźbiarz w owocach i warzywach
+Q001024	Pozostali plastycy, dekoratorzy wnętrz i pokrewni
+Q001025	Bibliotekarz
+Q001026	Doradca do spraw zasobów bibliotecznych
+Q001027	Szef kuchni (kuchmistrz)
+Q001028	Akrobata
+Q001029	Aktor cyrkowy
+Q001030	Klaun (clown)
+Q001031	Iluzjonista
+Q001032	Komik
+Q001033	Treser zwierząt cyrkowych
+Q001034	Żongler
+Q001035	Aktor scen muzycznych
+Q001036	Muzyk
+Q001037	Organista
+Q001038	Tancerz
+Q001039	Animator kultury
+Q001040	Garderobiana
+Q001041	Inspicjent
+Q001042	Kaskader filmowy
+Q001043	Kierownik planu filmowego
+Q001044	Menedżer klubu muzycznego
+Q001045	Oświetlacz filmowy
+Q001046	Pirotechnik
+Q001047	Realizator światła
+Q001048	Sufler
+Q001049	Tatuażysta
+Q001050	Technik teleinformatyk
+Q001051	Konserwator sieci i systemów komputerowych
+Q001052	Technik informatyk
+Q001053	Technik tyfloinformatyk
+Q001054	Operator sieci komputerowych
+Q001055	Operator sprzętu komputerowego
+Q001056	Administrator stron internetowych
+Q001057	Administrator systemów poczty elektronicznej
+Q001058	Projektant stron internetowych (webmaster)
+Q001059	Pracownik obsługi kampanii e-mailowych
+Q001060	Asystent operatora dźwięku
+Q001061	Asystent operatora obrazu
+Q001062	Asystent techniczny realizatora dźwięku
+Q001063	Kinooperator
+Q001064	Mikser dźwięku
+Q001065	Mikser obrazu
+Q001066	Montażysta dźwięku
+Q001067	Montażysta obrazu
+Q001068	Operator dźwięku
+Q001069	Operator kamery
+Q001070	Operator sprzętu zdjęciowego (wózkarz)
+Q001071	Operator radiowych urządzeń transmisyjnych
+Q001072	Operator telewizyjnych urządzeń transmisyjnych
+Q001073	Realizator dźwięku
+Q001074	Realizator filmu wideo (wideofilmowiec)
+Q001075	Realizator rekonstrukcji dźwięku
+Q001076	Technik realizacji dźwięku
+Q001077	Technik urządzeń audiowizualnych
+Q001078	Technik realizacji nagrań i nagłośnień
+Q001079	Operator urządzeń nadawczych telewizji kablowej
+Q001080	Technik telekomunikacji
+Q001081	Administrator nieruchomości
+Q001082	Pracownik do spraw ewidencji ludności
+Q001083	Technik prac biurowych
+Q001084	Sekretarka
+Q001085	Maszynistka
+Q001086	Operator aplikacji komputerowych
+Q001087	Operator edytorów tekstu
+Q001088	Pozostałe maszynistki i operatorzy edytorów tekstu
+Q001089	Operator wprowadzania danych
+Q001090	Asystent usług pocztowych
+Q001091	Asystent usług telekomunikacyjnych
+Q001092	Kasjer bankowy
+Q001093	Kasjer walutowy
+Q001094	Skarbnik bankowy
+Q001095	Pozostali kasjerzy bankowi i pokrewni
+Q001096	Bukmacher
+Q001097	Krupier
+Q001098	Pracownik kolektury
+Q001099	Pracownik lombardu
+Q001100	Inkasent
+Q001101	Windykator
+Q001102	Pracownik biura podróży
+Q001103	Rezydent biura turystycznego
+Q001104	Technik obsługi turystycznej
+Q001105	Pozostali konsultanci i inni pracownicy biur podróży
+Q001106	Pracownik centrum obsługi telefonicznej (pracownik call center)
+Q001107	Operator centrali telefonicznej
+Q001108	Recepcjonista hotelowy
+Q001109	Pracownik informacji turystycznej
+Q001110	Pozostali pracownicy biur informacji
+Q001111	Recepcjonista
+Q001112	Ankieter
+Q001113	Teleankieter
+Q001114	Pozostali ankieterzy
+Q001115	Asystent do spraw księgowości
+Q001116	Fakturzystka
+Q001117	Pracownik do spraw statystyki
+Q001118	Pracownik do spraw ubezpieczeń
+Q001119	Pracownik obsługi płacowej
+Q001120	Ekspedient wypożyczalni
+Q001121	Inwentaryzator
+Q001122	Pracownik punktu skupu
+Q001123	Pracownik sortowania przesyłek i towarów
+Q001124	Dyspozytor radiotaxi
+Q001125	Ekspedytor
+Q001126	Odprawiacz pociągów
+Q001127	Pomocnik biblioteczny
+Q001128	Ekspedient pocztowy
+Q001129	Kurier
+Q001130	Listonosz
+Q001131	Pozostali listonosze i pokrewni
+Q001132	Kodowacz (koder)
+Q001133	Korektor tekstu
+Q001134	Pozostali kodowacze, korektorzy i pokrewni
+Q001135	Archiwista dokumentów elektronicznych
+Q001136	Archiwista zakładowy
+Q001137	Pracownik do spraw osobowych
+Q001138	Pracownik do spraw socjalnych
+Q001139	Asystent do spraw wydawniczych
+Q001140	Stewardesa / Steward
+Q001141	Steward statku morskiego
+Q001142	Kierownik pociągu
+Q001143	Konduktor
+Q001144	Konduktor kolei linowej
+Q001145	Kontroler biletów
+Q001146	Konwojent (konduktor) wagonów specjalnych
+Q001147	Przewodnik turystyczny górski
+Q001148	Przewodnik turystyczny miejski
+Q001149	Przewodnik turystyczny terenowy
+Q001150	Kelner
+Q001151	Barista
+Q001152	Barman
+Q001153	Sommelier
+Q001154	Fryzjer
+Q001155	Fryzjer damski
+Q001156	Fryzjer męski
+Q001157	Perukarz
+Q001158	Charakteryzator
+Q001159	Kosmetyczka
+Q001160	Manikiurzystka
+Q001161	Pedikiurzystka
+Q001162	Pracownik solarium
+Q001163	Wizażystka / stylistka
+Q001164	Inspektor hotelowy
+Q001165	Pozostali pracownicy obsługi technicznej biur, hoteli i innych obiektów
+Q001166	Gospodyni
+Q001167	Organizator usług domowych
+Q001168	Technik turystyki wiejskiej
+Q001169	Właściciel małego zakładu agroturystycznego/hotelarskiego/gastronomicznego
+Q001170	Pozostali pracownicy usług domowych
+Q001171	Gospodarz domu
+Q001172	Kościelny
+Q001173	Astrolog
+Q001174	Wróżbita
+Q001175	Osoba do towarzystwa
+Q001176	Kremator
+Q001177	Organizator usług pogrzebowych
+Q001178	Tanatoprakser (balsamista)
+Q001179	Żałobnik
+Q001180	Fryzjer zwierząt (groomer)
+Q001181	Opiekun dzikich zwierząt
+Q001182	Opiekun zwierząt domowych
+Q001183	Trener koni wyścigowych
+Q001184	Treser psów
+Q001185	Zoofizjoterapeuta
+Q001186	Jeździec
+Q001187	Radiesteta
+Q001188	Osobisty doradca do spraw zakupów (personal shooper)
+Q001189	Sprzedawca na targowisku / bazarze
+Q001190	Uliczny sprzedawca żywności o krótkim terminie przydatności do spożycia
+Q001191	Antykwariusz
+Q001192	Właściciel małego sklepu
+Q001193	Kierownik sali sprzedaży
+Q001194	Kierownik stoiska w markecie
+Q001195	Kierownik kas
+Q001196	Sprzedawca
+Q001197	Sprzedawca w branży mięsnej
+Q001198	Technik handlowiec
+Q001199	Technik księgarstwa
+Q001200	Kasjer biletowy
+Q001201	Kasjer handlowy
+Q001202	Kasjer w zakładzie pracy
+Q001203	Pozostali kasjerzy i sprzedawcy biletów
+Q001204	Model / modelka
+Q001205	Demonstrator wyrobów
+Q001206	Akwizytor
+Q001207	Ekspedytor sprzedaży wysyłkowej / internetowej
+Q001208	Sprzedawca na telefon
+Q001209	Telemarketer
+Q001210	Sprzedawca w stacji paliw
+Q001211	Pośrednik usług medycznych
+Q001212	Pozostali pracownicy sprzedaży i pokrewni gdzie indziej niesklasyfikowani
+Q001213	Opiekunka dziecięca domowa (niania)
+Q001214	Rodzic zastępczy
+Q001215	Opiekunka w żłobku / klubie dziecięcym
+Q001216	Dzienny opiekun małego dziecka
+Q001217	Asystent nauczyciela przedszkola
+Q001218	Opiekun medyczny
+Q001219	Opiekunka domowa
+Q001220	Pomoc apteczna
+Q001221	Preparator medyczny
+Q001222	Zabiegowy balneologiczny
+Q001223	Asystentka kobiety w czasie ciąży i porodu (doula)
+Q001224	Strażak
+Q001225	Strażnik w zakładzie dla nieletnich
+Q001226	Funkcjonariusz Biura Ochrony Rządu
+Q001227	Portier
+Q001228	Pracownik ochrony fizycznej
+Q001229	Strażnik gminny / miejski
+Q001230	Strażnik straży marszałkowskiej
+Q001231	Funkcjonariusz straży ochrony kolei
+Q001232	Technik ochrony fizycznej osób i mienia
+Q001233	Operator kontroli bezpieczeństwa
+Q001234	Pracownik obsługi monitoringu
+Q001235	Ratownik górniczy
+Q001236	Ratownik górski
+Q001237	Ratownik morski
+Q001238	Ratownik pokładowy
+Q001239	Ratownik wodny
+Q001240	Strażnik leśny
+Q001241	Strażnik rybacki
+Q001242	Pozostali pracownicy usług ochrony gdzie indziej niesklasyfikowani
+Q001243	Kierownik gospodarstwa upraw polowych
+Q001244	Rolnik łąkarz
+Q001245	Rolnik producent kwalifikowanych nasion rolniczych
+Q001246	Rolnik upraw polowych
+Q001247	Kierownik gospodarstwa sadowniczego
+Q001248	Rolnik chmielarz
+Q001249	Sadownik
+Q001250	Chirurg pielęgniarz drzew
+Q001251	Kierownik gospodarstwa ogrodniczego
+Q001252	Ogrodnik
+Q001253	Ogrodnik producent nasion
+Q001254	Ogrodnik szkółkarz
+Q001255	Ogrodnik terenów zieleni
+Q001256	Ogrodnik – uprawa grzybów jadalnych
+Q001257	Ogrodnik – uprawa roślin ozdobnych
+Q001258	Ogrodnik – uprawa warzyw polowych
+Q001259	Ogrodnik – uprawy pod osłonami
+Q001260	Producent i zbieracz ziół
+Q001261	Pielęgniarz trawników / murawy (greenkeeper)
+Q001262	Kierownik gospodarstwa upraw mieszanych
+Q001263	Producent zdrowej żywności
+Q001264	Rolnik upraw mieszanych
+Q001265	Dojarz
+Q001266	Hodowca bydła
+Q001267	Hodowca koni
+Q001268	Hodowca owiec
+Q001269	Hodowca trzody chlewnej
+Q001270	Hodowca zwierząt futerkowych
+Q001271	Kierownik gospodarstwa produkcji zwierzęcej
+Q001272	Masztalerz
+Q001273	Hodowca inwentarza mieszanego
+Q001274	Pozostali hodowcy zwierząt gospodarskich i domowych
+Q001275	Hodowca drobiu
+Q001276	Kierownik gospodarstwa hodowli drobiu
+Q001277	Pozostali hodowcy drobiu
+Q001278	Hodowca jedwabników
+Q001279	Pszczelarz
+Q001280	Hodowca ptaków
+Q001281	Hodowca zwierząt laboratoryjnych
+Q001282	Pozostali hodowcy zwierząt gdzie indziej niesklasyfikowani
+Q001283	Kierownik gospodarstwa produkcji roślinnej i zwierzęcej
+Q001284	Rolnik
+Q001285	Drwal / pilarz drzew
+Q001286	Robotnik leśny
+Q001287	Wozak zrywkarz
+Q001288	Rybak rybołówstwa morskiego
+Q001289	Rolnik produkcji roślinnej pracujący na własne potrzeby
+Q001290	Hodowca zwierząt pracujący na własne potrzeby
+Q001291	Rolnik produkcji roślinnej i zwierzęcej pracujący na własne potrzeby
+Q001292	Rybak pracujący na własne potrzeby
+Q001293	Zbieracz owoców, ziół i innych roślin
+Q001294	Konserwator budynków i stanu technicznego pomieszczeń
+Q001295	Renowator zabytków architektury
+Q001296	Monter kamiennych elementów budowlanych
+Q001297	Murarz
+Q001298	Zdun
+Q001299	Brukarz
+Q001300	Kamieniarz
+Q001301	Betoniarz
+Q001302	Palowniczy
+Q001303	Zbrojarz
+Q001304	Pozostali betoniarze, betoniarze zbrojarze i pokrewni
+Q001305	Cieśla
+Q001306	Cieśla szalunkowy
+Q001307	Szkutnik
+Q001308	Dróżnik obchodowy
+Q001309	Monter nawierzchni kolejowej
+Q001310	Toromistrz
+Q001311	Układacz nawierzchni drogowych
+Q001312	Montażysta dekoracji
+Q001313	Monter reklam
+Q001314	Monter rusztowań
+Q001315	Robotnik rozbiórki budowli
+Q001316	Dekarz
+Q001317	Cykliniarz
+Q001318	Glazurnik
+Q001319	Parkieciarz
+Q001320	Posadzkarz
+Q001321	Monter ociepleń budynków
+Q001322	Tynkarz
+Q001323	Pozostali tynkarze i pokrewni
+Q001324	Monter izolacji budowlanych
+Q001325	Monter izolacji chemoodpornych i antykorozyjnych
+Q001326	Monter izolacji przemysłowych
+Q001327	Termoizoler
+Q001328	Szklarz
+Q001329	Szklarz budowlany
+Q001330	Szklarz pojazdów
+Q001331	Witrażownik
+Q001332	Monter szkła budowlanego
+Q001333	Pozostali szklarze
+Q001334	Hydraulik
+Q001335	Monter instalacji gazowych
+Q001336	Monter instalacji i urządzeń sanitarnych
+Q001337	Monter sieci deszczownianych
+Q001338	Monter sieci wodnych i kanalizacyjnych
+Q001339	Studniarz
+Q001340	Pozostali hydraulicy i monterzy rurociągów
+Q001341	Mechanik urządzeń chłodniczych
+Q001342	Mechanik urządzeń klimatyzacyjnych
+Q001343	Monter / konserwator instalacji wentylacyjnych i klimatyzacyjnych
+Q001344	Monter płyt kartonowo-gipsowych
+Q001345	Monter systemów suchej zabudowy
+Q001346	Technolog robót wykończeniowych w budownictwie
+Q001347	Monter zabudowy i robót wykończeniowych w budownictwie
+Q001348	Malarz budowlany
+Q001349	Szpachlarz
+Q001350	Tapeciarz
+Q001351	Pozostali malarze i pokrewni
+Q001352	Lakiernik samochodowy
+Q001353	Malarz-lakiernik samolotowy
+Q001354	Piaskarz
+Q001355	Pozostali lakiernicy
+Q001356	Alpinista przemysłowy
+Q001357	Czyściciel elewacji budowlanych
+Q001358	Kominiarz
+Q001359	Pozostali robotnicy czyszczący konstrukcje budowlane i pokrewni
+Q001360	Brązownik
+Q001361	Formierz odlewnik
+Q001362	Ludwisarz
+Q001363	Zalewacz form
+Q001364	Lutowacz
+Q001365	Operator zgrzewarek
+Q001366	Spawacz
+Q001367	Pozostali spawacze i pokrewni
+Q001368	Blacharz
+Q001369	Blacharz budowlany
+Q001370	Blacharz izolacji przemysłowych
+Q001371	Monter bram
+Q001372	Monter konstrukcji stalowych
+Q001373	Oczyszczacz konstrukcji stalowych
+Q001374	Pozostali robotnicy przygotowujący i wznoszący konstrukcje metalowe
+Q001375	Monter / konserwator kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych
+Q001376	Monter konstrukcji linowych stałych
+Q001377	Takielarz
+Q001378	Kowal
+Q001379	Kowal wyrobów zdobniczych
+Q001380	Podkuwacz koni
+Q001381	Pozostali kowale i operatorzy pras kuźniczych
+Q001382	Eguterzysta
+Q001383	Rusznikarz
+Q001384	Ślusarz
+Q001385	Ślusarz narzędziowy
+Q001386	Traser
+Q001387	Pozostali ślusarze i pokrewni
+Q001388	Frezer
+Q001389	Operator automatycznej linii obróbki skrawaniem
+Q001390	Operator maszyn i urządzeń do produkcji łożysk tocznych
+Q001391	Operator maszyn i urządzeń do produkcji opakowań blaszanych
+Q001392	Operator obrabiarek sterowanych numerycznie
+Q001393	Strugacz
+Q001394	Szlifierz metali
+Q001395	Tokarz/frezer obrabiarek sterowanych numerycznie
+Q001396	Tokarz w metalu
+Q001397	Ustawiacz maszyn do obróbki skrawaniem
+Q001398	Wiertacz w metalu
+Q001399	Docieracz-polerowacz
+Q001400	Szlifierz-ostrzarz
+Q001401	Pozostali szlifierze narzędzi i polerowacze metali
+Q001402	Mechanik ciągników
+Q001403	Mechanik pojazdów samochodowych
+Q001404	Mechanik samochodów ciężarowych
+Q001405	Mechanik samochodów osobowych
+Q001406	Monter samochodowej instalacji gazowej (LPG)
+Q001407	Mechanik motocyklowy
+Q001408	Mechanik płatowców
+Q001409	Mechanik wyposażenia lotniczego statków powietrznych
+Q001410	Układacz-konserwator spadochronów
+Q001411	Mechanik / konserwator urządzeń do napełniania i opróżniania zbiorników
+Q001412	Mechanik / konserwator urządzeń dźwignicowych
+Q001413	Mechanik maszyn i urządzeń budowlanych i melioracyjnych
+Q001414	Mechanik maszyn i urządzeń górnictwa odkrywkowego
+Q001415	Mechanik maszyn i urządzeń górnictwa podziemnego
+Q001416	Mechanik maszyn i urządzeń przemysłowych
+Q001417	Mechanik maszyn rolniczych
+Q001418	Mechanik maszyn szwalniczych
+Q001419	Mechanik okrętowy
+Q001420	Mechanik taboru kolejowego
+Q001421	Monter-instalator urządzeń technicznych w budownictwie wiejskim
+Q001422	Motorzysta wachtowy
+Q001423	Marynarz motorzysta żeglugi śródlądowej
+Q001424	Mechanik precyzyjny
+Q001425	Optyk-mechanik
+Q001426	Zegarmistrz
+Q001427	Monter fortepianów i pianin
+Q001428	Organomistrz
+Q001429	Korektor (naprawiacz) instrumentów muzycznych
+Q001430	Pozostali monterzy instrumentów muzycznych
+Q001431	Szlifierz kamieni szlachetnych i ozdobnych
+Q001432	Szlifierz-polerowacz wyrobów artystycznych
+Q001433	Pozostali jubilerzy, złotnicy i pokrewni
+Q001434	Ceramik wyrobów użytkowych i ozdobnych
+Q001435	Formowacz ściernic
+Q001436	Formowacz wyrobów ceramicznych
+Q001437	Garncarz
+Q001438	Modelarz odlewnik gipsowych form roboczych
+Q001439	Sortowacz-brakarz ceramiki
+Q001440	Szkliwierz ceramiki
+Q001441	Pozostali ceramicy i pokrewni
+Q001442	Formowacz wyrobów szklanych
+Q001443	Hutnik dmuchacz szkła
+Q001444	Ręczny polerowacz szkła
+Q001445	Sortowacz-brakarz szkła
+Q001446	Szlifierz-polerowacz szkła optycznego
+Q001447	Szlifierz szkła gospodarczego i technicznego
+Q001448	Szlifierz szkła płaskiego
+Q001449	Pozostali formowacze wyrobów szklanych, krajacze i szlifierze szkła
+Q001450	Galwanizer
+Q001451	Giloszer szkła
+Q001452	Grawer szkła
+Q001453	Lustrzarz
+Q001454	Pozłotnik
+Q001455	Rzeźbiarz szkła
+Q001456	Szyldziarz
+Q001457	Zdobnik ceramiki
+Q001458	Zdobnik szkła
+Q001459	Fajkarz
+Q001460	Koszykarz-plecionkarz
+Q001461	Łubiankarz
+Q001462	Rzeźbiarz w drewnie
+Q001463	Szczotkarz
+Q001464	Pozostali rękodzielnicy wyrobów z drewna i pokrewnych materiałów
+Q001465	Arkadownik
+Q001466	Dziewiarz
+Q001467	Koronkarka
+Q001468	Przędzarz
+Q001469	Renowator tkanin unikatowych
+Q001470	Tkacz
+Q001471	Rękodzielnik wyrobów skórzanych
+Q001472	Pamiątkarz
+Q001473	Wytwórca sztucznych kwiatów
+Q001474	Zabawkarz
+Q001475	Fotograf poligraficzny
+Q001476	Fotograf w drukarni filmowej
+Q001477	Giloszer poligraficzny
+Q001478	Grawer poligraficzny
+Q001479	Komputerowy składacz tekstu
+Q001480	Moletownik
+Q001481	Montażysta reprodukcyjny
+Q001482	Operator fotoskładu
+Q001483	Operator skanera poligraficznego
+Q001484	Rysownik litograficzny
+Q001485	Rytownik
+Q001486	Trawiacz poligraficzny
+Q001487	Drukarz sitodrukowy
+Q001488	Maszynista maszyn fleksograficznych
+Q001489	Maszynista maszyn offsetowych
+Q001490	Maszynista maszyn wklęsłodrukowych
+Q001491	Operator kserokopiarek
+Q001492	Introligator
+Q001493	Introligator galanteryjny
+Q001494	Introligator poligraficzny
+Q001495	Operator maszyn introligatorskich
+Q001496	Pozostali introligatorzy i pokrewni
+Q001497	Elektromonter instalacji elektrycznych
+Q001498	Elektromonter reklam świetlnych
+Q001499	Elektryk
+Q001500	Elektryk budowlany
+Q001501	Elektromechanik
+Q001502	Elektromechanik elektrycznych przyrządów pomiarowych
+Q001503	Elektromechanik pojazdów samochodowych
+Q001504	Elektromechanik sprzętu gospodarstwa domowego
+Q001505	Elektromechanik urządzeń chłodniczych
+Q001506	Elektromechanik urządzeń sterowania ruchem kolejowym
+Q001507	Elektromonter (elektryk) zakładowy
+Q001508	Elektromonter/konserwator urządzeń dźwignicowych
+Q001509	Elektromonter lotniczy
+Q001510	Elektromonter maszyn i urządzeń górnictwa odkrywkowego
+Q001511	Elektromonter maszyn i urządzeń górnictwa podziemnego
+Q001512	Elektromonter okrętowy
+Q001513	Elektromonter prefabrykowanych stacji transformatorowych
+Q001514	Elektromonter rozdzielni i podstacji trakcyjnych
+Q001515	Elektromonter taboru szynowego
+Q001516	Elektromonter telekomunikacyjnych urządzeń zasilających
+Q001517	Elektromonter transformatorów
+Q001518	Elektromonter układów pomiarowych i automatyki zabezpieczeniowej
+Q001519	Elektromonter linii kablowych
+Q001520	Elektromonter pogotowia elektroenergetycznego
+Q001521	Elektromonter sieci trakcyjnej
+Q001522	Automatyk sterowania ruchem kolejowym
+Q001523	Monter-elektronik – aparatura medyczna
+Q001524	Monter-elektronik – aparatura pomiarowa
+Q001525	Monter-elektronik – elektroniczne instrumenty muzyczne
+Q001526	Monter-elektronik – elektroniczny sprzęt sygnalizacyjny i systemy sygnalizacyjne
+Q001527	Monter-elektronik – naprawa sprzętu audiowizualnego
+Q001528	Monter-elektronik – układy elektroniczne automatyki przemysłowej
+Q001529	Monter-elektronik – urządzenia radiowo-telewizyjne
+Q001530	Monter mechatronik
+Q001531	Monter urządzeń sterowania ruchem pociągów metra
+Q001532	Monter urządzeń zdalnego sterowania i kontroli dyspozytorskiej metra
+Q001533	Pozostali monterzy elektronicy i serwisanci urządzeń elektronicznych
+Q001534	Monter instalacji i urządzeń telekomunikacyjnych (telemonter)
+Q001535	Monter sieci telekomunikacyjnych
+Q001536	Monter-elektronik – instalacja anten
+Q001537	Monter-elektronik – urządzenia radiokomunikacyjne
+Q001538	Serwisant sprzętu komputerowego
+Q001539	Garmażer
+Q001540	Jeliciarz
+Q001541	Przetwórca ryb
+Q001542	Rozbieracz-wykrawacz
+Q001543	Rzeźnik-wędliniarz
+Q001544	Ubojowy
+Q001545	Wędliniarz
+Q001546	Pozostali masarze, robotnicy w przetwórstwie ryb i pokrewni
+Q001547	Cukiernik
+Q001548	Dekorator wyrobów cukierniczych
+Q001549	Karmelarz
+Q001550	Pozostali piekarze, cukiernicy i pokrewni
+Q001551	Maślarz
+Q001552	Serowar
+Q001553	Pozostali robotnicy w produkcji wyrobów mleczarskich
+Q001554	Młynarz
+Q001555	Pozostali robotnicy przetwórstwa surowców roślinnych
+Q001556	Grzyboznawca
+Q001557	Klasyfikator dziczyzny i ptactwa
+Q001558	Klasyfikator grzybów
+Q001559	Klasyfikator jaj, drobiu i pierza
+Q001560	Klasyfikator ryb
+Q001561	Impregnator drewna
+Q001562	Sortowacz materiałów drzewnych
+Q001563	Suszarniowy drewna
+Q001564	Pozostali robotnicy przygotowujący drewno i pokrewni
+Q001565	Bednarz
+Q001566	Renowator mebli artystycznych
+Q001567	Stolarz mebli artystycznych i wzorcowych
+Q001568	Stolarz meblowy
+Q001569	Stolarz modelarz instrumentów muzycznych
+Q001570	Frezer drewna
+Q001571	Operator urządzeń do polerowania drewna
+Q001572	Polerowacz wyrobów z drewna
+Q001573	Strugacz drewna
+Q001574	Szlifierz materiałów drzewnych
+Q001575	Tokarz w drewnie
+Q001576	Wiertacz w drewnie
+Q001577	Gorseciarka
+Q001578	Kapelusznik-czapnik
+Q001579	Kożusznik
+Q001580	Modystka
+Q001581	Rękawicznik
+Q001582	Pozostali krawcy, kuśnierze, kapelusznicy i pokrewni
+Q001583	Konstruktor odzieży
+Q001584	Krojczy
+Q001585	Hafciarka
+Q001586	Parasolnik
+Q001587	Wytwórca abażurów
+Q001588	Pozostałe szwaczki, hafciarki i pokrewni
+Q001589	Bieliźniarz-kołdrzarz
+Q001590	Tapicer
+Q001591	Tapicer meblowy
+Q001592	Garbarz skór
+Q001593	Garbarz skór bez włosa
+Q001594	Klasyfikator skór
+Q001595	Wyprawiacz skór futerkowych
+Q001596	Obuwnik
+Q001597	Obuwnik miarowy
+Q001598	Obuwnik ortopedyczny
+Q001599	Szewc
+Q001600	Kaletnik
+Q001601	Rymarz
+Q001602	Nurek
+Q001603	Operator systemów nurkowych
+Q001604	Płetwonurek ratownik
+Q001605	Strzałowy (górnik strzałowy)
+Q001606	Wydawca środków strzałowych
+Q001607	Instruktor strzałowy
+Q001608	Pracownik deratyzacji, dezynfekcji i dezynsekcji
+Q001609	Pracownik ochrony roślin
+Q001610	Monter żaluzji
+Q001611	Pozostali robotnicy przemysłowi i rzemieślnicy gdzie indziej niesklasyfikowani
+Q001612	Górnik eksploatacji podziemnej
+Q001613	Górnik odkrywkowej eksploatacji złóż
+Q001614	Sygnalista szybowy
+Q001615	Operator maszyn i urządzeń do pozyskiwania torfu
+Q001616	Operator maszyn urabiających i ładujących
+Q001617	Wydobywca kruszywa i gliny
+Q001618	Operator maszyn i urządzeń do przerobu torfu
+Q001619	Operator maszyn i urządzeń do przeróbki mechanicznej rud
+Q001620	Operator maszyn i urządzeń do rozdrabniania i sortowania surowców mineralnych
+Q001621	Wiertacz studni
+Q001622	Wiertacz
+Q001623	Krajacz materiałów budowlanych
+Q001624	Operator urządzeń do produkcji mas asfaltobetonowych
+Q001625	Pilarz kamienia
+Q001626	Szlifierz kamienia
+Q001627	Ciągacz rur
+Q001628	Operator maszyn do produkcji drutów i prętów
+Q001629	Operator maszyn i urządzeń odlewniczych
+Q001630	Operator maszyny rozlewniczej
+Q001631	Operator urządzeń do ciągłego odlewania stali
+Q001632	Operator urządzeń do elektrolitycznego uzyskiwania metali
+Q001633	Operator urządzeń próżniowego odgazowania stali
+Q001634	Operator urządzeń przygotowania wsadu
+Q001635	Operator urządzeń walcowni
+Q001636	Piecowy nagrzewania wsadu w walcowni
+Q001637	Piecowy pieca łukowego
+Q001638	Pulpitowy wielkich pieców
+Q001639	Tłoczarz w metalu
+Q001640	Wytapiacz metali nieżelaznych
+Q001641	Wytapiacz stali, surówki i żelazostopów
+Q001642	Operator urządzeń do elektroforetycznego nakładania powłok
+Q001643	Operator urządzeń do emaliowania
+Q001644	Operator urządzeń do nakładania powłok galwanicznych
+Q001645	Operator urządzeń do natryskowego nakładania powłok
+Q001646	Operator urządzeń do platerowania
+Q001647	Operator urządzeń do zanurzeniowego nakładania powłok
+Q001648	Pozostali operatorzy urządzeń do obróbki powierzchniowej metali i nakładania powłok
+Q001649	Operator maszyn do produkcji papy
+Q001650	Operator maszyn do produkcji taśm magnetycznych
+Q001651	Operator urządzeń destylacyjnych
+Q001652	Operator urządzeń do ekstrakcji
+Q001653	Operator urządzeń do krystalizacji
+Q001654	Operator urządzeń do produkcji cementu
+Q001655	Operator urządzeń do produkcji chemikaliów nieorganicznych
+Q001656	Operator urządzeń do produkcji chemikaliów organicznych
+Q001657	Operator urządzeń do produkcji dezynfektantów
+Q001658	Operator urządzeń do produkcji gazów technicznych
+Q001659	Operator urządzeń do produkcji katalizatorów
+Q001660	Operator urządzeń do produkcji mas bitumicznych
+Q001661	Operator urządzeń do produkcji materiałów półprzewodnikowych
+Q001662	Operator urządzeń do produkcji nawozów sztucznych
+Q001663	Operator urządzeń do produkcji sadzy
+Q001664	Operator urządzeń do produkcji węgli aktywnych
+Q001665	Operator urządzeń do produkcji wyrobów kosmetycznych
+Q001666	Operator urządzeń filtrujących
+Q001667	Operator urządzeń granulujących
+Q001668	Operator urządzeń homogenizujących
+Q001669	Operator urządzeń koksowniczych
+Q001670	Operator urządzeń mieszających
+Q001671	Operator urządzeń rozdrabniających
+Q001672	Operator urządzeń sorpcyjnych
+Q001673	Operator urządzeń wyparnych
+Q001674	Operator wirówek
+Q001675	Stokażowy
+Q001676	Pozostali operatorzy maszyn i urządzeń do produkcji wyrobów chemicznych
+Q001677	Pozostali operatorzy urządzeń do produkcji materiałów światłoczułych i obróbki filmów
+Q001678	Aparatowy produkcji wyrobów maczanych
+Q001679	Operator urządzeń do przetwórstwa surowców gumowych
+Q001680	Wulkanizator
+Q001681	Wulkanizator taśm przenośnikowych
+Q001682	Formierz wyrobów z kompozytów polimerowych
+Q001683	Odlewnik wyrobów z materiałów polimerowych
+Q001684	Operator maszyn i urządzeń do produkcji okien z tworzyw sztucznych
+Q001685	Operator urządzeń do cięcia folii i płyt
+Q001686	Operator urządzeń do spieniania tworzyw sztucznych
+Q001687	Operator wtryskarki
+Q001688	Operator maszyn do lakierowania i laminowania przetworów papierowych
+Q001689	Operator maszyn do produkcji papieru i tektury falistej
+Q001690	Operator maszyn krojących i wykrawających do papieru
+Q001691	Operator pras do formowania wyrobów z masy papierniczej
+Q001692	Pozostali operatorzy maszyn do produkcji wyrobów papierniczych
+Q001693	Operator maszyn do przygotowania włókien
+Q001694	Operator maszyn przędzalniczych
+Q001695	Operator przewijarek i skręcarek nitek
+Q001696	Pozostali operatorzy maszyn przędzalniczych i pokrewni
+Q001697	Operator maszyn dziewiarskich
+Q001698	Operator maszyn tkackich
+Q001699	Operator maszyn w przemyśle włókienniczym
+Q001700	Pozostali operatorzy maszyn tkackich i dziewiarskich
+Q001701	Szwaczka maszynowa
+Q001702	Operator maszyn wykończalniczych wyrobów włókienniczych
+Q001703	Operator agregatów natryskowych
+Q001704	Operator maszyn i urządzeń chemicznej obróbki skór
+Q001705	Operator obuwniczych urządzeń szwalniczych
+Q001706	Operator urządzeń kaletniczych
+Q001707	Operator urządzeń montażowych obuwia
+Q001708	Operator urządzeń wykrawających elementy obuwia
+Q001709	Obuwnik przemysłowy
+Q001710	Pozostali operatorzy maszyn do produkcji obuwia
+Q001711	Operator urządzeń do prania, prasowania i chemicznego czyszczenia tekstyliów
+Q001712	Pracownik pralni chemicznej
+Q001713	Pozostali operatorzy maszyn do prania
+Q001714	Operator maszyn tapicerskich
+Q001715	Operator urządzeń do klejenia elementów odzieży
+Q001716	Operator urządzeń wykrawających i nawarstwiających
+Q001717	Aparatowy produkcji drożdży
+Q001718	Aparatowy produkcji octu
+Q001719	Operator maszyn i urządzeń przemysłu spożywczego
+Q001720	Operator urządzeń do konfekcjonowania herbaty
+Q001721	Operator urządzeń do obróbki surowca mleczarskiego
+Q001722	Operator urządzeń do produkcji cukru
+Q001723	Operator urządzeń do produkcji koncentratów spożywczych
+Q001724	Operator urządzeń do produkcji makaronu
+Q001725	Operator urządzeń do produkcji pasz
+Q001726	Operator urządzeń do produkcji pieczywa
+Q001727	Operator urządzeń do produkcji piwa
+Q001728	Operator urządzeń do produkcji spirytusu
+Q001729	Operator urządzeń do produkcji wina
+Q001730	Operator urządzeń do produkcji wyrobów spirytusowych
+Q001731	Operator urządzeń elewatorów zbożowych
+Q001732	Operator urządzeń linii aseptycznego rozlewu w opakowania kartonowe
+Q001733	Operator urządzeń przemysłu tytoniowego
+Q001734	Operator urządzeń do przetwórstwa drobiu
+Q001735	Operator urządzeń do przetwórstwa ryb
+Q001736	Operator kalandrów wyrobów papierowych
+Q001737	Operator maszyny odwadniającej celulozę
+Q001738	Operator maszyny papierniczej
+Q001739	Operator maszyny tekturniczej
+Q001740	Operator pergaminiarki
+Q001741	Operator urządzeń bielących masy włókniste
+Q001742	Operator urządzeń do impregnowania i powlekania wyrobów papierowych
+Q001743	Operator urządzeń do mielenia masy włóknistej
+Q001744	Operator urządzeń do przygotowywania i dozowania dodatków masowych
+Q001745	Operator urządzeń rębalni drewna
+Q001746	Operator urządzeń rozwłókniających
+Q001747	Operator urządzeń warzelni
+Q001748	Operator maszyn do produkcji płyt i sklejek
+Q001749	Operator sklejarek płyt stolarskich
+Q001750	Operator spajarek okleiny i łuszczki
+Q001751	Operator urządzeń do końcowej obróbki płyt
+Q001752	Sterowniczy linii sztaplowania i pakietowania tarcicy
+Q001753	Tartacznik
+Q001754	Pozostali operatorzy maszyn i urządzeń do obróbki drewna
+Q001755	Operator automatów do formowania wyrobów szklanych
+Q001756	Operator maszyn do formowania szkła płaskiego
+Q001757	Operator odprężarek wyrobów szklanych
+Q001758	Operator urządzeń do formowania i przetwórstwa włókna szklanego
+Q001759	Operator urządzeń do formowania wyrobów ceramicznych
+Q001760	Operator urządzeń do formowania wyrobów ogniotrwałych
+Q001761	Operator urządzeń do formowania wyrobów sylikatowych
+Q001762	Operator urządzeń do gięcia szkła
+Q001763	Operator urządzeń do matowania wyrobów szklanych
+Q001764	Operator urządzeń do obróbki płomieniowej szkła
+Q001765	Operator urządzeń do produkcji materiałów ściernych
+Q001766	Operator urządzeń do produkcji termosów
+Q001767	Prasowacz ceramiki elektronicznej i elektrotechnicznej
+Q001768	Maszynowy szlifierz-polerowacz szkła
+Q001769	Pozostali operatorzy urządzeń do produkcji wyrobów szklanych
+Q001770	Maszynista kotła
+Q001771	Maszynista urządzeń nawęglania
+Q001772	Maszynista urządzeń odpopielania i odżużlania
+Q001773	Palacz gazowych kotłów centralnego ogrzewania
+Q001774	Palacz wodnych rusztowych kotłów centralnego ogrzewania
+Q001775	Palacz kotłów parowych
+Q001776	Pozostali maszyniści kotłów parowych i pokrewni
+Q001777	Operator maszyn kopertujących
+Q001778	Operator urządzeń do mycia, napełniania i zamykania butelek
+Q001779	Operator urządzeń pakujących
+Q001780	Pozostali operatorzy urządzeń pakujących, znakujących i urządzeń do napełniania butelek
+Q001781	Operator urządzeń do paletyzacji
+Q001782	Operator urządzeń utylizacji surowców zwierzęcych
+Q001783	Pozostali operatorzy innych maszyn i urządzeń przetwórczych gdzie indziej niesklasyfikowani
+Q001784	Monter aparatów i przyrządów optycznych
+Q001785	Monter aparatury i urządzeń chemicznych
+Q001786	Monter kotłów i armatury kotłowej
+Q001787	Monter maszyn i urządzeń okrętowych
+Q001788	Monter maszyn i urządzeń przemysłowych
+Q001789	Monter mechanizmów i przyrządów precyzyjnych
+Q001790	Monter obrabiarek
+Q001791	Monter płatowców i śmigłowców
+Q001792	Monter pojazdów i urządzeń transportowych
+Q001793	Monter silników spalinowych
+Q001794	Monter taboru szynowego
+Q001795	Monter urządzeń sterowania ruchem kolejowym
+Q001796	Pozostali monterzy maszyn i urządzeń mechanicznych
+Q001797	Monter aparatury rozdzielczej i kontrolnej energii elektrycznej
+Q001798	Monter elektrycznych przyrządów pomiarowych
+Q001799	Monter maszyn elektrycznych
+Q001800	Monter osprzętu elektrotechnicznego
+Q001801	Monter sprzętu oświetleniowego i lamp elektrycznych
+Q001802	Monter wiązek elektrycznych
+Q001803	Monter aparatury i urządzeń techniki jądrowej
+Q001804	Monter elektronicznego wyposażenia maszyn i urządzeń
+Q001805	Monter elektroniki samochodowej
+Q001806	Monter podzespołów i zespołów elektronicznych
+Q001807	Monter sprzętu radiowego i telewizyjnego
+Q001808	Monter zestrajacz urządzeń elektronicznych
+Q001809	Konfekcjoner wyrobów gumowych
+Q001810	Monter mebli
+Q001811	Monter wyrobów z drewna
+Q001812	Monter wyrobów z tworzyw sztucznych
+Q001813	Składacz sprzętu spadochronowego
+Q001814	Pozostali monterzy gdzie indziej niesklasyfikowani
+Q001815	Kierowca drezyny i wózka motorowego
+Q001816	Kierowca lokomotywy spalinowej
+Q001817	Maszynista pociągu metra
+Q001818	Maszynista
+Q001819	Maszynista pomocniczych pojazdów kolejowych metra
+Q001820	Dróżnik przejazdowy
+Q001821	Dyspozytor ruchu metra
+Q001822	Dyżurny ruchu i stacji metra
+Q001823	Dyżurny ruchu
+Q001824	Manewrowy
+Q001825	Manewrowy metra
+Q001826	Operator pociągowy
+Q001827	Rewident taboru
+Q001828	Ustawiacz
+Q001829	Zwrotniczy
+Q001830	Dyspozytor ruchu kolejowego
+Q001831	Pozostali dyżurni ruchu, manewrowi i pokrewni
+Q001832	Kurier motocyklowy
+Q001833	Kierowca samochodu dostawczego
+Q001834	Kierowca samochodu osobowego
+Q001835	Taksówkarz
+Q001836	Kierowca autobusu
+Q001837	Kierowca trolejbusu
+Q001838	Kierujący tramwajem (motorniczy)
+Q001839	Pozostali kierowcy autobusów i motorniczowie tramwajów
+Q001840	Kierowca autocysterny
+Q001841	Kierowca samochodu ciężarowego
+Q001842	Kierowca ciągnika rolniczego
+Q001843	Kombajnista (kierowca kombajnu)
+Q001844	Mechanik-operator pojazdów i maszyn rolniczych
+Q001845	Operator ciągników zrywkowych do zrywki podwieszanej
+Q001846	Operator maszyn leśnych
+Q001847	Operator maszyn ogrodniczych
+Q001848	Operator maszyn rolniczych
+Q001849	Operator nasiębiernych ciągników zrywkowych
+Q001850	Operator urządzeń technicznych stosowanych w leśnictwie
+Q001851	Operator wielooperacyjnych samojezdnych maszyn leśnych
+Q001852	Operator zrywkowych kolejek linowych
+Q001853	Pozostali operatorzy wolnobieżnych maszyn rolniczych i leśnych
+Q001854	Operator maszyn i sprzętu torowego
+Q001855	Operator koparki
+Q001856	Operator spycharki
+Q001857	Maszynista doku
+Q001858	Maszynista kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych
+Q001859	Maszynista specjalistycznych dźwignic kolejowych
+Q001860	Operator-mechanik wyciągarki szybowcowej
+Q001861	Operator mostu zwodzonego
+Q001862	Operator przenośników
+Q001863	Operator przenośników taśmowych
+Q001864	Operator śluzy, jazu, zapory i pompowni
+Q001865	Operator urządzeń ładunkowych silosu
+Q001866	Operator wieżowy przenośnika taśmowego
+Q001867	Operator żurawia jezdniowego
+Q001868	Operator żurawia wieżowego
+Q001869	Pozostali maszyniści i operatorzy maszyn i urządzeń dźwigowo-transportowych i pokrewni
+Q001870	Kierowca operator wózków jezdniowych (widłowych)
+Q001871	Latarnik
+Q001872	Marynarz statku morskiego
+Q001873	Marynarz żeglugi śródlądowej
+Q001874	Sternik żeglugi śródlądowej
+Q001875	Pozostali marynarze i pokrewni
+Q001876	Sprzątaczka domowa
+Q001877	Łazienkowa
+Q001878	Palacz pieców zwykłych
+Q001879	Pokojowa
+Q001880	Pracownik pomocniczy obsługi hotelowej
+Q001881	Pozostałe pomoce i sprzątaczki biurowe, hotelowe i podobne
+Q001882	Prasowaczka ręczna
+Q001883	Zmywacz okien (czyściciel szyb)
+Q001884	Czyściciel basenów pływackich
+Q001885	Czyściciel dywanów
+Q001886	Pozostali pracownicy zajmujący się sprzątaniem gdzie indziej niesklasyfikowani
+Q001887	Pomocniczy robotnik w hodowli zwierząt
+Q001888	Robotnik górniczy dołowy
+Q001889	Kopacz
+Q001890	Oczyszczacz kanalizacyjny (kanalarz)
+Q001891	Pomocniczy robotnik drogowy
+Q001892	Pomocniczy robotnik mostowy
+Q001893	Pomocniczy robotnik budowlany
+Q001894	Pakowacz ręczny
+Q001895	Ręczny znakowacz wyrobów
+Q001896	Lagowacz
+Q001897	Liczarz
+Q001898	Patroszacz ryb
+Q001899	Pomoc krawiecka
+Q001900	Pomocnik ciastkarza
+Q001901	Pomocnik lakiernika
+Q001902	Pomocnik mechanika
+Q001903	Pomocnik mleczarski
+Q001904	Pomocnik piekarza
+Q001905	Pomocniczy robotnik w przemyśle przetwórczym
+Q001906	Robotnik myjący części i zespoły
+Q001907	Wydawca materiałów
+Q001908	Wozak
+Q001909	Napełniający zbiorniki przenośne
+Q001910	Pracownik przeprowadzkowy
+Q001911	Robotnik magazynowy
+Q001912	Robotnik portowy (doker)
+Q001913	Sztauer-trymer
+Q001914	Wagowy
+Q001915	Pracownik rozkładający towar na półkach
+Q001916	Pracownik przygotowujący posiłki typu fast food
+Q001917	Pomoc kuchenna
+Q001918	Zmywacz naczyń
+Q001919	Czyściciel butów
+Q001920	Dystrybutor ulotek
+Q001921	Pozostali pracownicy świadczący usługi na ulicach
+Q001922	Ładowacz nieczystości stałych
+Q001923	Pozostali sortowacze odpadów
+Q001924	Robotnik oczyszczania miasta
+Q001925	Robotnik placowy
+Q001926	Bagażowy
+Q001927	Dostawca potraw
+Q001928	Dźwigowy (windziarz)
+Q001929	Noszowy
+Q001930	Pozostali gońcy, bagażowi i pokrewni
+Q001931	Pracownik prac dorywczych
+Q001932	Statysta
+Q001933	Odczytywacz liczników
+Q001934	Wybieracz monet / żetonów z automatów
+Q001935	Bileter
+Q001936	Dozorca
+Q001937	Szatniarz

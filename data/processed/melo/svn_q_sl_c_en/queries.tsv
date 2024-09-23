@@ -1,0 +1,3222 @@
+Q000001	Kadrovski menedžer
+Q000002	Upravljavec bioenergetskih naprav
+Q000003	Upravljavec hidroenergetskih naprav
+Q000004	Upravljavec plinskoenergetskih naprav
+Q000005	Upravljavec termoenergetskih naprav
+Q000006	Upravljavec energetskih naprav
+Q000007	Upravljavec ogrevalnih naprav
+Q000008	Upravljavec hladilnih naprav
+Q000009	Upravljavec prezračevalnih naprav
+Q000010	Upravljavec sežigalne peči za odpadke
+Q000011	Upravljavec vodočistilnih naprav
+Q000012	Kontrolor kemijskih procesnih strojev in naprav
+Q000013	Delavski direktor
+Q000014	Upravljavec naprav za proizvodnjo plina
+Q000015	Upravljavec procesnih strojev in naprav za predelavo nafte in zemeljskega plina
+Q000016	Upravljavec stroja za proizvodnjo biodizla
+Q000017	Vodja pravne službe
+Q000018	Tehnik robotov
+Q000019	Kontrolor mineralurških procesov in izdelkov
+Q000020	Laboratorijski tehnik za biomedicino
+Q000021	Laboratorijski tehnik za biofiziologijo
+Q000022	Laboratorijski tehnik biokemije
+Q000023	Laboratorijski tehnik za biologijo
+Q000024	Laboratorijski tehnik za ekologijo
+Q000025	Laboratorijski tehnik za farmakologijo
+Q000026	Laboratorijski tehnik mikrobiologije
+Q000027	Laboratorijski tehnik radiokemije
+Q000028	Laboratorijski tehnik za veterinarstvo
+Q000029	Preparator živali in rastlin
+Q000030	Laboratorijski tehnik za živinorejo
+Q000031	Laboratorijski tehnik za agronomijo
+Q000032	Tehnik za vrtnarsko tehnologijo
+Q000033	Strokovni sodelavec za matične zadeve živali
+Q000034	Gozdarski svetovalec, asistent
+Q000035	Tehnik za gozdarsko tehnologijo
+Q000036	Laboratorijski tehnik za gozdarstvo
+Q000037	Upravitelj ladijskega stroja
+Q000038	Menedžerji za splošne poslovne funkcije, d. n.
+Q000039	Častnik ladijskega stroja
+Q000040	Tehnični vodja marine
+Q000041	Kapitan ladje
+Q000042	Častnik krova
+Q000043	Pomorski pilot
+Q000044	Vodja službe kontrolinga
+Q000045	Kapitan letala
+Q000046	Inštruktor za letenje
+Q000047	Navigator letala
+Q000048	Pilot helikopterja
+Q000049	Kontrolor letenja
+Q000050	Letališki kontrolor
+Q000051	Koordinator zračnega prometa
+Q000052	Direktor za kakovost
+Q000053	Operater opreme za zračno kontrolo
+Q000054	Letalski dispečer
+Q000055	Balanser letal
+Q000056	Operater kardiopnevmografskih naprav
+Q000057	Operater nuklearnih medicinskih naprav
+Q000058	Operater rentgenskih naprav
+Q000059	Operater medicinskih naprav
+Q000060	Tehnik laboratorijske medicine
+Q000061	Farmacevtski asistent
+Q000062	Serviser ortopedskih in drugih zdravstvenih pripomočkov
+Q000063	Tehnik za ortopedsko tehniko
+Q000064	Zobozdravstveni tehnik
+Q000065	Zdravstveni reševalec
+Q000066	Zdravstveni tehnik (bolj zahtevna dela)
+Q000067	Babičar (bolj zahtevna dela)
+Q000068	Trženjski menedžer
+Q000069	Refleksoterapevt
+Q000070	Shiatsu praktik
+Q000071	Zdravitelj z zelišči
+Q000072	Zdravitelj z akupresuro
+Q000073	Radiestezist
+Q000074	Bioenergetik
+Q000075	Veterinarski asistent
+Q000076	Prodajni menedžer
+Q000077	Veterinarski tehnik
+Q000078	Zobozdravstveni asistent
+Q000079	Zobozdravstveni higienik
+Q000080	Očesni optik
+Q000081	Strokovni sodelavec za komunalno infrastrukturo
+Q000082	Strokovni sodelavec za okoljsko zdravstvo in higieno
+Q000083	Strokovni sodelavec za varstvo okolja
+Q000084	Terapevtski asistent za osebe s posebnimi potrebami
+Q000085	Tržnik vzajemnih skladov
+Q000086	Menedžer za oglaševanje in odnosi z javnostmi
+Q000087	Referent za posojila
+Q000088	Knjigovodja
+Q000089	Strokovni sodelavec za računovodske izračune in prikaze
+Q000090	Strokovni sodelavec za statistične izračune in prikaze
+Q000091	Strokovni sodelavec za zavarovalniške izračune in prikaze
+Q000092	Cenilec
+Q000093	Davčni ocenjevalec
+Q000094	Inšpektor zavarovalniških zahtevkov
+Q000095	Zavarovalni posrednik
+Q000096	Zavarovalni zastopnik
+Q000097	Komercialist za prodajo
+Q000098	Prodajni referent
+Q000099	Svetovalec za prodajo
+Q000100	Zastopnik za trgovino
+Q000101	Nabavno-prodajni referent
+Q000102	Nabavni referent
+Q000103	Posrednik za prevozništvo
+Q000104	Posrednik za trgovino
+Q000105	Pomorski agent
+Q000106	Ladijski agent
+Q000107	Carinski deklarant
+Q000108	Referent za izvoz in uvoz
+Q000109	Špediter
+Q000110	Referent v pomorski agenciji in špediciji
+Q000111	Organizator športno-rekreacijskih prireditev in dogodkov
+Q000112	Organizator kulturno-razvedrilnih prireditev in dogodkov
+Q000113	Organizator kongresov
+Q000114	Organizator sejmov
+Q000115	Organizator porok
+Q000116	Organizator za potovanja
+Q000117	Organizator wellness storitev
+Q000118	Vodja turistično informacijskega centra
+Q000119	Kadrovski referent
+Q000120	Posrednik za zaposlovanje
+Q000121	Zastopnik za zaposlovanje
+Q000122	Sindikalni zaupnik
+Q000123	Upravitelj nepremičnin
+Q000124	Posrednik za nepremičnine
+Q000125	Posrednik za premičnine
+Q000126	Strokovni sodelavec za logistiko
+Q000127	Menedžer v kmetijstvu
+Q000128	Tehnik za tehnologijo prometa
+Q000129	Agent za literaturo
+Q000130	Agent za šport
+Q000131	Posrednik za storitvene dejavnosti
+Q000132	Posrednik za poslovne dejavnosti
+Q000133	Svetovalec za patente
+Q000134	Posrednik za partnerske zveze
+Q000135	Menedžer v gozdarstvu
+Q000136	Vodja pisarne
+Q000137	Poslovni sekretar
+Q000138	Projektni tajnik
+Q000139	Davkar izterjevalec
+Q000140	Davkar
+Q000141	Referent socialnega varstva
+Q000142	Referent za nadomestila za brezposelnost
+Q000143	Referent za zdravstveno zavarovanje
+Q000144	Nadzornik uveljaviteljev socialnovarstvenih pravic
+Q000145	Referent za izdajo koncesij
+Q000146	Referent za izdajo osebnih dokumentov
+Q000147	Referent za gradbena dovoljenja
+Q000148	Detektiv
+Q000149	Kriminalist
+Q000150	Kriminalistični tehnik
+Q000151	Referent za javnoupravne zadeve
+Q000152	Strokovni sodelavec za pripravo in spremljanje programov v javni upravi
+Q000153	Strokovni sodelavec za pripravo postopkov javnih naročil
+Q000154	Menedžer v ribištvu
+Q000155	Strokovni sodelavec protokolist
+Q000156	Sodniški pomočnik
+Q000157	Zasebni detektiv
+Q000158	Strokovni sodelavec za socialno delo
+Q000159	Menedžer v ribogojstvu
+Q000160	Organizator socialne mreže
+Q000161	Redovnik
+Q000162	Misijonar
+Q000163	Duhovnikov pomočnik
+Q000164	Član samostanske skupnosti
+Q000165	Športnik
+Q000166	Delegat in kontrolor na športnih tekmovanjih
+Q000167	Športni sodnik
+Q000168	Športni trener
+Q000169	Inštruktor jadranja
+Q000170	Jamski inštruktor
+Q000171	Inštruktor joge
+Q000172	Inštruktor pilatesa
+Q000173	Inštruktor aerobike
+Q000174	Alpinistični inštruktor
+Q000175	Gorski vodnik
+Q000176	Jamski vodnik
+Q000177	Vodnika rafta
+Q000178	Učitelj nordijske hoje
+Q000179	Osebni trener
+Q000180	Učitelj smučanja (rekreativno učenje)
+Q000181	Trener fitnesa
+Q000182	Vodni animator
+Q000183	Fotoreporter
+Q000184	Fotograf
+Q000185	Aranžer
+Q000186	Dekorater
+Q000187	Oblikovalec gledališke in filmske scene in scenske opreme
+Q000188	Menedžer za oskrbo z energenti
+Q000189	Vodja kuhinje
+Q000190	Gostinski poslovodja
+Q000191	Vodja cateringa
+Q000192	Tehnični vodja avdiovizualne proizvodnje
+Q000193	Šepetalec
+Q000194	Kaskader
+Q000195	Rekviziter
+Q000196	Zabaviščni glasbenik
+Q000197	Zabaviščni pevec
+Q000198	Zabaviščni plesalec
+Q000199	Tatuist
+Q000200	Izvajalec body piercinga
+Q000201	Tehnik za IKT pomoč uporabnikom
+Q000202	Menedžer v rudarstvu
+Q000203	Strokovni sodelavec za računalniške sisteme in omrežja
+Q000204	Webmaster
+Q000205	Skrbnik spletnih strani
+Q000206	Filmski in elektronski montažer
+Q000207	Operater na televizijskem oddajniku
+Q000208	Operater na televiziji
+Q000209	Snemalec slike
+Q000210	Snemalec zvoka
+Q000211	Tonski tehnik
+Q000212	Tehnik za razsvetljavo
+Q000213	Tehnik za predvajanje programov
+Q000214	Operater telegrafskih naprav
+Q000215	Mešalec zvoka
+Q000216	Mešalec slike
+Q000217	Mojster videoopreme
+Q000218	Menedžer v gradbeništvu
+Q000219	Delovodja telekomunikacij
+Q000220	Nadzornik telekomunikacij
+Q000221	Operater na telekomunikacijah
+Q000222	Tehnik za telekomunikacije
+Q000223	Tehnik za telekomunikacije, vodja del
+Q000224	Direktor majhnega gradbenega podjetja
+Q000225	Uradnik za upravne evidence
+Q000226	Vodja vpisnikov na sodišču
+Q000227	Tajnik
+Q000228	Strojepisec
+Q000229	Urejevalec besedil
+Q000230	Teleprinterist
+Q000231	Telefaksist
+Q000232	Ekranski stavec
+Q000233	Uradnik, telegrafist
+Q000234	Vnašalec podatkov
+Q000235	Komercialni direktor za nabavo
+Q000236	Bančni uradnik pri okencu
+Q000237	Poštni uradnik pri okencu
+Q000238	Sprejemalec stav
+Q000239	Krupje
+Q000240	Organizator igre na elektronskih ruletah
+Q000241	Videokontrolor v igralnicah
+Q000242	Inšpektor iger na igralnih mizah
+Q000243	Kontrolor iger na igralnih mizah
+Q000244	Logistični menedžer
+Q000245	Zastavljalničar
+Q000246	Posojevalec denarja
+Q000247	Izvršitelj
+Q000248	Zbiralec darov za dobrodelne namene
+Q000249	Posredovalec turističnih in prometnih informacij
+Q000250	Vodja centralnega skladišča
+Q000251	Referent za organizacijo potovanj
+Q000252	Referent za prodajo voznih kart
+Q000253	Informator v klicnem centru
+Q000254	Telefonist
+Q000255	Vodja recepcije v hotelu
+Q000256	Hotelski receptor
+Q000257	Vodja transporta
+Q000258	Referent za pritožbe
+Q000259	Referent za reklamacijo
+Q000260	Receptor (razen v hotelu)
+Q000261	Upravnik pošte
+Q000262	Uradnik v računovodstvu
+Q000263	Uradnik v knjigovodstvu
+Q000264	Uradnik za statistiko
+Q000265	Uradnik za davke
+Q000266	Bančni uradnik (ne pri okencu)
+Q000267	Uradnik za zavarovalništvo
+Q000268	Uradnik za borzno poslovanje
+Q000269	Uradnik za vrednostne papirje
+Q000270	Uradnik za posredništvo z nepremičninami
+Q000271	Uradnik za plače
+Q000272	Skladiščnik
+Q000273	Vodja skladišča
+Q000274	Skladiščni manipulant
+Q000275	Uradnik za nabavo in prodajo
+Q000276	Šef železniške postaje
+Q000277	Kalkulant in normirec materialov
+Q000278	Planer materiala
+Q000279	Vlakovodja
+Q000280	Transportni manipulant
+Q000281	Vlakovni manipulant
+Q000282	Knjižnični uradnik
+Q000283	Usmerjevalec pošte
+Q000284	Pismonoša
+Q000285	Koder podatkov
+Q000286	Korektor
+Q000287	Arhivski uradnik
+Q000288	Uradnik za kopiranje dokumentov ipd.
+Q000289	Dokumentacijski uradnik
+Q000290	Fonotekar
+Q000291	Uradnik za kadrovske evidence
+Q000292	Pripravljalec klipinga
+Q000293	Skrbnik klipinga
+Q000294	Menedžer za informacijsko-komunikacijsko tehnologijo
+Q000295	Stevard na ladji
+Q000296	Stevard na letalu
+Q000297	Stevard na vlaku
+Q000298	Sprevodnik
+Q000299	Sprevodnik žičnice
+Q000300	Vodja vlaka
+Q000301	Galerijski vodnik
+Q000302	Muzejski vodnik
+Q000303	Turistični vodnik
+Q000304	Oskrbnik muzejske zbirke
+Q000305	Oskrbnik etnografskih objektov
+Q000306	Kuhar
+Q000307	Dietni kuhar
+Q000308	Natakar
+Q000309	Vodja strežbe
+Q000310	Vinski svetovalec
+Q000311	Točaj
+Q000312	Mešalec pijač
+Q000313	Direktor podjetja za varstvo otrok
+Q000314	Frizer
+Q000315	Lasuljar
+Q000316	Kozmetik
+Q000317	Maniker
+Q000318	Maser
+Q000319	Pediker
+Q000320	Gostinski gospodinjec
+Q000321	Hotelski gospodinjec
+Q000322	Ekonom
+Q000323	Vodja čistilcev
+Q000324	Direktor službe zdravstvene nege
+Q000325	Gospodinjec v zasebnem gospodinjstvu
+Q000326	Hišnik, vzdrževalec
+Q000327	Astrolog
+Q000328	Družabnik
+Q000329	Direktor zdravstvenega zavoda
+Q000330	Grobar
+Q000331	Pogrebnik
+Q000332	Balzamer
+Q000333	Oskrbnik živali
+Q000334	Higienik v veterinarstvu
+Q000335	Bolničar v veterinarstvu
+Q000336	Dreser živali
+Q000337	Direktor zdravstvenega doma
+Q000338	Vozniški inštruktor
+Q000339	Hostesa
+Q000340	Turistični animator
+Q000341	Glasbenik na ulici
+Q000342	Plesalec v nočnem klubu
+Q000343	Glavna medicinska sestra
+Q000344	Prodajalec na stojnici (razen hrane)
+Q000345	Prodajalec v kiosku (razen hrane)
+Q000346	Prodajalec okrepčil na prireditvah
+Q000347	Trgovec v lastni trgovini
+Q000348	Trgovski poslovodja
+Q000349	Direktor lekarne
+Q000350	Prodajalec
+Q000351	Blagajnik
+Q000352	Prodajalec vstopnic
+Q000353	Cestninar
+Q000354	Inkasant
+Q000355	Pobiralec parkirnine
+Q000356	Model
+Q000357	Maneken
+Q000358	Demonstrator za prodajo
+Q000359	Akviziter
+Q000360	Prodajalec po telefonu
+Q000361	Menedžer za varstvo starejših občanov
+Q000362	Prodajalec na bencinski črpalki
+Q000363	Upravljavec stroja za pranje avtomobilov
+Q000364	Delavec v pripravi in strežbi hitre hrane
+Q000365	Cvetličar
+Q000366	Izposojevalec v videoteki
+Q000367	Uradnik za najem, lizing vozil
+Q000368	Direktor zavoda za pomoč in nego na domu
+Q000369	Izposojevalec drugih predmetov široke porabe
+Q000370	Izposojevalec športne opreme
+Q000371	Varovalci otrok
+Q000372	Varuh otrok
+Q000373	Spremljevalec gibalno oviranih otrok v šoli
+Q000374	Bolničar v socialnovarstvenem zavodu
+Q000375	Bolničar v zdravstvenem zavodu
+Q000376	Varuh-negovalec v zavodu za otroke s posebnimi potrebami
+Q000377	Oskrbovalec in negovalec na domu
+Q000378	Delovni inštruktor za osebe s posebnimi potrebami
+Q000379	Direktor centra za socialno delo
+Q000380	Gasilec
+Q000381	Serviser ročnih in prevoznih gasilnih aparatov
+Q000382	Gasilski tehnik - preventivec
+Q000383	Policist
+Q000384	Vodja centra za pomoč na domu osebam s posebnimi potrebami
+Q000385	Paznik v zaporu
+Q000386	Vodja paznikov
+Q000387	Varnostnik
+Q000388	Vratar
+Q000389	Operater pri prevozu nevarnega blaga
+Q000390	Osebni varnostnik
+Q000391	Vodja zavoda za pomoč in delo z osebami s posebnimi potrebami
+Q000392	Gorski reševalec
+Q000393	Jamarski reševalec
+Q000394	Reševalec iz vode
+Q000395	Ribiški čuvaj
+Q000396	Lovski čuvaj
+Q000397	Nadzornik v naravnih parkih
+Q000398	Komunalni nadzornik
+Q000399	Redar na parkirišču
+Q000400	Občinski redar
+Q000401	Direktor posebnega socialno varstvenega zavoda za odrasle
+Q000402	Nadzornik smučišča
+Q000403	Ribiški vodnik
+Q000404	Vodnik na zavarovanih območjih
+Q000405	Poljedelec
+Q000406	Zelenjavar
+Q000407	Sadjar
+Q000408	Vinogradnik
+Q000409	Vinar
+Q000410	Hmeljar
+Q000411	Gojitelj grmičevja
+Q000412	Vrtnar
+Q000413	Parkovni vrtnar
+Q000414	Drevesničar
+Q000415	Gojitelj gob
+Q000416	Vzdrževalec rekreacijskih in športnih zelenih površin
+Q000417	Kmetovalec mešane rastlinske pridelave
+Q000418	Živinorejec
+Q000419	Planšar
+Q000420	Rejec mlečne živine
+Q000421	Dekan fakultete
+Q000422	Perutninar
+Q000423	Čebelar
+Q000424	Predelovalec medu
+Q000425	Rejec malih živali
+Q000426	Rejec kožuharjev
+Q000427	Rejec divjadi
+Q000428	Dekan visoke šole
+Q000429	Kmetovalec na mešani kmetiji
+Q000430	Kmetovalec gospodinjec
+Q000431	Delovodja v kmetijstvu
+Q000432	Ekološki kmetovalec
+Q000433	Gospodar na podeželju
+Q000434	Gozdar
+Q000435	Drvar
+Q000436	Ravnatelj srednje šole
+Q000437	Odpremljevalec gozdarskih proizvodov
+Q000438	Oglar
+Q000439	Logar
+Q000440	Gozdarski delovodja
+Q000441	Ribogojec
+Q000442	Gojitelj alg
+Q000443	Gojitelj mehkužcev, rakov
+Q000444	Gojitelj školjk
+Q000445	Direktor šolskega centra
+Q000446	Obalni ribič
+Q000447	Ribič na odprtem morju
+Q000448	Lovec
+Q000449	Ravnatelj osnovne šole
+Q000450	Zidar
+Q000451	Zidar, restavratorski sodelavec
+Q000452	Metalurški zidar
+Q000453	Pečar
+Q000454	Pečar, restavratorski sodelavec
+Q000455	Kamnosek
+Q000456	Monter kamnoseških izdelkov
+Q000457	Kamnosek, restavratorski sodelavec
+Q000458	Betoner
+Q000459	Teracer
+Q000460	Železokrivec
+Q000461	Tesar
+Q000462	Ladijski tesar
+Q000463	Tesar, restavratorski sodelavec
+Q000464	Stavbni mizar
+Q000465	Ravnatelj vzgojno-izobraževalnega zavoda
+Q000466	Vzdrževalec cest
+Q000467	Vzdrževalec prog, objektov in opreme prog
+Q000468	Figurant
+Q000469	Graditelj s tradicionalnimi materiali
+Q000470	Vodogradbenik
+Q000471	Vzdrževalec dimnikov
+Q000472	Krovec klepar
+Q000473	Ravnatelj vrtca
+Q000474	Krovec - klepar, restavratorski sodelavec
+Q000475	Polagalec podov
+Q000476	Parketar
+Q000477	Polagalec keramičnih ploščic
+Q000478	Tlakovalec
+Q000479	Polagalec tlakov
+Q000480	Štukater
+Q000481	Fasader
+Q000482	Izolater
+Q000483	Izolater inštalacij
+Q000484	Zastekljevalec
+Q000485	Stavbni steklar
+Q000486	Monter vodovodnih naprav
+Q000487	Monter ogrevalnih naprav
+Q000488	Monter plinskih naprav
+Q000489	Monter ladijskih inštalacij
+Q000490	Vzdrževalec komunalne opreme
+Q000491	Monter hladilnih in klimatskih naprav
+Q000492	Monter prezračevalnih in klimatizacijskih sistemov
+Q000493	Delovodja zaključnih del
+Q000494	Izdelovalec, monter senčil
+Q000495	Monter montažnih hiš
+Q000496	Vgrajevalec stavbnega pohištva
+Q000497	Pleskar
+Q000498	Antikorozist
+Q000499	Polagalec tapet
+Q000500	Avtoličar
+Q000501	Dimnikar
+Q000502	Dimnikarski delovodja
+Q000503	Čistilec fasad
+Q000504	Oblikovalec kovin
+Q000505	Menedžer finančne podružnice
+Q000506	Varilec
+Q000507	Spajalec kovin
+Q000508	Klepar
+Q000509	Stavbni klepar
+Q000510	Avtoklepar
+Q000511	Kotlar
+Q000512	Kovinopasar
+Q000513	Monter kovinskih konstrukcij
+Q000514	Menedžer zavarovalniške podružnice
+Q000515	Monter ladijskih konstrukcij
+Q000516	Zakovičar
+Q000517	Monter nosilnih in vlečnih kablov
+Q000518	Polagalec nosilnih in vlečnih kablov
+Q000519	Orodni kovač
+Q000520	Podkovski kovač
+Q000521	Umetnostni kovač
+Q000522	Utopni kovač
+Q000523	Orodjar
+Q000524	Puškar
+Q000525	Ključavničar
+Q000526	Strugar
+Q000527	Predsednik vlade
+Q000528	Operater na CNC-stroju, kovinarstvo
+Q000529	Vpenjalec orodij
+Q000530	Pripravljalec orodij
+Q000531	Nastavljalec strojev za obdelovanje kovin
+Q000532	Upravljavec žično krivilnih avtomatov
+Q000533	Polirec kovin
+Q000534	Direktor zavoda za kulturo
+Q000535	Brusilec kovin
+Q000536	Ostrilec orodij
+Q000537	Avtoserviser
+Q000538	Delovodja mehanikov in monterjev motornih vozil in koles
+Q000539	Monter motornih vozil
+Q000540	Tehnični kontrolor vozil
+Q000541	Vzdrževalec pnevmatik in vulkanizer
+Q000542	Programski direktor zavoda v kulturi
+Q000543	Mehanik letal
+Q000544	Monter letal
+Q000545	Mehanik kmetijskih, industrijskih in drugih strojev
+Q000546	Strojni ključavničar
+Q000547	Mehatronik operater
+Q000548	Založnik
+Q000549	Mehanik za dvokolesa
+Q000550	Monter za dvokolesa
+Q000551	Instrumentalni optik
+Q000552	Galerist
+Q000553	Izdelovalec drugih glasbenih instrumentov
+Q000554	Uglaševalec glasbenih instrumentov
+Q000555	Serviser glasbenih instrumentov
+Q000556	Zlatar
+Q000557	Draguljar
+Q000558	Keramik
+Q000559	Lončar
+Q000560	Steklar
+Q000561	Dekorater stekla
+Q000562	Graver stekla
+Q000563	Jedkalec stekla
+Q000564	Varnostni menedžer
+Q000565	Izdelovalec izdelkov domače obrti iz lesa, trstičja, ličja, vrbja, slame ipd.
+Q000566	Izdelovalec pletenega pohištva iz trstičja, vrbja ipd.
+Q000567	Izdelovalec drugih pletenih izdelkov iz trstičja, vrbja ipd.
+Q000568	Sitar
+Q000569	Suhorobar
+Q000570	Fajfar
+Q000571	Pletar iz ličja
+Q000572	Menedžer za varovanje oseb in premoženja
+Q000573	Slamnikar
+Q000574	Pipar
+Q000575	Coklar
+Q000576	Čipkar
+Q000577	Klekljar
+Q000578	Ročni tkalec
+Q000579	Ročni pletilec
+Q000580	Ročni predilec
+Q000581	Direktor policijske uprave
+Q000582	Svečar
+Q000583	Retušer
+Q000584	Kopist v tiskarstvu
+Q000585	Tiskarski montažer
+Q000586	Direktor centra za ravnanje z odpadki
+Q000587	Tiskarski stavec
+Q000588	Operater grafične priprave za tisk
+Q000589	Operater namiznega založništva
+Q000590	Tiskar za digitalni tisk
+Q000591	Tiskar za visoki tisk
+Q000592	Tiskar za tiskanje na blago
+Q000593	Tiskar za ploski tisk
+Q000594	Ročni sitotiskar
+Q000595	Tiskar za globoki tisk
+Q000596	Predsednik republike
+Q000597	Menedžer za javno higieno
+Q000598	Tiskar za propustni tisk
+Q000599	Tiskar tekstilij, usnja, krzna
+Q000600	Upravljavec knjigoveških strojev
+Q000601	Elektroinštalater
+Q000602	Menedžer področja v javni upravi
+Q000603	Elektroinštalater overovatelj
+Q000604	Električar
+Q000605	Pomožni električar
+Q000606	Elektromehanik
+Q000607	Elektromonter
+Q000608	Pomožni elektromonter
+Q000609	Avtoelektričar
+Q000610	Elektrovzdrževalec
+Q000611	Serviser električnih naprav in opreme
+Q000612	Dispečer stabilnih naprav električne vleke
+Q000613	Monter električnega omrežja
+Q000614	Vzdrževalec stabilnih naprav električne vleke
+Q000615	Mehanik elektronskih naprav in opreme
+Q000616	Mehanik IKT opreme
+Q000617	Monter IKT opreme
+Q000618	Vzdrževalec IKT opreme
+Q000619	Serviser IKT opreme
+Q000620	Mesar
+Q000621	Mesarski poslovodja
+Q000622	Mesar, predelovalec
+Q000623	Predelovalec rib
+Q000624	Črevar
+Q000625	Pek kruha in peciva
+Q000626	Slaščičar
+Q000627	Lectar-medičar
+Q000628	Testeninar
+Q000629	Izdelovalec kruha, potic, peciva in testenin na tradicionalen način
+Q000630	Izdelovalec čokolade in bonbonov
+Q000631	Mlekar
+Q000632	Sladoledar
+Q000633	Maslar
+Q000634	Sirar
+Q000635	Predelovalec sadja
+Q000636	Predelovalec zelenjave
+Q000637	Kontrolor živil
+Q000638	Ocenjevalec živil
+Q000639	Izdelovalec tobačnih izdelkov
+Q000640	Ocenjevalec tobaka
+Q000641	Pohištveni mizar
+Q000642	Mizar, restavratorski sodelavec
+Q000643	Sodar
+Q000644	Rezbar
+Q000645	Izdelovalec športne opreme iz lesa
+Q000646	Izdelovalec lesenih igrač
+Q000647	Izdelovalec lesenih vodnih plovil
+Q000648	Izdelovalec drugih izdelkov iz lesa
+Q000649	Serviser športne opreme (lesene)
+Q000650	Nastavljalec lesnoobdelovalnih strojev
+Q000651	Lakirec lesenih izdelkov
+Q000652	Menedžer restavracije
+Q000653	Krojač
+Q000654	Šiviljec
+Q000655	Izdelovalec usnjenih oblačil
+Q000656	Krznar, izdelovalec krznenih oblačil
+Q000657	Klobučar
+Q000658	Modist
+Q000659	Rokavičar, usnjarski in krznarski
+Q000660	Tehnik usnjenih in krznenih oblačil
+Q000661	Predsednik državnega zbora
+Q000662	Vodja gostinskega lokala
+Q000663	Krojilec
+Q000664	Krojilec tapetnik
+Q000665	Modelar za konfekcijo
+Q000666	Tehnik za konfekcijo
+Q000667	Šivalec
+Q000668	Dežnikar
+Q000669	Vezilec
+Q000670	Tapetnik vozil
+Q000671	Pohištveni tapetnik
+Q000672	Izdelovalec posteljnih vložkov
+Q000673	Usnjar
+Q000674	Krznar, izdelovalec krzna
+Q000675	Ortopedski čevljar
+Q000676	Sedlar in jermenar
+Q000677	Podvodni monter
+Q000678	Menedžer v trgovini na drobno
+Q000679	Miner
+Q000680	Pirotehnik
+Q000681	Rudarski strelec
+Q000682	Kontrolor šiviljskih in podobnih izdelkov
+Q000683	Kontrolor kovinskih izdelkov
+Q000684	Kontrolor gumenih izdelkov
+Q000685	Kontrolor lesenih izdelkov
+Q000686	Kontrolor električnih izdelkov
+Q000687	Kontrolor preciznih instrumentov
+Q000688	Kontrolor steklenih izdelkov
+Q000689	Kontrolor tiskarskih izdelkov
+Q000690	Razkuževalec
+Q000691	Izvajalec dezinsekcije, dezinfekcije, deratizacije in dekontaminacije
+Q000692	Izdelovalec optičnih leč
+Q000693	Direktor trgovinskega predstavništva
+Q000694	Upravljavec rudarskih strojev in naprav
+Q000695	Kamnolomec
+Q000696	Vodar v solinah
+Q000697	Upravljavec strojev in naprav za obdelavo rude in kamnin
+Q000698	Geovrtalec
+Q000699	Upravljavec strojev za proizvodnjo izdelkov iz cementa
+Q000700	Upravljavec strojev za proizvodnjo industrijskih diamantov
+Q000701	Upravljavec strojev za proizvodnjo izdelkov iz umetnega kamna
+Q000702	Upravljavec strojev za vlečenje kovin
+Q000703	Upravljavec strojev za iztiskanje kovin
+Q000704	Upravljavec procesnih linij za predelavo kovin
+Q000705	Upravljavec drobilnih in mešalnih strojev in naprav
+Q000706	Upravljavec asfaltne baze
+Q000707	Kemijski laborant
+Q000708	Farmacevtski laborant
+Q000709	Vodja športnega centra
+Q000710	Upravljavec strojev za izdelovanje fotografskih izdelkov
+Q000711	Upravljavec strojev za razvijanje mikrofilmov
+Q000712	Laborant v fotostudiu
+Q000713	Upravljavec strojev za proizvodnjo gumenih izdelkov
+Q000714	Industrijski vulkanizer
+Q000715	Predelovalec avtomobilov, reciklaža
+Q000716	Direktor športno rekreacijskega studia
+Q000717	Oblikovalec plastike
+Q000718	Tehnik za predilstvo
+Q000719	Tehnik za tkalstvo
+Q000720	Predsednik državnega sveta
+Q000721	Menedžer rekreativnih dejavnosti
+Q000722	Upravljavec strojev za pletenje
+Q000723	Upravljavec strojev za tkanje
+Q000724	Upravljavec strojev za proizvodnjo čipk
+Q000725	Tehnik za pletilstvo
+Q000726	Upravljavec strojev za šivanje oblačil iz usnja in krzna
+Q000727	Belilec tekstilij
+Q000728	Plemenitilec tekstilij
+Q000729	Tehnik za plemenitenje tekstilij
+Q000730	Upravljavci strojev za pripravo usnja in krzna
+Q000731	Upravljavec strojev za proizvodnjo obutve
+Q000732	Upravljavec strojev za proizvodnjo usnjene galanterije
+Q000733	Direktor kinematografa
+Q000734	Kemični čistilec in pralec
+Q000735	Vodja pralnice
+Q000736	Čistilec usnjenih in krznenih izdelkov
+Q000737	Upravljavec avtomatskega krojilnega stroja
+Q000738	Upravljavec strojev za proizvodnjo obrob in vrvic iz tekstilij, usnja in krzna
+Q000739	Operater na cutterju
+Q000740	Upravljavec stroja za predelavo prehrambnih in podobnih izdelkov
+Q000741	Upravljavec stroja za mletje prehrambnih in podobnih izdelkov
+Q000742	Upravljavec strojev za pripravo papirjevine
+Q000743	Menedžer za storitve turističnih in potovalnih agencij
+Q000744	Upravljavec strojev in naprav za proizvodnjo keramičnih izdelkov
+Q000745	Upravljavec procesnih strojev za predelavo nekovinskih rudnin
+Q000746	Upravljavec strojev za proizvodnjo glazur in brusov
+Q000747	Upravljavec parnih strojev in naprav
+Q000748	Direktor zavoda za turizem
+Q000749	Kurjač parne lokomotive
+Q000750	Upravljavec parnega stroja na ladji
+Q000751	Strojni pakirec
+Q000752	Strojni polnilec tekočin
+Q000753	Strojni označevalec izdelkov
+Q000754	Polnilec tehničnih plinov
+Q000755	Strojni embaler
+Q000756	Posluževalec stroja SMD
+Q000757	Posluževalec spajkalnega stroja
+Q000758	Sestavljalec proizvodnih strojev
+Q000759	Sestavljalec letal
+Q000760	Razstavljalec avtomobilov, reciklaža
+Q000761	Vodja servisa gospodinjskih aparatov
+Q000762	Sestavljalec električne opreme
+Q000763	Sestavljalec elektronskih naprav in opreme
+Q000764	Navijalec navitij in tuljav
+Q000765	Impregnator navitij
+Q000766	Spajalec navitij in vezij
+Q000767	Sestavljalec akumulatorjev
+Q000768	Sestavljalec izdelkov iz papirja
+Q000769	Sestavljalec pohištva
+Q000770	Vodja servisa vozil
+Q000771	Sestavljalec stavbnega pohištva
+Q000772	Sestavljalec izdelkov iz keramike in podobnih materialov
+Q000773	Sestavljalec plastičnih izdelkov
+Q000774	Sestavljalec kovinskih izdelkov
+Q000775	Sestavljalec izdelkov iz usnja
+Q000776	Sestavljalec izdelkov iz tekstilij
+Q000777	Izdelovalec palet in lesene embalaže
+Q000778	Sestavljalec gumenih izdelkov
+Q000779	Menedžer čistilnih servisov
+Q000780	Voznik motornih progovnih vozil
+Q000781	Strojevodja
+Q000782	Inštruktor strojevodij
+Q000783	Železniški premikač
+Q000784	Vozovni preglednik
+Q000785	Kretnik
+Q000786	Menedžer lepotilnega salona
+Q000787	Upravljavec zapornic
+Q000788	Voznik taksija
+Q000789	Voznik lahkega dostavnega vozila
+Q000790	Voznik avtobusa
+Q000791	Voznik trolejbusa
+Q000792	Voznik tramvaja
+Q000793	Voznik tovornjaka
+Q000794	Voznik cisterne
+Q000795	Voznik vlačilca
+Q000796	Upravljavec premičnih kmetijskih strojev
+Q000797	Upravljavec premičnih gozdarskih strojev
+Q000798	Upravljavec stroja za čiščenje kanalizacije
+Q000799	Vzdrževalec smučišč
+Q000800	Upravljavec stroja za čiščenje ulic
+Q000801	Upravljavec strojev za progovna dela
+Q000802	Upravljavec žičnice
+Q000803	Upravljavec viličarja
+Q000804	Upravljavec ladijskega vitla
+Q000805	Upravljavec vozil za oskrbo letal
+Q000806	Upravljavec težkega tovornjaka z dvigalom
+Q000807	Upravljavec tovornjaka viličarja
+Q000808	Upravljavec avtodvigala
+Q000809	Krmar
+Q000810	Ladijski strojevodja
+Q000811	Mornar
+Q000812	Ladijski motorist
+Q000813	Ladjevodja
+Q000814	Čolnar
+Q000815	Svetilničar
+Q000816	Vodja krova
+Q000817	Čistilec na domu
+Q000818	Gospodinjski pomočnik na domu
+Q000819	Kuhinjski pomočnik na domu
+Q000820	Fizik
+Q000821	Čistilec prostorov
+Q000822	Bolniški strežnik
+Q000823	Farmacevtski strežnik
+Q000824	Laboratorijski strežnik
+Q000825	Sobar
+Q000826	Pralec
+Q000827	Likalec
+Q000828	Fizik za mehansko fiziko
+Q000829	Ročni pralec vozil
+Q000830	Čistilec vozil
+Q000831	Čistilec oken
+Q000832	Čistilec objektov na višini
+Q000833	Odstranjevalec grafitov
+Q000834	Jedrski fizik
+Q000835	Delavec za preprosta sadjarska dela
+Q000836	Vinogradniški delavec
+Q000837	Delavec za preprosta poljska dela
+Q000838	Delavec za preprosta živinorejska dela
+Q000839	Astronom
+Q000840	Delavec za preprosta vrtnarska dela
+Q000841	Delavec za preprosta gozdarska dela
+Q000842	Delavec za preprosta ribiška dela
+Q000843	Delavec za preprosta rudarska dela
+Q000844	Delavec za preprosta kamnolomska dela
+Q000845	Poslanec državnega zbora
+Q000846	Delavec za preprosta dela pri nizkih gradnjah
+Q000847	Delavec za preprosta dela pri visokih gradnjah
+Q000848	Ročni embaler
+Q000849	Ročni polnilec
+Q000850	Meteorolog
+Q000851	Delavec za preprosta dela v proizvodnji hrane, pijač, krmil in tobačnih izdelkov
+Q000852	Delavec za preprosta dela v proizvodnji tekstilij, usnjenih oblačil, tekstilnih in krznenih izdelkov
+Q000853	Delavec za preprosta dela v proizvodnji usnja, obutve in usnjenih izdelkov, razen oblačil
+Q000854	Delavec za preprosta dela v obdelavi in predelavi lesa ter v proizvodnji izdelkov iz lesa, plute, slame in protja, razen pohištva
+Q000855	Delavec za preprosta dela v proizvodnji vlaknin, papirja in kartona ter izdelkov iz papirja in kartona, v založništvu in tiskarstvu
+Q000856	Delavec za preprosta dela v proizvodnji koksa, naftnih derivatov, jedrskega goriva
+Q000857	Delavec za preprosta dela v proizvodnji kemikalij, kemičnih izdelkov, umetnih vlaken
+Q000858	Delavec za preprosta dela v proizvodnji izdelkov iz gume in plastičnih mas
+Q000859	Delavec za preprosta dela v proizvodnji drugih nekovinskih mineralnih izdelkov
+Q000860	Delavec za preprosta dela v proizvodnji kovin in kovinskih izdelkov
+Q000861	Delavec za preprosta dela v proizvodnji strojev in naprav
+Q000862	Delavec za preprosta dela v proizvodnji električne in optične opreme
+Q000863	Delavec za preprosta dela v proizvodnji vozil in plovil
+Q000864	Delavec za preprosta dela v proizvodnji pohištva in drugih predelovalnih dejavnostih ter v reciklaži
+Q000865	Delavec za preprosta dela v predelovalnih dejavnostih
+Q000866	Delavec za preprosta transportna dela
+Q000867	Voznik voza s konjsko vprego
+Q000868	Kemik
+Q000869	Polnilec polic
+Q000870	Pripravljalec hitre hrane
+Q000871	Picopek
+Q000872	Kuhar hitre hrane
+Q000873	Kemik za fizikalno kemijo
+Q000874	Kuhinjski pomočnik (ne na domu)
+Q000875	Gostinski pomočnik
+Q000876	Poulični prodajalec drugih izdelkov
+Q000877	Kemik za organsko kemijo
+Q000878	Smetar
+Q000879	Razvrščevalec odpadkov
+Q000880	Pometalec
+Q000881	Delavec za druga preprosta komunalna dela
+Q000882	Kemik analitik
+Q000883	Kurir
+Q000884	Dostavljavec
+Q000885	Raznašalec časopisov
+Q000886	Razvrščevalec pošte
+Q000887	Hotelski nosač
+Q000888	Plakater
+Q000889	Liftboy
+Q000890	Postrešček
+Q000891	Kemik za anorgansko kemijo
+Q000892	Delavec za težja hišna opravila
+Q000893	Odčitovalec s števcev
+Q000894	Urejevalec žetonov v igralnicah
+Q000895	Delavec za preprosta dela v gledališču in drugih kulturno-umetniških ustanovah
+Q000896	Delavec za druga preprosta dela
+Q000897	Častnik za finančne zadeve
+Q000898	Častnik artilerije
+Q000899	Častnik informatike
+Q000900	Častnik inženirstva
+Q000901	Častnik JRKBO
+Q000902	Častnik letalstva
+Q000903	Častnik nadzora zračnega prostora
+Q000904	Častnik oklepnih enot
+Q000905	Častnik pehote
+Q000906	Častnik pomorstva
+Q000907	Častnik protizračne obrambe
+Q000908	Častnik za administrativne zadeve
+Q000909	Častnik za kadrovske zadeve
+Q000910	Častnik za obveščevalne zadeve
+Q000911	Častnik za oskrbo
+Q000912	Častnik za premike in transporte
+Q000913	Častnik za varnostne in protiobveščevalne  zadeve
+Q000914	Častnik za vzdrževanje
+Q000915	Častnik za zdravstveno oskrbo
+Q000916	Častnik zvez
+Q000917	Podčastnik artilerije
+Q000918	Minister
+Q000919	Geofizik
+Q000920	Podčastnik informatike
+Q000921	Podčastnik inženirstva
+Q000922	Podčastnik JRKBO
+Q000923	Podčastnik letalstva
+Q000924	Podčastnik nadzora zračnega prostora
+Q000925	Podčastnik oklepnih enot
+Q000926	Podčastnik pehote
+Q000927	Podčastnik pomorstva (mornar)
+Q000928	Podčastnik protizračne obrambe
+Q000929	Podčastnik za administrativne zadeve
+Q000930	Podčastnik za finančne zadeve
+Q000931	Podčastnik za kadrovske zadeve
+Q000932	Podčastnik za obveščevalne zadeve
+Q000933	Podčastnik za oskrbo
+Q000934	Podčastnik za premike in transporte
+Q000935	Podčastnik za varnostne in protiobveščevalne  zadeve
+Q000936	Podčastnik za vzdrževanje materialnotehničnih sredstev
+Q000937	Podčastnik za zdravstveno oskrbo
+Q000938	Podčastnik zvez
+Q000939	Vojak artilerije
+Q000940	Hidrolog
+Q000941	Vojak informatike
+Q000942	Vojak inženirstva
+Q000943	Vojak letalstva
+Q000944	Vojak nadzora zračnega prostora
+Q000945	Vojak oklepnih enot
+Q000946	Vojak pehote
+Q000947	Vojak pomorstva (mornar)
+Q000948	Vojak protizračne obrambe
+Q000949	Vojak za oskrbo
+Q000950	Vojak za premike in transporte
+Q000951	Mineralog
+Q000952	Vojak za vzdrževanje materialnotehničnih sredstev
+Q000953	Vojak za zdravstveno oskrbo
+Q000954	Vojak zvez
+Q000955	Vojakinja JRKBO
+Q000956	Občinski svetnik
+Q000957	Poslanec Evropskega parlamenta
+Q000958	Generalni direktor policije
+Q000959	Generalni državni pravobranilec
+Q000960	Generalni državni revizor
+Q000961	Generalni državni tožilec
+Q000962	Paleontolog
+Q000963	Predsednik Senata za prekrške
+Q000964	Predsednik ustavnega sodišča
+Q000965	Predsednik vrhovnega sodišča
+Q000966	Predstojnik računskega sodišča
+Q000967	Sekretar pravobranilstva
+Q000968	Sekretar sodišča
+Q000969	Sekretar tožilstva
+Q000970	Izvršni direktor družbe
+Q000971	Pomočnik generalnega direktorja družbe
+Q000972	Predsednik družbe
+Q000973	Petrolog
+Q000974	Predsednik nadzornega sveta
+Q000975	Predsednik uprave družbe
+Q000976	Finančni direktor
+Q000977	Vodja finančne operative
+Q000978	Vodja finančne službe
+Q000979	Vodja splošno kadrovskega sektorja
+Q000980	Komercialni direktor za prodajo
+Q000981	Seizmolog
+Q000982	Marketinški menedžer
+Q000983	Menedžer za tržne raziskave
+Q000984	Področni vodja prodaje
+Q000985	Vodja marketinga
+Q000986	Vodja prodaje
+Q000987	Kreativni direktor
+Q000988	Medijski direktor
+Q000989	Promocijski menedžer
+Q000990	Vodja ekonomske propagande
+Q000991	Vodja promocijske pisarne
+Q000992	Direktor raziskav in razvoja
+Q000993	Direktor kmetijske zadruge
+Q000994	Direktor kmetijsko-gozdarske zadruge
+Q000995	Direktor vinarske zadruge
+Q000996	Tehnični direktor v gozdarstvu
+Q000997	Tehnični direktor v kmetijstvu
+Q000998	Vodja farme
+Q000999	Vodja območne enote zavoda za varstvo gozdov
+Q001000	Direktor ribiške zadruge
+Q001001	Tehnični direktor v ribištvu
+Q001002	Tehnični direktor proizvodnje
+Q001003	Vodja distribucije  za oskrbo s plinom
+Q001004	Vodja distribucije  za oskrbo z elektriko
+Q001005	Vodja distribucije  za oskrbo z naftnimi derivati
+Q001006	Vodja distribucije  za oskrbo z vodo
+Q001007	Matematik
+Q001008	Vodja orodjarne
+Q001009	Vodja popravil in montaže strojev in naprav
+Q001010	Vodja proizvodnje električnih naprav
+Q001011	Vodja proizvodnje farmacevtskih surovin in preparatov
+Q001012	Vodja proizvodnje izdelkov iz gume in plastičnih mas
+Q001013	Vodja proizvodnje kemikalij, kemičnih izdelkov
+Q001014	Vodja proizvodnje kovin
+Q001015	Vodja proizvodnje kovinskih izdelkov, razen strojev in naprav
+Q001016	Župan občine
+Q001017	Aktuar
+Q001018	Vodja proizvodnje motornih vozil, prikolic in polprikolic
+Q001019	Vodja proizvodnje nekovinskih mineralnih izdelkov
+Q001020	Vodja proizvodnje oblačil
+Q001021	Vodja proizvodnje papirja in izdelkov iz papirja
+Q001022	Vodja proizvodnje pijač
+Q001023	Vodja proizvodnje računalnikov, elektronskih in optičnih izdelkov
+Q001024	Vodja proizvodnje usnja, usnjenih in sorodnih izdelkov
+Q001025	Vodja proizvodnje vozil in plovil
+Q001026	Statistik
+Q001027	Vodja proizvodnje živil
+Q001028	Vodja tiskarstva in razmnoževanje posnetih nosilcev zapisa
+Q001029	Tehnični direktor v rudarstvu
+Q001030	Tehnični direktor v gradbeništvu
+Q001031	Vodja oddelka kooperantov v gradbeništvu
+Q001032	Vodja operativne izvedbe in montaže v gradbeništvu
+Q001033	Vodja projektov v gradbeništvu
+Q001034	Menedžer storitev v pomorskem prometu
+Q001035	Šef avtoparka
+Q001036	Demograf
+Q001037	Vodja logistike
+Q001038	Vodja nabave
+Q001039	Vodja transportnega parka
+Q001040	Vodja avtomatske obdelave podatkov
+Q001041	Vodja računalniškega centra
+Q001042	Vodja službe za informatiko
+Q001043	Vodja službe za informacijsko tehnologijo
+Q001044	Direktor doma starejših občanov
+Q001045	Biometrik
+Q001046	Direktor svetovalnega centra za otroke, mladostnike in starše
+Q001047	Direktor varstveno delovnega centra
+Q001048	Pomočnik ravnatelja osnovne šole
+Q001049	Pomočnik ravnatelja vzgojno-izobraževalnega zavoda
+Q001050	Prodekan fakultete
+Q001051	Prodekan visoke šole
+Q001052	Operacijski raziskovalec
+Q001053	Direktor podružnice zavarovalnice
+Q001054	Direktor poslovne enote zavarovalnice
+Q001055	Vodja poslovne enote banke
+Q001056	Vodja ekspoziture banke
+Q001057	Direktor gledališča
+Q001058	Direktor knjižnice
+Q001059	Direktor muzeja
+Q001060	Pomočnik ravnatelja zavoda v kulturi
+Q001061	Ravnatelj gledališča
+Q001062	Ravnatelj knjižnice
+Q001063	Ravnatelj muzeja
+Q001064	Komandir policije
+Q001065	Vodja odlagališča za odpadke
+Q001066	Vodja službe varovanja
+Q001067	Vodja tehničnega sektorja službe za javno higieno
+Q001068	Vodja hotela
+Q001069	Food & beverage manager
+Q001070	Gostilničar
+Q001071	Vodja lokala za strežbo pijač in napitkov
+Q001072	Vodja restavracije
+Q001073	Vodja v gostinstvu
+Q001074	Direktor adrenalinskega parka
+Q001075	Direktor studia fitnes
+Q001076	Direktor športnega parka
+Q001077	Vodja igrišča za golf
+Q001078	Biolog
+Q001079	Vodja kopališča
+Q001080	Vodja rekreacijskega centra
+Q001081	Direktor turistične agencije
+Q001082	Upravnik kampa
+Q001083	Vodja turistične agencije
+Q001084	Direktor frizerskega salona
+Q001085	Direktor kemične čistilnice in pralnice
+Q001086	Direktor kozmetičnega salona
+Q001087	Vodja servisa gospodarskih vozil
+Q001088	Vodja servisa motornih vozil
+Q001089	Biometeorolog
+Q001090	Kemik za kontroliranje kakovosti
+Q001091	Kemik za laboratorijske analize
+Q001092	Kemik za razvijanje novih izdelkov
+Q001093	Matematik, aplikativni
+Q001094	Matematik, raziskovalni
+Q001095	Fitopatolog
+Q001096	Agronom za poljedelstvo
+Q001097	Agronom za sadjarstvo
+Q001098	Agronom za vinogradništvo
+Q001099	Agronom za vrtnarstvo
+Q001100	Gozdarski načrtovalec
+Q001101	Zootehnik za govedorejo
+Q001102	Zootehnik za konjerejo
+Q001103	Zootehnik za kozjerejo
+Q001104	Podžupan občine
+Q001105	Biokemik
+Q001106	Zootehnik za ovčerejo
+Q001107	Zootehnik za perutninarstvo
+Q001108	Zootehnik za prašičerejo
+Q001109	Inženir gradbeništva za hidrogradnje
+Q001110	Inženir gradbeništva za komunalne gradnje
+Q001111	Inženir gradbeništva za konstrukcije
+Q001112	Inženir gradbeništva za nizke gradnje
+Q001113	Inženir gradbeništva za visoke gradnje
+Q001114	Odgovorni projektant v gradbeništvu
+Q001115	Odgovorni svetovalni inženir v gradbeništvu
+Q001116	Bakteriolog
+Q001117	Odgovorni vodja del za najzahtevnejše objekte, gradbeništvo
+Q001118	Vodilni investicijski referent
+Q001119	Inženir ladjedelništva, projektant
+Q001120	Inženir strojništva, avtomatik
+Q001121	Inženir strojništva, energetik
+Q001122	Inženir strojništva, hidravlik, pnevmatik
+Q001123	Inženir strojništva, konstrukter
+Q001124	Inženir strojništva, tribolog
+Q001125	Inženir rudarskega strojništva
+Q001126	Medicinski biokemik
+Q001127	Inženir strojništva za procesno tehniko
+Q001128	Inženir strojništva za varilstvo
+Q001129	Inženir za tirnična vozila
+Q001130	Konstrukter smučarskih vezi
+Q001131	Inženir rudarstva za izdelavo podzemnih objektov
+Q001132	Inženir rudarstva za podzemno pridobivanje mineralnih surovin
+Q001133	Inženir rudarstva za površinsko pridobivanje mineralnih surovin
+Q001134	Metalurg v proizvodnji
+Q001135	Analitik v laboratorijski medicini
+Q001136	Rudarski inženir
+Q001137	Tehnolog za feritno tehnologijo
+Q001138	Inšpektor za letalski promet
+Q001139	Inšpektor za železniški promet
+Q001140	Inženir za železniški promet
+Q001141	Operativni vodja v luki
+Q001142	Patolog za rastline
+Q001143	Tehnični vodja v luki
+Q001144	Kemijski tehnolog za tekstilstvo
+Q001145	Konfekcijski tehnolog za tekstilstvo
+Q001146	Mehanski tehnolog za tekstilstvo
+Q001147	Tehnični preglednik za vgrajene sisteme aktivne požarne zaščite (cevni sistemi in mehanizmi)
+Q001148	Dispečer v RCV
+Q001149	Inženir močnostne elektrotehnike
+Q001150	Odgovorni projektant v elektroenergetiki
+Q001151	Odgovorni vodja del za najzahtevnejše objekte, elektroenergetika
+Q001152	Vodja tehnološke priprave dela v elektrotehniki
+Q001153	Toksikolog
+Q001154	Inženir elektronike za strojno računalniško opremo
+Q001155	Inženir medicinske elektronike
+Q001156	Inženir mikroelektronike
+Q001157	Raziskovalec v razvojnem oddelku za elektroniko
+Q001158	Razvojnik elektronskih sklopov
+Q001159	Inženir letalskih telekomunikacij
+Q001160	Patofiziolog
+Q001161	Arhitekt za interier
+Q001162	Arhitekt za notranjo opremo
+Q001163	Arhitekt krajinar
+Q001164	Oblikovalec nakita
+Q001165	Oblikovalec tekstilij
+Q001166	Zdravnik specialist abdominalne kirurgije
+Q001167	Zdravnik specialist anesteziologije in reanimatologije
+Q001168	Kineziolog
+Q001169	Zdravnik specialist anesteziologije, reanimatologije in perioperativne intenzivne medicine
+Q001170	Zdravnik specialist dermatovenerologije
+Q001171	Zdravnik specialist fizikalne medicine in rehabilitacije
+Q001172	Zdravnik specialist ginekologije in porodništva
+Q001173	Zdravnik specialist infektologije
+Q001174	Zdravnik specialist internistične onkologije
+Q001175	Zdravnik specialist javnega zdravja
+Q001176	Zdravnik specialist kardiologije in vaskularne medicine
+Q001177	Zdravnik specialist kardiovaskularne kirurgije
+Q001178	Zdravnik specialist kirurgije
+Q001179	Fiziolog
+Q001180	Zdravnik specialist nefrologije
+Q001181	Zdravnik specialist nevrokirurgije
+Q001182	Zdravnik specialist nevrologije
+Q001183	Zdravnik specialist oftalmologije
+Q001184	Zdravnik specialist onkologije z radioterapijo
+Q001185	Zdravnik specialist ortopedije
+Q001186	Zdravnik specialist ortopedske kirurgije
+Q001187	Zdravnik specialist otorinolaringologije
+Q001188	Zdravnik specialist otroške in mladostniške psihiatrije
+Q001189	Zdravnik specialist otroške nevrologije
+Q001190	Farmakolog
+Q001191	Zdravnik specialist pediatrije
+Q001192	Zdravnik specialist plastične in rekonstrukcijske kirurgije
+Q001193	Zdravnik specialist psihiatrije
+Q001194	Zdravnik specialist radioterapije in onkologije
+Q001195	Zdravnik specialist sodne medicine
+Q001196	Zdravnik specialist transfuziologije
+Q001197	Zdravnik specialist travmatologije
+Q001198	Zdravnik specialist urologije
+Q001199	Akupunkturist
+Q001200	Župan mestne občine
+Q001201	Endokrinolog
+Q001202	Homeopat
+Q001203	Kiropraktik
+Q001204	Veterinar za epizootologijo
+Q001205	Veterinar za kirurgijo
+Q001206	Veterinar za reprodukcijo živali
+Q001207	Veterinar za zdravstveno varstvo živali
+Q001208	Zdravnik specialist maksilofacialne kirurgije
+Q001209	Zobozdravnik specialist čeljustne in zobne ortopedije
+Q001210	Zobozdravnik specialist maksilofacialne kirurgije
+Q001211	Biofizik
+Q001212	Zobozdravnik specialist oralne kirurgije
+Q001213	Zobozdravnik specialist otroškega in preventivnega zobozdravstva
+Q001214	Zobozdravnik specialist stomatološke protetike
+Q001215	Zobozdravnik specialist zobnih bolezni in endodontije
+Q001216	Zobozdravnik specialist zobnih in ustnih bolezni
+Q001217	Kontrolor kakovosti farmacevtskih izdelkov
+Q001218	Fizioterapevt, limfterapevt
+Q001219	Fizioterapevt na bolnikovem domu
+Q001220	Nevrofizioterapevt
+Q001221	Anatom
+Q001222	Respiratorni fizioterapevt
+Q001223	Športni fizioterapevt
+Q001224	Dietetik
+Q001225	Visokošolski izredni profesor
+Q001226	Visokošolski predavatelj
+Q001227	Visokošolski redni profesor
+Q001228	Visokošolski strokovni sodelavec
+Q001229	Embriolog
+Q001230	Visokošolski višji predavatelj
+Q001231	Višješolski predavatelj
+Q001232	Srednješolski učitelj za cestnoprometne predmete
+Q001233	Srednješolski učitelj za metalurške predmete
+Q001234	Srednješolski učitelj za pomorskoprometne predmete
+Q001235	Srednješolski učitelj za ptt prometne predmete
+Q001236	Srednješolski učitelj za usnjarsko, krznarske predmete
+Q001237	Srednješolski učitelj za železniškoprometne predmete
+Q001238	Organizator praktičnega pouka
+Q001239	Srednješolski učitelj za angleški jezik
+Q001240	Citolog
+Q001241	Srednješolski učitelj za biologijo
+Q001242	Srednješolski učitelj za etiko in družbo
+Q001243	Srednješolski učitelj za filozofijo
+Q001244	Srednješolski učitelj za fiziko
+Q001245	Srednješolski učitelj za francoski jezik
+Q001246	Srednješolski učitelj za geografijo
+Q001247	Srednješolski učitelj za glasbene predmete
+Q001248	Srednješolski učitelj za grški jezik
+Q001249	Srednješolski učitelj za italijanski jezik
+Q001250	Srednješolski učitelj za kemijo
+Q001251	Epidemiolog
+Q001252	Srednješolski učitelj za latinski jezik
+Q001253	Srednješolski učitelj za madžarski jezik
+Q001254	Srednješolski učitelj za matematiko
+Q001255	Srednješolski učitelj za nemški jezik
+Q001256	Srednješolski učitelj za pedagogiko
+Q001257	Srednješolski učitelj za psihologijo
+Q001258	Srednješolski učitelj za računalništvo
+Q001259	Srednješolski učitelj za ruski jezik
+Q001260	Srednješolski učitelj za sociologijo
+Q001261	Srednješolski učitelj za španski jezik
+Q001262	Ekolog
+Q001263	Srednješolski učitelj za umetnostno zgodovino
+Q001264	Srednješolski učitelj za zgodovino
+Q001265	Predmetni učitelj za angleški jezik
+Q001266	Predmetni učitelj za biologijo
+Q001267	Predmetni učitelj za etiko in družbo
+Q001268	Predmetni učitelj za fiziko
+Q001269	Predmetni učitelj za geografijo
+Q001270	Predmetni učitelj za glasbeno vzgojo
+Q001271	Predmetni učitelj za italijanski jezik
+Q001272	Predmetni učitelj za kemijo
+Q001273	Medicinski mikrobiolog
+Q001274	Predmetni učitelj za latinski jezik
+Q001275	Predmetni učitelj za likovno vzgojo
+Q001276	Predmetni učitelj za madžarski jezik
+Q001277	Predmetni učitelj za matematiko
+Q001278	Predmetni učitelj za nemški jezik
+Q001279	Predmetni učitelj za računalništvo
+Q001280	Predmetni učitelj za spoznavanje družbe
+Q001281	Predmetni učitelj za spoznavanje narave
+Q001282	Predmetni učitelj za zgodovino
+Q001283	Učitelj glasbenih predmetov
+Q001284	Genetik
+Q001285	Svetovalec za predmetno področje
+Q001286	Svetovalec za predšolsko vzgojo
+Q001287	Svetovalec za razredni pouk
+Q001288	Svetovalec za učno tehnologijo
+Q001289	Učitelj flavte
+Q001290	Učitelj glasbenega inštrumenta
+Q001291	Učitelj harmonike
+Q001292	Učitelj kitare
+Q001293	Učitelj klavirja
+Q001294	Histolog
+Q001295	Učitelj kontrabasa
+Q001296	Učitelj saksofona
+Q001297	Učitelj solopetja
+Q001298	Učitelj trobente
+Q001299	Učitelj violine
+Q001300	Plesni učitelj
+Q001301	Davčni revizor
+Q001302	Davčnik
+Q001303	Državni notranji revizor
+Q001304	Državni revizor
+Q001305	Podžupan mestne občine
+Q001306	Imunolog
+Q001307	Pooblaščeni ocenjevalec vrednosti strojev in opreme
+Q001308	Pooblaščeni ocenjevalec vrednosti nepremičnin
+Q001309	Pooblaščeni ocenjevalec vrednosti podjetij
+Q001310	Pooblaščeni revizor
+Q001311	Preizkušeni davčnik
+Q001312	Preizkušeni državni notranji revizor
+Q001313	Preizkušeni državni revizor
+Q001314	Preizkušeni notranji revizor
+Q001315	Preizkušeni revizor informacijskih sistemov
+Q001316	Prisilni upravitelj
+Q001317	Mikrobiolog
+Q001318	Proračunski inšpektor
+Q001319	Računovodja za večje družbe in zavode
+Q001320	Računovodski revizor
+Q001321	Revizor informacijskih sistemov
+Q001322	Vrhovni državni revizor
+Q001323	Upravitelj portfelja tržnih vrednostnih papirjev
+Q001324	Koordinator kakovosti
+Q001325	Projektni menedžer
+Q001326	Parazitolog
+Q001327	Projektni vodja
+Q001328	Karierni svetovalec
+Q001329	Svetovalec za poklicno izobraževanje
+Q001330	Analitik za tržne raziskave
+Q001331	Asistent vodje marketinga
+Q001332	Marketinški analitik
+Q001333	Medijski planer
+Q001334	Pisec reklamnih sporočil
+Q001335	Pospeševalec prodaje
+Q001336	Produktni vodja
+Q001337	Svetovalec za marketing
+Q001338	Tržni analitik
+Q001339	Tržni raziskovalec
+Q001340	Vodja ključnih kupcev
+Q001341	Predstavnik stranke za odnose z javnostmi
+Q001342	Prodajni inženir
+Q001343	Prodajni inženir IKT rešitev, izdelkov in storitev
+Q001344	Skrbnik ključnih strank na področju IKT
+Q001345	Agronom
+Q001346	Svetovalec za prodajo in trženje na področju IKT
+Q001347	Razvijalec turističnih produktov
+Q001348	Vodja IT projektov
+Q001349	Skrbnik podatkovnih baz
+Q001350	Upravljavec računalniškega omrežja
+Q001351	Kmetijski inšpektor
+Q001352	Vzdrževalec računalniških omrežij
+Q001353	Namestnik družbenega pravobranilca
+Q001354	Odvetniški kandidat
+Q001355	Vodja okrožnega državnega tožilstva
+Q001356	Vodja višjega državnega tožilstva
+Q001357	Vodja zunanjega oddelka državnega pravobranilstva
+Q001358	Notarski kandidat
+Q001359	Vodja sodnega registra
+Q001360	Vodja urada predsednika sodišča
+Q001361	Vodja zemljiške knjige
+Q001362	Kustos pedagog
+Q001363	Ekonomist analitik
+Q001364	Ekonomist za kmetijstvo
+Q001365	Ekonomist za turizem
+Q001366	Psiholog, svetovalec v posvetovalnicah
+Q001367	Gozdarski inšpektor
+Q001368	Psiholog na kadrovskem področju
+Q001369	Psiholog v industriji
+Q001370	Psiholog v športu
+Q001371	Psiholog v zdravstvu
+Q001372	Skupinski habilitator
+Q001373	Duhovnik, misijonar
+Q001374	Biograf
+Q001375	Dramatik
+Q001376	Esejist
+Q001377	Filmski kritik
+Q001378	Glasbeni kritik
+Q001379	Gledališki kritik
+Q001380	Likovni kritik
+Q001381	Literarni kritik
+Q001382	Svetovalec programske sheme
+Q001383	Vodja kulturno-umetniških programov
+Q001384	Novinar, področni
+Q001385	Novinar za kulturo
+Q001386	Lovski inšpektor
+Q001387	Poročevalec
+Q001388	Športni novinar
+Q001389	Vestičar
+Q001390	Etimolog
+Q001391	Fonetik
+Q001392	Klasični filolog
+Q001393	Morfolog
+Q001394	Prevajalec za leposlovje
+Q001395	Prevajalec za strokovna besedila
+Q001396	Semantik
+Q001397	Predsednik sveta krajevne skupnosti
+Q001398	Ribiški inšpektor
+Q001399	Restavrator historičnih instrumentov
+Q001400	Restavrator za keramiko
+Q001401	Restavrator za knjige in papir
+Q001402	Restavrator za kovino
+Q001403	Restavrator za les
+Q001404	Restavrator za tekstil
+Q001405	Baletni plesalec
+Q001406	Baletni solist
+Q001407	Plesalec sodobnega plesa
+Q001408	Filmski režiser
+Q001409	Gledališki režiser
+Q001410	Televizijski režiser
+Q001411	Filmski igralec
+Q001412	Gledališki igralec
+Q001413	Bralec sporočil
+Q001414	Napovedovalec na radiu
+Q001415	Napovedovalec na televiziji
+Q001416	Povezovalec na radiu
+Q001417	Povezovalec na televiziji
+Q001418	Akrobat
+Q001419	Hipnotizer
+Q001420	Imitator
+Q001421	Klovn
+Q001422	Žongler
+Q001423	Tehnik gradbeništva za konstrukcije
+Q001424	Tehnik gradbeništva za nizke gradnje
+Q001425	Tehnik gradbeništva za visoke gradnje
+Q001426	Dispečer v centru vodenja elektroenergetskega sistema
+Q001427	Dispečer v centru vodenja ES
+Q001428	Dispečer v DCV
+Q001429	Dispečer v OCV
+Q001430	Elektrotehnik
+Q001431	Odgovorni vodja del za objekt kot celoto, elektroenergetika
+Q001432	Odgovorni vodja del za posamezne vrste del, elektroenergetika
+Q001433	Tehnik za močnostno elektrotehniko
+Q001434	Vodja del na elektroenergetskih postrojih
+Q001435	Vodja obratovanja elektroenergetskih postrojev
+Q001436	Snovalec energetskih naprav in sistemov
+Q001437	Tehnik strojništva, termoenergetik
+Q001438	Tehnik rudarskega strojništva
+Q001439	Tehnik strojništva za tirnična vozila
+Q001440	Tehnik za procesno strojništvo
+Q001441	Tehnik za strojegradnjo in montažo
+Q001442	Tehnik za strojniško avtomatizacijo
+Q001443	Tehnik za strojniško konstrukterstvo, kovinski izdelki
+Q001444	Tehnik za strojniško konstruktorstvo
+Q001445	Tehnik za varilstvo
+Q001446	Tehnolog proizvodnih procesov
+Q001447	Tehnik za gumarstvo
+Q001448	Tehnik za keramiko
+Q001449	Tehnik za steklarstvo
+Q001450	Tehnik za živilstvo
+Q001451	Rudarski tehnik
+Q001452	Rudarski tehnik za izdelavo podzemnih objektov
+Q001453	Rudarski tehnik za podzemno pridobivanje mineralnih surovin
+Q001454	Rudarski tehnik za površinsko pridobivanje mineralnih surovin
+Q001455	Tehnik metalurške tehnologije
+Q001456	Tehnik za feritno tehnologijo
+Q001457	Vodja linijske proizvodnje v metalurgiji
+Q001458	Tehnični risar za arheologijo
+Q001459	Tehnični risar za arhitekturo
+Q001460	Tehnični risar za elektrotehniko
+Q001461	Tehnični risar za geodezijo
+Q001462	Tehnični risar za gradbeništvo
+Q001463	Tehnični risar za strojništvo
+Q001464	Rudarski nadzornik geovrtanja
+Q001465	Rudarski nadzornik za izdelavo podzemnih objektov
+Q001466	Rudarski nadzornik za podzemno pridobivanje mineralnih surovin
+Q001467	Rudarski nadzornik za površinsko pridobivanje mineralnih surovin
+Q001468	Delovodja gradbeništva za hidrogradnje
+Q001469	Delovodja gradbeništva za nizke gradnje
+Q001470	Delovodja gradbeništva za visoke gradnje
+Q001471	Delovodja za vzdrževanje prog
+Q001472	Odgovorni vodja del za objekt kot celoto, gradbeništvo
+Q001473	Odgovorni vodja del za posamezne vrste del, gradbeništvo
+Q001474	Stikalničar v elektroenergetiki
+Q001475	Upravljavec komunalnih čistilnih naprav, odpadne vode
+Q001476	Upravljavec strojev in naprav za kemijsko filtriranje in ločevanje
+Q001477	Upravljavec strojev in naprav za predelavo nafte in zemeljskega plina
+Q001478	Upravljavec stroja za proizvodnjo bioplina
+Q001479	Predsednik sveta četrtne skupnosti
+Q001480	Inženir gradbeništva
+Q001481	Kontrolor robotov
+Q001482	Upravljavec industrijskih robotov
+Q001483	Strokovni sodelavec za vrtnarsko tehnologijo
+Q001484	Tehnolog za ekološko kmetovanje
+Q001485	Tehnolog za hribovsko kmetovanje
+Q001486	Pomorski strojnik
+Q001487	Kapitan dolge plovbe
+Q001488	Inženir gradbeništva, vodja del
+Q001489	Poročnik trgovske mornarice
+Q001490	Poveljnik ladje
+Q001491	Letalski tehnik - letalec
+Q001492	Pilot vodnega letala
+Q001493	Kontrolor za prilete letal
+Q001494	Radiološki inženir
+Q001495	Rentgenski tehnik
+Q001496	Laboratorijski tehnik hematologije
+Q001497	Laboratorijski tehnik histopatologije in citopatologije
+Q001498	Laboratorijski tehnik transfuzijske medicine
+Q001499	Inženir gradbeništva, svetovalec
+Q001500	Laboratorijski tehnik za citologijo
+Q001501	Laboratorijski tehnik za histologijo
+Q001502	Farmacevtski tehnik v lekarni
+Q001503	Inženir ortopedske tehnike
+Q001504	Inženir zobne tehnike
+Q001505	Laboratorijski zobni protetik
+Q001506	Ortopedski tehnolog
+Q001507	Tehnolog za gradbene materiale
+Q001508	Ortotik - protetik
+Q001509	Rehabilitacijski inženir
+Q001510	Zobotehnik
+Q001511	Reševalec v vozilu prve pomoči
+Q001512	Spremljevalec v reševalnem vozilu
+Q001513	Voznik reševalec
+Q001514	Veterinarski cepilec
+Q001515	Veterinarski osemenjevalec
+Q001516	Inženir gradbeništva, projektant
+Q001517	Veterinarski pomočnik v higieni živil
+Q001518	Manipulant z nevarnimi odpadki
+Q001519	Okoljevarstveni tehnik
+Q001520	Sanitarni tehnik
+Q001521	Strokovni sodelavec za požarno varstvo
+Q001522	Varnostni svetovalec za prevoz nevarnega blaga
+Q001523	Borzni makler
+Q001524	Borzni posrednik za delnice
+Q001525	Borzni posrednik za naložbe
+Q001526	Gradbeni inšpektor
+Q001527	Borzni posrednik za poroštvo
+Q001528	Referent za faktoring
+Q001529	Bilancist
+Q001530	Finančni knjigovodja
+Q001531	Materialni knjigovodja
+Q001532	Vodnogospodarski inšpektor
+Q001533	Strokovni sodelavec za zavarovalništvo
+Q001534	Zavarovalni agent
+Q001535	Zavarovalni asistent
+Q001536	Zavarovalni producent
+Q001537	Knjigar
+Q001538	Komercialist na terenu
+Q001539	Prodajni zastopnik
+Q001540	Skrbnik ključnih kupcev
+Q001541	Strokovni sodelavec za obvladovanje ključnih kupcev
+Q001542	Svetovalec pri prodaji v kmetijstvu
+Q001543	Svetovalec pri prodaji v vrtnarstvu
+Q001544	Svetovalec za poprodajne aktivnosti
+Q001545	Trgovski potnik
+Q001546	Komercialist za nabavo
+Q001547	Strokovni vodja ravnanja z okoljem
+Q001548	Odkupovalec živine
+Q001549	Referent za vzdrževanje osnovnih sredstev
+Q001550	Strokovni sodelavec za področje razvoja dobaviteljev
+Q001551	Komisionar, trgovski
+Q001552	Komisionar
+Q001553	Referent za transportna logistiko
+Q001554	Transportni komercialist
+Q001555	Asistent v kadrovski službi
+Q001556	Referent za iskanje dela študentov in dijakov
+Q001557	Tehnolog ravnanja z odpadki
+Q001558	Sindikalni poverjenik
+Q001559	Nepremičninski posrednik
+Q001560	Nepremičninski referent
+Q001561	Oskrbnik nepremičnin
+Q001562	Upravnik hiš
+Q001563	Upravnik nepremičnin
+Q001564	Kontrolor poštnih storitev
+Q001565	Luški dispečer
+Q001566	Luški disponent
+Q001567	Predsednik sveta vaške skupnosti
+Q001568	Prometni tehnik
+Q001569	Vodja avtoparka podjetja
+Q001570	Agent za glasbene prireditve
+Q001571	Agent za gledališke prireditve
+Q001572	Agent za propagando
+Q001573	Dražbar
+Q001574	Medijski nakupovalec
+Q001575	Medijski prodajalec
+Q001576	Menedžer samostojnih ustvarjalcev
+Q001577	Menedžer športnikov
+Q001578	Posrednik za organizacijo varstva otrok na domu
+Q001579	Posrednik za zmenke
+Q001580	Ženitni posredovalec
+Q001581	Strokovni sodelavec za koordinacijo projektov
+Q001582	Tajnik društva
+Q001583	Tajnik krajevnega urada
+Q001584	Tajnik organizacije
+Q001585	Kontrolor izpolnjevanja obveznosti brezposelnih oseb
+Q001586	Inženir strojništva
+Q001587	Kontrolor uporabe socialnih pravic
+Q001588	Nadzornik izpolnjevanja obveznosti brezposelnih oseb
+Q001589	Nadzornik uporabe socialnih pravic
+Q001590	Referent za družinske prejemke
+Q001591	Referent za socialne pomoči
+Q001592	Referent za izdajo potnih listov
+Q001593	Vodja matične knjige
+Q001594	Policist za posebne naloge
+Q001595	Inženir strojništva, vodja del
+Q001596	Referent za denacionalizacijske postopke
+Q001597	Referent za izvrševanje kazenskih sankcij
+Q001598	Referent za kmetijstvo
+Q001599	Referent za zaščito in reševanje
+Q001600	Referent za zemljiški kataster
+Q001601	Zemljiškokatastrski referent
+Q001602	Referent za brezplačno pravno pomoč
+Q001603	Sodni referent v sodnem registru
+Q001604	Sodni referent v zemljiški knjigi
+Q001605	Sodni referent za izvršbe
+Q001606	Inženir strojništva, projektant
+Q001607	Strokovni sodelavec za delo z begunci
+Q001608	Strokovni sodelavec za učenje in socialno zorenje
+Q001609	Laični misijonar
+Q001610	Športni plesalec
+Q001611	Vaditelj plesa
+Q001612	Fotograf za industrijo
+Q001613	Fotograf za medicino
+Q001614	Fotograf za modo
+Q001615	Fotograf za novinarstvo
+Q001616	Inženir strojništva, svetovalec
+Q001617	Fotograf za propagando
+Q001618	Mikrofotograf
+Q001619	Kreator lutk
+Q001620	Kreator maske
+Q001621	Organizator, kostumski
+Q001622	Organizator, scenski
+Q001623	Scenski oblikovalec
+Q001624	Disko džokej
+Q001625	Glasbenik v nočnem klubu
+Q001626	Inženir strojništva, terolog
+Q001627	Kreator zvoka
+Q001628	Pevec v nočnem klubu
+Q001629	Tetovator
+Q001630	Vodja zabaviščnega ansambla
+Q001631	IT help desk delavec
+Q001632	Skrbnik informacijske in komunikacijske opreme
+Q001633	Skrbnik informacijskih sistemov
+Q001634	Skrbnik komunikacijskih sistemov
+Q001635	Tehnik za sistemsko in omrežno programsko opremo
+Q001636	Vzdrževalec programske opreme
+Q001637	Vzdrževalec sistemske programske opreme
+Q001638	Administrator spletnih strani
+Q001639	Tehnik za splet
+Q001640	Asistent kamere
+Q001641	Kamerman
+Q001642	Kinooperater
+Q001643	Kontrolor kamere
+Q001644	Lučni mojster
+Q001645	Medijski operater
+Q001646	Oblikovalec osvetljave
+Q001647	Inženir gradbeniškega strojništva
+Q001648	Operater na radijskem oddajniku
+Q001649	Operater na radiu
+Q001650	Osvetljevalec
+Q001651	Pomorski radiotelegrafist
+Q001652	Radiovezist
+Q001653	Snemalec slike za film
+Q001654	Snemalec slike za televizijo
+Q001655	Snemalec videa
+Q001656	Tonski mojster
+Q001657	Tonski realizator
+Q001658	Videotehnik
+Q001659	Tehnik telekomunikacij za govorne storitve (telefonija)
+Q001660	Tehnik telekomunikacij za negovorne storitve (prenos podatkov)
+Q001661	Tehnik telekomunikacij za radio in televizijo
+Q001662	Tehnik za letalske telekomunikacije
+Q001663	Vpisničar na sodišču
+Q001664	Predsednik pokrajinskega sveta
+Q001665	Inženir ladijskega strojništva
+Q001666	Delilec kart
+Q001667	Vodja igralne mize
+Q001668	Turistični informator
+Q001669	Popisovalec, anketar
+Q001670	Telefonski anketar
+Q001671	Fakturist
+Q001672	Kalkulant cen
+Q001673	Likvidator
+Q001674	Obračunovalec proizvodnih stroškov na proizvodne enote
+Q001675	Saldakontist
+Q001676	Bančni referent v zaledju
+Q001677	Ključar trezorja
+Q001678	Referent za podporo kartičnemu poslovanju
+Q001679	Trezorec
+Q001680	Uradnik za devizno poslovanje
+Q001681	Uradnik za plačilni promet
+Q001682	Uradnik za posojila
+Q001683	Inšpektor parnih kotlov
+Q001684	Obračunovalec plač
+Q001685	Kontrolor, prekladalna in skladiščna dela
+Q001686	Prevzemalec blaga
+Q001687	Prevzemnik materiala
+Q001688	Procesničar v logistiki farmacevtske industrije
+Q001689	Skladiščni evidentičar
+Q001690	Tehnolog strojništva
+Q001691	Dispečer prevozov v cestnem prometu
+Q001692	Disponent v cestnem prometu
+Q001693	Odjavnik
+Q001694	Progovni prometnik
+Q001695	Prometnik
+Q001696	Referent v operativi v pomorskem tovornem prometu
+Q001697	Referent za vozne rede
+Q001698	Tehtalec vagonov
+Q001699	Korektor teksta
+Q001700	Fotokopist
+Q001701	Referent za družbeni standard
+Q001702	Referent za evidenco delovnega časa
+Q001703	Referent za stanovanjske zadeve in počitniško dejavnost v podjetju
+Q001704	Sprevodnik na avtobusu
+Q001705	Sprevodnik na vlaku
+Q001706	Sprevodnik spalnika
+Q001707	Vodja poslovnega vlaka
+Q001708	Vodja potniškega vlaka
+Q001709	Regijski vodnik
+Q001710	Turistični spremljevalec
+Q001711	Glavni natakar
+Q001712	Servirec
+Q001713	Sommelier
+Q001714	Barman
+Q001715	Brivec
+Q001716	Hišnik
+Q001717	Inženir biokemijskega inženirstva
+Q001718	Vzdrževalec v poslovnih stavbah
+Q001719	Vzdrževalec v stanovanjskih stavbah
+Q001720	Sprehajalec psov
+Q001721	Trener vzgoje in šolanja psov
+Q001722	Pevec na ulici
+Q001723	Slačifant
+Q001724	Striptizer
+Q001725	Branjevec na tržnici
+Q001726	Poulični prodajalec hrane
+Q001727	Poulični prodajalec pijač
+Q001728	Namestnik trgovske poslovodje
+Q001729	Prodajalec avtomobilov
+Q001730	Prodajalec elektrotehničnih izdelkov
+Q001731	Prodajalec fotomateriala
+Q001732	Prodajalec glasbil
+Q001733	Prodajalec goriv
+Q001734	Prodajalec gradbenega materiala
+Q001735	Prodajalec kemikalij
+Q001736	Prodajalec kmetijske mehanizacije
+Q001737	Enolog
+Q001738	Prodajalec kmetijskih kemikalij
+Q001739	Prodajalec knjig
+Q001740	Prodajalec nakita
+Q001741	Prodajalec papirja in papirnih izdelkov
+Q001742	Prodajalec pohištva
+Q001743	Prodajalec strojniških izdelkov
+Q001744	Prodajalec športne opreme
+Q001745	Prodajalec tekstila
+Q001746	Prodajalec usnja, krzna in izdelkov iz usnja in krzna
+Q001747	Sprejemalec - blagajnik, izdelki za kemično čiščenje in pranje
+Q001748	Promotor prodaje
+Q001749	Delavec v avtomatski avtopralnici
+Q001750	Prodajalec bureka
+Q001751	Uradnik za najem, lizing plovil
+Q001752	Videotekar
+Q001753	Gasilec - preventivec
+Q001754	Predsednik občinskega sveta
+Q001755	Tehnolog za papirništvo
+Q001756	Gasilec - voznik
+Q001757	Poveljnik gasilske čete
+Q001758	Poveljnik gasilskega oddelka
+Q001759	Poveljnik gasilskega voda
+Q001760	Policist na meji
+Q001761	Prometni policist
+Q001762	Vodja izmene paznikov
+Q001763	Vodja skupine paznikov
+Q001764	Varnostnik čuvaj
+Q001765	Varnostnik nadzornik
+Q001766	Tehnolog za keramiko
+Q001767	Varnostnik telesni stražar
+Q001768	Redar na smučišču
+Q001769	Pridelovalec krompirja
+Q001770	Drevesničar trsničar
+Q001771	Semenar
+Q001772	Skupinovodja v vrtnarstvu ipd.
+Q001773	Urejevalec zelenic
+Q001774	Vrtnar povrtninar
+Q001775	Vrtnar pridelovalec
+Q001776	Vzdrževalec igrišča za golf
+Q001777	Tehnolog za gumarstvo
+Q001778	Govedorejec
+Q001779	Konjerejec
+Q001780	Kozjerejec
+Q001781	Ovčerejec
+Q001782	Prašičerejec
+Q001783	Skupinovodja v živinoreji
+Q001784	Rejec nojev
+Q001785	Rejec mačk
+Q001786	Tehnolog za steklarstvo
+Q001787	Rejec polžev
+Q001788	Rejec ptic
+Q001789	Skupinovodja v kmetijstvu
+Q001790	Drvar sekač
+Q001791	Gozdar sekač
+Q001792	Gozdarski gojitelj
+Q001793	Merilec lesa
+Q001794	Skupinovodja v ribogojstvu
+Q001795	Skupinovodja obalnih ribičev ipd.
+Q001796	Živilski tehnolog
+Q001797	Skupinovodja ribičev na odprtem morju
+Q001798	Metalurški pečar
+Q001799	Metalurški šamoter
+Q001800	Obzidovalec industrijskih peči
+Q001801	Zidar kurišč in dimnikov
+Q001802	Zidar za zidanje in ometavanje
+Q001803	Klesar kamna
+Q001804	Polirec kamna
+Q001805	Tehnolog za sintezo in predelavo polimerov
+Q001806	Rezalec kamna
+Q001807	Krivilec armature
+Q001808	Mizar za izdelovanje odrske opreme
+Q001809	Tesar opažev
+Q001810	Cestni preglednik
+Q001811	Polagalec asfalta
+Q001812	Krovec
+Q001813	Stavbni dekorater
+Q001814	Zastekljevalec vozil
+Q001815	Inštalater ogrevalnih naprav
+Q001816	Inštalater plinskih naprav
+Q001817	Inštalater vodovodnih naprav
+Q001818	Vodovodni inštalater
+Q001819	Inštalater klimatskih naprav
+Q001820	Monter hladilnih naprav
+Q001821	Monter klimatskih naprav
+Q001822	Monter prezračevalnih sistemov
+Q001823	Roletar
+Q001824	Črkoslikar
+Q001825	Slikopleskar
+Q001826	Jedrar
+Q001827	Kalupar
+Q001828	Livarski kalupar
+Q001829	Livarski modelar
+Q001830	Zvonar
+Q001831	Cevar
+Q001832	MIG/MAG-varilec
+Q001833	Ročno obločni varilec
+Q001834	TIG-varilec
+Q001835	Izdelovalec igrač iz kovin
+Q001836	Izdelovalec žičnih tkanin iz mrež
+Q001837	Kovinostrugar
+Q001838	Operater na CNC-brusilnem stroju, kovinarstvo
+Q001839	Operater na CNC-rezkalnem stroju, kovinarstvo
+Q001840	Operater na CNC-stiskalnem stroju, kovinarstvo
+Q001841	Operater na CNC-stroju za skobljanje kovin, kovinarstvo
+Q001842	Operater na CNC-stroju za struženje kovin, kovinarstvo
+Q001843	Operater na CNC-varilnem stroju, kovinarstvo
+Q001844	Operater na CNC-vrtalnem stroju, kovinarstvo
+Q001845	Operater na CNC-žično krivilnem stroju, kovinarstvo
+Q001846	Upravljavec strojev za brušenje kovin
+Q001847	Upravljavec strojev za rezkanje kovin
+Q001848	Upravljavec strojev za skobljanje kovin
+Q001849	Upravljavec strojev za stiskanje kovin
+Q001850	Upravljavec strojev za varjenje kovin
+Q001851	Inženir rudarstva, projektant
+Q001852	Upravljavec strojev za vrtanje kovin
+Q001853	Upravljavec stružnice
+Q001854	Avtomehanik
+Q001855	Mehanik za avtobuse
+Q001856	Mehanik za motorna dvokolesa
+Q001857	Mehanik za tovornjake
+Q001858	Mehanik za traktorje
+Q001859	Tehnik kontrolor vozil
+Q001860	Ladijski mazalec
+Q001861	Ladijski mehanik
+Q001862	Inženir naftnega rudarstva
+Q001863	Mazalec železniških vozil
+Q001864	Mehanik, rudarski
+Q001865	Mehanik fotovoltaičnih sklopov in naprav (sončne celice)
+Q001866	Mehanik kmetijskih strojev in naprav
+Q001867	Mehanik kogeneracijskih naprav
+Q001868	Mehanik tiskarskih strojev
+Q001869	Metalurg
+Q001870	Mehanik vodnočistilnih naprav
+Q001871	Mehanik za železniška vozila
+Q001872	Monter energetskih strojev in naprav
+Q001873	Monter fotovoltaičnih sklopov in naprav (sončne celice)
+Q001874	Monter industrijskih strojev in naprav
+Q001875	Monter kogeneracijskih naprav
+Q001876	Monter rudarskih strojev
+Q001877	Tehnolog za metalurgijo
+Q001878	Monter tiskarskih strojev
+Q001879	Monter vodnočistilnih naprav
+Q001880	Serviser pisarniških strojev
+Q001881	Skrbnik procesnih naprav - mehatronik
+Q001882	Strojni vzdrževalec, proizvodnja
+Q001883	Vzdrževalec fotovoltaičnih sklopov in naprav (sončne celice)
+Q001884	Vzdrževalec gradbenih strojev
+Q001885	Vzdrževalec hidravličnih in pnevmatskih naprav
+Q001886	Vzdrževalec kogeneracijskih naprav
+Q001887	Vzdrževalec v metalurgiji
+Q001888	Vzdrževalec v proizvodnji
+Q001889	Izdelovalec fotografske opreme
+Q001890	Izdelovalec ortopedskih in drugih zdravstvenih pripomočkov
+Q001891	Izdelovalec preciznih kirurških naprav in opreme
+Q001892	Izdelovalec preciznih meteoroloških naprav in opreme
+Q001893	Serviser fotografske opreme
+Q001894	Serviser optičnih pripomočkov in naprav
+Q001895	Serviser preciznih kirurških naprav in opreme
+Q001896	Serviser preciznih meteoroloških naprav in opreme
+Q001897	Izdelovalec godal
+Q001898	Izdelovalec harmonik
+Q001899	Izdelovalec kovinskih pihalnih instrumentov
+Q001900	Izdelovalec lesenih pihalnih instrumentov
+Q001901	Filigranist
+Q001902	Srebrar
+Q001903	Zlatar graver
+Q001904	Brusilec kristalnega stekla
+Q001905	Rezalec kristalnega stekla
+Q001906	Steklar polirec
+Q001907	Steklobrusilec
+Q001908	Steklopihalec krogličar
+Q001909	Steklopihalec nad odprtim plamenom
+Q001910	Steklopihalec
+Q001911	Steklorezalec
+Q001912	Steklorezalec za optično steklo
+Q001913	Dekorater keramike
+Q001914	Emajler keramike
+Q001915	Slikar za keramiko
+Q001916	Stekloslikar
+Q001917	Stekloslikar za ročno slikanje stekla
+Q001918	Vitražist
+Q001919	Reprograf
+Q001920	Inženir za logistiko
+Q001921	Ofsettiskar
+Q001922	Ročni sitotiskar na kovine
+Q001923	Ročni sitotiskar na papir
+Q001924	Ročni sitotiskar na tekstilije
+Q001925	Sitotiskar
+Q001926	Knjigoveški tehnik
+Q001927	Upravljavec knjigoveških strojev za reliefni tisk
+Q001928	Električar v rudniku
+Q001929	Tehnolog za promet
+Q001930	Elektroinštalater, specialist
+Q001931	Elektromehanik za ladje
+Q001932	Elektromehanik, rudarski
+Q001933	Elektromehanik proizvodnih strojev in naprav
+Q001934	Elektromehanik signalnih naprav
+Q001935	Elektromehanik telekomunikacij
+Q001936	Elektromehanik za gospodinjske aparate
+Q001937	Elektromehanik za letala
+Q001938	Elektromehanik za železniška vozila
+Q001939	Elektromehanik železniških postrojev
+Q001940	Generalni sekretar državnega zbora
+Q001941	Elektromonter elektroenergetskih postrojev
+Q001942	Elektromonter proizvodnih strojev in naprav
+Q001943	Mehanik letalskih elektronskih naprav
+Q001944	Monter električnih sklopov
+Q001945	Mehanik elektronskih pisarniških strojev
+Q001946	Monter elektronskih medicinskih naprav
+Q001947	Monter elektronskih meteoroloških naprav
+Q001948	Monter elektronskih radarskih naprav
+Q001949	Mehanik avdio-video naprav in opreme
+Q001950	Mehanik naprav za prenos podatkov
+Q001951	Monter elektronske računalniške opreme
+Q001952	Monter elektronskih avdio-video naprav in opreme
+Q001953	Monter telekomunikacijskega omrežja
+Q001954	Računalniški serviser
+Q001955	Inženir lesarstva
+Q001956	RTV mehanik
+Q001957	RTV monter
+Q001958	Serviser računalniške opreme
+Q001959	Serviser terminalskih naprav (pri naročnikih)
+Q001960	Skupinovodja mehanikov in serviserjev telekomunikacijskih naprav
+Q001961	Vzdrževalec POS terminalov
+Q001962	Vzdrževalec računalniške strojne opreme
+Q001963	Mesar perutninar
+Q001964	Inženir tekstilstva
+Q001965	Mesar, prodajalec
+Q001966	Mesar, razsekovalec
+Q001967	Pripravljalec bureka
+Q001968	Izdelovalec osnovnih vrst kruha
+Q001969	Izdelovalec pekovskega peciva
+Q001970	Izdelovalec pekovskih izdelkov hitre hrane in pekovskih polizdelkov
+Q001971	Izdelovalec sladic
+Q001972	Izdelovalec trajnega peciva
+Q001973	Prestar
+Q001974	Slaščičar dekorater
+Q001975	Tehnolog v grafični industriji
+Q001976	Slaščičar konditor
+Q001977	Izdelovalec fermentiranih mlečnih izdelkov
+Q001978	Izdelovalec sadnih in zelenjavnih sokov
+Q001979	Predelovalec zelenjave na neindustrijski način
+Q001980	Kontrolor mleka
+Q001981	Impregnator lesa
+Q001982	Sušilničar lesa
+Q001983	Intarzist
+Q001984	Kolar
+Q001985	Mizar stilnega pohištva
+Q001986	Tehnolog za tekstilstvo
+Q001987	Modelni mizar
+Q001988	Skupinovodja mizarjev
+Q001989	Upravljavec strojev za proizvodnjo drugih lesenih izdelkov
+Q001990	Upravljavec strojev za proizvodnjo pohištva
+Q001991	Upravljavec strojev za proizvodnjo stavbnega pohištva
+Q001992	Šiviljec, neindustrijski način dela
+Q001993	Krojilec klobučar
+Q001994	Krojilec konfekcije
+Q001995	Krojilec rokavic
+Q001996	Tehnolog za usnjarstvo in krznarstvo
+Q001997	Izdelovalec preprog
+Q001998	Šivalec tapetnik
+Q001999	Šivalec, neindustrijski način dela
+Q002000	Izdelovalec spodnjih delov obutve
+Q002001	Izdelovalec zgornjih delov obutve
+Q002002	Inženir usnjarstva in krznarstva
+Q002003	Kontrolor izdelkov iz lesa
+Q002004	Deratizator
+Q002005	Dezinsektor
+Q002006	Rudar miner
+Q002007	Rudar geovrtanja
+Q002008	Rudar naftnega rudarstva
+Q002009	Rudar za izdelavo podzemnih objektov
+Q002010	Rudar za jamske gradnje
+Q002011	Rudar za podzemno pridobivanje mineralnih surovin
+Q002012	Rudar za površinsko pridobivanje mineralnih surovin
+Q002013	Inženir predelave usnja in krzna
+Q002014	Rudarski strojnik
+Q002015	Upravljavec strojev in naprav za bogatenje rude in kamnin
+Q002016	Upravljavec strojev in naprav za drobljenje rude in kamnin
+Q002017	Upravljavec strojev in naprav za flotacijo rude in kamnin
+Q002018	Upravljavec strojev in naprav za mletje rude in kamnin
+Q002019	Cementninar
+Q002020	Izdelovalec betonskih elementov
+Q002021	Izdelovalec betonskih gradbenih elementov
+Q002022	Adjuster metalurških izdelkov
+Q002023	Industrijski kalilec
+Q002024	Tehnolog predelave usnja in krzna
+Q002025	Industrijski livar
+Q002026	Industrijski talilec livar
+Q002027	Industrijski talilec
+Q002028	Industrijski valjavec
+Q002029	Industrijski žarilec
+Q002030	Industrijski žičar
+Q002031	Lužilec kovin
+Q002032	Oblikovalec profilov
+Q002033	Obrusilec ulitkov
+Q002034	Sekretar sekretariata za zakonodajo in pravne zadeve
+Q002035	Inženir za varnost pri delu
+Q002036	Talilec livar
+Q002037	Upravljavec peči za plemenitenje kovin
+Q002038	Upravljavec peči za predelavo kovin
+Q002039	Upravljavec procesnih linij za predelavo ferita
+Q002040	Upravljavec procesnih strojev in naprav za pridobivanje kovin
+Q002041	Upravljavec strojev za lakiranje kovin
+Q002042	Upravljavec strojev za vlivanje kovin
+Q002043	Upravljavec talilnih peči
+Q002044	Inšpektor za nadzor varnosti na smučiščih
+Q002045	Upravljavec talilnih peči za pridobivanje drugih kovin
+Q002046	Upravljavec talilnih peči za pridobivanje železa
+Q002047	Valjavec pločevine
+Q002048	Valjavec trakov
+Q002049	Valjavec žice
+Q002050	Emajler kovin
+Q002051	Galvanizer kovin
+Q002052	Upravljavec strojev za galvaniziranje kovinskih delov
+Q002053	Procesničar v laboratorijih farmacevtske industrije
+Q002054	Procesničar v proizvodnji farmacevtskih učinkovin
+Q002055	Proizvodni procesničar v farmacevtski industriji
+Q002056	Upravljavec naprav za proizvodnjo apna
+Q002057	Upravljavec naprav za proizvodnjo bitumenskih-katranskih proizvodov
+Q002058	Upravljavec naprav za proizvodnjo cementa
+Q002059	Upravljavec naprav za proizvodnjo gipsa
+Q002060	Upravljavec strojev za proizvodnjo koksa
+Q002061	Upravljavec strojev za proizvodnjo linoleja
+Q002062	Upravljavec strojev za proizvodnjo pralnih sredstev
+Q002063	Upravljavec strojev za proizvodnjo sintetičnih vlaken
+Q002064	Upravljavec strojev za proizvodnjo sveč
+Q002065	Upravljavec strojev za proizvodnjo umetnega usnja
+Q002066	Upravljavec strojev za proizvodnjo vžigalic
+Q002067	Upravljavec v proizvodnji farmacevtskih učinkovin
+Q002068	Filmski laborant
+Q002069	Inženir elektrotehnike
+Q002070	Mikrofilmar, razvijalec
+Q002071	Mikrofilmar
+Q002072	Povečevalec ali zmanjševalec posnetkov
+Q002073	Upravljavec strojev za obdelavo filmov
+Q002074	Upravljavec strojev za povečanje ali zmanjšanje fotografij
+Q002075	Upravljavec strojev za razvijanje fotografij
+Q002076	Industrijski izdelovalec pnevmatik
+Q002077	Upravljavec strojev za proizvodnjo gumenih polizdelkov
+Q002078	Upravljavec strojev za proizvodnjo gumenotehničnih izdelkov
+Q002079	Izdelovalec plastične embalaže
+Q002080	Izdelovalec plastičnih igrač
+Q002081	Izdelovalec plastičnih laminatov
+Q002082	Oblikovalec armiranih izdelkov iz sintetičnih večkomponentnih materialov
+Q002083	Oblikovalec poliuretana
+Q002084	Plastilec polimernih snovi
+Q002085	Predelovalec plastike
+Q002086	Rezalec plastike
+Q002087	Vbrizgovalec plastike
+Q002088	Inženir elektroenergetike, projektant
+Q002089	Dodelovalec tiskovin
+Q002090	Predilec - strojni
+Q002091	Pletilec - strojni
+Q002092	Inženir elektroenergetike, svetovalec
+Q002093	Pletilec
+Q002094	Tkalec - strojni
+Q002095	Tkalec
+Q002096	Upravljavec strojev za proizvodnjo preprog
+Q002097	Upravljavec strojev za proizvodnjo tapiserij
+Q002098	Upravljavec strojev za proizvodnjo vrvi
+Q002099	Dodelovalec usnjenih in krznenih oblačil
+Q002100	Konfekcijski šivalec
+Q002101	Šivalec oblačil, industrijski način dela
+Q002102	Tehnolog elektrotehnike
+Q002103	Šivalec usnjenih in krznenih oblačil
+Q002104	Upravljavec strojev za vezenje
+Q002105	Dodelovalec usnja in krzna
+Q002106	Industrijski strojar usnja in krzna
+Q002107	Elektroenergetski inšpektor
+Q002108	Upravljavec strojev za proizvodnjo usnja
+Q002109	Dodelovalec obutve
+Q002110	Dodelovalec usnjene galanterije
+Q002111	Sestavljalec obutve
+Q002112	Šivalec obutve
+Q002113	Šivalec usnjene galanterije
+Q002114	Krojilec tekstilij - strojni
+Q002115	Krojilec obutve
+Q002116	Krojilec usnjene galanterije
+Q002117	Sekretar poslanske skupine
+Q002118	Inženir elektroenergetike, vodja del
+Q002119	Krojilec usnjenih in krznenih oblačil
+Q002120	Operater polagalnega stroja pri avtomatskem krojenju
+Q002121	Upravljavec stroja za izsek tekstilnih polizdelkov
+Q002122	Estraher
+Q002123	Industrijski izdelovalec cigar in drugih tobačnih izdelkov
+Q002124	Industrijski izdelovalec drugih živil
+Q002125	Industrijski predelovalec tobaka
+Q002126	Industrijski pripravljalec tobaka
+Q002127	Izdelovalec industrijsko pripravljenih jedi
+Q002128	Inženir elektrotehnike, vodja del
+Q002129	Mlinar
+Q002130	Pivovar
+Q002131	Predelovalec zdravilnih zelišč
+Q002132	Pripravljalec rastlinskega izvlečka
+Q002133	Sodavičar
+Q002134	Upravljavec stroja za predelavo čaja
+Q002135	Upravljavec stroja za predelavo kakava
+Q002136	Upravljavec strojev za mletje kavovin
+Q002137	Upravljavec strojev za mletje začimb
+Q002138	Inženir elektrotehnike, projektant
+Q002139	Upravljavec strojev za mletje žita
+Q002140	Upravljavec strojev za mletje živinske krme
+Q002141	Upravljavec strojev za predelavo konzerviranega mesa
+Q002142	Upravljavec strojev za predelavo medu
+Q002143	Upravljavec strojev za predelavo mesa
+Q002144	Upravljavec strojev za predelavo rib
+Q002145	Upravljavec strojev za predelavo zamrznjenih rib
+Q002146	Pooblaščeni inženir varnostnih sistemov
+Q002147	Upravljavec strojev za predelavo zelenjave
+Q002148	Upravljavec strojev za proizvodnjo konditorskih izdelkov
+Q002149	Upravljavec strojev za proizvodnjo kruha in peciva
+Q002150	Upravljavec strojev za proizvodnjo mlečnih izdelkov
+Q002151	Upravljavec strojev za proizvodnjo mleka v prahu
+Q002152	Upravljavec strojev za proizvodnjo nerafiniranega sladkorja
+Q002153	Upravljavec strojev za proizvodnjo pasteriziranega mleka
+Q002154	Projektant varnostnih sistemov
+Q002155	Upravljavec strojev za proizvodnjo pekovskega kvasa
+Q002156	Upravljavec strojev za proizvodnjo piva
+Q002157	Upravljavec strojev za proizvodnjo sadnih sokov
+Q002158	Upravljavec strojev za proizvodnjo sladkorja
+Q002159	Upravljavec strojev za proizvodnjo slaščic
+Q002160	Upravljavec strojev za proizvodnjo testenin
+Q002161	Upravljavec strojev za proizvodnjo tobaka in tobačnih izdelkov
+Q002162	Tehnični preglednik za vgrajene sisteme aktivne požarne zaščite (električna napeljava)
+Q002163	Upravljavec strojev za proizvodnjo zelenjavnih sokov
+Q002164	Upravljavec strojev za proizvodnjo žganih pijač
+Q002165	Upravljavec stiskalnice za papir
+Q002166	Upravljavec strojev za struženje lesa za pripravo papirjevine
+Q002167	Upravljavec iverilnika
+Q002168	Upravljavec polnojarmenika
+Q002169	Upravljavec sekalnega stroja
+Q002170	Upravljavec stiskalnice za iverne ali vlaknene plošče
+Q002171	Upravljavec stiskalnice za panelne plošče
+Q002172	Upravljavec stiskalnice za vezane plošče
+Q002173	Upravljavec stroja za razvlaknjevanje
+Q002174	Izdelovalec brusov
+Q002175	Skupinovodja steklarskih, keramijskih in podobnih procesnih strojev in naprav
+Q002176	Upravljavec peči za keramiko
+Q002177	Upravljavec strojev in naprav za proizvodnjo keramike
+Q002178	Upravljavec strojev za brušenje stekla
+Q002179	Inženir elektronike
+Q002180	Upravljavec strojev za mešanje sestavin za glino
+Q002181	Upravljavec strojev za mešanje sestavin za proizvodnjo stekla
+Q002182	Upravljavec strojev za pihanje stekla
+Q002183	Upravljavec strojev za proizvodnjo lončevine
+Q002184	Upravljavec strojev za proizvodnjo porcelana
+Q002185	Kurjač v kotlovnici
+Q002186	Sestavljalec avdiovizualnih naprav in opreme
+Q002187	Sestavljalec električnih delov
+Q002188	Tehnolog elektronike
+Q002189	Sestavljalec elektronskih pisarniških naprav in opreme
+Q002190	Sestavljalec elektronskih sklopov
+Q002191	Sestavljalec mikroelektronskih vezij
+Q002192	Sestavljalec računalniških naprav in opreme
+Q002193	Sestavljalec tiskanih vezij
+Q002194	Sestavljalec žičnih spletov
+Q002195	Izdelovalec, sestavljalec lesenih senčil
+Q002196	Izdelovalec, sestavljalec plastičnih senčil
+Q002197	Izdelovalec, sestavljalec kovinskih senčil
+Q002198	Kompletirec keramičnih izdelkov
+Q002199	Inženir elektroavtomatike
+Q002200	Sestavljalec izdelkov iz kartona
+Q002201	Sestavljalec stolov
+Q002202	Pomočnik strojevodje
+Q002203	Strojevodja za premik
+Q002204	Voznik lokomotive v kamnolomu
+Q002205	Voznik lokomotive v rudniku
+Q002206	Voznik progovnih vozil
+Q002207	Kretničar
+Q002208	Preglednik vagonov
+Q002209	Sekretar delovnega telesa državnega zbora
+Q002210	Premikač
+Q002211	Voznik cisterne za prevoz nevarnih snovi
+Q002212	Voznik cisterne za prevoz tekočih snovi
+Q002213	Voznik prekucnika
+Q002214	Voznik težkega tovornjaka
+Q002215	Voznik tovornjaka za prevoz kamenja
+Q002216	Voznik tovornjaka za prevoz lesa
+Q002217	Voznik tovornjaka za prevoz nevarnih snovi
+Q002218	Inženir mehatronik
+Q002219	Voznik tovornjaka za prevoz rude in premoga
+Q002220	Voznik tovornjaka za vleko avtomobilov
+Q002221	Gozdar traktorist
+Q002222	Skupinovodja strojnega parka v kmetijstvu
+Q002223	Upravljavec kombajna
+Q002224	Upravljavec mlatilnice
+Q002225	Upravljavec bagra
+Q002226	Upravljavec buldožerja
+Q002227	Upravljavec nakladalca
+Q002228	Upravljavec naprav za zasneževanje
+Q002229	Upravljavec strojev za zemeljska dela
+Q002230	Upravljavec valjarja
+Q002231	Voznik, serviser WC-kabin
+Q002232	Voznik teptalca na smučišču
+Q002233	Zasneževalec
+Q002234	Upravljavec gozdarske žičnice
+Q002235	Upravljavec gradbenega dvigala
+Q002236	Upravljavec kabelskega žerjava
+Q002237	Upravljavec metalurškega žerjava
+Q002238	Inženir telekomunikacij
+Q002239	Upravljavec mostnega žerjava
+Q002240	Upravljavec premičnega žerjava
+Q002241	Upravljavec pristaniškega žerjava
+Q002242	Upravljavec rudniškega dvigala
+Q002243	Upravljavec smučarske žičnice
+Q002244	Upravljavec traktorskega žerjava
+Q002245	Upravljavec železniškega žerjava
+Q002246	Mornar - motorist
+Q002247	Čistilec notranjosti avtobusa
+Q002248	Čistilec notranjosti letal
+Q002249	Inženir telekomunikacij za govorne storitve (telefonija)
+Q002250	Čistilec notranjosti vlakov
+Q002251	Delavec v javnih sanitarijah
+Q002252	Strežnik v socialnovarstvenem zavodu
+Q002253	Strežnik v zdravstvenem zavodu
+Q002254	Razvrščevalec izdelkov za kemično čiščenje in pranje
+Q002255	Sortirec perila za čiščenje in pranje
+Q002256	Pralec vozil v ročni avtopralnici
+Q002257	Obiralec hmelja
+Q002258	Obiralec sadja
+Q002259	Delavec za preprosta perutninarska dela
+Q002260	Inženir telekomunikacij za negovorne storitve (prenos podatkov)
+Q002261	Hlevar
+Q002262	Pastir
+Q002263	Spravljač lesa
+Q002264	Kopač v kamnolomu
+Q002265	Kopač v rudniku
+Q002266	Delavec za preprosta dela pri gradnji cest
+Q002267	Delavec za preprosta dela pri gradnji in vzdrževanju vodovodnih cevovodov
+Q002268	Delavec za preprosta dela pri gradnji jezov
+Q002269	Delavec za preprosta dela pri vzdrževanju cest
+Q002270	Inženir telekomunikacij za radio in televizijo
+Q002271	Delavec za preprosta dela pri gradnji stavb
+Q002272	Delavec za preprosta dela pri podiranju stavb
+Q002273	Delavec za preprosta tesarska dela
+Q002274	Delavec za preprosta zidarska dela
+Q002275	Delavec za preprosta dela v proizvodnji feritov
+Q002276	Delavec za preprosta dela v proizvodnji predelave usnja in krzna
+Q002277	Delavec za preprosta dela v proizvodnji usnja in krzna
+Q002278	Delavec za preprosta konfekcijska dela
+Q002279	Oskrbovalec proizvodne linije z materialom
+Q002280	Tehnolog telekomunikacij
+Q002281	Ročni delavec za letvičenje lesa
+Q002282	Ročni delavec za zlaganje in prekladanje izdelkov
+Q002283	Ročni delavec za zlaganje in prekladanje lesa
+Q002284	Ročni pomivalec embalaže
+Q002285	Ročni sestavljalec komponent
+Q002286	Ročni sortirec opeke
+Q002287	Ročni sortirec steklenic
+Q002288	Ročni zlagalec opeke
+Q002289	Manipulant vagončkov tunelske peči za žganje opeke
+Q002290	Voznik akumulatorskih vozičkov
+Q002291	Inženir v proizvodnji telematike
+Q002292	Fijaker
+Q002293	Kočijaž
+Q002294	Nakladalec
+Q002295	Prenašalec izdelkov
+Q002296	Razkladalec
+Q002297	Skladiščni delavec
+Q002298	Sortirec prtljage
+Q002299	Pripravljalec kebaba
+Q002300	Raznašalec brezplačnikov
+Q002301	Raznašalec letakov
+Q002302	Kolporter
+Q002303	Krošnjar
+Q002304	Poulični prodajalec časopisov
+Q002305	Dostavljevec časopisov
+Q002306	Raznašalec sporočil
+Q002307	Chiper
+Q002308	Oskrbovalec avtomatov toplih napitkov
+Q002309	Biljeter
+Q002310	Delavec za preprosta gledališka, odrska dela
+Q002311	Generalni sekretar vlade
+Q002312	Gledališki vrviščar
+Q002313	Strežnik na žičniški napravi
+Q002314	Receptor v zdravstveni ustanovi
+Q002315	Receptor v podjetju
+Q002316	Receptor v wellness centru
+Q002317	Poulični prodajalec kokic
+Q002318	Poulični prodajalec palačink
+Q002319	Pomočnik v kuhinji
+Q002320	Učitelj slovenščine v osnovni šoli
+Q002321	Učitelj matematike v osnovni šoli
+Q002322	Arhitekt
+Q002323	Učitelj športne vzgoje v osnovni šoli
+Q002324	Učitelj angleščine v osnovni šoli
+Q002325	Učitelj nemščine v osnovni šoli
+Q002326	Učitelj naravoslovja v osnovni šoli
+Q002327	Učitelj državljanske in domovinske vzgoje ter etike
+Q002328	Učitelj italijanščine v osnovni šoli
+Q002329	Učitelj madžarščine v osnovni šoli
+Q002330	Učitelj slovenščine v srednji šoli
+Q002331	Učitelj angleščine v srednji šoli
+Q002332	Učitelj nemščine v srednji šoli
+Q002333	Učitelj francoščine v srednji šoli
+Q002334	Učitelj italijanščine v srednji šoli
+Q002335	Učitelj španščine v srednji šoli
+Q002336	Učitelj ruščine v srednji šoli
+Q002337	Učitelj latinščine v srednji šoli
+Q002338	Učitelj grščine v srednji šoli
+Q002339	Učitelj madžarščine v srednji šoli
+Q002340	Učitelj športne vzgoje v srednji šoli
+Q002341	Učitelj glasbe v srednji šoli
+Q002342	Učitelj likovne umetnosti v srednji šoli
+Q002343	Krajinski arhitekt
+Q002344	Učitelj informatike v srednji šoli
+Q002345	Učitelj likovnega snovanja v srednji šoli
+Q002346	Učitelj študij okolja v srednji šoli
+Q002347	Učitelj umetnosti v srednji šoli
+Q002348	Učitelj družboslovja v srednji šoli
+Q002349	Učitelj naravoslovja v srednji šoli
+Q002350	Poulični prodajalec popcorna
+Q002351	Športnik, rokometaš
+Q002352	Športnik, nogometaš
+Q002353	Športnik, alpski smučar
+Q002354	Športnik, atlet
+Q002355	Športnik, hokejist
+Q002356	Športnik, kolesar
+Q002357	Športnik, plavalec
+Q002358	Športnik, teniški igralec
+Q002359	Športnik, košarkaš
+Q002360	Športnik, odbojkar
+Q002361	Športnik, plezalec
+Q002362	Športnik, boksar
+Q002363	Športnik, voznik dirkač
+Q002364	Industrijski oblikovalec
+Q002365	Športnik, šahist
+Q002366	Športnik, smučarski skoki
+Q002367	Športnik, smučarski teki
+Q002368	Športnik, judoist
+Q002369	Športnik, alpinist
+Q002370	Ravnatelj organizacijske enote vzgojno-izobraževalnega zavoda
+Q002371	Modni oblikovalec
+Q002372	Učitelj ekonomskih strokovnih modulov v srednji šoli
+Q002373	Učitelj elektrotehniških strokovnih modulov v srednji šoli
+Q002374	Učitelj gastronomsko-turističnih strokovnih modulov v srednji šoli
+Q002375	Učitelj geodetskih strokovnih modulov v srednji šoli
+Q002376	Učitelj gozdarskih strokovnih modulov v srednji šoli
+Q002377	Učitelj gradbenih strokovnih modulov v srednji šoli
+Q002378	Učitelj grafičnih strokovnih modulov v srednji šoli
+Q002379	Učitelj kmetijsko-hortikulturnih strokovnih modulov v srednji šoli
+Q002380	Učitelj lesarskih strokovnih modulov v srednji šoli
+Q002381	Učitelj storitvenih strokovnih modulov v srednji šoli
+Q002382	Modni stilist
+Q002383	Učitelj strojniških strokovnih modulov v srednji šoli
+Q002384	Učitelj tekstilnih strokovnih modulov v srednji šoli
+Q002385	Učitelj veterinarskih strokovnih modulov v srednji šoli
+Q002386	Učitelj zdravstvenih strokovnih modulov v srednji šoli
+Q002387	Učitelj živilskih strokovnih modulov v srednji šoli
+Q002388	Učitelj ekonomskih strokovnoteoretičnih predmetov v srednji šoli
+Q002389	Učitelj praktičnega pouka ekonomskih strokovnih modulov
+Q002390	Učitelj praktičnega pouka elektrotehniških strokovnih modulov
+Q002391	Učitelj praktičnega pouka geodetskih strokovnih modulov
+Q002392	Učitelj praktičnega pouka geotehniških strokovnih modulov
+Q002393	Učitelj praktičnega pouka gozdarskih strokovnih modulov
+Q002394	Učitelj praktičnega pouka gradbenih strokovnih modulov
+Q002395	Učitelj praktičnega pouka grafičnih strokovnih modulov
+Q002396	Učitelj praktičnega pouka kemijskih strokovnih modulov
+Q002397	Učitelj praktičnega pouka kmetijsko-hortikulturnih strokovnih modulov
+Q002398	Učitelj praktičnega pouka lesarskih strokovnih modulov
+Q002399	Učitelj praktičnega pouka logističnih strokovnih modulov
+Q002400	Učitelj praktičnega pouka oblikovnih strokovnih modulov
+Q002401	Prostorski načrtovalec
+Q002402	Učitelj praktičnega pouka okoljevarstvenih strokovnih modulov
+Q002403	Učitelj praktičnega pouka pomorskih strokovnih modulov
+Q002404	Učitelj praktičnega pouka računalniških strokovnih modulov
+Q002405	Učitelj praktičnega pouka storitvenih strokovnih modulov
+Q002406	Učitelj praktičnega pouka strojniških strokovnih modulov
+Q002407	Učitelj praktičnega pouka tekstilnih strokovnih modulov
+Q002408	Učitelj praktičnega pouka veterinarskih strokovnih modulov
+Q002409	Učitelj praktičnega pouka zdravstvenih strokovnih modulov
+Q002410	Učitelj praktičnega pouka živilskih strokovnih modulov
+Q002411	Ravnatelj zavoda za otroke in mladostnike s posebnimi potrebami
+Q002412	Predstojnik vladne službe
+Q002413	Prometni načrtovalec
+Q002414	Direktor zavoda za otroke in mladostnike s posebnimi potrebami
+Q002415	Učitelj matematike v srednji šoli
+Q002416	Učitelj fizike v srednji šoli
+Q002417	Učitelj kemije v srednji šoli
+Q002418	Učitelj biologije v srednji šoli
+Q002419	Učitelj geografije v srednji šoli
+Q002420	Učitelj zgodovine v srednji šoli
+Q002421	Učitelj psihologije v srednji šoli
+Q002422	Učitelj sociologije v srednji šoli
+Q002423	Učitelj filozofije v srednji šoli
+Q002424	Urbanist
+Q002425	Učitelj umetnostne zgodovine v srednji šoli
+Q002426	Učitelj pedagogike v srednji šoli
+Q002427	Gostujoči učitelj tujega jezika v srednji šoli
+Q002428	Srednješolski učitelj za računalniške predmete
+Q002429	Učitelj francoščine v osnovni šoli
+Q002430	Učitelj hrvaščine v osnovni šoli
+Q002431	Učitelj latinščine v osnovni šoli
+Q002432	Učitelj likovne vzgoje v osnovni šoli
+Q002433	Učitelj glasbene vzgoje v osnovni šoli
+Q002434	Učitelj zgodovine v osnovni šoli
+Q002435	Urbanistični inšpektor
+Q002436	Učitelj geografije v osnovni šoli
+Q002437	Učitelj fizike v osnovni šoli
+Q002438	Učitelj kemije v osnovni šoli
+Q002439	Učitelj biologije v osnovni šoli
+Q002440	Učitelj gospodinjstva v osnovni šoli
+Q002441	Učitelj tehnike in tehnologije v osnovni šoli
+Q002442	Gostujoči učitelj tujega jezika v osnovni šoli
+Q002443	Svetovalec za poklicno izobraževanje
+Q002444	Razvojni svetovalec za poklicno izobraževanje
+Q002445	Nacionalni svetovalec za poklicno izobraževanje
+Q002446	Učitelj predšolske glasbene vzgoje
+Q002447	Učitelj glasbene pripravnice
+Q002448	Učitelj solfeggia
+Q002449	Učitelj orgel
+Q002450	Učitelj viole
+Q002451	Učitelj violončela
+Q002452	Učitelj harfe
+Q002453	Učitelj kljunaste flavte
+Q002454	Kartograf
+Q002455	Učitelj oboe
+Q002456	Učitelj klarineta
+Q002457	Učitelj fagota
+Q002458	Učitelj roga
+Q002459	Učitelj pozavne
+Q002460	Učitelj tube
+Q002461	Učitelj koničnih trobil
+Q002462	Učitelj tolkal
+Q002463	Učitelj petja
+Q002464	Učitelj diatonične harmonike
+Q002465	Geodet
+Q002466	Učitelj citer
+Q002467	Učitelj tamburic
+Q002468	Učitelj sodobnega plesa v glasbeni šoli
+Q002469	Učitelj baleta v glasbeni šoli
+Q002470	Računalnikar-organizator informacijskih dejavnosti v vzgoji in izobraževanju
+Q002471	Organizator praktičnega usposabljanja z delom v vzgoji in izobraževanju
+Q002472	Organizator izobraževanja odraslih v vzgoji in izobraževanju
+Q002473	Organizator šolske prehrane
+Q002474	Geoinformacijski tehnolog
+Q002475	Trener športnega plesa
+Q002476	Trener smučanja (tekmovalni šport)
+Q002477	Trener hokeja
+Q002478	Trener košarke
+Q002479	Trener plavanja
+Q002480	Vodnik kanuja
+Q002481	Agent v kontaktnem centru, prodaja
+Q002482	Animator otrok
+Q002483	Arhitekt informacijskih sistemov
+Q002484	Fotogrametrik
+Q002485	Arhitekt podatkovnih baz
+Q002486	Arhitekt spletnih strani
+Q002487	Asistent za komunikacijo v slovenskem znakovnem jeziku
+Q002488	Blagajnik v igralnici
+Q002489	Bolnišnični farmacevt
+Q002490	Dostavljavec hitre hrane
+Q002491	Družinski pomočnik
+Q002492	Farmacevtski inšpektor
+Q002493	Finančni kontroler
+Q002494	Fizioterapevt hipoterapevt
+Q002495	Inštruktor za španščino
+Q002496	Inštruktor jahanja
+Q002497	Inštruktor psov
+Q002498	Inštruktor za angleščino
+Q002499	Inštruktor za arabščino
+Q002500	Inštruktor za biologijo
+Q002501	Inštruktor za ekonomijo in poslovne predmete
+Q002502	Grafični oblikovalec
+Q002503	Inštruktor za elektrotehniko
+Q002504	Inštruktor za fiziko
+Q002505	Inštruktor za francoščino
+Q002506	Inštruktor za italijanščino
+Q002507	Inštruktor za izobraževalne predmete (zasebni)
+Q002508	Inštruktor za kemijo
+Q002509	Inštruktor za kitajščino
+Q002510	Inštruktor za matematiko
+Q002511	Inštruktor za nemščino
+Q002512	Inštruktor za portugalščino
+Q002513	Inštruktor za računalništvo in informatiko
+Q002514	Inštruktor za ruščino
+Q002515	Inštruktor za slovenščino
+Q002516	Inštruktor za statistiko
+Q002517	Inštruktor za tuje jezike
+Q002518	Izdelovalec izdelkov iz filca
+Q002519	Izdelovalec izdelkov iz polsti
+Q002520	Izdelovalec spletnih strani
+Q002521	Izvajalec strojnih estrihov
+Q002522	Izvajalec strojnih ometov
+Q002523	Klinični logoped
+Q002524	Komercialni zastopnik
+Q002525	Kondicijski trener (rekreacija)
+Q002526	Kondicijski trener (tekmovalni šport)
+Q002527	Kontroler poslovanja
+Q002528	Kontrolor tehničnih pregledov motornih vozil
+Q002529	Laminator pri izdelavi letal
+Q002530	Laminator v navtiki
+Q002531	Lekarniški farmacevt
+Q002532	Menedžer turistične agencije
+Q002533	Mentor inštruktor v klicnem centru, prodaja
+Q002534	Monter cevi
+Q002535	Nadzornik linije za proizvodnjo izdelkov iz plastičnih mas
+Q002536	Nadzornik v klicnem centru, anketiranje
+Q002537	Nadzornik v klicnem centru, posredovanje informacij
+Q002538	Natakarski pomočnik
+Q002539	Oblikovalec spletnih strani
+Q002540	Odvetniški pripravnik
+Q002541	Operater na CNC-stroju
+Q002542	Operater na CNC-stroju, lesarstvo
+Q002543	Operater na igralnih avtomatih
+Q002544	Operater v klicnem centru, javnomnenjsko anketiranje
+Q002545	Operater v klicnem centru, trženjsko anketiranje
+Q002546	Organizator velneške dejavnosti
+Q002547	Oskrbnik konj
+Q002548	Pomivalec posode
+Q002549	Poslovodja poslovne enote
+Q002550	Poslovodja prodajne enote
+Q002551	Pospeševalec prodaje
+Q002552	Poulični prodajalec cvetja
+Q002553	Pripravljavec jedi pred gosti
+Q002554	Pripravljavec sladic po naročilu
+Q002555	Prodajalec avtomobilskih rezervnih delov
+Q002556	Prodajalec cvetja na stojnici
+Q002557	Prodajalec fotografske opreme
+Q002558	Prodajalec malih živali
+Q002559	Prodajalec obutve
+Q002560	Prodajalec pekovskih izdelkov
+Q002561	Prodajalec računalniške opreme v trgovini na drobno
+Q002562	Prodajalec sveč na stojnici
+Q002563	Prodajni svetovalec v klicnem centru
+Q002564	Prometni inženir
+Q002565	Referent za homologacijo
+Q002566	Referent za registracijo motornih vozil
+Q002567	Referent za tehnične preglede motornih vozil
+Q002568	Savnar
+Q002569	Serviser motornih žag, kosilnic, parkovnih traktorjev
+Q002570	Sestavljavec elektronskih komponent
+Q002571	Socialni gerontolog
+Q002572	Sommelier za sire
+Q002573	Specialist za razvoj in strateško upravljanje človeških virov
+Q002574	Sprejemalec odpadkov
+Q002575	Strokovni sodelavec za oglaševanje zdravil
+Q002576	Svetovalec sirov
+Q002577	Taksist
+Q002578	Tehnolog lesarstva
+Q002579	Telefonski agent
+Q002580	Telefonski agent, prodaja
+Q002581	Teletržnik
+Q002582	Trener konj
+Q002583	Učitelj vožnje
+Q002584	Upravljavec strojev za proizvodnjo mineralnih plošč
+Q002585	Upravljavec strojev za razrez in obdelavo mineralnih plošč
+Q002586	Vaditelj psov
+Q002587	Varnostnik intervent
+Q002588	Vodja evropskega projekta
+Q002589	Vodja klicnega centra, prodaja
+Q002590	Vodja operaterjev v klicnem centru, anketiranje
+Q002591	Zdravnik, specializant splošne medicine
+Q002592	Vodja telefonskih operaterjev, posredovanje informacij
+Q002593	Vodja tehničnih pregledov motornih vozil
+Q002594	Vodja telefonske prodaje
+Q002595	Vodja telefonskih operaterjev, prodaja
+Q002596	Vodnik psov
+Q002597	Vodnik terapevtskega konja
+Q002598	Voznik tovornjaka v domačem prometu
+Q002599	Voznik tovornjaka v mednarodnem prometu
+Q002600	Vzdrževalec električnih naprav
+Q002601	Predstojnik upravnega organa v sestavi ministrstva
+Q002602	Zdravnik, sekundarij
+Q002603	Zdravstveni administrator
+Q002604	Psihosocialni svetovalec
+Q002605	Biopsiholog
+Q002606	Ergonom
+Q002607	Inženir energetike, električna energija
+Q002608	Inženir energetike, jedrska energija
+Q002609	Inženir energetike, plinovodni sistemi
+Q002610	Inženir energetike, toplovodni sistemi
+Q002611	Zdravnik specialist splošne medicine
+Q002612	Energetski svetovalec
+Q002613	Tehnični vodja energetskega objekta
+Q002614	Vodja obratovanja energetskega objekta
+Q002615	Vodja energetike
+Q002616	Dispečer v plinovodnem sistemu
+Q002617	Dispečer v daljinskem ogrevanju
+Q002618	Zdravnik specialist družinske medicine
+Q002619	Tekstopisec
+Q002620	Lobist
+Q002621	Mladinski delavec
+Q002622	Voznik električnega minibusa
+Q002623	Voznik Kavalirja
+Q002624	Voznik cestnega turističnega vlakca
+Q002625	Čistilec bazena
+Q002626	Inštalater bazenske tehnike
+Q002627	Serviser bazenske tehnike
+Q002628	Vzdrževalec bazena
+Q002629	Vodovarstveni nadzornik
+Q002630	Hidrotehnični delavec
+Q002631	Upravljavec vodne infrastrukture (hidromehanska oprema)
+Q002632	Operater strojev za produkcijski tisk
+Q002633	Skrbnik spletne prodaje
+Q002634	Pravljičar, pripovedovalec
+Q002635	Pisec pravljic
+Q002636	Učitelj glasbenega inštrumenta (zasebni)
+Q002637	Porodničar
+Q002638	Izvajalec učne in druge pomoči
+Q002639	Pomočnik slaščičarja
+Q002640	Postavljavec odrov, podestov, tribun
+Q002641	Postavljavec prireditvenih šotorov in paviljonov
+Q002642	Varnostnik za prevoz in varovanje denarja
+Q002643	Voznik avtotransporterja
+Q002644	Socialni pedagog, svetovalni delavec v vzgoji in izobraževanju
+Q002645	Socialni pedagog v socialnem varstvu
+Q002646	Pediater
+Q002647	Preoblikovalec rabljenih lesenih izdelkov
+Q002648	Preoblikovalec rabljenih tekstilnih izdelkov
+Q002649	Delavec za preprosta dela v reciklažni industriji
+Q002650	Zdravnik, pripravnik
+Q002651	Zdravnik z opravljenim pripravništvom
+Q002652	Serviser smuči
+Q002653	Broker
+Q002654	Broker za investicije
+Q002655	Urolog
+Q002656	Vodja fundacije
+Q002657	Koordinator programov v fundaciji
+Q002658	Strokovni sodelavec za koordinacijo programov v fundaciji
+Q002659	Predsednik društva
+Q002660	Voznik tovornjaka z dvigalom
+Q002661	Voznik hiaba
+Q002662	Skrbnik blagovne znamke
+Q002663	Bioinformatik
+Q002664	Delavec za razrez hlodovine
+Q002665	Dizajner notranje opreme
+Q002666	Transfuziolog
+Q002667	Zdravnik, pripravniški kandidat
+Q002668	Procesničar v kemijski industriji
+Q002669	Polnilec kartuš
+Q002670	Lanser v proizvodnji
+Q002671	Delavec za peskanje kovinskih površin
+Q002672	Brizgalec kovinskih izdelkov
+Q002673	Lakirec kovinskih izdelkov
+Q002674	Delavec za selitvena dela
+Q002675	Reševalec z višin (v industriji in gradbeništvu)
+Q002676	Kardiolog
+Q002677	Reševalec iz globin (v rudarstvu, industriji in gradbeništvu)
+Q002678	Defektolog, svetovalni delavec v vzgoji in izobraževanju
+Q002679	Kontrolor voznikov avtobusov
+Q002680	Kontrolor v javnem cestnem prometu
+Q002681	Kontrolor vozovnic
+Q002682	Kontrolor zračnega prometa
+Q002683	Erotični maser
+Q002684	Erotični plesalec
+Q002685	Psihiater
+Q002686	Sprejemalec v avtoservisu
+Q002687	Oblikovalec osvetljave
+Q002688	Umetnostni zgodovinar
+Q002689	Upravljavec krematorija
+Q002690	Podatkovni analitik
+Q002691	Strokovni sodelavec na sodišču
+Q002692	Strokovni sodelavec na državnem tožilstvu
+Q002693	Strokovni sodelavec na državnem pravobranilstvu
+Q002694	Predstojnik upravne organizacije v sestavi ministrstva
+Q002695	Otorinolaringolog
+Q002696	Sodniški pomočnik (samostojni, višji)
+Q002697	Business coach
+Q002698	Poslovni trener
+Q002699	Upravljavec zbirnega centra za odpadke
+Q002700	CAD/CAM-tehnolog
+Q002701	CAD/CAM-programer
+Q002702	CAM-operater (tiskana vezja)
+Q002703	Ortoped
+Q002704	Operater fototiskarskih operacij (tiskana vezja)
+Q002705	Vizualni kontrolor kakovosti v proizvodnji
+Q002706	Tehnik za kontrolo kakovosti (fizikalno kemijske preiskave)
+Q002707	Tehnik za kontrolo kakovosti (mehanske preiskave)
+Q002708	Upravitelj tveganj
+Q002709	Svetovalec - izvajalec namestitve avdio-, video- in multimedijskih sistemov
+Q002710	Strokovnjak za akustično svetovanje, projektiranje in meritve
+Q002711	Ozvočevalec
+Q002712	Oftalmolog
+Q002713	Strokovnjak za masovne podatke (big data)
+Q002714	Podatkovni rudar
+Q002715	Čitalec tiskanih in elektronskih medijev (kliping)
+Q002716	Medijski analitik
+Q002717	Svetovalec za oglaševanje
+Q002718	Administrator odprtokodnih sistemov
+Q002719	Administrator MS strežniških sistemov
+Q002720	Anestezist
+Q002721	Vodja projektov v digitalnem marketingu
+Q002722	Skriti kupec
+Q002723	Koordinator v večgeneracijskem centru
+Q002724	Koordinator za preprečevanje nasilja
+Q002725	Koordinator za izvajanje nadomestne kazni
+Q002726	Koordinator za obravnavo v skupnosti
+Q002727	Kreditni analitik
+Q002728	Nabavnik
+Q002729	Prodajnik
+Q002730	Šankist
+Q002731	Nevrolog
+Q002732	Poslovni analitik v IT-projektih
+Q002733	Poslovni analitik
+Q002734	Žerjavist
+Q002735	Viličarist
+Q002736	Lučkar
+Q002737	Upepeljevalec
+Q002738	Socialni aktivator
+Q002739	Vzdrževalec perila
+Q002740	Doula
+Q002741	Porodni spremljevalec nosečnic in porodnic
+Q002742	Nevrokirurg
+Q002743	Andragoški svetovalec
+Q002744	Ustni higienik
+Q002745	Blagajnik v menjalnici
+Q002746	Organizator - izvajalec humanitarne pomoči
+Q002747	Spremljevalec otrok s posebnimi potrebami v VIZ
+Q002748	Monter ALU-fasad
+Q002749	Monter steklenih fasad
+Q002750	Prodajalec sadja in zelenjave na stojnici
+Q002751	Prodajalec sladoleda
+Q002752	Kirurg
+Q002753	Pomočnik trgovskega poslovodja
+Q002754	Socialni oskrbovalec na domu
+Q002755	Pravosodni policist
+Q002756	Projektni sodelavec
+Q002757	Oskrbnik - vzdrževalec športnih objektov
+Q002758	Pomočnik pleskarja
+Q002759	Pomočnik krovca
+Q002760	Pomožni ključavničar
+Q002761	Igralec spletnih iger (e-športnik)
+Q002762	Ginekolog
+Q002763	Oblikovalec spletnih iger
+Q002764	Razvijalec spletnih iger
+Q002765	Učitelj za delovno vzgojo (posebni program VIZ)
+Q002766	Zbiralec starega železa
+Q002767	Zbiralec odpadnih surovin
+Q002768	Multiplikator POŠ
+Q002769	Operater solne sobe (nega in higiena dihal in kože)
+Q002770	Haloterapevt (nega in higiena dihal in kože)
+Q002771	Kuhar za nacionalne kuhinje
+Q002772	Kuhar za balkansko kuhinjo
+Q002773	Fiziater
+Q002774	Kuhar za kitajsko kuhinjo
+Q002775	Kuhar za albansko kuhinjo
+Q002776	Kuhar za indijsko kuhinjo
+Q002777	Kuhar za turško kuhinjo
+Q002778	Kuhar za mehiško kuhinjo
+Q002779	Kuhar za libanonsko kuhinjo
+Q002780	Kuhar za egiptovsko kuhinjo
+Q002781	Kuhar za tajsko kuhinjo
+Q002782	Kuhar za azijsko kuhinjo
+Q002783	Kuhar za argentinsko kuhinjo
+Q002784	Dermatolog
+Q002785	Kuhar za italijansko kuhinjo
+Q002786	Monter strojnih inštalacij (razen klimatskih in hladilnih sistemov)
+Q002787	Mehanik koles
+Q002788	Gozdarski žičničar
+Q002789	Upravljavec strojev za strojno sečnjo in izvoz lesa z zgibnim polprikoličarjem
+Q002790	Generalni sekretar ministrstva
+Q002791	Okulist
+Q002792	Suhozidar
+Q002793	Izdelovalec plastičnih kompozitnih izdelkov
+Q002794	Papirničar
+Q002795	Tetover
+Q002796	Konjar
+Q002797	Realizator AV-del
+Q002798	Videooblikovalec (TV)
+Q002799	Asistent zvoka
+Q002800	Onkolog
+Q002801	Asistent snemalca
+Q002802	Tehnični realizator medijskih vsebin
+Q002803	AV-montažer
+Q002804	Zdravstveno-socialni asistent
+Q002805	Asistent režije
+Q002806	Zdravnik specialist patologije
+Q002807	Kuharski mojster
+Q002808	Mojster strežbe
+Q002809	Frizerski mojster
+Q002810	Zdravnik specialist nuklearne medicine
+Q002811	Mojster očesne optike
+Q002812	Slaščičarski mojster
+Q002813	Zdravnik specialist urgentne medicine
+Q002814	Mojster kozmetične nege
+Q002815	Črkoslikarski mojster
+Q002816	Zdravnik specialist pnevmologije
+Q002817	Zdravnik specialist radiologije
+Q002818	Slikopleskarski mojster
+Q002819	Fotografski mojster
+Q002820	Zdravnik specialist revmatologije
+Q002821	Zdravnik specialist splošne kirurgije
+Q002822	Zdravnik specialist torakalne kirurgije
+Q002823	Veleposlanik
+Q002824	Zdravnik specialist interne medicine
+Q002825	Zdravnik specialist transfuzijske medicine
+Q002826	Zdravnik specialist fizikalne in rehabilitacijske medicine
+Q002827	Zdravnik specialist gastroenterologije
+Q002828	Zdravnik specialist klinične genetike
+Q002829	Zdravnik specialist klinične mikrobiologije
+Q002830	Zdravnik specialist medicine dela, prometa in športa
+Q002831	Zdravnik specialist plastične, rekonstrukcijske in estetske kirurgije
+Q002832	Zdravnik specialist (razen splošne medicine)
+Q002833	Zdravnik specialist hematologije
+Q002834	Pooblaščeni minister veleposlaništva
+Q002835	Zdravnik specialist intenzivne medicine
+Q002836	Zdravnik specialist epidemiologije
+Q002837	Zdravnik specialist higiene
+Q002838	Zdravnik specialist socialne medicine
+Q002839	Zdravnik specialist šolske medicine
+Q002840	Zdravnik, specializant (razen splošne medicine)
+Q002841	Organizator zdravstvene nege
+Q002842	Organizator zdravstvene vzgoje
+Q002843	Zdravstvenik (visoko zahtevna dela)
+Q002844	Babičar (visoko zahtevna dela)
+Q002845	Veterinar
+Q002846	Generalni konzul
+Q002847	Veterinarski inšpektor
+Q002848	Patolog za živali
+Q002849	Svetovalec za veterinarstvo
+Q002850	Zobozdravnik
+Q002851	Zobozdravnik specialist
+Q002852	Farmacevt
+Q002853	Konzul
+Q002854	Kemik v farmaciji
+Q002855	Farmacevt v industriji
+Q002856	Klinični farmacevt
+Q002857	Lekarnar
+Q002858	Vodja indikacijskega področja, farmacija
+Q002859	Farmakoinformator
+Q002860	Pripravljalec registracijske dokumentacije v farmacevtski industriji
+Q002861	Častnik
+Q002862	Vicekonzul
+Q002863	Organizator zdravstveno-higienskega režima
+Q002864	Fizioterapevt
+Q002865	Svetovalec za dietno prehrano
+Q002866	Organizator prehrane
+Q002867	Logoped za individualno govorno terapijo
+Q002868	Sekretar diplomatsko konzularnega predstavništva
+Q002869	Optometrist
+Q002870	Svetovalec za zdravstvo
+Q002871	Delovni terapevt
+Q002872	Zdravstveni inšpektor
+Q002873	Zdravnik, svetovalec za zdravstveno zavarovanje
+Q002874	Nadzorni zdravnik
+Q002875	Umetnostni terapevt
+Q002876	Ambasador
+Q002877	Izvedenec medicinske stroke, invalidsko in pokojninsko zavarovanje
+Q002878	Visokošolski učitelj
+Q002879	Docent
+Q002880	Visokošolski sodelavec
+Q002881	Načelnik upravne enote
+Q002882	Predavatelj višje strokovne šole
+Q002883	Inštruktor višje strokovne šole
+Q002884	Srednješolski učitelj za geodetske predmete
+Q002885	Srednješolski učitelj za gostinske in turistične predmete
+Q002886	Srednješolski učitelj za papirniške predmete
+Q002887	Srednješolski učitelj za tekstilne predmete
+Q002888	Srednješolski učitelj za veterinarske predmete
+Q002889	Srednješolski učitelj za kmetijske predmete
+Q002890	Sekretar občinskega sveta
+Q002891	Srednješolski učitelj za predmete organizacije dela in proizvodnje
+Q002892	Srednješolski učitelj za gradbene predmete
+Q002893	Srednješolski učitelj za živilske predmete
+Q002894	Srednješolski učitelj za rudarske in geološke predmete
+Q002895	Srednješolski učitelj za prometne predmete
+Q002896	Srednješolski učitelj za gozdarske predmete
+Q002897	Srednješolski učitelj za elektrotehniške predmete
+Q002898	Srednješolski učitelj za zdravstvene predmete
+Q002899	Srednješolski učitelj za usnjarskopredelovalne predmete
+Q002900	Srednješolski učitelj za grafično tiskarske predmete
+Q002901	Vodja občinskega upravnega organa
+Q002902	Srednješolski učitelj za obutvene predmete
+Q002903	Srednješolski učitelj za lesarske predmete
+Q002904	Srednješolski učitelj za predmete strojnega kovinarstva
+Q002905	Srednješolski učitelj za ekonomske, pravne, administrativne predmete
+Q002906	Učitelj logističnih strokovnih modulov v srednji šoli
+Q002907	Učitelj medijskih strokovnih modulov v srednji šoli
+Q002908	Učitelj oblikovnih strokovnih modulov v srednji šoli
+Q002909	Učitelj okoljevarstvenih strokovnih modulov v srednji šoli
+Q002910	Učitelj pomorskih strokovnih modulov v srednji šoli
+Q002911	Učitelj računalniških strokovnih modulov v srednji šoli
+Q002912	Direktor občinske uprave
+Q002913	Srednješolski učitelj za storitvene predmete
+Q002914	Učitelj kemijskih strokovnih modulov v srednji šoli
+Q002915	Učitelj umetniških strokovnoteoretičnih predmetov v srednji šoli
+Q002916	Učitelj tehniških strokovnoteoretičnih predmetov v srednji šoli
+Q002917	Učitelj glasbenega inštrumenta v umetniški gimnaziji
+Q002918	Učitelj baleta v umetniški gimnaziji
+Q002919	Učitelj risanja in slikanja v umetniški gimnaziji
+Q002920	Učitelj geotehniških strokovnih modulov v srednji šoli
+Q002921	Učitelj praktičnega pouka in veščin
+Q002922	Tajnik občinske uprave
+Q002923	Vzgojitelj v dijaškem domu
+Q002924	Srednješolski učitelj za slovenski jezik
+Q002925	Srednješolski učitelj za naravoslovne predmete
+Q002926	Srednješolski učitelj za družboslovne predmete
+Q002927	Srednješolski učitelj za kulturnoumetniške predmete
+Q002928	Srednješolski učitelj za telesno vzgojo
+Q002929	Sekretar državnega sveta
+Q002930	Predmetni učitelj za slovenski jezik
+Q002931	Predmetni učitelj za druge jezike
+Q002932	Predmetni učitelj za naravoslovne predmete
+Q002933	Predmetni učitelj za družboslovne predmete
+Q002934	Predmetni učitelj za kulturnoumetniške predmete
+Q002935	Predmetni učitelj za telesno vzgojo
+Q002936	Predmetni učitelj za tehnično vzgojo
+Q002937	Predmetni učitelj za gospodinjstvo
+Q002938	Predmetni učitelj
+Q002939	Učitelj za individualno in skupinsko pomoč, predmetni pouk
+Q002940	Sekretar delovnih teles državnih organov
+Q002941	Učitelj izbirnega predmeta v osnovni šoli
+Q002942	Učitelj razrednega pouka
+Q002943	Drugi učitelj v prvem razredu osnovne šole
+Q002944	Učitelj v oddelkih podaljšanega bivanja
+Q002945	Učitelj jutranjega varstva v osnovni šoli
+Q002946	Učitelj za individualno in skupinsko pomoč, razredni pouk
+Q002947	Vzgojitelj predšolskih otrok
+Q002948	Vodja službe državnih organov
+Q002949	Pomočnik vzgojitelja predšolskih otrok
+Q002950	Pedagoški svetovalec
+Q002951	Šolski inšpektor
+Q002952	Varuh človekovih pravic
+Q002953	Vzgojitelj za gibalno ovirane predšolske otroke
+Q002954	Vzgojitelj za slepe in slabovidne predšolskih otrok
+Q002955	Vzgojitelj otrok in mladostnikov z motnjo čustvovanja in vedenja
+Q002956	Vzgojitelj otrok in mladostnikov z motnjami v duševnem razvoju
+Q002957	Predstojnik državnega organa, pravosodje
+Q002958	Učitelj za tečaje tujih jezikov
+Q002959	Zborovodja v glasbeni šoli
+Q002960	Dirigent v glasbeni šoli
+Q002961	Korepetitor v glasbeni šoli
+Q002962	Učitelj plesa
+Q002963	Sekretar pravosodnih organov
+Q002964	Organizator izobraževalne in raziskovalne dejavnosti v izobraževalnih zavodih
+Q002965	Knjižničar v vzgoji in izobraževanju
+Q002966	Učitelj predpisov o varnosti cestnega prometa
+Q002967	Guverner Banke Slovenije
+Q002968	Davčni inšpektor
+Q002969	Ocenjevalec vrednosti podjetij
+Q002970	Računovodja
+Q002971	Revizor
+Q002972	Finančni inšpektor
+Q002973	Devizni inšpektor
+Q002974	Davčni svetovalec
+Q002975	Upravnik zaporov
+Q002976	Stečajni upravitelj
+Q002977	Svetovalec za nepremičnine
+Q002978	Finančni analitik
+Q002979	Svetovalec za ekonomiko gospodinjstva
+Q002980	Predsednik računskega sodišča
+Q002981	Kontrolor za kakovost poslovanja
+Q002982	Svetovalec za poslovanje
+Q002983	Svetovalec za podjetništvo
+Q002984	Svetovalec in koordinator za delo v poštnem prometu
+Q002985	Razvijalec procesov poslovanja in proizvodnje
+Q002986	Organizator dela v poslovnem procesu
+Q002987	Inšpektor za varnost osebnih podatkov
+Q002988	Kriminalistični inšpektor
+Q002989	Sekretar računskega sodišča
+Q002990	Inšpektor za obrambo
+Q002991	Strokovnjak za sistemske rešitve in razvojne projekte v javni upravi
+Q002992	Strokovnjak za spremljanje programov v javni upravi
+Q002993	Upravni inšpektor
+Q002994	Tržni inšpektor
+Q002995	Kriminalistično-tehnični izvedenec
+Q002996	Carinski inšpektor
+Q002997	Policijski inšpektor
+Q002998	Svetovalec za varstvo potrošnikov
+Q002999	Vodja projekta
+Q003000	Inšpektor za nadzor prirejanja iger na srečo
+Q003001	Koordinator za zaščito in reševanje
+Q003002	Letalski nadzornik
+Q003003	Inšpektor za požarno varnost
+Q003004	Svetovalec za javna naročila
+Q003005	Inšpektor za varstvo pred naravnimi in drugimi nesrečami
+Q003006	Predsednik politične stranke
+Q003007	Svetovalec za javne razpise
+Q003008	Svetovalec za karierno orientacijo
+Q003009	Analitik poklicnega dela
+Q003010	Svetovalec za zaposlovanje
+Q003011	Svetovalec za kadrovanje
+Q003012	Organizator izobraževanja zaposlenega osebja v podjetjih
+Q003013	Izvršni direktor politične stranke
+Q003014	Svetovalec za prodajne metode
+Q003015	Svetovalec za promocijo
+Q003016	Svetovalec za trženje
+Q003017	Svetovalec za odnose z javnostmi
+Q003018	Svetovalec za prodajo tehničnih izdelkov (razen IKT)
+Q003019	Sekretar politične stranke
+Q003020	Farmacevtski zastopnik
+Q003021	Tehnični zastopnik za prodajo
+Q003022	Svetovalec za prodajo izdelkov informacijsko-komunikacijske tehnologije
+Q003023	Svetovalec za prodajo storitev informacijsko-komunikacijske tehnologije
+Q003024	Svetovalec predsednika politične stranke
+Q003025	Sistemski analitik
+Q003026	IT projektni menedžer
+Q003027	Programer, razvijalec programov
+Q003028	Razvijalec spletnih strani
+Q003029	Razvijalec spletnih aplikacij
+Q003030	Predsednik zbornice
+Q003031	Vzdrževalec in skrbnik računalniških aplikacij
+Q003032	Programer
+Q003033	Vzdrževalec programov
+Q003034	Podatkovni administrator
+Q003035	Sekretar zbornice
+Q003036	Skrbnik tokov podatkov
+Q003037	Inženir razvoja komunikacij
+Q003038	Mrežni administrator
+Q003039	Svetovalec zbornice
+Q003040	Vrhovni državni tožilec
+Q003041	Višji državni tožilec
+Q003042	Okrožni državni tožilec
+Q003043	Pomočnik državnega tožilca
+Q003044	Državni pravobranilec
+Q003045	Pomočnik državnega pravobranilca
+Q003046	Odvetnik
+Q003047	Družbeni pravobranilec
+Q003048	Predsednik poslovnega združenja
+Q003049	Vrhovni sodnik
+Q003050	Višji sodnik
+Q003051	Okrožni sodnik
+Q003052	Okrajni sodnik
+Q003053	Sodnik za prekrške
+Q003054	Sodniški pripravnik
+Q003055	Pravni svetovalec
+Q003056	Pravnik
+Q003057	Predsednik zadružne zveze
+Q003058	Pravnik za javnoupravne zadeve
+Q003059	Notar
+Q003060	Mediator v sodnih sporih
+Q003061	Arhivar
+Q003062	Arhivist
+Q003063	Konservator za kulturno dediščino
+Q003064	Konservator za naravno dediščino
+Q003065	Predsednik sindikata
+Q003066	Kustos
+Q003067	Muzeolog
+Q003068	Antikvar
+Q003069	Dokumentalist
+Q003070	Knjižničar
+Q003071	Sekretar sindikata
+Q003072	Ekonometrik
+Q003073	Ekonomist za bančništvo in finance
+Q003074	Ekonomist za cenovne politike
+Q003075	Ekonomist za davčne sisteme
+Q003076	Ekonomist za človeške vire
+Q003077	Ekonomist za mednarodno menjavo
+Q003078	Ekonomist za sektorske politike
+Q003079	Ekonomist svetovalec
+Q003080	Antropolog
+Q003081	Predsednik komisije za človekove pravice
+Q003082	Arheolog
+Q003083	Etnolog
+Q003084	Geograf
+Q003085	Komunikolog
+Q003086	Kriminolog
+Q003087	Sociolog
+Q003088	Kulturolog
+Q003089	Filozof
+Q003090	Obramboslovec
+Q003091	Predsednik komisije za zaščito okolja
+Q003092	Politolog
+Q003093	Zgodovinar
+Q003094	Psiholog
+Q003095	Klinični psiholog
+Q003096	Psihoterapevt
+Q003097	Socialni delavec v vzgoji in izobraževanju
+Q003098	Socialni delavec za delo s starejšimi občani
+Q003099	Socialni delavec v delovnem okolju
+Q003100	Predsednik humanitarne organizacije
+Q003101	Socialni delavec v zdravstvu
+Q003102	Socialni delavec za delo z družino
+Q003103	Supervizor
+Q003104	Socialni delavec za rejništvo in posvojitve
+Q003105	Višji samostanski duhovnik
+Q003106	Predsednik posebnih interesnih organizacij
+Q003107	Teolog
+Q003108	Dramaturg
+Q003109	Svetovalec za kulturno-umetniške programe
+Q003110	Scenarist
+Q003111	Recenzent
+Q003112	Pisatelj
+Q003113	Sekretar humanitarne organizacije
+Q003114	Pesnik
+Q003115	Kritik
+Q003116	Urednik novinar
+Q003117	Novinar
+Q003118	Sekretar posebnih interesnih organizacij
+Q003119	Grafolog
+Q003120	Jezikoslovec
+Q003121	Konferenčni tolmač
+Q003122	Leksikograf
+Q003123	Lektor
+Q003124	Prevajalec
+Q003125	Sodni tolmač
+Q003126	Prevajalec za znakovno prevajanje
+Q003127	Tolmač slovenskega znakovnega jezika
+Q003128	Ilustrator
+Q003129	Karikaturist
+Q003130	Kipar
+Q003131	Kostumograf
+Q003132	Restavrator
+Q003133	Scenograf
+Q003134	Slikar
+Q003135	Tapiserist
+Q003136	Multimedijski ustvarjalec
+Q003137	Art direktor
+Q003138	Aranžer glasbe
+Q003139	Dirigent orkestra
+Q003140	Glasbeni opremljevalec
+Q003141	Glasbeni redaktor
+Q003142	Generalni direktor družbe
+Q003143	Glasbenik
+Q003144	Instrumentalist solist
+Q003145	Instrumentalist
+Q003146	Korepetitor
+Q003147	Muzikolog
+Q003148	Skladatelj
+Q003149	Član uprave družbe
+Q003150	Plesalec
+Q003151	Koreograf
+Q003152	Filmski, gledališki direktorji in producenti ipd.
+Q003153	Režiser
+Q003154	Producent
+Q003155	Inspicient
+Q003156	Član nadzornega sveta družbe
+Q003157	Igralec
+Q003158	Napovedovalec
+Q003159	Povezovalec
+Q003160	Komik
+Q003161	Prokurist
+Q003162	Stand-up komedijant
+Q003163	Pantomimik
+Q003164	Laboratorijski tehnik fizike
+Q003165	Meteorološki opazovalec
+Q003166	Tehnik za fiziko
+Q003167	Generalni direktor srednjega podjetja
+Q003168	Tehnik za geologijo
+Q003169	Tehnik za meteorologijo
+Q003170	Tehnik metrologije
+Q003171	Tehnik za gradbeništvo
+Q003172	Geometer
+Q003173	Tehnik za geodezijo
+Q003174	Vodja elektroenergetskih postrojev
+Q003175	Generalni direktor velikega podjetja
+Q003176	Tehnik za elektroenergetiko
+Q003177	Elektronadzornik
+Q003178	Tehnik za elektroenergetske postroje
+Q003179	Vodja vzdrževanja električnega omrežja
+Q003180	Tehnik za elektrotehniko
+Q003181	Delovodja v elektroenergetiki
+Q003182	Tehnik za elektroenergetiko, vodja del
+Q003183	Tehnik za elektroniko, vodja del
+Q003184	Tehnik za signalnovarnostne naprave
+Q003185	Tehnik za elektroniko
+Q003186	Tehnik za strojništvo
+Q003187	Tehnik ladijskega strojništva
+Q003188	Tehnik strojništva za motorje in vozila
+Q003189	Tehnik za strojniško terologijo
+Q003190	Tehnik kmetijskega strojništva
+Q003191	Tehnik za strojniško tehnologijo
+Q003192	Programer tehnolog CNC-stroja
+Q003193	Snovalec izdelkov in simulacij delovanja v virtualnem okolju
+Q003194	Laboratorijski tehnik v farmacevtski industriji
+Q003195	Tehnik živilske tehnologije
+Q003196	Laboratorijski tehnik kemijske tehnologije
+Q003197	Laboratorijski tehnik v živilski industriji
+Q003198	Tehnik farmacevtske tehnologije
+Q003199	Tehnik gumarske tehnologije
+Q003200	Tehnik kemijske tehnologije
+Q003201	Tehnik keramijske tehnologije
+Q003202	Tehnik za sintezo in predelavo polimerov
+Q003203	Tehnik steklarske tehnologije
+Q003204	Tehnik naftnega rudarstva
+Q003205	Finančni menedžer
+Q003206	Tehnik za geovrtanje
+Q003207	Tehnik za metalurgijo
+Q003208	Tehnik za rudarstvo
+Q003209	Rentgenolog v metalurgiji
+Q003210	Tehnični risar
+Q003211	Litografski risar
+Q003212	Kartografski risar
+Q003213	Vodja računovodske službe
+Q003214	Strokovni sodelavec za analiziranje in planiranje proizvodnih procesov
+Q003215	Nadzorniki v predelovalnih dejavnostih
+Q003216	Delovodja živilstva
+Q003217	Delovodja izdelave gradbenih materialov
+Q003218	Vodja lakirnice v lesni industriji
+Q003219	Delovodja lesarstva
+Q003220	Delovodja gradbeništva
+Q003221	Gradbeni nadzornik
+Q003222	Tehnik za gradbeništvo, vodja del

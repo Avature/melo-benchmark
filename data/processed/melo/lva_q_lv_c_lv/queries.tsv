@@ -1,0 +1,3251 @@
+Q000001	Brigādes ĢENERĀLIS/ Flotiles ADMIRĀLIS (Jūras spēkos)
+Q000002	PULKVEŽLEITNANTS/ KOMANDKAPTEINIS (Jūras spēkos)
+Q000003	VIRSLEITNANTS
+Q000004	LEITNANTS
+Q000005	Augstākais VIRSSERŽANTS/ Augstākais BOCMANIS (Jūras spēkos)
+Q000006	Galvenais VIRSSERŽANTS/ Galvenais BOCMANIS (Jūras spēkos)
+Q000007	Štāba VIRSSERŽANTS/ Štāba BOCMANIS (Jūras spēkos)
+Q000008	VIRSSERŽANTS/ BOCMANIS (Jūras spēkos)
+Q000009	SERŽANTS
+Q000010	DIŽKAREIVIS/ DIŽMATROZIS (Jūras spēkos)
+Q000011	Vecākais ZEMESSARGS
+Q000012	KAREIVIS/ MATROZIS (Jūras spēkos)
+Q000013	ZEMESSARGS
+Q000014	Valsts PREZIDENTS
+Q000015	Saeimas PRIEKŠSĒDĒTĀJS
+Q000016	Saeimas PRIEKŠSĒDĒTĀJA BIEDRS
+Q000017	Saeimas SEKRETĀRS
+Q000018	Saeimas SEKRETĀRA BIEDRS
+Q000019	Saeimas komisijas PRIEKŠSĒDĒTĀJS
+Q000020	Saeimas komisijas PRIEKŠSĒDĒTĀJA BIEDRS
+Q000021	Saeimas komisijas SEKRETĀRS
+Q000022	Saeimas frakcijas PRIEKŠSĒDĒTĀJS
+Q000023	Saeimas DEPUTĀTS
+Q000024	Parlamentārais SEKRETĀRS
+Q000025	Ministru PREZIDENTS
+Q000026	Ministru PREZIDENTA BIEDRS
+Q000027	MINISTRS
+Q000028	Īpašu uzdevumu MINISTRS
+Q000029	Pašvaldības domes PRIEKŠSĒDĒTĀJS
+Q000030	Pašvaldības domes PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000031	Saeimas Prezidija locekļa biroja VADĪTĀJS
+Q000032	Saeimas Prezidija locekļa PADOMNIEKS
+Q000033	Pašvaldības domes DEPUTĀTS
+Q000034	Starpvalstu institūcijas VADĪTĀJS
+Q000035	Starpvalstu institūcijas struktūrvienības VADĪTĀJS
+Q000036	ĢENERĀLPROKURORS
+Q000037	Valsts KONTROLIERIS
+Q000038	Valsts PREZIDENTA PADOMNIEKS
+Q000039	Valsts PREZIDENTA PALĪGS
+Q000040	Ministru PREZIDENTA biroja VADĪTĀJS
+Q000041	Ministru PREZIDENTA BIEDRA sekretariāta VADĪTĀJS
+Q000042	Ministru PREZIDENTA PADOMNIEKS
+Q000043	Ministru PREZIDENTA PALĪGS
+Q000044	Ministru PREZIDENTA BIEDRA PADOMNIEKS
+Q000045	Ministru PREZIDENTA BIEDRA PALĪGS
+Q000046	MINISTRA PADOMNIEKS
+Q000047	Īpašu uzdevumu MINISTRA sekretariāta VADĪTĀJS
+Q000048	Īpašu uzdevumu MINISTRA sekretariāta VADĪTĀJA VIETNIEKS
+Q000049	Latvijas PĀRSTĀVIS starptautiskajās cilvēktiesību institūcijās
+Q000050	Ministra biroja VADĪTĀJS
+Q000051	Aizsardzības PADOMNIEKS starptautiskajās organizācijās
+Q000052	PĀRSTĀVIS starptautiskajā organizācijā
+Q000053	Aizsardzības PADOMNIEKS
+Q000054	Valsts SEKRETĀRS
+Q000055	Valsts SEKRETĀRA VIETNIEKS
+Q000056	Valsts protokola VADĪTĀJS
+Q000057	Valsts protokola VADĪTĀJA VIETNIEKS
+Q000058	Galvenais valsts NOTĀRS
+Q000059	Galvenā valsts NOTĀRA VIETNIEKS
+Q000060	Pārvaldes VADĪTĀJS /DIREKTORS /PRIEKŠNIEKS
+Q000061	Valsts robežas PILNVAROTAIS
+Q000062	Pašvaldības iestādes VADĪTĀJS/ PRIEKŠNIEKS
+Q000063	Pašvaldības iestādes VADĪTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000064	Pašvaldības IZPILDDIREKTORS
+Q000065	Pašvaldības IZPILDDIREKTORA VIETNIEKS
+Q000066	Komisijas PRIEKŠSĒDĒTĀJS (valsts pārvaldes jomā un pašvaldībās)
+Q000067	Komisijas PRIEKŠSĒDĒTĀJA VIETNIEKS (valsts pārvaldes jomā un pašvaldībās)
+Q000068	Komisijas LOCEKLIS (valsts pārvaldes jomā un pašvaldībās)
+Q000069	Komisijas SEKRETĀRS (valsts pārvaldes jomā un pašvaldībās)
+Q000070	TIESĪBSARGS
+Q000071	Padomes LOCEKLIS (valsts pārvaldes jomā un pašvaldībās)
+Q000072	Kolēģijas LOCEKLIS (valsts pārvaldes jomā)
+Q000073	Ārkārtējais un pilnvarotais VĒSTNIEKS
+Q000074	Speciālo uzdevumu VĒSTNIEKS
+Q000075	ĢENERĀLINSPEKTORS (ārlietu jomā)
+Q000076	VĒSTNIEKS
+Q000077	Pilnvarotais LIETVEDIS
+Q000078	Pagaidu pilnvarotais LIETVEDIS
+Q000079	PADOMNIEKS (ārlietu jomā)
+Q000080	ĢENERĀLKONSULS
+Q000081	Reģiona attīstības padomes PRIEKŠSĒDĒTĀJS
+Q000082	Reģiona attīstības padomes LOCEKLIS
+Q000083	Pastāvīgais PĀRSTĀVIS (ārlietu jomā)
+Q000084	Konsulāta VADĪTĀJS
+Q000085	Saeimas Kancelejas DIREKTORS
+Q000086	Saeimas Kancelejas DIREKTORA VIETNIEKS
+Q000087	Saeimas Administrācijas IZPILDDIREKTORS
+Q000088	Biedrības vai nodibinājuma valdes PRIEKŠSĒDĒTĀJS
+Q000089	Biedrības vai nodibinājuma valdes LOCEKLIS
+Q000090	Arodbiedrības VADĪTĀJS/ PREZIDENTS/ PRIEKŠSĒDĒTĀJS
+Q000091	Arodbiedrības VADĪTĀJA VIETNIEKS/ VICEPREZIDENTS/ PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000092	Arodorganizācijas VADĪTĀJS/ PRIEKŠSĒDĒTĀJS
+Q000093	Politiskās partijas VADĪTĀJS/ PREZIDENTS/ PRIEKŠSĒDĒTĀJS/ ĢENERĀLSEKRETĀRS
+Q000094	Arodorganizācijas VADĪTĀJA VIETNIEKS/ PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000095	VADĪTĀJS/ DIREKTORS/ ĢENERĀLDIREKTORS/ PĀRVALDNIEKS/ PREZIDENTS/ VICEPREZIDENTS/ IZPILDDIREKTORS/ PRIEKŠSĒDĒTĀJS/ PRIEKŠ­NIEKS/ ĢENERĀLSEKRETĀRS
+Q000096	VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ ĢENERĀLDIREKTORA VIETNIEKS/ PĀRVALDNIEKA VIETNIEKS/ PREZIDENTA VIETNIEKS/ VICEPREZIDENTA VIETNIEKS/ IZPILDDIREKTORA VIETNIEKS/ PRIEKŠSĒDĒTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS/ RĪKOTĀJDIREKTORS
+Q000097	Tehniskais DIREKTORS
+Q000098	KOMERCDIREKTORS
+Q000099	Ekonomikas DIREKTORS
+Q000100	Ražošanas DIREKTORS
+Q000101	Apgādes DIREKTORS
+Q000102	Valdes PRIEKŠSĒDĒTĀJS/ VADĪTĀJS
+Q000103	Valdes PRIEKŠSĒDĒTĀJA VIETNIEKS/ VADĪTĀJA VIETNIEKS
+Q000104	Padomes VADĪTĀJS/ PRIEKŠSĒDĒTĀJS
+Q000105	Komisijas VADĪTĀJS/ PRIEKŠSĒDĒTĀJS
+Q000106	Valdes LOCEKLIS
+Q000107	Padomes LOCEKLIS
+Q000108	Kolēģijas LOCEKLIS
+Q000109	PROKŪRISTS
+Q000110	Kapitāldaļu turētāja PĀRSTĀVIS
+Q000111	Padomes VADĪTĀJA VIETNIEKS/ PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000112	Komisijas VADĪTĀJA VIETNIEKS/ PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000113	Zinātniskais DIREKTORS
+Q000114	Atbildīgais aviācijas VADĪTĀJS
+Q000115	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (komercpakalpojumu jomā)
+Q000116	Finanšu DIREKTORS
+Q000117	Galvenais GRĀMATVEDIS
+Q000118	Galvenā GRĀMATVEŽA VIETNIEKS
+Q000119	Administratīvais DIREKTORS
+Q000120	Administratīvā DIREKTORA VIETNIEKS
+Q000121	Pamatdarbības struktūrvienības VADĪTĀJS (komercpakalpojumu jomā)
+Q000122	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (komercpakalpojumu jomā)
+Q000123	Galvenās kases VADĪTĀJS
+Q000124	Kancelejas VADĪTĀJA VIETNIEKS/ PĀRVALDNIEKA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000125	Pamatdarbības atbalsta struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000126	Pamatdarbības atbalsta struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000127	Personāla/ personāvadības struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000128	Personāla/ personālvadības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000129	Personāla mācību VADĪTĀJS
+Q000130	Pārvaldes DIREKTORS (valsts pārvaldes jomā)
+Q000131	Pārvaldes DIREKTORA VIETNIEKS (valsts pārvaldes jomā)
+Q000132	Nozares politikas un politikas plānošanas struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000133	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (valsts pārvaldes jomā)
+Q000134	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (valsts pārvaldes jomā)
+Q000135	Ārējo sakaru struktūrvienības VADĪTĀJS
+Q000136	Ārējo sakaru struktūrvienības VADĪTĀJA VIETNIEKS
+Q000137	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (ārlietu jomā)
+Q000138	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (ārlietu jomā)
+Q000139	Muitas iestādes struktūrvienības VADĪTĀJS
+Q000140	VIRSUZRAUGS (muitas jomā)
+Q000141	VIRSUZRAUGA VIETNIEKS (muitas jomā)
+Q000142	Muitas maiņas VADĪTĀJS
+Q000143	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (nodokļu administrēšanas un muitas jomā)
+Q000144	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (nodokļu administrēšanas un muitas jomā)
+Q000145	Pamatdarbības struktūrvienības VADĪTĀJS (sabiedrības pārvaldes jomā)
+Q000146	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (sabiedrības pārvaldes jomā)
+Q000147	Pamatdarbības struktūrvienības VADĪTĀJS/ PRIEKŠNIEKS (tiesu varas jomā)
+Q000148	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS (tiesu varas jomā)
+Q000149	Pamatdarbības struktūrvienības VADĪTĀJS (darbinieku interešu un tiesību aizsardzības jomā)
+Q000150	Pamatdarbības struktūrvienības VADĪTĀJS (tiesību administrēšanas un pārvaldījuma jomā)
+Q000151	Pašvaldības pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS/ PRIEKŠNIEKS
+Q000152	Pašvaldības pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000153	Galvenais valsts INSPEKTORS
+Q000154	Valsts INSPEKTORS
+Q000155	VirsMEŽZINIS
+Q000156	VirsMEŽZIŅA VIETNIEKS
+Q000157	Vecākais MEŽZINIS
+Q000158	Diplomātiskā protokola struktūrvienības VADĪTĀJS
+Q000159	Diplomātiskā protokola struktūrvienības VADĪTĀJA VIETNIEKS
+Q000160	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (komunālo pakalpojumu jomā)
+Q000161	Pārvaldes PRIEKŠNIEKA VIETNIEKS (sabiedriskās kārtības un drošības jomā)
+Q000162	Pamatdarbības struktūrvienības PRIEKŠNIEKA VIETNIEKS (sabiedriskās kārtības un drošības jomā)
+Q000163	Tehniskās struktūrvienības VADĪTĀJA VIETNIEKS
+Q000164	Klientu apkalpošanas struktūrvienības VADĪTĀJA VIETNIEKS
+Q000165	Korespondentattiecību struktūrvienības VADĪTĀJA VIETNIEKS
+Q000166	Saimniecības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000167	Transporta struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000168	Struktūrvienības VADĪTĀJA VIETNIEKS (citur neklasificētu komercpakalpojumu jomā)
+Q000169	Darba aizsardzības struktūrvienības VADĪTĀJA VIETNIEKS
+Q000170	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (apsardzes jomā)
+Q000171	SPA VADĪTĀJS
+Q000172	Tirgvedības DIREKTORS
+Q000173	Tirdzniecības struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000174	Tirdzniecības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000175	Tirgvedības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000176	Iepirkumu struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000177	Iepirkumu struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000178	Piedāvājumu sagatavošanas struktūrvienības VADĪTĀJS (būvniecības jomā)
+Q000179	Reklāmas struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000180	Reklāmas struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000181	Sabiedrisko attiecību struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000182	Sabiedrisko attiecību struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000183	Pētniecības struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000184	Pētniecības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000185	Laboratorijas VADĪTĀJS
+Q000186	Saimniecības VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (lauksaimniecības jomā)
+Q000187	Saimniecības VADĪTĀJS/ DIREKTORS (mežsaimniecības jomā)
+Q000188	Saimniecības VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (mežsaimniecības jomā)
+Q000189	Saimniecības VADĪTĀJS/ DIREKTORS (medību saimniecības jomā)
+Q000190	Saimniecības VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (medību saimniecības jomā)
+Q000191	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (lauksaimniecības jomā)
+Q000192	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (lauksaimniecības jomā)
+Q000193	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (mežsaimniecības jomā)
+Q000194	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (mežsaimniecības jomā)
+Q000195	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (medību saimniecības jomā)
+Q000196	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (medību saimniecības jomā)
+Q000197	Saimniecības VADĪTĀJS/ DIREKTORS (zivsaimniecības jomā)
+Q000198	Saimniecības VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (zivsaimniecības jomā)
+Q000199	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (zivsaimniecības jomā)
+Q000200	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (zivsaimniecības jomā)
+Q000201	VADĪTĀJS/ DIREKTORS (apstrādes rūpniecības jomā)
+Q000202	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (apstrādes rūpniecības jomā)
+Q000203	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (enerģētikas jomā)
+Q000204	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (enerģētikas jomā)
+Q000205	Darbu VADĪTĀJS (kuģu remonta pakalpojumu jomā)
+Q000206	Būvdarbu VADĪTĀJS (kuģu būvniecības jomā)
+Q000207	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (poligrāfijas jomā)
+Q000208	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (poligrāfijas jomā)
+Q000209	VADĪTĀJS/ DIREKTORS (ieguves rūpniecības jomā)
+Q000210	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (ieguves rūpniecības jomā)
+Q000211	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (ieguves rūpniecības jomā)
+Q000212	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (ieguves rūpniecības jomā)
+Q000213	VADĪTĀJS/ DIREKTORS (būvniecības jomā)
+Q000214	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (būvniecības jomā)
+Q000215	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (būvniecības jomā)
+Q000216	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (būvniecības jomā)
+Q000217	Inženierkomunikāciju būvdarbu VADĪTĀJS
+Q000218	Būvniecības projektu VADĪTĀJS
+Q000219	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (transporta jomā)
+Q000220	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (transporta jomā)
+Q000221	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (sakaru jomā)
+Q000222	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (sakaru jomā)
+Q000223	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (noliktavu pakalpojumu jomā)
+Q000224	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (noliktavu pakalpojumu jomā)
+Q000225	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (transporta jomā)
+Q000226	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (transporta jomā)
+Q000227	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (sakaru jomā)
+Q000228	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (sakaru jomā)
+Q000229	Dzelzceļa stacijas PRIEKŠNIEKS
+Q000230	Dzelzceļa stacijas PRIEKŠNIEKA VIETNIEKS
+Q000231	Pasta nodaļas PRIEKŠNIEKS
+Q000232	Pasta nodaļas PRIEKŠNIEKA VIETNIEKS
+Q000233	Vilciena PRIEKŠNIEKS
+Q000234	Lokomotīvju/ vagonu depo PRIEKŠNIEKS
+Q000235	Lokomotīvju/ vagonu depo PRIEKŠNIEKA VIETNIEKS
+Q000236	Filiāles DIREKTORA VIETNIEKS
+Q000237	Iecirkņa PRIEKŠNIEKS (transporta un sakaru pakalpojumu jomā)
+Q000238	Iecirkņa PRIEKŠNIEKA VIETNIEKS (transporta un sakaru pakalpojumu jomā)
+Q000239	Ceha PRIEKŠNIEKS
+Q000240	Ceha PRIEKŠNIEKA VIETNIEKS
+Q000241	Ostas KAPTEINIS
+Q000242	Pamatdarbības struktūrvienības VADĪTĀJS/ PRIEKŠNIEKS (dzelzceļa transporta pakalpojumu jomā)
+Q000243	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS (dzelzceļa transporta pakalpojumu jomā)
+Q000244	Sagādes struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000245	Sagādes struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000246	Sadales struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000247	Sadales struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000248	Loģistikas struktūrvienības VADĪTĀJS
+Q000249	Loģistikas struktūrvienības VADĪTĀJA VIETNIEKS
+Q000250	Ostas KAPTEIŅA VIETNIEKS
+Q000251	Darbu VADĪTĀJS (dzelzceļa transporta pakalpojumu jomā)
+Q000252	Lidojumu plānošanas SPECIĀLISTS
+Q000253	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (informācijas un komunikācijas tehnoloģiju jomā)
+Q000254	VADĪTĀJA VIETNIEKS/ IZPILDDIREKTORS (informācijas un komunikācijas tehnoloģiju jomā)
+Q000255	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (informācijas un komunikācijas tehnoloģiju jomā)
+Q000256	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (informācijas un komunikācijas tehnoloģiju jomā)
+Q000257	Informācijas tehnoloģiju struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000258	Informācijas tehnoloģiju struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000259	Elektronisko sakaru struktūrvienības VADĪTĀJS/ DIREKTORS
+Q000260	Elektronisko sakaru struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000261	Informācijas drošības VADĪTĀJS
+Q000262	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (informācijas jomā)
+Q000263	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (informācijas jomā)
+Q000264	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (bērnu sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000265	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (bērnu sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000266	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (bērnu sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000267	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (veselības aprūpes jomā)
+Q000268	Veselības aprūpes vadības ĀRSTS
+Q000269	Veselības aprūpes VADĪTĀJS
+Q000270	Galvenā medicīnas MĀSA
+Q000271	Galvenā VECMĀTE
+Q000272	Galvenais ĀRSTS
+Q000273	VADĪTĀJS/ DIREKTORS (pilngadīgo sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000274	VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ IZPILDDIREKTORS (pilngadīgo sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000275	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (pilngadīgo sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000276	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (pilngadīgo sociālās aprūpes un sociālās rehabilitācijas jomā)
+Q000277	VADĪTĀJS/ DIREKTORS (sociālās labklājības jomā)
+Q000278	VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ IZPILDDIREKTORS (sociālās labklājības jomā)
+Q000279	Sociālā dienesta VADĪTĀJS
+Q000280	Sociālā dienesta VADĪTĀJA VIETNIEKS
+Q000281	Bāriņtiesas PRIEKŠSĒDĒTĀJS
+Q000282	Bāriņtiesas PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q000283	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (sociālās labklājības jomā)
+Q000284	REKTORS
+Q000285	PROREKTORS
+Q000286	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (izglītības jomā)
+Q000287	DEKĀNS
+Q000288	ProDEKĀNS
+Q000289	Skolas DIREKTORS/ PRIEKŠNIEKS
+Q000290	Skolas DIREKTORA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000291	Koledžas DIREKTORS
+Q000292	Koledžas DIREKTORA VIETNIEKS
+Q000293	Koledžas katedras VADĪTĀJS
+Q000294	Mācību centra VADĪTĀJS/ PRIEKŠNIEKS
+Q000295	Mācību centra VADĪTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000296	Mācību centra daļas PRIEKŠNIEKS
+Q000297	Izglītības programmas/ nodaļas DIREKTORS/ VADĪTĀJS
+Q000298	Profesionālās augstākās izglītības kursa VADĪTĀJS
+Q000299	Mācību kursu VADĪTĀJS
+Q000300	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS/ KOMANDIERIS (izglītības jomā)
+Q000301	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ KOMANDIERA VIETNIEKS (izglītības jomā)
+Q000302	Katedras VADĪTĀJS
+Q000303	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (finanšu un apdrošināšanas jomā)
+Q000304	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (finanšu un apdrošināšanas jomā)
+Q000305	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (finanšu un apdrošināšanas jomā)
+Q000306	Reģiona VADĪTĀJS (banku pakalpojumu jomā)
+Q000307	Vides PĀRVALDNIEKS
+Q000308	VADĪTĀJS (inspicēšanas jomā)
+Q000309	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (farmācijas jomā)
+Q000310	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (farmācijas jomā)
+Q000311	Pašvaldības policijas pamatdarbības struktūrvienības VADĪTĀJS/ PRIEKŠNIEKS
+Q000312	Pašvaldības policijas pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS
+Q000313	Pamatdarbības struktūrvienības VADĪTĀJS/ KOMANDIERIS/ PRIEKŠNIEKS (iekšlietu jomā)
+Q000314	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ KOMANDIERA VIETNIEKS/ PRIEKŠNIEKA VIETNIEKS (iekšlietu jomā)
+Q000315	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (revīzijas jomā)
+Q000316	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS/ PĀRVALDNIEKA VIETNIEKS (revīzijas jomā)
+Q000317	Galvenais INSPEKTORS (iekšlietu jomā)
+Q000318	Galvenais INSPEKTORS (apcietinājuma un brīvības atņemšanas jomā)
+Q000319	Vecākais valsts REVIDENTS (revīzijas jomā)
+Q000320	Operatīvais DEŽURANTS (iekšlietu jomā)
+Q000321	Operatīvā DEŽURANTA VIETNIEKS (iekšlietu jomā)
+Q000322	Sakaru VIRSNIEKS (iekšlietu jomā)
+Q000323	Valsts REVIDENTS (revīzijas jomā)
+Q000324	Meža ugunsdzēsības stacijas VADĪTĀJS
+Q000325	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (izdevējdarbības jomā)
+Q000326	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (izdevējdarbības jomā)
+Q000327	Valsts policijas vecākais VIRSNIEKS
+Q000328	Rotas KOMANDIERA VIETNIEKS (iekšlietu jomā)
+Q000329	Vada KOMANDIERA VIETNIEKS (iekšlietu jomā)
+Q000330	Vada KOMANDIERIS (iekšlietu jomā)
+Q000331	Bibliotēkas struktūrvienības VADĪTĀJS
+Q000332	Muzeja VADĪTĀJS/ DIREKTORS
+Q000333	Bibliotēkas VADĪTĀJS/ DIREKTORS
+Q000334	Rotas KOMANDIERIS (iekšlietu jomā)
+Q000335	Viesnīcas VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000336	Viesnīcas VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000337	Nometnes VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000338	Nometnes VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000339	Pansijas VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000340	Pansijas VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000341	VIESNĪCNIEKS
+Q000342	Dienesta viesnīcas VADĪTĀJS
+Q000343	Restorāna VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000344	Restorāna VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000345	Kafejnīcas/ tējnīcas VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000346	Kafejnīcas/ tējnīcas VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000347	Ēdnīcas VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS
+Q000348	Ēdnīcas VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS
+Q000349	Ēdināšanas pakalpojumu ORGANIZATORS
+Q000350	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (restorānu pakalpojumu jomā)
+Q000351	VADĪTĀJS/ DIREKTORS (mazumtirdzniecības jomā)
+Q000352	VEIKALVEDIS
+Q000353	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (vairumtirdzniecības jomā)
+Q000354	Pamatdarbības struktūrvienības VADĪTĀJS (mazumtirdzniecības jomā)
+Q000355	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (mazumtirdzniecības jomā)
+Q000356	VADĪTĀJS/ DIREKTORS/ PĀRVALDNIEKS (kultūras jomā)
+Q000357	Ekotūrisma PĀRVALDNIEKS
+Q000358	Tūrisma un atpūtas organizācijas VADĪTĀJS
+Q000359	PRODUCENTS (kultūras jomā)
+Q000360	IMPRESĀRIJS
+Q000361	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (kultūras jomā)
+Q000362	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (kultūras jomā)
+Q000363	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (sporta jomā)
+Q000364	Pamatdarbības struktūrvienības VADĪTĀJS/ DIREKTORS (tūrisma un atpūtas pakalpojumu jomā)
+Q000365	Mūzikas pasākumu ORGANIZATORS
+Q000366	Teātra/ galvenais ADMINISTRATORS
+Q000367	Kultūras darba VADĪTĀJS
+Q000368	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (individuālo pakalpojumu jomā)
+Q000369	Pamatdarbības struktūrvienības VADĪTĀJS (automobiļu tehniskās apkopes un remonta pakalpojumu jomā)
+Q000370	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS (sadzīves aparatūras un priekšmetu remonta pakalpojumu jomā)
+Q000371	Kuģa klientu apkalpošanas servisa VADĪTĀJS
+Q000372	Televīzijas/ radio programmas DIREKTORS
+Q000373	Televīzijas/ radio programmas DIREKTORA VIETNIEKS
+Q000374	Pamatdarbības struktūrvienības VADĪTĀJA VIETNIEKS/ DIREKTORA VIETNIEKS (citur neklasificētu pakalpojumu jomā)
+Q000375	Vadošais PĒTNIEKS
+Q000376	PĒTNIEKS
+Q000377	Zinātniskais ASISTENTS
+Q000378	AERODINAMIĶIS
+Q000379	ASTRONOMS
+Q000380	AstroFIZIĶIS
+Q000381	FIZIĶIS
+Q000382	Optikas FIZIĶIS
+Q000383	Cietvielu FIZIĶIS
+Q000384	TERMODINAMIĶIS
+Q000385	Radioloģijas FIZIĶIS
+Q000386	METROLOGS
+Q000387	Medicīnas FIZIĶIS
+Q000388	KLIMATOLOGS
+Q000389	METEOROLOGS
+Q000390	SINOPTIĶIS
+Q000391	AgroMETEOROLOGS
+Q000392	OKEANOLOGS
+Q000393	RADIOMETEOROLOGS
+Q000394	Meteoroloģijas RADIOMETRISTS
+Q000395	AeroMETEOROLOGS
+Q000396	KRISTALOGRĀFS
+Q000397	ĶĪMIĶIS
+Q000398	Kristalogrāfijas ĶĪMIĶIS
+Q000399	Krāsošanas ĶĪMIĶIS
+Q000400	Pārtikas ĶĪMIĶIS
+Q000401	Neorganisko vielu ĶĪMIĶIS
+Q000402	Metalurģijas ĶĪMIĶIS
+Q000403	Radioaktīvo vielu ĶĪMIĶIS
+Q000404	Organisko vielu ĶĪMIĶIS
+Q000405	Kosmētisko līdzekļu ĶĪMIĶIS
+Q000406	Radioloģijas ĶĪMIĶIS
+Q000407	ĶĪMIĶIS ANALĪTIĶIS
+Q000408	Restaurācijas ĶĪMIĶIS
+Q000409	AerofotoĢEODĒZISTS
+Q000410	GLACIOLOGS
+Q000411	ĢEODĒZISTS
+Q000412	ĢeoFIZIĶIS
+Q000413	ĢEOLOGS
+Q000414	HidroAKUSTIĶIS
+Q000415	HidroĢEOLOGS
+Q000416	HIDROLOGS
+Q000417	MINERALOGS
+Q000418	OKEANOGRĀFS
+Q000419	PALEONTOLOGS
+Q000420	SEISMOLOGS
+Q000421	Darījumu operāciju ANALĪTIĶIS
+Q000422	Statistikas MATEMĀTIĶIS
+Q000423	MATEMĀTIĶIS
+Q000424	DEMOGRĀFS
+Q000425	Lietišķās statistikas STATISTIĶIS
+Q000426	Ekonomikas STATISTIĶIS
+Q000427	Finanšu STATISTIĶIS
+Q000428	Veselības aprūpes STATISTIĶIS
+Q000429	Pārskatu STATISTIĶIS
+Q000430	Medicīnas STATISTIĶIS
+Q000431	BIOSTATISTIĶIS
+Q000432	Zivsaimniecības BAKTERIOLOGS
+Q000433	Augsnes BAKTERIOLOGS
+Q000434	BIOFIZIĶIS
+Q000435	BIOĶĪMIĶIS
+Q000436	BIOLOGS
+Q000437	Molekulārās bioloģijas BIOLOGS
+Q000438	BOTĀNIĶIS
+Q000439	CITOLOGS
+Q000440	EMBRIOLOGS
+Q000441	Ģenētikas INŽENIERIS
+Q000442	ENTOMOLOGS
+Q000443	EPIDEMIOLOGS
+Q000444	FARMAKOLOGS
+Q000445	ToksikoFARMAKOLOGS
+Q000446	FIZIOLOGS
+Q000447	Endokrinoloģijas FIZIOLOGS
+Q000448	Epidemioloģijas FIZIOLOGS
+Q000449	Klīniskais FIZIOLOGS
+Q000450	Neiroloģijas FIZIOLOGS
+Q000451	PsihoFIZIOLOGS
+Q000452	ĢENĒTIĶIS
+Q000453	HISTOLOGS
+Q000454	HidroBIOLOGS
+Q000455	IHTIOLOGS
+Q000456	IMUNOLOGS
+Q000457	MikroBIOLOGS
+Q000458	MIKOLOGS
+Q000459	ORNITOLOGS
+Q000460	PARAZITOLOGS
+Q000461	PATOLOGS
+Q000462	Augu PATOLOGS
+Q000463	Dzīvnieku PATOLOGS
+Q000464	HistoPATOLOGS
+Q000465	Ķirurģijas PATOLOGS
+Q000466	NeiroPATOLOGS
+Q000467	Medicīnas PATOLOGS
+Q000468	Veterinārmedicīnas PATOLOGS
+Q000469	SISTEMĀTIĶIS
+Q000470	ZOOLOGS
+Q000471	HIPOLOGS
+Q000472	NEMATOLOGS
+Q000473	TOKSIKOLOGS
+Q000474	ĢEOGRĀFS
+Q000475	Sēklkopības AGRONOMS
+Q000476	AGRONOMS
+Q000477	Vecākais MEŽKOPIS
+Q000478	POMOLOGS
+Q000479	Zemkopības KONSULTANTS
+Q000480	Mežsaimniecības KONSULTANTS
+Q000481	Dabas aizsardzības vecākais SPECIĀLISTS
+Q000482	Sertificēts EKSPERTS (sugu un biotopu aizsardzības jomā)
+Q000483	Rūpniecības projektēšanas INŽENIERIS
+Q000484	Ražošanas sagatavošanas INŽENIERIS
+Q000485	Robotikas INŽENIERIS
+Q000486	Cementa TEHNOLOGS
+Q000487	Keramikas TEHNOLOGS
+Q000488	Stikla TEHNOLOGS
+Q000489	Iespiešanas TEHNOLOGS
+Q000490	Audumu TEHNOLOGS
+Q000491	Kokapstrādes INŽENIERIS
+Q000492	Ražošanas vadības organizācijas/ darba organizācijas INŽENIERIS
+Q000493	Materiālu normēšanas TEHNOLOGS
+Q000494	Vērpšanas TEHNOLOGS
+Q000495	Adīšanas TEHNOLOGS
+Q000496	Apģērbu KONSTRUKTORS
+Q000497	Šūšanas TEHNOLOGS
+Q000498	TEHNOLOGS
+Q000499	Tekstilmateriālu apdares TEHNOLOGS
+Q000500	Projektēšanas INŽENIERIS
+Q000501	Ražošanas INŽENIERIS
+Q000502	Apģērbu un tekstila ražošanas INŽENIERIS
+Q000503	KOLORISTS
+Q000504	Alus darīšanas TEHNOLOGS
+Q000505	BūvINŽENIERIS
+Q000506	Ēku konstrukciju būvINŽENIERIS
+Q000507	Lidostu būvINŽENIERIS
+Q000508	Tiltu būvINŽENIERIS
+Q000509	Ēku būvINŽENIERIS
+Q000510	Doku un ostu būvINŽENIERIS
+Q000511	Bagarēšanas būvINŽENIERIS
+Q000512	Ātrgaitas šoseju un ielu būvINŽENIERIS
+Q000513	Hidrotehnisko būvju būvINŽENIERIS
+Q000514	Hidroloģijas būvINŽENIERIS
+Q000515	Dzelzceļa būvINŽENIERIS
+Q000516	Ceļu būvINŽENIERIS
+Q000517	Sanitārtehnikas būvINŽENIERIS
+Q000518	Zemes būvju/ mehānikas būvINŽENIERIS
+Q000519	Konstrukciju būvINŽENIERIS
+Q000520	Torņu būvINŽENIERIS
+Q000521	Tuneļu būvINŽENIERIS
+Q000522	Zemes rakšanas INŽENIERIS
+Q000523	Sanitārijas INŽENIERIS
+Q000524	Būvmateriālu TEHNOLOGS
+Q000525	Transportbūvju būvINŽENIERIS
+Q000526	Būvmateriālu INŽENIERIS
+Q000527	Siltuma, gāzes un ūdens tehnoloģijas sistēmu būvINŽENIERIS
+Q000528	Būvniecības tāmju INŽENIERIS
+Q000529	Inženierkomunikāciju piesaistes INŽENIERIS
+Q000530	Vienkāršotās renovācijas un rekonstrukcijas objektu INŽENIERIS
+Q000531	Ilgtspējīgas būvniecības INŽENIERIS
+Q000532	Inženiersistēmu projektēšanas būvINŽENIERIS
+Q000533	Saldēšanas sistēmu būvINŽENIERIS
+Q000534	Naftas pārvades sistēmu būvINŽENIERIS
+Q000535	Gāzes pārvades sistēmu būvINŽENIERIS
+Q000536	Neatkarīgs ēku energoefektivitātes EKSPERTS
+Q000537	Vides INŽENIERIS
+Q000538	Kuģu dizaina INŽENIERIS
+Q000539	Gaisa kuģu projektēšanas INŽENIERIS
+Q000540	Automobiļu dizaina INŽENIERIS
+Q000541	Aeronavigācijas apkalpošanas INŽENIERIS
+Q000542	Gaisa kondicionēšanas INŽENIERIS
+Q000543	Automātu INŽENIERIS
+Q000544	Dīzeļu INŽENIERIS
+Q000545	Gāzes turbīnu INŽENIERIS
+Q000546	Iekšdedzes dzinēju INŽENIERIS
+Q000547	Reaktīvo dzinēju INŽENIERIS
+Q000548	Kuģu būves INŽENIERIS
+Q000549	Mehānikas INŽENIERIS
+Q000550	Aeronautikas/ mehānikas INŽENIERIS
+Q000551	Lauksaimniecības/ mehānikas INŽENIERIS
+Q000552	Gaisa kondicionēšanas/ mehānikas INŽENIERIS
+Q000553	Pašgājējmehānismu/ mehānikas INŽENIERIS
+Q000554	Dīzeļu/ mehānikas INŽENIERIS
+Q000555	Gāzes turbīnu/ mehānikas INŽENIERIS
+Q000556	Apsildes, ventilācijas un saldēšanas/ mehānikas INŽENIERIS
+Q000557	Rūpniecisko mašīnu un darbarīku/ mehānikas INŽENIERIS
+Q000558	Instrumentu/ mehānikas INŽENIERIS
+Q000559	Ostas mehānismu/ mehānikas INŽENIERIS
+Q000560	Saldēšanas iekārtu/ mehānikas INŽENIERIS
+Q000561	Mehānikas TEHNOLOGS
+Q000562	Metināšanas TEHNOLOGS
+Q000563	Aprīkojuma INŽENIERIS
+Q000564	Mehānikas KONSTRUKTORS
+Q000565	Siltumenerģijas/ pārvades un sadales INŽENIERIS
+Q000566	Medicīnas iekārtu INŽENIERIS
+Q000567	Dzelzceļa lokomotīvju/ remonta INŽENIERIS
+Q000568	Medicīnas fizikālo tehnoloģiju INŽENIERIS
+Q000569	Mehatronikas INŽENIERIS
+Q000570	Siltumiekārtu ekspluatācijas INŽENIERIS
+Q000571	Siltumenerģijas un siltumtehnikas INŽENIERIS
+Q000572	Gaisa kuģu tehniskās apkopes mehānikas INŽENIERIS
+Q000573	Transportsistēmu INŽENIERIS
+Q000574	Kuģu mehānikas INŽENIERIS
+Q000575	Mašīnu un aparātu būves INŽENIERIS
+Q000576	Siltumtehnisko iekārtu INŽENIERIS
+Q000577	Mašīnu un aparātu būves TEHNOLOGS
+Q000578	Rūpniecisko iekārtu un rīku INŽENIERIS
+Q000579	MEHĀNIĶIS (inženieris)
+Q000580	Gaisa kuģu lidojumderīguma uzturēšanas mehānikas INŽENIERIS
+Q000581	Hidraulikas INŽENIERIS
+Q000582	Ķīmijas INŽENIERIS
+Q000583	Ķīmisko procesu INŽENIERIS
+Q000584	Naftas un dabasgāzes/ ķīmijas INŽENIERIS
+Q000585	Dabasgāzes ieguves un sadales/ ķīmijas INŽENIERIS
+Q000586	Raudzēšanas TEHNOLOGS
+Q000587	Ķīmijas TEHNOLOGS
+Q000588	Pārtikas un dzērienu TEHNOLOGS
+Q000589	Degvielas TEHNOLOGS
+Q000590	Krāsu TEHNOLOGS
+Q000591	Papīra TEHNOLOGS
+Q000592	Plastmasas izstrādājumu TEHNOLOGS
+Q000593	Polimēru TEHNOLOGS
+Q000594	Farmācijas TEHNOLOGS
+Q000595	Ķīmisko procesu TEHNOLOGS
+Q000596	Suņu un kaķu barības ražošanas TEHNOLOGS
+Q000597	Iežguves INŽENIERIS
+Q000598	METALURGS (analītiķis)
+Q000599	Ieguves TEHNOLOGS
+Q000600	Velmju KALIBRĒTĀJS
+Q000601	Sistēmu (izņemot skaitļotāju) ANALĪTIĶIS
+Q000602	Cenu veidošanas INŽENIERIS
+Q000603	Plānošanas INŽENIERIS
+Q000604	Sistēmu (izņemot skaitļotāju) INŽENIERIS
+Q000605	Laika un kustības pētījumu INŽENIERIS
+Q000606	Zinātniski tehniskās informācijas INŽENIERIS
+Q000607	Patentu un izgudrojumu INŽENIERIS
+Q000608	Standartizācijas INŽENIERIS
+Q000609	Energotīklu DISPEČERS
+Q000610	Kvalitātes INŽENIERIS
+Q000611	Meža TEHNOLOGS
+Q000612	Iekārtu ekspluatācijas INŽENIERIS
+Q000613	Dzelzceļa ekspluatācijas INŽENIERIS
+Q000614	Sertifikācijas INŽENIERIS
+Q000615	Mežsaimniecības INŽENIERIS
+Q000616	Mežsaimniecības TEHNOLOGS
+Q000617	Automobiļu transporta INŽENIERIS
+Q000618	Kuģu vadīšanas INŽENIERIS
+Q000619	Ēku ekspluatācijas un aprīkojuma nodrošinājuma INŽENIERIS
+Q000620	PARFIMĒRS
+Q000621	Darba aizsardzības INŽENIERIS
+Q000622	INŽENIERINSPEKTORS
+Q000623	Ugunsdrošības INŽENIERIS
+Q000624	Ugunsdrošības un civilās aizsardzības INŽENIERIS
+Q000625	Galvenais INŽENIERIS
+Q000626	Posma INŽENIERIS
+Q000627	Dzelzceļa avāriju IZMEKLĒTĀJS
+Q000628	Jūras negadījumu IZMEKLĒTĀJS
+Q000629	Ēku sistēmu INŽENIERIS
+Q000630	Sistēmu vadības INŽENIERIS
+Q000631	Transportlīdzekļu vadītāju kvalifikācijas SPECIĀLISTS
+Q000632	Mežkopības INŽENIERIS
+Q000633	Mežizstrādes INŽENIERIS
+Q000634	Aeronavigācijas informācijas publikāciju SPECIĀLISTS
+Q000635	ElektroINŽENIERIS
+Q000636	Elektroapgaismes INŽENIERIS
+Q000637	Elektrisko sistēmu INŽENIERIS
+Q000638	Elektroenerģijas sadales elektroINŽENIERIS
+Q000639	Ģeneratoru elektroINŽENIERIS
+Q000640	Elektroenerģijas pārvades elektroINŽENIERIS
+Q000641	Elektrovilkmes elektroINŽENIERIS
+Q000642	Elektromehānisko iekārtu elektroINŽENIERIS
+Q000643	Augstsprieguma elektroINŽENIERIS
+Q000644	Releju aizsardzības un automātikas INŽENIERIS
+Q000645	Elektrotehnisko iekārtu elektroINŽENIERIS
+Q000646	Galvenais ENERĢĒTIĶIS
+Q000647	Lauksaimniecības enerģētikas INŽENIERIS
+Q000648	ENERĢĒTIĶIS
+Q000649	Kuģu elektroautomātikas INŽENIERIS
+Q000650	Elektroietaišu ekspluatācijas INŽENIERIS
+Q000651	Apsardzes tehnisko sistēmu INŽENIERIS
+Q000652	Dzelzceļa elektrosistēmu INŽENIERIS
+Q000653	Elektronikas INŽENIERIS
+Q000654	Skaitļotāju/ elektronikas INŽENIERIS
+Q000655	Informācijas/ elektronikas INŽENIERIS
+Q000656	Mērinstrumentu/ elektronikas INŽENIERIS
+Q000657	Pusvadītāju/ elektronikas INŽENIERIS
+Q000658	Elektronikas TEHNOLOGS
+Q000659	Datortehnikas INŽENIERIS
+Q000660	Radioelektronikas INŽENIERIS
+Q000661	Telesakaru/ telekomunikāciju INŽENIERIS
+Q000662	Kosmosa sakaru/ komunikāciju INŽENIERIS
+Q000663	Radiosakaru INŽENIERIS
+Q000664	Signālsistēmas sakaru/ komunikāciju INŽENIERIS
+Q000665	Telefona sakaru/ komunikāciju INŽENIERIS
+Q000666	ARHITEKTS
+Q000667	ARHITEKTA PALĪGS
+Q000668	Ainavu ARHITEKTS
+Q000669	Izstrādājumu PROJEKTĒTĀJS
+Q000670	Mēbeļu DIZAINERS
+Q000671	Modes DIZAINERS
+Q000672	Produktu DIZAINERS
+Q000673	Teātra kostīmu MODELĒTĀJS
+Q000674	JuvelierMĀKSLINIEKS
+Q000675	Teātra kostīmu MĀKSLINIEKS
+Q000676	Apģērbu DIZAINERS
+Q000677	Teritorijas PLĀNOTĀJS
+Q000678	Satiksmes PLĀNOTĀJS
+Q000679	Sabiedriskā transporta ORGANIZATORS
+Q000680	Attīstības plānošanas INŽENIERIS
+Q000681	Kartogrāfijas INŽENIERIS
+Q000682	Fotogrammetrijas INŽENIERIS
+Q000683	Ģeodēzijas INŽENIERIS
+Q000684	Hidrogrāfijas INŽENIERIS
+Q000685	Zemes ierīcības INŽENIERIS
+Q000686	Aerofotogrāfijas INŽENIERIS
+Q000687	Ģeoinformātikas INŽENIERIS
+Q000688	Interjera DIZAINERS
+Q000689	Grafikas DIZAINERS
+Q000690	Mājaslapu DIZAINERS
+Q000691	ĀRSTS STAŽIERIS
+Q000692	Ģimenes/ vispārējās prakses ĀRSTS
+Q000693	REZIDENTS (ģimenes (vispārējās prakses) ārsta specialitātē)
+Q000694	Kuģa ĀRSTS
+Q000695	ALERGOLOGS
+Q000696	Bērnu ALERGOLOGS
+Q000697	ALGOLOGS
+Q000698	ANDROLOGS
+Q000699	ANESTEZIOLOGS, REANIMATOLOGS
+Q000700	Arodveselības un arodslimību ĀRSTS
+Q000701	DIETOLOGS
+Q000702	TRANSFUZIOLOGS
+Q000703	TRAUMATOLOGS, ORTOPĒDS
+Q000704	TRIHOLOGS
+Q000705	UROLOGS
+Q000706	INTERNISTS
+Q000707	Manuālās medicīnas ĀRSTS
+Q000708	NEIROFIZIOLOGS
+Q000709	Invazīvais RADIOLOGS
+Q000710	ĀRSTS EKSPERTS
+Q000711	ENDOKRINOLOGS
+Q000712	ĀRSTS ENDOSKOPISTS gastrointestinālajā endoskopijā
+Q000713	ĀRSTS klīniskais FARMAKOLOGS
+Q000714	ĀRSTS klīniskais FIZIOLOGS
+Q000715	Fizikālās un rehabilitācijas medicīnas ĀRSTS
+Q000716	ĀRSTS ĢENĒTIĶIS
+Q000717	ĀRSTS IMUNOLOGS
+Q000718	Laboratorijas ĀRSTS
+Q000719	ĀRSTS klīniskais MIKROBIOLOGS
+Q000720	ĀRSTS PATOLOGS
+Q000721	ĀRSTS paliatīvās aprūpes SPECIĀLISTS
+Q000722	Sporta ĀRSTS
+Q000723	DERMATOLOGS, VENEROLOGS
+Q000724	Bērnu ENDOKRINOLOGS
+Q000725	Tiesu medicīnas EKSPERTS
+Q000726	Tiesu psihiatrijas EKSPERTS
+Q000727	FLEBOLOGS
+Q000728	FONIATRS
+Q000729	GASTROENTEROLOGS
+Q000730	Bērnu GASTROENTEROLOGS
+Q000731	GERIATRS
+Q000732	GINEKOLOGS, dzemdību speciālists
+Q000733	Onkoloģijas GINEKOLOGS
+Q000734	HEMATOLOGS
+Q000735	HEPATOLOGS
+Q000736	Bērnu HEMATOONKOLOGS
+Q000737	HipnoTERAPEITS
+Q000738	INFEKTOLOGS
+Q000739	Bērnu INFEKTOLOGS
+Q000740	KARDIOLOGS
+Q000741	Bērnu KARDIOLOGS
+Q000742	KOMBUSTIOLOGS
+Q000743	KOSMETOLOGS
+Q000744	BALNEOLOGS KURORTOLOGS
+Q000745	ĶIRURGS
+Q000746	Asinsvadu ĶIRURGS
+Q000747	Bērnu ĶIRURGS
+Q000748	Plastikas ĶIRURGS
+Q000749	Rokas ĶIRURGS
+Q000750	Sirds ĶIRURGS
+Q000751	Torakālais ĶIRURGS
+Q000752	NARKOLOGS
+Q000753	NEFROLOGS
+Q000754	Bērnu NEFROLOGS
+Q000755	NEIROĶIRURGS
+Q000756	NEIROLOGS
+Q000757	Bērnu NEIROLOGS
+Q000758	NEONATOLOGS
+Q000759	OFTALMOLOGS
+Q000760	ONKOLOGS ĶĪMIJTERAPEITS
+Q000761	ĀRSTS OSTEOPĀTS
+Q000762	OTOLARINGOLOGS
+Q000763	PEDIATRS
+Q000764	PNEIMONOLOGS
+Q000765	Bērnu PNEIMONOLOGS
+Q000766	PSIHIATRS
+Q000767	Bērnu PSIHIATRS
+Q000768	RADIOLOGS TERAPEITS
+Q000769	RADIOLOGS
+Q000770	REIMATOLOGS
+Q000771	Bērnu REIMATOLOGS
+Q000772	REZIDENTS (izņemot REZIDENTUS ģimenes (vispārējās prakses) ārsta specialitātē)
+Q000773	SEKSOLOGS, SEKSOPATOLOGS
+Q000774	PSIHOTERAPEITS
+Q000775	OSTEOREFLEKSOTERAPEITS
+Q000776	TRANSPLANTOLOGS
+Q000777	Vecākā medicīnas MĀSA
+Q000778	VirsMĀSA
+Q000779	Ambulatorās aprūpes MĀSA
+Q000780	Ambulatorās medicīnas MĀSA
+Q000781	Anestēzijas, intensīvās un neatliekamās aprūpes MĀSA
+Q000782	Bērnu aprūpes MĀSA
+Q000783	Bērnu MĀSA
+Q000784	Dermatoveneroloģijas MĀSA
+Q000785	Diabēta aprūpes MĀSA
+Q000786	Diabetoloģijas un endokrinoloģijas MĀSA
+Q000787	Diētas MĀSA
+Q000788	Endoskopijas MĀSA
+Q000789	Fizikālās un rehabilitācijas medicīnas MĀSA
+Q000790	Fizikālās terapijas MĀSA
+Q000791	Ftiziopulmoloģijas MĀSA
+Q000792	Funkcionālās diagnostikas MĀSA
+Q000793	Garīgās veselības aprūpes MĀSA
+Q000794	Ginekoloģijas MĀSA
+Q000795	Hemodialīzes un nieru transplantācijas MĀSA
+Q000796	Infektoloģijas MĀSA
+Q000797	Internās aprūpes MĀSA
+Q000798	Intensīvās terapijas un anestēzijas MĀSA
+Q000799	Ķirurģiskās aprūpes MĀSA
+Q000800	Ķirurģijas MĀSA
+Q000801	Narkoloģijas MĀSA
+Q000802	Neatliekamās palīdzības MĀSA
+Q000803	Neiroķirurģijas MĀSA
+Q000804	Neiroloģijas MĀSA
+Q000805	Oftalmoloģijas MĀSA
+Q000806	Onkoloģiskās aprūpes MĀSA
+Q000807	Onkoloģijas MĀSA
+Q000808	Operāciju MĀSA
+Q000809	Peritoneālās dialīzes MĀSA
+Q000810	Pirmsskolas iestāžu un skolu MĀSA
+Q000811	Podiatrijas MĀSA
+Q000812	Psihiatrijas MĀSA
+Q000813	Rentgenoloģijas un radioloģijas MĀSA
+Q000814	Sabiedrības veselības MĀSA
+Q000815	Terapijas MĀSA
+Q000816	Transfuzioloģijas MĀSA
+Q000817	Traumatoloģijas un ortopēdijas MĀSA
+Q000818	Uroloģijas MĀSA
+Q000819	Nieru aizstājterapijas un nefroloģiskās aprūpes MĀSA
+Q000820	Neonatoloģijas MĀSA
+Q000821	Vecākā VECMĀTE
+Q000822	VECMĀTE
+Q000823	Ajūrvēdas medicīnas SPECIĀLISTS
+Q000824	ĀRSTS HOMEOPĀTS
+Q000825	Akupunktūras ĀRSTS
+Q000826	NEIROPĀTS
+Q000827	ĀRSTA PALĪGS/ FELDŠERIS
+Q000828	Ambulatorā dienesta ĀRSTA PALĪGS
+Q000829	Militārais PARAMEDIĶIS
+Q000830	Veterinārārsti
+Q000831	VeterinārĀRSTS EPIDEMIOLOGS
+Q000832	VeterinārĀRSTS ĶIRURGS
+Q000833	VeterinārĀRSTS
+Q000834	Zobu PROTĒZISTS
+Q000835	ZOBĀRSTS
+Q000836	ORTODONTS
+Q000837	ENDODONTISTS
+Q000838	Bērnu ZOBĀRSTS
+Q000839	PERIODONTOLOGS
+Q000840	Mutes, sejas un žokļu ĶIRURGS
+Q000841	FARMACEITS
+Q000842	Klīniskais FARMACEITS
+Q000843	Rūpnieciskais FARMACEITS
+Q000844	Vides, darba aizsardzības, higiēnas un sabiedrības veselības vecākie speciālisti
+Q000845	Darba aizsardzības vecākais SPECIĀLISTS
+Q000846	Vides veselības ANALĪTIĶIS
+Q000847	Sabiedrības veselības ĀRSTS
+Q000848	Higiēnas ĀRSTS
+Q000849	HIGIĒNISTS
+Q000850	ĀRSTS EPIDEMIOLOGS
+Q000851	Pretradiācijas aizsardzības SPECIĀLISTS
+Q000852	ElektroTERAPEITS
+Q000853	FIZIOTERAPEITS
+Q000854	KINEZOTERAPEITS
+Q000855	ERGOTERAPEITS
+Q000856	Fizikālais TERAPEITS
+Q000857	REITTERAPEITS
+Q000858	Uztura SPECIĀLISTS
+Q000859	AudioLOGOPĒDS
+Q000860	Runas TERAPEITS
+Q000861	LOGOPĒDS
+Q000862	AUDIOLOGS
+Q000863	Bērnu AUDIOLOGS
+Q000864	OPTOMETRISTS
+Q000865	Sabiedrības veselības ORGANIZATORS
+Q000866	Sabiedrības veselības METODIĶIS
+Q000867	Sabiedrības veselības ANALĪTIĶIS
+Q000868	PODOLOGS
+Q000869	Darba TERAPEITS
+Q000870	Mākslas TERAPEITS
+Q000871	Mūzikas TERAPEITS
+Q000872	Neredzīgo TERAPEITS
+Q000873	RADIOGRĀFERS
+Q000874	Mākslas terapijas SPECIĀLISTS
+Q000875	BIONIĶIS PROTĒZISTS
+Q000876	Acu PROTĒZISTS OKULĀRISTS
+Q000877	ASISTENTS (izglītības jomā)
+Q000878	PROFESORS
+Q000879	Vecākais PASNIEDZĒJS
+Q000880	Profesionālās izglītības SKOLOTĀJS
+Q000881	Profesionālās ievirzes izglītības SKOLOTĀJS
+Q000882	Vispārējās vidējās izglītības SKOLOTĀJS
+Q000883	Vispārējās pamatizglītības SKOLOTĀJS
+Q000884	Sākumizglītības SKOLOTĀJS
+Q000885	Pirmsskolas izglītības SKOLOTĀJS
+Q000886	Pirmsskolas izglītības mūzikas SKOLOTĀJS
+Q000887	Pirmsskolas izglītības sporta SKOLOTĀJS
+Q000888	Izglītības METODIĶIS
+Q000889	Galvenais SPECIĀLISTS METODIĶIS
+Q000890	Valsts bērnu tiesību aizsardzības INSPEKTORS
+Q000891	Pirmsskolas izglītības METODIĶIS
+Q000892	Speciālās izglītības SKOLOTĀJS
+Q000893	Interešu izglītības mūzikas SKOLOTĀJS
+Q000894	Interešu izglītības vokālais PEDAGOGS
+Q000895	Interešu izglītības instrumentspēles PEDAGOGS
+Q000896	Glābšanas darbu INSTRUKTORS
+Q000897	Bīstamu kravu pārvadāšanas transportlīdzekļu vadītāju apmācības PASNIEDZĒJS
+Q000898	Vecākais INSTRUKTORS (iekšlietu jomā)
+Q000899	INSTRUKTORS (iekšlietu jomā)
+Q000900	Sociālais PEDAGOGS
+Q000901	Atkarību profilakses SPECIĀLISTS
+Q000902	Pagarinātās dienas grupas SKOLOTĀJS
+Q000903	Izglītības iestādes muzeju PEDAGOGS
+Q000904	Interešu izglītības SKOLOTĀJS
+Q000905	Internāta, dienesta viesnīcas SKOLOTĀJS
+Q000906	Sporta ORGANIZATORS
+Q000907	Vecākais sporta TRENERIS
+Q000908	SPECIĀLISTS bērnu tiesību aizsardzības jautājumos
+Q000909	Arod(amat)mācības SKOLOTĀJS
+Q000910	Prakses PLĀNOTĀJS
+Q000911	SKOLOTĀJS MENTORS
+Q000912	Klīnisko simulāciju SPECIĀLISTS
+Q000913	Mācību procesa ORGANIZATORS
+Q000914	Jaunsargu INSTRUKTORS
+Q000915	REVIDENTS
+Q000916	Zvērināts REVIDENTS
+Q000917	Aizdevumu REVIDENTS
+Q000918	AUDITORS
+Q000919	Informācijas sistēmu AUDITORS
+Q000920	Uzraudzības AUDITORS
+Q000921	Iekšējais AUDITORS
+Q000922	Grāmatvedības EKSPERTS
+Q000923	Kredītiestāžu uzraudzības ANALĪTIĶIS
+Q000924	Iekšējās kontroles galvenais SPECIĀLISTS
+Q000925	Iekšējās kontroles galvenais INSPEKTORS
+Q000926	Struktūrvienību koordinācijas, profilakses un informācijas uzskaites galvenais SPECIĀLISTS
+Q000927	Zvērināta REVIDENTA PALĪGS/ ASISTENTS
+Q000928	Revīzijas komitejas LOCEKLIS
+Q000929	FINANSISTS
+Q000930	Vecākais komercdarbības SPECIĀLISTS
+Q000931	Nodokļu KONSULTANTS
+Q000932	Finanšu tirgus ANALĪTIĶIS
+Q000933	Finanšu ANALĪTIĶIS
+Q000934	Naudas apgrozības ANALĪTIĶIS
+Q000935	Riska ANALĪTIĶIS
+Q000936	Finanšu ieguldījumu portfeļa VADĪTĀJS
+Q000937	Finanšu risku VADĪTĀJS
+Q000938	Ieņēmumu plānošanas/ vadīšanas SPECIĀLISTS
+Q000939	Zinātniskais KONSULTANTS
+Q000940	Bīstamo kravu pārvadājumu drošības KONSULTANTS (padomnieks)
+Q000941	PADOMNIEKS (konsultants)
+Q000942	Darbības nepārtrauktības VADĪTĀJS
+Q000943	Darbības risku VADĪTĀJS
+Q000944	Stratēģiskās vadības procesa VADĪTĀJS
+Q000945	Datu aizsardzības SPECIĀLISTS
+Q000946	Projekta VADĪTĀJS/ DIREKTORS
+Q000947	Vecākais REFERENTS
+Q000948	REFERENTS
+Q000949	Jaunākais REFERENTS
+Q000950	Vecākais INSPEKTORS
+Q000951	INSPEKTORS
+Q000952	Jaunākais INSPEKTORS
+Q000953	Vecākais EKSPERTS
+Q000954	EKSPERTS
+Q000955	Jaunākais EKSPERTS
+Q000956	Klīnisko pētījumu VADĪTĀJS
+Q000957	Zāļu reģistrācijas VADĪTĀJS
+Q000958	Zinātniskais SEKRETĀRS
+Q000959	Galvenais SPECIĀLISTS sadarbības jautājumos starp valsts un pašvaldību iestādēm
+Q000960	Vecākais KONTROLIERIS (pašvaldībās)
+Q000961	KONTROLIERIS (pašvaldībās)
+Q000962	Kancelejas pārzinis
+Q000963	Civilaizsardzības ORGANIZATORS
+Q000964	Viesnīcu pakalpojumu ORGANIZATORS
+Q000965	Pašvaldības/ finanšu stabilizācijas procesa UZRAUGS
+Q000966	Jaunatnes lietu SPECIĀLISTS
+Q000967	Dzimtsarakstu INSPEKTORS
+Q000968	Arodbiedrību/ darba KOORDINĒTĀJS
+Q000969	Vides pārvaldības SPECIĀLISTS
+Q000970	Licencēšanas SPECIĀLISTS
+Q000971	Sabiedrības pārvaldes SPECIĀLISTS
+Q000972	Iedzīvotāju reģistrēšanas SPECIĀLISTS
+Q000973	SPECIĀLISTS zemes nomas jautājumos
+Q000974	SPECIĀLISTS mājokļu jautājumos
+Q000975	Dzimtsarakstu SPECIĀLISTS
+Q000976	Nekustamā īpašuma tiesiskās reģistrācijas SPECIĀLISTS
+Q000977	Izglītības darba SPECIĀLISTS
+Q000978	Pirmais SEKRETĀRS
+Q000979	KONSULS
+Q000980	Otrais SEKRETĀRS
+Q000981	Trešais SEKRETĀRS
+Q000982	VICEKONSULS
+Q000983	ATAŠEJS
+Q000984	Virsmežniecības INŽENIERIS
+Q000985	Galvenais SPECIĀLISTS starptautiskās sadarbības jautājumos
+Q000986	Programmu DIREKTORS/ VADĪTĀJS
+Q000987	BūvINSPEKTORS
+Q000988	MEŽZINIS
+Q000989	Jaunatnes DARBINIEKS
+Q000990	Probācijas SPECIĀLISTS
+Q000991	Nozares PADOMNIEKS
+Q000992	Saeimas komisijas vecākais KONSULTANTS
+Q000993	Saeimas komisijas KONSULTANTS
+Q000994	Saeimas frakcijas vecākais KONSULTANTS
+Q000995	Saeimas frakcijas KONSULTANTS
+Q000996	Izbraukumu ORGANIZATORS (veselības aprūpes jomā)
+Q000997	Nozares ATAŠEJA PALĪGS
+Q000998	Nodarbinātības ANALĪTIĶIS
+Q000999	Darba satura ANALĪTIĶIS
+Q001000	Personāla VADĪTĀJS
+Q001001	Vecākais personāla INSPEKTORS
+Q001002	Personāla atlases SPECIĀLISTS
+Q001003	Personāla lietu PĀRZINIS
+Q001004	Profesiju izvēles KONSULTANTS
+Q001005	Karjeras KONSULTANTS
+Q001006	Procesu kvalitātes vadības INŽENIERIS
+Q001007	Kvalitātes vadības sistēmu KONSULTANTS
+Q001008	Kvalitātes vadības sistēmu SPECIĀLISTS
+Q001009	Kvalitātes VADĪTĀJS
+Q001010	Personālvadības KONSULTANTS
+Q001011	Personāla mācību KOORDINĒTĀJS
+Q001012	Mācību centra vecākais PASNIEDZĒJS
+Q001013	Mācību centra PASNIEDZĒJS
+Q001014	Personāla mācību SPECIĀLISTS
+Q001015	Gaisa kuģu tehniskās apkopes personāla mācību INSTRUKTORS
+Q001016	Jūrnieku profesionālās apmācības PASNIEDZĒSJ (instruktors)
+Q001017	Jūrnieku kompetences atbilstības VĒRTĒTĀJS
+Q001018	Atbilstības VĒRTĒTĀJS
+Q001019	Pasta darba organizācijas INSTRUKTORS
+Q001020	Lidojumu INSTRUKTORS
+Q001021	Reklāmas VADĪTĀJS
+Q001022	Tirgvedības VADĪTĀJS
+Q001023	Pārdošanas VADĪTĀJS
+Q001024	Tirgus pētījumu ANALĪTIĶIS
+Q001025	Loģistikas VADĪTĀJS
+Q001026	Produktu grupas VADĪTĀJS
+Q001027	Reklāmas tekstu AUTORS
+Q001028	Preču kategoriju VADĪTĀJS
+Q001029	Sabiedrisko attiecību VADĪTĀJS
+Q001030	Preses SEKRETĀRS
+Q001031	Ministru PREZIDENTA preses SEKRETĀRS
+Q001032	Ministru PREZIDENTA BIEDRA preses SEKRETĀRS
+Q001033	Ministru kabineta preses SEKRETĀRS
+Q001034	MINISTRA preses SEKRETĀRS
+Q001035	Valsts KONTROLIERA preses SEKRETĀRS
+Q001036	Sabiedrisko attiecību SPECIĀLISTS
+Q001037	Sabiedrsko attiecību tekstu AUTORS
+Q001038	Medicīniskais PĀRSTĀVIS
+Q001039	Komercdarbības SPECIĀLISTS (informātikas jomā)
+Q001040	Elektroniskās komercijas SPECIĀLISTS
+Q001041	Sistēmanalītiķi
+Q001042	Skaitļotāju/ sistēmu ANALĪTIĶIS
+Q001043	SistēmANALĪTIĶIS
+Q001044	Skaitļošanas sistēmu ANALĪTIĶIS
+Q001045	Datu ANALĪTIĶIS
+Q001046	Lietojamības ANALĪTIĶIS/ EKSPERTS
+Q001047	IKT viedo sistēmu PROJEKTĒTĀJS
+Q001048	Mehanizētās apstrādes projektēšanas INŽENIERIS
+Q001049	PROGRAMMĒTĀJS
+Q001050	Programmatūras ARHITEKTS
+Q001051	Datorspēļu izstrādes ORGANIZATORS
+Q001052	Skaitļotāju lietošanas INŽENIERIS
+Q001053	Sakaru/ komunikāciju PROGRAMMĒTĀJS
+Q001054	Tehnisko sistēmu apsardzes programmēšanas INŽENIERIS
+Q001055	Informācijas sistēmu TESTĒTĀJS
+Q001056	Skaitļotāju/ datubāzes ANALĪTIĶIS
+Q001057	Informācijas tehnoloģiju projektu VADĪTĀJS
+Q001058	Datubāzu INŽENIERIS
+Q001059	Datubāzu ADMINISTRATORS
+Q001060	Informācijas sistēmu ADMINISTRATORS
+Q001061	Informācijas sistēmu UZTURĒTĀJS
+Q001062	Skaitļotāju/ sistēmu INŽENIERIS
+Q001063	Vecākais datortīkla ADMINISTRATORS
+Q001064	Operāciju sistēmu INŽENIERIS
+Q001065	Informācijas sistēmINŽENIERIS
+Q001066	Informācijas tehnoloģiju (IT) pakalpojumu VADĪTĀJS
+Q001067	Informācijas tehnoloģiju (IT) pakalpojumu pārvaldības procesu VADĪTĀJS
+Q001068	Informācijas tehnoloģiju (IT) pakalpojumu pārvaldības procesu KONSULTANTS
+Q001069	Bankomātu tīkla ADMINISTRATORS
+Q001070	Internetbankas ADMINISTRATORS
+Q001071	Informācijas sistēmas drošības PĀRVALDNIEKS
+Q001072	Ģeogrāfiskās informācijas sistēmas SPECIĀLISTS
+Q001073	JURISTS
+Q001074	Zvērināts ADVOKĀTS
+Q001075	Zvērināta ADVOKĀTA PALĪGS
+Q001076	VirsPROKURORS
+Q001077	VirsPROKURORA VIETNIEKS
+Q001078	PROKURORS
+Q001079	Tiesas PADOMNIEKS
+Q001080	TIESNESIS
+Q001081	SENATORS
+Q001082	Tiesas PRIEKŠSĒDĒTĀJA VIETNIEKS
+Q001083	Tiesu palātas PRIEKŠSĒDĒTĀJS
+Q001084	Tiesu kolēģijas PRIEKŠSĒDĒTĀJS
+Q001085	Tiesu nama PRIEKŠSĒDĒTĀJS
+Q001086	JURISKONSULTS
+Q001087	Tieslietu KONSULTANTS
+Q001088	Vecākais tiesu EKSPERTS
+Q001089	Zvērināts NOTĀRS
+Q001090	Zvērināta NOTĀRA PALĪGS
+Q001091	Zvērināts tiesu IZPILDĪTĀJS
+Q001092	Maksātnespējas procesa ADMINISTRATORS
+Q001093	Valsts NOTĀRS
+Q001094	Transportlīdzekļu reģistrācijas SPECIĀLISTS
+Q001095	Profesionālais PATENTPILVARNIEKS
+Q001096	Sertificēts MEDIATORS
+Q001097	ARHĪVISTS
+Q001098	Mākslas EKSPERTS (muzeju jomā)
+Q001099	Krājuma GLABĀTĀJS (muzeju jomā)
+Q001100	Fondu GLABĀTĀJS (arhīvu jomā)
+Q001101	Ekspozīciju un izstāžu KURATORS
+Q001102	MUZEJPEDAGOGS
+Q001103	Dokumentu sistēmu VADĪTĀJS
+Q001104	Arhīva EKSPERTS
+Q001105	Galvenais krājuma GLABĀTĀJS (muzeju jomā)
+Q001106	Izglītojošā darba un darba ar apmeklētājiem VADĪTĀJS (muzeju jomā)
+Q001107	Apmeklētāju centra SPECIĀLISTS
+Q001108	Vecākais BIBLIOTEKĀRS
+Q001109	DOKUMENTĀLISTS
+Q001110	INFORMĀTIĶIS
+Q001111	SistēmBIBLIOTEKĀRS
+Q001112	Fondu GLABĀTĀJS (bibliotēku jomā)
+Q001113	Izglītības iestādes BIBLIOTEKĀRS
+Q001114	Metadatu REDAKTORS
+Q001115	Metadatu VEIDOTĀJS
+Q001116	EKONOMETRISTS
+Q001117	EKONOMISTS
+Q001118	Lauksaimniecības EKONOMISTS
+Q001119	Finanšu EKONOMISTS
+Q001120	Ārējās tirdzniecības EKONOMISTS
+Q001121	Darba EKONOMISTS
+Q001122	Cenu EKONOMISTS
+Q001123	Nodokļu EKONOMISTS
+Q001124	Darba algas EKONOMISTS
+Q001125	Makroekonomikas ANALĪTIĶIS
+Q001126	Budžeta EKONOMISTS
+Q001127	Galvenais EKONOMISTS
+Q001128	ANTROPOLOGS
+Q001129	ARHEOLOGS
+Q001130	KRIMINOLOGS
+Q001131	ETNOLOGS
+Q001132	SOCIOLOGS
+Q001133	Izglītības SOCIOLOGS
+Q001134	VĒSTURNIEKS
+Q001135	Sabiedrības VĒSTURNIEKS
+Q001136	Mākslas VĒSTURNIEKS
+Q001137	Medicīnas vēsturnieks
+Q001138	FILOZOFS
+Q001139	Politikas FILOZOFS
+Q001140	POLITOLOGS
+Q001141	PSIHOLOGS
+Q001142	Klīniskais un veselības PSIHOLOGS
+Q001143	Izglītības un skolu PSIHOLOGS
+Q001144	Darba un organizāciju PSIHOLOGS
+Q001145	Praktiskais PSIHOLOGS
+Q001146	PSIHOLOGA ASISTENTS
+Q001147	PSIHOLOGS KONSULTANTS
+Q001148	Psihoterapijas SPECIĀLISTS
+Q001149	Juridiskais PSIHOLOGS
+Q001150	Militārais PSIHOLOGS
+Q001151	Sociālais DARBINIEKS
+Q001152	Sociālais DARBINIEKS darbam ar ģimeni un bērniem
+Q001153	Sociālais DARBINIEKS darbam ar veciem cilvēkiem
+Q001154	Sociālais DARBINIEKS darbam ar bezpajumtniekiem
+Q001155	Sociālais DARBINIEKS darbam ar personām ar atkarības problēmām
+Q001156	Sociālais DARBINIEKS darbam ar klientiem ārstniecības iestādēs
+Q001157	Sociālais DARBINIEKS darbam ar vardarbībā cietušām personām
+Q001158	Sociālais DARBINIEKS darbam ar personu grupām
+Q001159	Kopienas sociālais DARBINIEKS
+Q001160	ARHIBĪSKAPS
+Q001161	BĪSKAPS
+Q001162	GARĪDZNIEKS
+Q001163	MĀCĪTĀJS
+Q001164	MISIONĀRS
+Q001165	PRIESTERIS
+Q001166	RABĪNS
+Q001167	TEOLOGS
+Q001168	VIKĀRS
+Q001169	PRĀVESTS
+Q001170	KARDINĀLS
+Q001171	Sociālās aprūpes karitatīvais darbinieks, DIAKONS
+Q001172	Garīgās aprūpes dienesta VADĪTĀJS
+Q001173	Profesionālais veselības aprūpes KAPELĀNS
+Q001174	Asociētais veselības aprūpes KAPELĀNS
+Q001175	KAPELĀNS
+Q001176	Baznīcas MŪZIĶIS
+Q001177	VIRSKAPELĀNS
+Q001178	Pastorālais KONSULTANTS
+Q001179	BIOGRĀFS
+Q001180	DRAMATURGS
+Q001181	DZEJNIEKS
+Q001182	KRITIĶIS
+Q001183	RAKSTNIEKS
+Q001184	SCENĀRISTS
+Q001185	ŽURNĀLISTS
+Q001186	KOMENTĒTĀJS
+Q001187	KOREKTORS
+Q001188	KORESPONDENTS
+Q001189	Galvenais REDAKTORS
+Q001190	REPORTIERIS
+Q001191	Literārais REDAKTORS
+Q001192	Televīzijas/ radio raidījuma VADĪTĀJS
+Q001193	GRAFOLOGS
+Q001194	TULKS
+Q001195	LEKSIKOGRĀFS
+Q001196	LINGVISTS
+Q001197	FILOLOGS
+Q001198	TULKOTĀJS
+Q001199	Tiesas TULKS
+Q001200	TERMINOLOGS
+Q001201	GLEZNOTĀJS
+Q001202	GRAFIĶIS
+Q001203	KARIKATŪRISTS
+Q001204	MĀKSLINIEKS
+Q001205	Galvenais MĀKSLINIEKS
+Q001206	MULTIPLIKATORS
+Q001207	TĒLNIEKS/ SKULPTORS
+Q001208	Kinofilmu MĀKSLINIEKS
+Q001209	KokTĒLNIEKS
+Q001210	INSTALATORS
+Q001211	Mākslas KERAMIĶIS
+Q001212	Porcelāna APGLEZNOTĀJS
+Q001213	MetālMĀKSLINIEKS
+Q001214	Stikla apstrādes MĀKSLINIEKS
+Q001215	TekstilMĀKSLINIEKS
+Q001216	VideoMĀKSLINIEKS
+Q001217	VITRĀŽISTS
+Q001218	RESTAURATORS
+Q001219	Monumentālo gleznu RESTAURATORS
+Q001220	Stājgleznu RESTAURATORS
+Q001221	Monumentāli dekoratīvās tēlniecības objektu/ būvmākslas RESTAURATORS
+Q001222	Grafikas RESTAURATORS
+Q001223	Keramikas, stikla izstrādājumu RESTAURATORS
+Q001224	Tekstiliju RESTAURATORS
+Q001225	Ādas, pergamenta izstrādājumu RESTAURATORS
+Q001226	Metāla izstrādājumu RESTAURATORS
+Q001227	Foto un kino materiālu RESTAURATORS
+Q001228	Arheoloģiskā materiāla RESTAURATORS
+Q001229	DIRIĢENTS
+Q001230	Galvenais DIRIĢENTS
+Q001231	Orķestra KONCERTMEISTARS
+Q001232	MUZIKOLOGS
+Q001233	Instrumentu MŪZIĶIS
+Q001234	Pūšaminstrumentu MŪZIĶIS
+Q001235	Sitaminstrumentu MŪZIĶIS
+Q001236	Stīginstrumentu MŪZIĶIS
+Q001237	Taustiņinstrumentu MŪZIĶIS
+Q001238	SOLISTS
+Q001239	Operas VOKĀLISTS
+Q001240	Galvenais KORMEISTARS
+Q001241	KOMPONISTS
+Q001242	Kora DZIEDĀTĀJS
+Q001243	Orķestra VADĪTĀJS
+Q001244	Orķestra DIRIĢENTS
+Q001245	Ansambļa VADĪTĀJS
+Q001246	MŪZIĶIS
+Q001247	DZIEDĀTĀJS
+Q001248	KORMEISTARS
+Q001249	Baznīcas mūzikas dzīves ORGANIZATORS
+Q001250	Kora DIRIĢENTS
+Q001251	KONCERTMEISTARS
+Q001252	VOKĀLISTS
+Q001253	Folkloras kopas VADĪTĀJS
+Q001254	Mūzikas teorijas SPECIĀLISTS
+Q001255	Amatiermākslas kolektīva VADĪTĀJS
+Q001256	Baleta SOLISTS
+Q001257	DEJOTĀJS
+Q001258	HOREOGRĀFS
+Q001259	BaletDEJOTĀJS
+Q001260	Baleta REPETITORS
+Q001261	BALETMEISTARS
+Q001262	Deju kolektīvu, kopu un naktsklubu DEJOTĀJS
+Q001263	Deju kopu VADĪTĀJS
+Q001264	Deju kolektīva VADĪTĀJS
+Q001265	Deju kolektīva REPETITORS
+Q001266	Kinofilmas DIREKTORS
+Q001267	Izrādes DIREKTORS
+Q001268	Televīzijas uzveduma DIREKTORS
+Q001269	Izrādes REŽISORS
+Q001270	Kinofilmas REŽISORS
+Q001271	Skaņu REŽISORS
+Q001272	Kustību REŽISORS
+Q001273	Amatierteātra REŽISORS
+Q001274	Televīzijas REŽISORS
+Q001275	Televīzijas un kino PRODUCENTS
+Q001276	Televīzijas/ radio raidījuma PRODUCENTS
+Q001277	Gaismu REŽISORS
+Q001278	Mākslinieciskais VADĪTĀJS
+Q001279	Mākslas pasākumu ORGANIZATORS
+Q001280	AKTIERIS (piektā līmeņa kvalifikācija)
+Q001281	Leļļu teātra AKTIERIS
+Q001282	AKTIERIS (trešā līmeņa kvalifikācija)
+Q001283	AKTRISE TRAVESTIJA
+Q001284	Televīzijas DIKTORS
+Q001285	Radio DIKTORS
+Q001286	DISKŽOKEJS
+Q001287	Radio un televīzijas KOMENTĒTĀJS
+Q001288	KONFERANSJĒ
+Q001289	Radio un televīzijas INTERVĒTĀJS
+Q001290	Cirka AKROBĀTS
+Q001291	Cirka izrādes VADĪTĀJS
+Q001292	Striptīza MĀKSLINIEKS
+Q001293	KLAUNS
+Q001294	ILUZIONISTS (burvju mākslinieks)
+Q001295	ŽONGLIERIS
+Q001296	Leļļu MEISTARS
+Q001297	DRESĒTĀJS
+Q001298	VēderRUNĀTĀJS
+Q001299	Cirka VINGROTĀJS
+Q001300	Cirka ATLĒTS
+Q001301	EKVILIBRISTS
+Q001302	Astronomijas TEHNIĶIS
+Q001303	Fizikas TEHNIĶIS
+Q001304	Ģeofizikas TEHNIĶIS
+Q001305	Ģeoloģijas TEHNIĶIS
+Q001306	Ķīmijas TEHNIĶIS
+Q001307	Meteoroloģijas TEHNIĶIS
+Q001308	Ķīmijas un fizikas LABORANTS
+Q001309	Metroloģijas TEHNIĶIS
+Q001310	Hidroloģijas TEHNIĶIS
+Q001311	Hidrogrāfijas TEHNIĶIS
+Q001312	Pārtikas produktu un dzērienu LABORANTS
+Q001313	Būvniecības KALKULĒTĀJS
+Q001314	Ēku būvTEHNIĶIS
+Q001315	Mērniecības būvTEHNIĶIS
+Q001316	Uzraudzības būvTEHNIĶIS
+Q001317	Apūdeņošanas būvTEHNIĶIS
+Q001318	Meliorācijas sistēmu būvTEHNIĶIS
+Q001319	Inženierkomunikāciju TEHNIĶIS
+Q001320	Konstrukciju būvTEHNIĶIS
+Q001321	Hidrobūvju būvTEHNIĶIS
+Q001322	Iekšējo iekārtu būvTEHNIĶIS
+Q001323	Hidrotehnisko būvju būvTEHNIĶIS
+Q001324	Pazemes darbu būvTEHNIĶIS
+Q001325	Arhitektūras TEHNIĶIS
+Q001326	ĢeoTEHNIĶIS
+Q001327	Ceļu būvTEHNIĶIS
+Q001328	Apdares darbu TEHNIĶIS
+Q001329	Būvju kadastrālās uzmērīšanas SPECIĀLISTS
+Q001330	Industriālās apbūves SPECIĀLISTS
+Q001331	Apbūves aizsardzības zonu SPECIĀLISTS
+Q001332	Inženierkomunikāciju piesaistes galvenais SPECIĀLISTS
+Q001333	Ugunsdrošības INSPEKTORS
+Q001334	Ugunsdrošības TEHNIĶIS
+Q001335	Būvdarbu VADĪTĀJA PALĪGS
+Q001336	Ceļu MEISTARS
+Q001337	Ceļu MEISTARA PALĪGS
+Q001338	Mākslīgo būvju MEISTARS
+Q001339	Vēdināšanas un kondicionēšanas sistēmu TEHNIĶIS
+Q001340	Ūdens apgādes un kanalizācijas sistēmu TEHNIĶIS
+Q001341	Aukstumiekārtu sistēmu TEHNIĶIS
+Q001342	Gāzes apgādes sistēmu TEHNIĶIS
+Q001343	Siltumapgādes un apkures sistēmu TEHNIĶIS
+Q001344	Betonēšanas TEHNIĶIS
+Q001345	Sausās būves TEHNIĶIS
+Q001346	Būvdarbu projekta VADĪTĀJA PALĪGS
+Q001347	Ugunsdrošības SPECIĀLISTS
+Q001348	Ainavu būvTEHNIĶIS
+Q001349	Arhitektūras TEHNOLOGS
+Q001350	Elektrības KALKULĒTĀJS
+Q001351	ElektroTEHNIĶIS
+Q001352	Elektroapgaismes TEHNIĶIS
+Q001353	Elektrosprieguma sadales TEHNIĶIS
+Q001354	Elektrosistēmas TEHNIĶIS
+Q001355	Augstsprieguma TEHNIĶIS
+Q001356	ElektroTEHNIĶIS/ Elektrisko iekārtu SPECIĀLISTS
+Q001357	Tehniskais SPECIĀLISTS
+Q001358	Elektrisko iekārtu SPECIĀLISTS
+Q001359	Lauksaimniecības enerģētikas TEHNIĶIS
+Q001360	Elektrisko tīklu TEHNIĶIS
+Q001361	Rūpnīcu elektroiekārtu TEHNIĶIS
+Q001362	Elektromontāžas TEHNIĶIS
+Q001363	Elektronikas TEHNIĶIS
+Q001364	Elektronikas/ kontrolmēraparātu TEHNIĶIS
+Q001365	Aerokosmisko/ iekārtu elektronikas TEHNIĶIS
+Q001366	Informātikas/ elektronikas TEHNIĶIS
+Q001367	Pusvadītāju/ elektronikas TEHNIĶIS
+Q001368	Televīzijas sakaru/ komunikāciju/ elektronikas TEHNIĶIS
+Q001369	Telefona sakaru/ komunikāciju/ elektronikas TEHNIĶIS
+Q001370	Elektroiekārtas vecākais TEHNIĶIS
+Q001371	Elektronisko sakaru/ komunikāciju SPECIĀLISTS
+Q001372	Elektronikas SPECIĀLISTS
+Q001373	Mehānikas darbu KALKULĒTĀJS
+Q001374	Sausā doka PRIEKŠNIEKS
+Q001375	Kuģu PĀRVALDNIEKS
+Q001376	Siltumenerģētikas TEHNIĶIS
+Q001377	Energosistēmu TEHNIĶIS
+Q001378	Siltumapgādes, ventilācijas un saldēšanas TEHNIĶIS
+Q001379	Dzelzceļa automātisko sistēmu TEHNIĶIS
+Q001380	Transporta lokomotīvju TEHNIĶIS
+Q001381	Sliežu ceļu saimniecības TEHNIĶIS
+Q001382	Mēriekārtu TEHNIĶIS
+Q001383	Mašīnbūves TEHNIĶIS
+Q001384	Siltumenerģētikas SPECIĀLISTS
+Q001385	MEHATRONIĶIS
+Q001386	Autoapkopes SPECIĀLISTS
+Q001387	Lokomotīvju saimniecības TEHNIĶIS
+Q001388	Transporta vagonu TEHNIĶIS
+Q001389	Dzelzceļa transporta pārvadājumu organizācijas un kustības drošības TEHNIĶIS
+Q001390	Kraušanas darbu VADĪTĀJS/ STIVIDORS
+Q001391	Gaisa kuģu tehniskās ekspluatācijas mehānikas TEHNIĶIS
+Q001392	Gaisa kuģu tehniskās ekspluatācijas avionikas TEHNIĶIS
+Q001393	Mehatronisku sistēmu TEHNIĶIS
+Q001394	Sauszemes transportlīdzekļu tehniskais EKSPERTS
+Q001395	Ritošā sastāva PIEŅĒMĒJS
+Q001396	Valsts/ tehniskās uzraudzības INSPEKTORS
+Q001397	Energouzraudzības INSPEKTORS
+Q001398	Tehniskās drošības INSPEKTORS
+Q001399	Katlu uzraudzības INSPEKTORS
+Q001400	Kuģošanas drošības INSPEKTORS
+Q001401	Tehniskās uzraudzības INSPEKTORS
+Q001402	Avāriju izmeklēšanas INSPEKTORS
+Q001403	Transportlīdzekļu tehniskās kontroles INSPEKTORS
+Q001404	Civilās aviācijas drošības uzraudzības INSPEKTORS
+Q001405	Dzelzceļa INSPEKTORS
+Q001406	Tehniskais INSPEKTORS
+Q001407	Kravas INSPEKTORS
+Q001408	Dzelzceļa MEISTARS
+Q001409	Mašīnbūves SPECIĀLISTS
+Q001410	Aukstumtehnikas SPECIĀLISTS
+Q001411	Starptautisko kravu pārvadājumu SPECIĀLISTS
+Q001412	Kuģu kontroles INSPEKTORS
+Q001413	Gaisa kuģu lidojumderīguma uzturēšanas SPECIĀLISTS
+Q001414	Vecākais MEISTARS (transporta jomā)
+Q001415	MEISTARS (transporta jomā)
+Q001416	MEISTARS (automobiļu tehniskās apkopes un remonta pakalpojumu jomā)
+Q001417	Dabasgāzes pārvades TEHNIĶIS
+Q001418	Ķīmisko procesu TEHNIĶIS
+Q001419	Ķīmijas LABORANTS
+Q001420	Ķīmijas TEHNOLOGA PALĪGS
+Q001421	Analītiskās ķīmijas TEHNIĶIS
+Q001422	Materiālu ķīmijas TEHNIĶIS
+Q001423	Metalurģijas TEHNIĶIS
+Q001424	Proves/ raudzes NOTEICĒJS
+Q001425	RASĒTĀJS
+Q001426	Arhitektūras RASĒTĀJS
+Q001427	Kartogrāfijas RASĒTĀJS
+Q001428	Tehnikas RASĒTĀJS
+Q001429	Būvtehnikas RASĒTĀJS
+Q001430	Elektrosistēmu RASĒTĀJS
+Q001431	Apsildes un ventilācijas sistēmu RASĒTĀJS
+Q001432	Kuģu/ tehnikas RASĒTĀJS
+Q001433	Mehānikas RASĒTĀJS
+Q001434	Ģeoloģijas RASĒTĀJS
+Q001435	Ierīču un instrumentu RASĒTĀJS
+Q001436	Topogrāfijas RASĒTĀJS
+Q001437	Zīmējumu un rasējumu KOPĒTĀJS
+Q001438	Tehniskais REDAKTORS
+Q001439	KARTOGRĀFS
+Q001440	FOTOGRAMMETRISTS
+Q001441	RASĒTĀJS DIZAINERS
+Q001442	Metožu TEHNIĶIS
+Q001443	Plānošanas TEHNIĶIS
+Q001444	Ražošanas TEHNIĶIS
+Q001445	Darba aizsardzības SPECIĀLISTS
+Q001446	Nedatorizēto/ sistēmu TEHNIĶIS
+Q001447	Izmaksu TEHNIĶIS
+Q001448	Darba izpētes TEHNIĶIS
+Q001449	Kvantitatīvās analīzes TEHNIĶIS
+Q001450	Elektrotīklu DISPEČERS
+Q001451	TEHNOLOGA PALĪGS
+Q001452	Tehniskās informācijas TEHNIĶIS
+Q001453	Kvalitātes TEHNIĶIS
+Q001454	Krimināllietu TEHNIĶIS
+Q001455	Ieroču TEHNIĶIS
+Q001456	TEHNIĶIS KRIMINĀLISTS (iekšlietu jomā)
+Q001457	TEHNIĶIS (iekšlietu jomā)
+Q001458	Kokapstrādes TEHNOLOGS
+Q001459	Poligrāfijas ražošanas TEHNIĶIS
+Q001460	Pārtikas produktu ražošanas TEHNIĶIS
+Q001461	Trikotāžas izstrādājumu ražošanas TEHNIĶIS
+Q001462	Tekstiliju ražošanas SPECIĀLISTS
+Q001463	Šūto izstrādājumu ražošanas TEHNIĶIS
+Q001464	Pārtikas produktu pārstrādes SPECIĀLISTS
+Q001465	Projektu ASISTENTS
+Q001466	Zāģmateriālu ražošanas TEHNIĶIS
+Q001467	Darba aizsardzības KOORDINATORS
+Q001468	EnergoDISPEČERS
+Q001469	Saldumu un šokolādes izstrādājumu ražošanas TEHNIĶIS
+Q001470	Administratīvās inspekcijas INSPEKTORS
+Q001471	Apģērbu PĀRBAUDĪTĀJS
+Q001472	Audumu PĀRBAUDĪTĀJS
+Q001473	Kvalitātes KONSULTANTS
+Q001474	Šūšanas kvalitātes KONSULTANTS
+Q001475	Produkcijas KONTROLIERIS
+Q001476	Produkcijas drošuma INSPEKTORS
+Q001477	Produkcijas kvalitātes INSPEKTORS
+Q001478	Pārtikas produktu kvalitātes INSPEKTORA PALĪGS
+Q001479	TEHNIĶIS
+Q001480	Apsardzes sistēmu TEHNIĶIS
+Q001481	Alus liešanas un dzesēšanas iekārtu TEHNIĶIS
+Q001482	Vērpto tekstiliju ražošanas SPECIĀLISTS
+Q001483	Austo tekstiliju ražošanas SPECIĀLISTS
+Q001484	Adīto tekstiliju ražošanas SPECIĀLISTS
+Q001485	Neausto drānu un izstrādājumu ražošanas SPECIĀLISTS
+Q001486	Medicīnas iekārtu TEHNIĶIS
+Q001487	Šūšanas ražošanas KONSULTANTS
+Q001488	Pārtikas un dzērienu TEHNOLOGA PALĪGS
+Q001489	MĒRNIEKA PALĪGS
+Q001490	Ieguves rūpniecības UZRAUGS
+Q001491	Karjera UZRAUGS
+Q001492	Ražošanas VADĪTĀJS
+Q001493	Autoremonta darbnīcas VADĪTĀJS
+Q001494	Vecākais MEISTARS (enerģētikas jomā)
+Q001495	MEISTARS (enerģētikas jomā)
+Q001496	Vecākais MEISTARS (apstrādes rūpniecības jomā)
+Q001497	MEISTARS (apstrādes rūpniecības jomā)
+Q001498	MEISTARS (elektrotehnikas jomā)
+Q001499	Maiņas MEISTARS (pārtikas rūpniecības jomā)
+Q001500	MEISTARS (poligrāfijas jomā)
+Q001501	BūvUZRAUGS
+Q001502	Ceļu būvUZRAUGS
+Q001503	Tiltu būvUZRAUGS
+Q001504	BūvMEISTARS (būvniecības jomā)
+Q001505	Elektrospēkstacijas OPERATORS
+Q001506	Hidroelektrospēkstacijas OPERATORS
+Q001507	Atomenerģijas/ reaktora OPERATORS
+Q001508	Elektroģeneratora/ turbīnas OPERATORS
+Q001509	Spēkstacijas/ turbīnas OPERATORS
+Q001510	Tvaika/ spēkstacijas OPERATORS
+Q001511	Dīzeļģeneratora OPERATORS
+Q001512	Energosistēmas vadības pults OPERATORS
+Q001513	Atkritumu sadedzināšanas/ krāsns OPERATORS
+Q001514	Ūdens aizsprosta OPERATORS
+Q001515	Ūdens ķīmiskās apstrādes OPERATORS
+Q001516	Ķīmisko reaģentu SAGATAVOTĀJS
+Q001517	Sūknēšanas iekārtas APKALPOTĀJS
+Q001518	Spiedieniekārtu OPERATORS
+Q001519	Attīrīšanas iekārtas OPERATORS
+Q001520	Filtrēšanas OPERATORS
+Q001521	Notekūdeņu rūpnieciskās pārstrādes OPERATORS
+Q001522	Rezervuāra OPERATORS
+Q001523	Sūknēšanas iekārtas OPERATORS
+Q001524	Ūdens pārstrādes OPERATORS
+Q001525	Ķīmisko vielu/ karstās apstrādes OPERATORS
+Q001526	Ķīmisko vielu/ filtrpreses OPERATORS
+Q001527	Ķīmisko vielu/ separatora OPERATORS
+Q001528	Ķīmijas destilēšanas iekārtas OPERATORS
+Q001529	Reaktora OPERATORS
+Q001530	Radioaktīvo atkritumu/ pārstrādes OPERATORS
+Q001531	Skābekļa ražošanas iekārtas OPERATORS
+Q001532	Slāpekļa ražošanas iekārtas OPERATORS
+Q001533	Benzīna/ kontrolierīču OPERATORS
+Q001534	Gāzes/ kontrolierīču OPERATORS
+Q001535	Benzīna/ pārsūknēšanas OPERATORS
+Q001536	Gāzes/ pārsūknēšanas OPERATORS
+Q001537	Naftas produktu/ pārsūknēšanas OPERATORS
+Q001538	Kausēšanas OPERATORS
+Q001539	Spiedliešanas iekārtas OPERATORS
+Q001540	Metāla LĒJĒJS
+Q001541	Metāla apstrādes iekārtas OPERATORS
+Q001542	Papīra masas/ ražošanas iekārtas OPERATORS
+Q001543	Papīra masas/ pārstrādāšanas OPERATORS
+Q001544	Robotikas UZRAUGS
+Q001545	Robotikas TEHNIĶIS
+Q001546	Automatizētās/ montāžas līnijas OPERATORS
+Q001547	TAKSIDERMISTS
+Q001548	Dabaszinātņu LABORANTS
+Q001549	Bakterioloģijas TEHNIĶIS
+Q001550	Bioķīmijas TEHNIĶIS
+Q001551	Biofizikas TEHNIĶIS
+Q001552	Ekoloģijas TEHNIĶIS
+Q001553	VIRUSOLOGA PALĪGS
+Q001554	PARAZITOLOGA PALĪGS
+Q001555	Vides TEHNIĶIS
+Q001556	BioTEHNOLOGS
+Q001557	BioTEHNOLOGA PALĪGS
+Q001558	Vides iekārtu TEHNIĶIS
+Q001559	Dzīvnieku PĀRRAUGS
+Q001560	Dzīvnieku vērtēšanas EKSPERTS
+Q001561	Kokaudzēšanas TEHNIĶIS
+Q001562	Puķkopības TEHNIĶIS
+Q001563	Dārzkopības TEHNIĶIS
+Q001564	ZOOTEHNIĶIS
+Q001565	Dārzkopības SPECIĀLISTS
+Q001566	Stādaudzēšanas TEHNIĶIS
+Q001567	Zemkopības LABORANTS
+Q001568	Sēklkopības TEHNIĶIS
+Q001569	Lauksaimniecības ORGANIZATORS
+Q001570	Zemnieku KONSULTANTS
+Q001571	Lauku attīstības SPECIĀLISTS
+Q001572	Augu aizsardzības SPECIĀLISTS
+Q001573	Lopkopības KONSULTANTS
+Q001574	Lauku attīstības KONSULTANTS
+Q001575	Augkopības TEHNIĶIS
+Q001576	Lopkopības TEHNIĶIS
+Q001577	Mežsaimniecības speciālisti
+Q001578	Meža TEHNIĶIS
+Q001579	Mežkopības TEHNIĶIS
+Q001580	Mežsaimniecības TEHNIĶIS
+Q001581	Mežsaimniecības LABORANTS
+Q001582	Meža INVENTARIZATORS
+Q001583	Mežizstrādes MEISTARS
+Q001584	Vecākais MEHĀNIĶIS uz kuģiem ar galveno dzinēju jaudu 3000 kW un lielāku
+Q001585	Otrais MEHĀNIĶIS uz kuģiem ar galveno dzinēju jaudu 3000 kW un lielāku
+Q001586	Vecākais MEHĀNIĶIS uz zvejas kuģiem ar galveno dzinēju jaudu 3000 kW un lielāku
+Q001587	Otrais MEHĀNIĶIS uz zvejas kuģiem ar galveno dzinēju jaudu 3000 kW un lielāku
+Q001588	Vecākais MEHĀNIĶIS uz kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001589	Otrais MEHĀNIĶIS uz kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001590	Sardzes MEHĀNIĶIS uz kuģiem ar galveno dzinēju jaudu 750 kW un lielāku
+Q001591	MEHĀNIĶIS uz kuģiem ar galveno dzinēja jaudu, mazāku par 750 kW
+Q001592	Vecākais MEHĀNIĶIS uz iekšējo ūdeņu kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001593	Vecākais MEHĀNIĶIS uz iekšējo ūdeņu kuģiem ar galveno dzinēju jaudu, mazāku par 1000 kW
+Q001594	MEHĀNIĶIS uz iekšējo ūdeņu kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001595	MEHĀNIĶIS uz iekšējo ūdeņu kuģiem ar galveno dzinēju jaudu, mazāku par 1000 kW
+Q001596	Vecākais MEHĀNIĶIS uz zvejas kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001597	Otrais MEHĀNIĶIS uz zvejas kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+Q001598	Sardzes MEHĀNIĶIS uz zvejas kuģiem
+Q001599	MEHĀNIĶIS uz zvejas kuģiem ar galveno dzinēju jaudu, mazāku par 750 kW
+Q001600	Kuģa galvenais elektroMEHĀNIĶIS (iekšlietu jomā)
+Q001601	Kuģa elektroMEHĀNIĶIS
+Q001602	Kuģa elektroMEHĀNIĶIS (iekšlietu jomā)
+Q001603	Kutera elektroMEHĀNIĶIS (iekšlietu jomā)
+Q001604	Kuģu MEHĀNIĶIS (vadības līmenī)
+Q001605	Kuģu MEHĀNIĶIS (ekspluatācijas līmenī)
+Q001606	Kuģu INSTRUKTORS
+Q001607	KAPTEINIS uz kuģiem ar 3000 BT un lielākiem
+Q001608	Vecākais STŪRMANIS uz kuģiem ar 3000 BT un lielākiem
+Q001609	KAPTEINIS uz zvejas kuģiem ar garumu 45 m un garākiem neierobežotā zvejas rajonā
+Q001610	Vecākais STŪRMANIS uz zvejas kuģiem ar garumu 45 m un garākiem neierobežotā zvejas rajonā
+Q001611	KAPTEINIS uz kuģiem, mazākiem par 3000 BT
+Q001612	KAPTEINIS uz kuģiem, mazākiem par 500 BT
+Q001613	KAPTEINIS uz kuģiem, mazākiem par 200 BT
+Q001614	Vecākais STŪRMANIS uz kuģiem, mazākiem par 3000 BT
+Q001615	Sardzes STŪRMANIS uz kuģiem ar 500 BT un lielākiem
+Q001616	Sardzes STŪRMANIS uz kuģiem, mazākiem par 500 BT piekrastes kuģošanā
+Q001617	KAPTEINIS uz iekšējo ūdeņu kuģiem, mazākiem par 3000 BT
+Q001618	KAPTEINIS uz iekšējo ūdeņu kuģiem, mazākiem par 500 BT
+Q001619	Iekšējo ūdeņu kuģa STŪRMANIS
+Q001620	Tāljūras LOCIS
+Q001621	LOCIS
+Q001622	Sardzes STŪRMANIS uz zvejas kuģiem ar garumu 45 m un garākiem neierobežotā zvejas rajonā
+Q001623	Sardzes STŪRMANIS uz zvejas kuģiem, īsākiem par 45 m, neierobežotā zvejas rajonā
+Q001624	Sardzes STŪRMANIS uz zvejas kuģiem, īsākiem par 45 m, ierobežotā zvejas rajonā
+Q001625	Kuģu satiksmes OPERATORS
+Q001626	Kuģa KAPTEINIS (iekšlietu jomā)
+Q001627	Kutera KAPTEINIS (iekšlietu jomā)
+Q001628	Kuģa klāja VIRSNIEKS (iekšlietu jomā)
+Q001629	Kuģa STŪRMANIS (iekšlietu jomā)
+Q001630	Peldošā celtņa MEISTARS/ KAPTEINIS
+Q001631	Kuģa VADĪTĀJS uz kuģiem līdz 500 BT piekrastes kuģošanā
+Q001632	Kuģu VADĪTĀJS (vadības līmenī)
+Q001633	Kuģu VADĪTĀJS (ekspluatācijas līmenī)
+Q001634	LIDOTĀJS STŪRMANIS
+Q001635	Lidmašīnas komercPILOTS
+Q001636	Helikoptera komercPILOTS
+Q001637	Lidmašīnas aviolīniju transporta PILOTS
+Q001638	Helikoptera aviolīniju transporta PILOTS
+Q001639	Planiera PILOTS
+Q001640	Gaisa balona PILOTS
+Q001641	Tālvadības gaisa kuģa PILOTS
+Q001642	Bezpilota transporta PILOTS
+Q001643	Gaisa satiksmes DISPEČERS
+Q001644	Gaisa satiksmes kontroliekārtu OPERATORS
+Q001645	Gaisa satiksmes vadības DISPEČERS
+Q001646	Lidojumu VADĪTĀJS
+Q001647	Lidlauka rajona lidojumu informācijas dienesta (AFIS) OPERATORS
+Q001648	Speciālu ziņojumu sniegšanas lidotājiem (NOTAM) sistēmu INŽENIERIS
+Q001649	Speciālu ziņojumu sniegšanas lidotājiem (NOTAM) sistēmu TEHNIĶIS
+Q001650	Lidojumu nodrošināšanas VADĪTĀJS
+Q001651	Gaisa satiksmes drošības TEHNIĶIS
+Q001652	Lidojumu nodrošināšanas INŽENIERIS
+Q001653	Elektronavigācijas INŽENIERIS
+Q001654	Radiolokācijas un radionavigācijas INŽENIERIS
+Q001655	Radiolokācijas INŽENIERIS
+Q001656	Radionavigācijas INŽENIERIS
+Q001657	Radiolokācijas TEHNIĶIS
+Q001658	Radionavigācijas TEHNIĶIS
+Q001659	Radionavigācijas OPERATORS
+Q001660	Gaisa kuģu tehniskās apkopes SPECIĀLISTS
+Q001661	Aeronavigācijas datu apstrādes sistēmu INŽENIERIS
+Q001662	Aviācijas mobilo sakaru INŽENIERIS
+Q001663	Aviācijas mobilo sakaru TEHNIĶIS
+Q001664	Aviācijas fiksēto sakaru/ datu pārraides tīkla INŽENIERIS
+Q001665	Aviācijas fiksēto sakaru/ datu pārraides tīkla TEHNIĶIS
+Q001666	Aviācijas fiksēto sakaru/ datu pārraides tīkla OPERATORS
+Q001667	RADIOLOGA ASISTENTS
+Q001668	Elektrokardiogrāfijas OPERATORS
+Q001669	Elektroencefalogrāfijas OPERATORS
+Q001670	Rentgenstaru iekārtas OPERATORS
+Q001671	Patoloģijas TEHNIĶIS
+Q001672	Medicīnas LABORANTS
+Q001673	Biomedicīnas LABORANTS
+Q001674	Laboratorijas SPECIĀLISTS
+Q001675	FARMACEITA ASISTENTS
+Q001676	Tehniskais ORTOPĒDS
+Q001677	Ortopēdijas TEHNIĶIS
+Q001678	Protēžu PIELĀGOTĀJS
+Q001679	Zobu TEHNIĶIS
+Q001680	MĀSA/ Medicīnas MĀSA
+Q001681	Iecirkņa MĀSA
+Q001682	Alternatīvās un papildinošās medicīnas speciālisti
+Q001683	DZIEDNIEKS
+Q001684	FITOTERAPEITS
+Q001685	Jogas MEISTARS
+Q001686	Jogas SPECIĀLISTS
+Q001687	VeterinārĀRSTA ASISTENTS/ PALĪGS
+Q001688	VeterinārFELDŠERIS
+Q001689	Mākslīgās apsēklošanas TEHNIĶIS
+Q001690	Zobu FELDŠERIS
+Q001691	Zobu HIGIĒNISTS
+Q001692	Zobārsta ASISTENTS
+Q001693	Medicīniskās uzskaites un veselības aprūpes informācijas KODĒTĀJS
+Q001694	Medicīniskās uzskaites un veselības aprūpes KOREKTORS
+Q001695	Medicīniskās uzskaites LIETVEDIS
+Q001696	OPTIĶIS
+Q001697	OPTOMETRISTA ASISTENTS
+Q001698	MASIERIS (trešā līmeņa kvalifikācija)
+Q001699	FIZIOTERAPEITA ASISTENTS
+Q001700	Bērnu MASIERIS
+Q001701	ERGOTERAPEITA ASISTENTS
+Q001702	MASIERIS (ceturtā līmeņa kvalifikācija)
+Q001703	Valsts darba INSPEKTORS
+Q001704	Darba INSPEKTORS
+Q001705	Sanitārais INSPEKTORS
+Q001706	Higiēnas DEZINFEKTORS
+Q001707	Higiēnas ĀRSTA PALĪGS
+Q001708	ĀRSTA EPIDEMIOLOGA PALĪGS
+Q001709	Neatliekamās medicīnas ĀRSTA PALĪGS/ FELDŠERIS
+Q001710	ORTOĒPISTS
+Q001711	ORTOOPTIĶIS
+Q001712	Valūtas maiņas STARPNIEKS
+Q001713	Investīciju STARPNIEKS
+Q001714	Parādzīmju PĀRDEVĒJS
+Q001715	Vērtspapīru TIRGOTĀJS
+Q001716	DĪLERIS (finanšu jomā)
+Q001717	Vērtspapīru INSPEKTORS
+Q001718	BROKERIS (finanšu jomā)
+Q001719	Vērtspapīru EKSPERTS
+Q001720	Klientu apkalpošanas PĀRZINIS
+Q001721	Norēķinu karšu PĀRZINIS
+Q001722	Korespondentattiecību ADMINISTRATORS
+Q001723	Klientu/ korporatīvo klientu VADĪTĀJS (privātbaņķieris)
+Q001724	Kontu ADMINISTRATORS (finanšu un tirdzniecības jomā)
+Q001725	Maksājumu karšu SPECIĀLISTS
+Q001726	Maksājumu karšu izgatavošanas SPECIĀLISTS
+Q001727	Maksājumu karšu ADMINISTRATORS
+Q001728	Maksājumu karšu projektu VADĪTĀJS
+Q001729	Finanšu produktu attīstības projektu VADĪTĀJS
+Q001730	METODIĶIS (finanšu un tirdzniecības jomā)
+Q001731	Dokumentāro operāciju SPECIĀLISTS
+Q001732	Muitas BROKERIS
+Q001733	DEKLARANTS
+Q001734	Maksājumu sistēmu EKSPERTS
+Q001735	Kredītu reģistra EKSPERTS
+Q001736	Reklamācijas SPECIĀLISTS
+Q001737	Kredītprojektu VADĪTĀJS
+Q001738	Kredītu ANALĪTIĶIS
+Q001739	Kredītportfeļa ADMINISTRATORS
+Q001740	Aizdevumu ADMINISTRATORS
+Q001741	Faktūrkreditēšanas SPECIĀLISTS
+Q001742	Kredītu piedziņas SPECIĀLISTS
+Q001743	Maksājumu uzraudzības SPECIĀLISTS
+Q001744	GRĀMATVEDIS (ceturtā līmeņa kvalifikācija)
+Q001745	Valūtas darījumu GRĀMATVEDIS
+Q001746	Vērtspapīru GRĀMATVEDIS
+Q001747	Valūtas operāciju GRĀMATVEDIS
+Q001748	Finanšu SPECIĀLISTS
+Q001749	Finanšu DARBINIEKS
+Q001750	Materiālu uzskaites GRĀMATVEDIS
+Q001751	STATISTIĶA PALĪGS
+Q001752	GRĀMATVEŽA PALĪGS
+Q001753	STATISTIĶIS
+Q001754	AKTUĀRA ASISTENTS
+Q001755	Prasību INSPEKTORS
+Q001756	IZSOLĪTĀJS
+Q001757	Sauszemes transportlīdzekļu tehniskais VĒRTĒTĀJS
+Q001758	Nekustamā īpašuma VĒRTĒTĀJS
+Q001759	Nekustamā īpašuma VĒRTĒTĀJA ASISTENTS
+Q001760	Apdrošināšanas AĢENTS
+Q001761	Garantijas pakalpojumu KONSULTANTS
+Q001762	Tirdzniecības AĢENTS
+Q001763	Izpārdošanas PĀRSTĀVIS
+Q001764	Tirdzniecības PĀRDEVĒJS
+Q001765	TIRGOTĀJS
+Q001766	Tirdzniecības PĀRSTĀVIS
+Q001767	Klientu/ pārdošanas KONSULTANTS
+Q001768	Pārdošanas SPECIĀLISTS
+Q001769	Pārdošanas SPECIĀLISTA ASISTENTS
+Q001770	Tirdzniecības PĀRDEVĒJA ASISTENTS
+Q001771	Produktu grupas VADĪTĀJA ASISTENTS
+Q001772	Iepirkumu SPECIĀLISTS
+Q001773	Loģistikas SPECIĀLISTS
+Q001774	Iepirkumu AĢENTS
+Q001775	Sagādes AĢENTS
+Q001776	SAGĀDNIEKS
+Q001777	Mazumtirdzniecības SAGĀDNIEKS
+Q001778	Vairumtirdzniecības SAGĀDNIEKS
+Q001779	Preču IEPIRCĒJS
+Q001780	Vairumtirdzniecības preču IEPIRCĒJS
+Q001781	Mazumtirdzniecības preču IEPIRCĒJS
+Q001782	TIRGZINIS
+Q001783	Iepirkumu SPECIĀLISTA ASISTENTS
+Q001784	Piedāvājumu sagatavošanas SPECIĀLISTS
+Q001785	Tirdzniecības STARPNIEKS
+Q001786	Tirdzniecības BROKERIS
+Q001787	Ekspedīcijas AĢENTS
+Q001788	Realizācijas AĢENTS
+Q001789	EKSPEDITORS
+Q001790	DEKLARĒTĀJS
+Q001791	Importa un eksporta SPECIĀLISTS
+Q001792	Konferenču un pasākumu ORGANIZATORS
+Q001793	Kāzu PLĀNOTĀJS
+Q001794	Nodarbinātības AĢENTS
+Q001795	Nekustamā īpašuma AĢENTS
+Q001796	Nekustamā īpašuma darījumu STARPNIEKS
+Q001797	Nomnieku KOORDINATORS
+Q001798	Zemes lietu SPECIĀLISTS
+Q001799	Nekustamā īpašuma SPECIĀLISTS
+Q001800	Lauku īpašuma APSAIMNIEKOTĀJS
+Q001801	Nekustamā īpašuma PĀRVALDNIEKS
+Q001802	Namu PĀRVALDNIEKS
+Q001803	Nekustamā īpašuma EKONOMISTS
+Q001804	Grāmatu tirdzniecības AĢENTS
+Q001805	Muzikālo priekšnesumu AĢENTS
+Q001806	Sporta AĢENTS
+Q001807	Teātra AĢENTS
+Q001808	Reklāmas komercdarbības pakalpojumu SPECIĀLISTS
+Q001809	Sludinājumu ievietošanas/ komercdarbības pakalpojumu PĀRSTĀVIS
+Q001810	Reklāmas/ komercpakalpojumu PĀRDEVĒJS
+Q001811	Reklāmas AĢENTS
+Q001812	Saziņas līdzekļu KOORDINĒTĀJS
+Q001813	Apģērba etiķetes KONSULTANTS
+Q001814	Reklāmas VADĪTĀJA ASISTENTS
+Q001815	Loģistikas DARBINIEKS
+Q001816	Mazumtirdzniecības KOMERCDARBINIEKS
+Q001817	Komercdarbības SPECIĀLISTS (lauksaimniecības jomā)
+Q001818	Komercdarbības SPECIĀLISTS
+Q001819	Tirgvedības un tirdzniecības SPECIĀLISTS
+Q001820	Agrārā sektora KOMERCDARBINIEKS
+Q001821	Transporta pārvadājumu KOMERCDARBINIEKS
+Q001822	Reklāmas pakalpojumu KOMERCDARBINIEKS
+Q001823	Viesnīcu pakalpojumu KOMERCDARBINIEKS
+Q001824	Restorāna pakalpojumu KOMERCDARBINIEKS
+Q001825	Rūpniecības KOMERCDARBINIEKS
+Q001826	Komercdarījumu DARBINIEKS
+Q001827	Komercpakalpojumu DARBINIEKS
+Q001828	Mākslas KOMERCDARBINIEKS
+Q001829	Produktu SPECIĀLISTS
+Q001830	Klīnisko pētījumu SPECIĀLISTS
+Q001831	Reklāmas SPECIĀLISTS
+Q001832	Reklāmas un tirgvedības projektu PLĀNOTĀJS
+Q001833	Eksporta SPECIĀLISTS
+Q001834	Ekonomikas KONSULTANTS
+Q001835	Sociālo mediju SPECIĀLISTS
+Q001836	KOMERCDARBINIEKS
+Q001837	Tūrisma ORGANIZATORS
+Q001838	Ekskursiju ORGANIZATORS
+Q001839	Biroja ADMINISTRATORS
+Q001840	Sekretariāta VADĪTĀJS
+Q001841	LIETVEDIS
+Q001842	Lietvedības galvenais INSPEKTORS
+Q001843	Lietvedības INSPEKTORS
+Q001844	Administratīvās lietvedības INSPEKTORS
+Q001845	Biroja VADĪTĀJS
+Q001846	Tiesas sēžu SEKRETĀRS
+Q001847	Tiesas SEKRETĀRS
+Q001848	SEKRETĀRS KONSULTANTS (tiesu varas jomā)
+Q001849	Bāriņtiesas PRIEKŠSĒDĒTĀJA PALĪGS
+Q001850	Bāriņtiesas sēžu SEKRETĀRS
+Q001851	Zvērināta tiesu IZPILDĪTĀJA PALĪGS
+Q001852	Pārvaldes SEKRETĀRS
+Q001853	Ministru PREZIDENTA SEKRETĀRS
+Q001854	Diplomātiskais KURJERS
+Q001855	VĒSTNIEKA PALĪGS
+Q001856	Ekspedīcijas PĀRZINIS
+Q001857	Arhīva PĀRZINIS
+Q001858	Lietvedības PĀRZINIS
+Q001859	Vides pārvaldības KONSULTANTS
+Q001860	Projekta VADĪTĀJA ASISTENTS
+Q001861	Sēžu protokolu VADĪTĀJS
+Q001862	MINISTRA PALĪGS
+Q001863	Īpašu uzdevumu ministra sekretariāta VADĪTĀJA PALĪGS
+Q001864	Valsts SEKRETĀRA PALĪGS
+Q001865	Valsts SEKRETĀRA VIETNIEKA PALĪGS
+Q001866	Valsts kancelejas DIREKTORA PALĪGS
+Q001867	VADĪTĀJA/ DIREKTORA/ ĢENERĀLDIREKTORA PALĪGS
+Q001868	DIREKTORA PALĪGS (revīzijas jomā)
+Q001869	Valdes PRIEKŠSĒDĒTĀJA PALĪGS
+Q001870	VADĪTĀJA/ DIREKTORA/ ĢENERĀLDIREKTORA PADOMNIEKS
+Q001871	Iestādes VADĪTĀJA/ DIREKTORA PALĪGS
+Q001872	Koledžas DIREKTORA PALĪGS
+Q001873	PRIEKŠNIEKA PALĪGS (iekšlietu jomā)
+Q001874	KOMANDIERA PALĪGS (iekšlietu jomā)
+Q001875	PRIEKŠNIEKA PALĪGS (apcietinājuma un brīvības atņemšanas jomā)
+Q001876	Ieslodzījuma vietas PRIEKŠNIEKA dežurējošais PALĪGS (apcietinājuma un brīvības atņemšanas jomā)
+Q001877	Valsts KONTROLIERA PALĪGS (revīzijas jomā)
+Q001878	Valsts REVIDENTA PALĪGS (revīzijas jomā)
+Q001879	INSPEKTORA PALĪGS (iekšlietu jomā)
+Q001880	EKSPERTA PALĪGS (iekšlietu jomā)
+Q001881	Padomes SEKRETĀRS
+Q001882	Valdes SEKRETĀRS
+Q001883	Senāta PRIEKŠSĒDĒTĀJA PALĪGS
+Q001884	Protokola SPECIĀLISTS
+Q001885	Struktūrvienības VADĪTĀJA PALĪGS
+Q001886	VĒSTNIEKA SEKRETĀRS
+Q001887	Atbildīgais SEKRETĀRS
+Q001888	Komitejas SEKRETĀRS
+Q001889	Pašvaldības SEKRETĀRS
+Q001890	Valdības administrācijas SEKRETĀRS
+Q001891	Vēstniecības/ pārstāvniecības SEKRETĀRS
+Q001892	Pašvaldības administrācijas/ izpildSEKRETĀRS
+Q001893	Komisijas SEKRETĀRS
+Q001894	Sabiedrības SEKRETĀRS
+Q001895	DEPUTĀTA PALĪGS
+Q001896	Ārstniecības iestādes SEKRETĀRS
+Q001897	Ārstniecības iestādes klientu un pacientu REĢISTRATORS
+Q001898	Vecākais muitas EKSPERTS
+Q001899	Vecākais muitas UZRAUGS
+Q001900	Muitas EKSPERTS
+Q001901	Muitas UZRAUGS
+Q001902	Jaunākais muitas EKSPERTS
+Q001903	Jaunākais muitas UZRAUGS
+Q001904	Valsts robežsardzes vecākais VIRSNIEKS
+Q001905	Galvenais nodokļu INSPEKTORS
+Q001906	Vecākais nodokļu INSPEKTORS
+Q001907	Galvenais INSPEKTORS (nodokļu administrēšanas jomā)
+Q001908	Pabalstu INSPEKTORS
+Q001909	Pensiju INSPEKTORS
+Q001910	Pensiju un pabalstu INSPEKTORS
+Q001911	Licenču INSPEKTORS
+Q001912	PATENTVEDIS
+Q001913	Licencēšanas EKSPERTS
+Q001914	Policijas INSPEKTORS
+Q001915	Vecākais INSPEKTORS (iekšlietu jomā)
+Q001916	Pašvaldības policijas vecākais INSPEKTORS
+Q001917	Sevišķi svarīgu uzdevumu INSPEKTORS (iekšlietu jomā)
+Q001918	INSPEKTORS (iekšlietu jomā)
+Q001919	Pašvaldības policijas INSPEKTORS
+Q001920	INSPEKTORS KRIMINĀLISTS (iekšlietu jomā)
+Q001921	INSPEKTORS KINOLOGS (iekšlietu jomā)
+Q001922	Administratīvās prakses INSPEKTORS (iekšlietu jomā)
+Q001923	INSPEKTORS DEŽURANTS (iekšlietu jomā)
+Q001924	Jaunākais INSPEKTORS (iekšlietu jomā)
+Q001925	Pašvaldības policijas jaunākais INSPEKTORS
+Q001926	Pašvaldības policijas vecākais KĀRTĪBNIEKS
+Q001927	KĀRTĪBNIEKS (iekšlietu jomā)
+Q001928	Pašvaldības policijas jaunākais KĀRTĪBNIEKS
+Q001929	Koledžas KADETS (iekšlietu jomā)
+Q001930	Valsts policijas jaunākais VIRSNIEKS
+Q001931	Valsts policijas jaunākais INSPEKTORS
+Q001932	IZMEKLĒTĀJA PALĪGS (valsts ieņēmumu un muitas jomā)
+Q001933	INSPEKTORS (valsts ieņēmumu un muitas jomā)
+Q001934	Cenu INSPEKTORS
+Q001935	Svaru un mēru INSPEKTORS
+Q001936	PROKURORA PALĪGS
+Q001937	JURISTA PALĪGS
+Q001938	TIESNEŠA PALĪGS
+Q001939	Tiesas PRIEKŠSĒDĒTĀJA PALĪGS
+Q001940	Tiesu kolēģijas PRIEKŠSĒDĒTĀJA PALĪGS
+Q001941	Tiesu EKSPERTA PALĪGS
+Q001942	JURISTS LINGVISTS
+Q001943	KONSULTANTS (zemesgrāmatu nodaļā)
+Q001944	Transportlīdzekļu REĢISTRATORS
+Q001945	Profesionālā PATENTPILVARNIEKA PALĪGS
+Q001946	MEDIATORS
+Q001947	Sociālais APRŪPĒTĀJS
+Q001948	Sociālās palīdzības ORGANIZATORS
+Q001949	SurdoTULKS
+Q001950	Latviešu nedzirdīgo zīmju valodas TULKS
+Q001951	Bāriņtiesas LOCEKLIS
+Q001952	Bāriņtiesas LOCEKĻA PALĪGS
+Q001953	Bāriņtiesas struktūrvienības VADĪTĀJA PALĪGS
+Q001954	Interešu pulciņa AUDZINĀTĀJS
+Q001955	Pestīšanas armijas DARBINIEKS
+Q001956	EVAŅĢĒLISTS
+Q001957	ĶESTERIS
+Q001958	MŪKS
+Q001959	MŪĶENE
+Q001960	SLUDINĀTĀJS
+Q001961	Pastorālā darba SPECIĀLISTS
+Q001962	ATLĒTS
+Q001963	Sacīkšu BRAUCĒJS
+Q001964	ŽOKEJS
+Q001965	Profesionāls SPORTISTS
+Q001966	ALPĪNISTS
+Q001967	Sporta INSTRUKTORS
+Q001968	Sporta TIESNESIS
+Q001969	Sporta TRENERIS
+Q001970	Sporta METODIĶIS
+Q001971	Sporta SPECIĀLISTS
+Q001972	Vingrošanas nodarbību INSTRUKTORS
+Q001973	Trenažieru zāles INSTRUKTORS
+Q001974	Sporta spēļu VADĪTĀJS
+Q001975	MikroFOTOGRĀFS
+Q001976	Mākslas FOTOGRĀFS
+Q001977	DEKORĒTĀJS
+Q001978	Dizaina SPECIĀLISTS
+Q001979	Juvelierizstrādājumu dizaina SPECIĀLISTS
+Q001980	Iesaiņojuma dizaina SPECIĀLISTS
+Q001981	ILUSTRATORS
+Q001982	Noformēšanas MĀKSLINIEKS
+Q001983	Apģērbu dizaina SPECIĀLISTS
+Q001984	Ādas izstrādājumu dizaina SPECIĀLISTS
+Q001985	Koka izstrādājumu dizaina SPECIĀLISTS
+Q001986	Metāla izstrādājumu dizaina SPECIĀLISTS
+Q001987	Stikla izstrādājumu dizaina SPECIĀLISTS
+Q001988	Tekstilizstrādājumu dizaina SPECIĀLISTS
+Q001989	Interjera un reklāmas dizaina SPECIĀLISTS
+Q001990	Tekstilizstrādājumu MODELĒTĀJS
+Q001991	Rokdarbu MODELĒTĀJS
+Q001992	Lietišķās mākslas izstrādājumu MODELĒTĀJS
+Q001993	Vides DIZAINERS
+Q001994	Apģērbu modelēšanas un konstruēšanas SPECIĀLISTS
+Q001995	Tērpu stila SPECIĀLISTS
+Q001996	Interjera NOFORMĒTĀJS
+Q001997	Vizuālās reklāmas NOFORMĒTĀJS
+Q001998	Produktu dizaina SPECIĀLISTS
+Q001999	Interjera dizaina SPECIĀLISTS
+Q002000	Multimediju dizaina SPECIĀLISTS
+Q002001	Mēbeļu dizaina SPECIĀLISTS
+Q002002	Materiālu dizaina SPECIĀLISTS
+Q002003	Skatlogu NOFORMĒTĀJS
+Q002004	Foto dizaina SPECIĀLISTS
+Q002005	Apģērbu MODELĒTĀJS
+Q002006	Iespieddarbu noformējuma SPECIĀLISTS
+Q002007	Vides dizaina SPECIĀLISTS
+Q002008	Ārtelpas labiekārtojuma un objektu dizaina SPECIĀLISTS
+Q002009	BIBLIOTEKĀRS
+Q002010	Izglītības iestādes BIBLIOTEKĀRS (ceturtā un trešā līmeņa kvalifikācija)
+Q002011	ŠEFPAVĀRS
+Q002012	Polihroma koka RESTAURATORS
+Q002013	Koka būvju RESTAURATORS
+Q002014	Akmens būvju RESTAURATORS
+Q002015	Zeltījumu RESTAURATORS
+Q002016	Kultūras pasākumu ORGANIZATORS
+Q002017	Kultūras pasākumu VADĪTĀJS
+Q002018	Svētku REŽISORS
+Q002019	Kultūras projektu VADĪTĀJS
+Q002020	PiroTEHNIĶIS
+Q002021	Muzeja eksponātu RESTAURATORS
+Q002022	Akmens un silikāta materiāla RESTAURATORS
+Q002023	Būvgaldniecības RESTAURATORS
+Q002024	SCENOGRĀFS
+Q002025	SUFLIERIS
+Q002026	Skaitļotāja OPERATORS
+Q002027	Perifērijas iekārtu OPERATORS
+Q002028	S.W.I.F.T. OPERATORS
+Q002029	S.W.I.F.T. ADMINISTRATORS
+Q002030	DatorTEHNIĶIS
+Q002031	Datubāzu TEHNIĶIS
+Q002032	Datorsistēmu TEHNIĶIS
+Q002033	Operāciju sistēmu TEHNIĶIS
+Q002034	Informācijas sistēmu drošības KONTROLIERIS
+Q002035	Datortīkla uzturēšanas ADMINISTRATORS
+Q002036	Informācijas tīkla PĀRZINIS
+Q002037	Mājaslapas ADMINISTRATORS
+Q002038	Audio iekārtu OPERATORS
+Q002039	Kinofilmu/ skaņu REDAKTORS
+Q002040	Ieskaņošanas iekārtas OPERATORS
+Q002041	Ierakstīšanas iekārtas OPERATORS
+Q002042	Skaņu OPERATORS
+Q002043	Pārraides iekārtas OPERATORS
+Q002044	Studijas tehniskās iekārtas OPERATORS
+Q002045	Telegrāfa OPERATORS
+Q002046	KinoPROJICĒTĀJS
+Q002047	Kultūras pasākumu tehniskais REŽISORS
+Q002048	Audio un video TEHNIĶIS
+Q002049	GAISMOTĀJS
+Q002050	Telesakaru/ telekomunikāciju TEHNIĶIS
+Q002051	Signālsistēmu telesakaru/ telekomunikāciju/ elektronikas TEHNIĶIS
+Q002052	Tālsakaru OPERATORS
+Q002053	Vadošais biroja SEKRETĀRS
+Q002054	SEKRETĀRS
+Q002055	Tehniskais SEKRETĀRS
+Q002056	Lietvedības SEKRETĀRS
+Q002057	STENOGRĀFS
+Q002058	Telefaksa OPERATORS
+Q002059	Teksta redaktora OPERATORS
+Q002060	Tehniskais un datu apstrādes OPERATORS
+Q002061	Audioierakstu atšifrēšanas OPERATORS
+Q002062	Informācijas ievadīšanas OPERATORS
+Q002063	Elektroniskā pasta OPERATORS
+Q002064	Pārkodēšanas OPERATORS
+Q002065	Uzskaites OPERATORS
+Q002066	Summatoru OPERATORS
+Q002067	Dokumentu personalizācijas OPERATORS
+Q002068	Teksta IEVADĪTĀJS
+Q002069	Datu ievades OPERATORS
+Q002070	Bankas KASIERIS
+Q002071	Naudas MAINĪTĀJS
+Q002072	Pastmarku PĀRDEVĒJS
+Q002073	Valūtas KASIERIS
+Q002074	KontrolKASIERIS
+Q002075	Naudas SADALĪTĀJS
+Q002076	Naudas APSTRĀDĀTĀJS
+Q002077	Kases kontu OPERATORS
+Q002078	Pasta OPERATORS
+Q002079	Bankas INKASENTS
+Q002080	Naudas izmaksas KASIERIS
+Q002081	Preču KASIERIS
+Q002082	Lietvedības INSPEKTORS KASIERIS
+Q002083	KASIERIS OPERATORS
+Q002084	Pakalpojumu KASIERIS
+Q002085	BUKMEIKERS
+Q002086	KRUPJĒ
+Q002087	Totalizatora BUKMEIKERS
+Q002088	Naudas AIZDEVĒJS
+Q002089	NOVĒRTĒTĀJS (lombardu pakalpojumu jomā)
+Q002090	Parāda PIEDZINĒJS
+Q002091	Ziedojumu VĀCĒJS
+Q002092	Ceļojumu KONSULTANTS
+Q002093	Tūrisma informācijas KONSULTANTS
+Q002094	Ceļojumu AĢENTS
+Q002095	Lauku tūrisma SPECIĀLISTS
+Q002096	Ekotūrisma SPECIĀLISTS
+Q002097	PASZINIS
+Q002098	Izziņu SNIEDZĒJS
+Q002099	INFORMĒTĀJS (transporta jomā)
+Q002100	Klientu apkalpošanas OPERATORS
+Q002101	Telefona informācijas dienesta KONSULTANTS
+Q002102	Telefonbankas KONSULTANTS
+Q002103	Klientu apkalpošanas SPECIĀLISTS
+Q002104	Transportlīdzekļu vadītāju kvalifikācijas INSPEKTORS
+Q002105	Telefonbankas OPERATORS
+Q002106	Telefona komutatora OPERATORS
+Q002107	TELEFONISTS
+Q002108	Abonentu daļas OPERATORS (konsultants)
+Q002109	Viesu uzņemšanas ORGANIZATORS
+Q002110	Viesnīcas ADMINISTRATORS
+Q002111	Viesu uzņemšanas dienesta SPECIĀLISTS
+Q002112	Viesnīcu pakalpojumu SPECIĀLISTS
+Q002113	Uzziņu OPERATORS
+Q002114	Klientu un pacientu REĢISTRATORS
+Q002115	REĢISTRATORS
+Q002116	SPA ADMINISTRATORS
+Q002117	INTERVĒTĀJS
+Q002118	Ārstniecības pakalpojumu informēšanas OPERATORS
+Q002119	KASIERIS
+Q002120	Grāmatvedības UZSKAITVEDIS
+Q002121	Pašizmaksas RĒĶINĀTĀJS
+Q002122	Nodokļu/ nodevu ADMINISTRATORS
+Q002123	RĒĶINVEDIS
+Q002124	TĀMĒTĀJS
+Q002125	INVENTARIZATORS
+Q002126	Kontu OPERATORS
+Q002127	TAKSĒTĀJS
+Q002128	Statistikas un finanšu UZSKAITVEDIS
+Q002129	Apdrošināšanas DARBINIEKS
+Q002130	Algu GRĀMATVEDIS
+Q002131	Noliktavu EKSPEDITORS
+Q002132	Noliktavas PĀRZINIS
+Q002133	SVĒRĀJS
+Q002134	Kravas NOFORMĒTĀJS
+Q002135	PREČZINIS
+Q002136	Produkcijas/ preces PIEŅĒMĒJS
+Q002137	Komplektēšanas KONTROLIERIS
+Q002138	Maiņas VECĀKAIS
+Q002139	Taras PĀRZINIS
+Q002140	Atgrieztās produkcijas UZSKAITVEDIS
+Q002141	Materiālu PLĀNOTĀJS
+Q002142	Ražošanas DISPEČERS
+Q002143	Ražošanas KONTROLIERIS
+Q002144	Galvenais saimniecības PĀRZINIS
+Q002145	Vecākais saimniecības PĀRZINIS
+Q002146	Degvielas UZSKAITVEDIS
+Q002147	Remontdarbu DISPEČERS
+Q002148	Transporta DISPEČERS
+Q002149	Galvenais transporta INSPEKTORS
+Q002150	Transporta INSPEKTORS
+Q002151	Transporta biroja PĀRVALDNIEKS
+Q002152	Maršruta PĀRRAUGS
+Q002153	Transportlīdzekļu manevru PĀRRAUGS
+Q002154	Transportlīdzekļu PIEŅĒMĒJS
+Q002155	Kravas PIEŅĒMĒJS NOSŪTĪTĀJS
+Q002156	Ātrummērīšanas lenšu NOLASĪTĀJS
+Q002157	Stacijas DEŽURANTS
+Q002158	Līnijas dzelzceļa stacijas PRIEKŠNIEKS
+Q002159	Dzelzceļa DISPEČERS
+Q002160	Dzelzceļa depo DEŽURANTS
+Q002161	Transporta grafika ANALĪTIĶIS
+Q002162	Dzelzceļa OPERATORS
+Q002163	Dzelzceļa DEŽURANTS
+Q002164	Dzelzceļa DEŽURANTA PALĪGS
+Q002165	Pasažieru vilciena KONTROLIERIS (revidents)
+Q002166	Transporta PĀRRAUGS
+Q002167	Videonovērošanas OPERATORS
+Q002168	Kravas pārkraušanas darbu ORGANIZATORS ostā
+Q002169	TĀLMANIS
+Q002170	Kuģu AĢENTS
+Q002171	BRIGADIERIS (ostas pakalpojumu jomā)
+Q002172	Ostas UZRAUGS
+Q002173	Trases DISPEČERS
+Q002174	Līnijas dzelzceļa stacijas DEŽURANTS
+Q002175	Lidmašīnu svara un balansa kontroles SPECIĀLISTS
+Q002176	Lidlauka DISPEČERS
+Q002177	Lidojuma KOORDINATORS
+Q002178	Lidostas operatīvo procesu KOORDINATORS
+Q002179	REĢISTRĒTĀJS
+Q002180	Bibliotēku LIETVEDIS
+Q002181	Pasta NOSŪTĪTĀJS
+Q002182	Pasta KURJERS
+Q002183	PASTNIEKS
+Q002184	Tiesas ZIŅNESIS
+Q002185	Pasta ŠĶIROTĀJS
+Q002186	Pasta DARBINIEKS
+Q002187	Informācijas KODĒTĀJS
+Q002188	Informācijas KOREKTORS
+Q002189	Dokumentu ZĪMOGOTĀJS
+Q002190	Dokumentu ŠĶIROTĀJS
+Q002191	RAKSTVEDIS
+Q002192	ARHIVĀRS
+Q002193	KOPĒTĀJS
+Q002194	Jaunākais fondu GLABĀTĀJS (arhīvu jomā)
+Q002195	Dokumentu DIGITALIZĒTĀJS
+Q002196	Transportlīdzekļu REĢISTRATORA PALĪGS
+Q002197	Kopēšanas mašīnu OPERATORS
+Q002198	Personāla uzskaites DARBINIEKS
+Q002199	TABEĻVEDIS
+Q002200	UZSKAITVEDIS
+Q002201	Lidostas pasažieru apkalpošanas AĢENTS
+Q002202	Ielidošanas servisa  AĢENTS
+Q002203	Vilciena PAVADONIS
+Q002204	Kuģa vecākais STJUARTS
+Q002205	Kuģa STJUARTS
+Q002206	Gaisa kuģa STJUARTS
+Q002207	Vagonu PAVADONIS
+Q002208	Dienesta vagona PAVADONIS
+Q002209	Pasažieru vilciena KONDUKTORS (kontrolieris)
+Q002210	Tūristu grupas VADĪTĀJS
+Q002211	Ekskursiju GIDS
+Q002212	Tūrisma GIDS
+Q002213	Kultūras tūrisma GIDS
+Q002214	Tūristu GIDS
+Q002215	Vecākais PAVĀRS
+Q002216	PAVĀRS
+Q002217	Kuģa PAVĀRS
+Q002218	Restorānu pakalpojumu SPECIĀLISTS
+Q002219	Ēdināšanas pakalpojumu SPECIĀLISTS
+Q002220	Zāles ADMINISTRATORS
+Q002221	VIESMĪLIS
+Q002222	Bistro pakalpojumu DARBINIEKS
+Q002223	Bufetes KALPOTĀJS
+Q002224	VĪNZINIS
+Q002225	Klientu APKALPOTĀJS (ēdināšanas jomā)
+Q002226	Viesmīlības pakalpojumu SPECIĀLISTS
+Q002227	Vecākais BĀRMENIS
+Q002228	BĀRMENIS
+Q002229	Minibāru PĀRZINIS
+Q002230	Kafijas dzērienu BĀRMENIS
+Q002231	FRIZIERIS
+Q002232	Parūku MEISTARS
+Q002233	Frizūru MODELĒTĀJS
+Q002234	Dāmu FRIZIERIS
+Q002235	Kungu FRIZIERIS
+Q002236	FRIZIERIS STILISTS
+Q002237	STILISTS
+Q002238	ĢĒRBĒJS
+Q002239	MANIKĪRS
+Q002240	PEDIKĪRS
+Q002241	Mikropigmentācijas SPECIĀLISTS
+Q002242	TETOVĒTĀJS
+Q002243	Solārija DARBINIEKS
+Q002244	SPA SPECIĀLISTS
+Q002245	ADMINISTRATORS
+Q002246	Saimniecības VADĪTĀJS
+Q002247	Virtuves VADĪTĀJS
+Q002248	Sporta zāles PĀRZINIS
+Q002249	Atpūtas bāzes PĀRZINIS
+Q002250	Mājas PĀRVALDNIEKS
+Q002251	Saimniecības PĀRZINIS
+Q002252	Uzkopšanas darba VADĪTĀJS
+Q002253	Kapsētas PĀRZINIS
+Q002254	Kapsētas PĀRZIŅA PALĪGS
+Q002255	Viesnīcas stāva PĀRZINIS
+Q002256	Namu PĀRZINIS
+Q002257	Ēku un apsaimniekojamās teritorijas PĀRZINIS
+Q002258	Namu APSAIMNIEKOTĀJS
+Q002259	Uzkopšanas darbu MEISTARS
+Q002260	Ēkas inžniertehnisko sistēmu UZRAUGS
+Q002261	ASTROLOGS
+Q002262	OKULTISTS
+Q002263	ZĪLNIEKS
+Q002264	EKSTRASENSS
+Q002265	PAVADONIS
+Q002266	ASISTENTS personām ar invaliditāti
+Q002267	ASISTENTS personām ar dzirdes traucējumiem
+Q002268	Sociālais MENTORS
+Q002269	BALZAMĒTĀJS
+Q002270	IEZĀRKOTĀJS
+Q002271	KAPRACIS
+Q002272	Apbedīšanas pakalpojumu SPECIĀLISTS
+Q002273	Sēru ceremoniju MĀKSLINIEKS (vadītājs)
+Q002274	Zirgu TRENERIS
+Q002275	Suņu PAVADONIS
+Q002276	Zooloģiskā dārza STRĀDNIEKS
+Q002277	Dzīvnieku rezervāta UZRAUGS
+Q002278	KINOLOGS
+Q002279	Suņu FRIZIERIS
+Q002280	Autovadīšanas INSTRUKTORS
+Q002281	Autoskolas praktiskās braukšanas INSTRUKTORS
+Q002282	Kluba SAIMNIEKS
+Q002283	PAVADONIS (izklaides pasākumu jomā)
+Q002284	Tirgus PĀRDEVĒJS
+Q002285	Vecākais PĀRDEVĒJS
+Q002286	Mazumtirdzniecības veikala PĀRDEVĒJS
+Q002287	Vairumtirdzniecības veikala PĀRDEVĒJS
+Q002288	PĀRDEVĒJA PALĪGS
+Q002289	Biļešu kases KASIERIS
+Q002290	Veikala KASIERIS
+Q002291	Bagāžas KASIERIS
+Q002292	Mākslas MODELIS
+Q002293	Reklāmas MODELIS
+Q002294	Tērpu DEMONSTRĒTĀJS
+Q002295	Preču DEMONSTRĒTĀJS
+Q002296	KOMIVOJAŽIERIS
+Q002297	Pasūtījumu pieņemšanas OPERATORS
+Q002298	Zvanu centru OPERATORS
+Q002299	Degvielas uzpildes stacijas PĀRDEVĒJS
+Q002300	Bufetes PĀRDEVĒJS
+Q002301	Nomas punkta DARBINIEKS
+Q002302	Tirdzniecības VEICINĀTĀJS
+Q002303	AUKLIS
+Q002304	GUVERNANTS
+Q002305	Bērnu APRŪPĒTĀJS (diennakts)
+Q002306	Sociālais AUDZINĀTĀJS
+Q002307	SKOLOTĀJA PALĪGS
+Q002308	SANITĀRS
+Q002309	Neatliekamās palīdzības SANITĀRS
+Q002310	MĀSAS PALĪGS
+Q002311	Slimu bērnu AUKLIS
+Q002312	Sterilizācijas tehniskais DARBINIEKS
+Q002313	UGUNSDZĒSĒJS
+Q002314	Meža UGUNSDZĒSĒJS
+Q002315	Meža ugunsnovērošanas torņa DEŽURANTS
+Q002316	Operatīvais DEŽURANTS
+Q002317	Ugunsdzēsības un glābšanas dienesta UGUNSDZĒSĒJS GLĀBĒJS/ UGUNSDZĒSĒJS GLĀBĒJS (autovadītājs)
+Q002318	GLĀBĒJS ŪDENSLĪDĒJS
+Q002319	GLĀBĒJS MOTORISTS
+Q002320	Ugunsdzēsības un aviācijas glābšanas SPECIĀLISTS
+Q002321	Sabiedriskās kārtības SARGS
+Q002322	Vecākais INSPEKTORS (apcietinājuma un brīvības atņemšanas jomā)
+Q002323	Ieslodzījuma vietas vecākais INSPEKTORS
+Q002324	INSPEKTORS (apcietinājuma un brīvības atņemšanas jomā)
+Q002325	Ieslodzījuma vietas INSPEKTORS
+Q002326	Ieslodzījuma vietas vecākais UZRAUGS
+Q002327	Ieslodzījuma vietas UZRAUGS
+Q002328	Ieslodzījuma vietas vecākais APSARGS
+Q002329	Ieslodzījuma vietas APSARGS
+Q002330	Ieslodzījuma vietas jaunākais INSPEKTORS
+Q002331	Apsardzes dienesta VADĪTĀJS
+Q002332	Apsardzes dienesta VADĪTĀJA VIETNIEKS
+Q002333	Apsardzes ORGANIZATORS
+Q002334	APSARGS
+Q002335	Apsardzes DARBINIEKS
+Q002336	Centrālās apsardzes pults DEŽURANTS
+Q002337	Apsardzes galvenais INSPEKTORS
+Q002338	Apsardzes INSPEKTORS
+Q002339	Apsardzes DEŽURANTS
+Q002340	Apsardzes dienesta KONTROLIERIS
+Q002341	Dzelzceļa apsardzes grupas VADĪTĀJS
+Q002342	Dzelzceļa apsardzes grupas VADĪTĀJA VIETNIEKS
+Q002343	MIESASSARGS
+Q002344	Mobilās grupas APSARGS
+Q002345	Videonovērošanas iekārtu OPERATORS
+Q002346	INKASENTS
+Q002347	Inkasācijas APSARGS
+Q002348	Inkasācijas apsardzes dienesta VADĪTĀJS
+Q002349	Signalizācijas pults OPERATORS
+Q002350	Drošības SPECIĀLISTS
+Q002351	Lidostas aviodrošības dienesta DARBINIEKS
+Q002352	Bruņojuma un sakaru galvenais SPECIĀLISTS
+Q002353	Galvenais dežūrINSPEKTORS
+Q002354	MEŽSARGS
+Q002355	Rezervāta UZRAUGS
+Q002356	DEŽURANTS
+Q002357	Eksponātu UZRAUGS
+Q002358	Caurlaižu INSPEKTORS
+Q002359	Režīma UZRAUGS
+Q002360	Drošības galvenais INSPEKTORS
+Q002361	Drošības INSPEKTORS
+Q002362	Bruņojuma INSPEKTORS
+Q002363	Ostas aizsardzības VIRSNIEKS
+Q002364	DISPEČERS (iekšlietu jomā)
+Q002365	Ostas policijas vecākais KĀRTĪBNIEKS
+Q002366	Ostas policijas KĀRTĪBNIEKS
+Q002367	Graudaugu audzēšanas laukSAIMNIEKS
+Q002368	Dārzeņu audzēšanas laukSAIMNIEKS
+Q002369	Graudaugu audzēšanas laukSTRĀDNIEKS
+Q002370	Dārzeņu audzēšanas laukSTRĀDNIEKS
+Q002371	Kokaudzētavas SAIMNIEKS
+Q002372	Krūmu kultūru audzēšanas laukSAIMNIEKS
+Q002373	Augļu koku audzēšanas laukSTRĀDNIEKS
+Q002374	Krūmu kultūru audzēšanas laukSTRĀDNIEKS
+Q002375	DĀRZNIEKS
+Q002376	Dārzniecības LAUKKOPIS
+Q002377	Parka DĀRZNIEKS
+Q002378	Siltumnīcas DĀRZNIEKS
+Q002379	Sēklu audzēšanas DĀRZNIEKS
+Q002380	Puķu AUDZĒTĀJS
+Q002381	Sēņu AUDZĒTĀJS
+Q002382	DĀRZKOPIS (stādu audzētājs)
+Q002383	DaiļDĀRZNIEKS
+Q002384	DĀRZKOPIS
+Q002385	AUGKOPIS
+Q002386	LaukSTRĀDNIEKS
+Q002387	LOPKOPIS
+Q002388	Mājdzīvnieku audzēšanas laukSAIMNIEKS
+Q002389	GANS
+Q002390	Gaļas un ādu APSTRĀDĀTĀJS
+Q002391	Mehanizētās slaukšanas OPERATORS
+Q002392	Liellopu LOPKOPIS
+Q002393	CŪKKOPIS
+Q002394	AITKOPIS
+Q002395	Kažokādu mājdzīvnieku audzēšanas laukSAIMNIEKS
+Q002396	Jaunlopu KOPĒJS
+Q002397	ZIRGKOPIS
+Q002398	Lauku STRĀDNIEKS (lopkopības jomā)
+Q002399	Inkubatora OPERATORS
+Q002400	Olu ražošanas laukSAIMNIEKS
+Q002401	BIŠKOPIS
+Q002402	Laboratorijas dzīvnieku AUDZĒTĀJS
+Q002403	Savvaļas/ kažokādu dzīvnieku KOPĒJS
+Q002404	Dzīvnieku KĀVĒJS
+Q002405	Gliemežu AUDZĒTĀJS
+Q002406	Slieku AUDZĒTĀJS
+Q002407	Dažādu sugu dzīvnieku LOPKOPIS
+Q002408	Koku AIZZĪMĒTĀJS
+Q002409	Koku ATZAROTĀJS
+Q002410	Koku VEDĒJS
+Q002411	MEŽCIRTĒJS
+Q002412	MEŽSTRĀDNIEKS
+Q002413	Malkas SKALDĪTĀJS
+Q002414	ZĀĢĒTĀJS (meža jomā)
+Q002415	Meža STĀDĪTĀJS
+Q002416	Kokmateriālu MARĶĒTĀJS
+Q002417	Koku KRĀVĒJS
+Q002418	Koksnes ŠĶIROTĀJS
+Q002419	Zāģu SAGATAVOTĀJS
+Q002420	Pašgājēja transporta līdzekļu VADĪTĀJS
+Q002421	Treilēšanas un iekraušanas iekārtu MAŠĪNISTS
+Q002422	Automatizēto meža transportlīdzekļu OPERATORS
+Q002423	Motorzāģa OPERATORS
+Q002424	OGĻDEĢIS
+Q002425	Kokmateriālu UZMĒRĪTĀJS
+Q002426	Akvakultūras ZIVKOPIS
+Q002427	Zivsaimniecības SAIMNIEKS
+Q002428	Zivju/ inkubatora STRĀDNIEKS
+Q002429	Iekšējo ūdeņu un piekrastes ZVEJNIEKS
+Q002430	ŠĶIPERIS
+Q002431	Zvejas rīku IZGATAVOTĀJS
+Q002432	Jūras, tāljūras ZVEJNIEKS
+Q002433	Vecākais TRAĻMEISTARS
+Q002434	TRAĻMEISTARS
+Q002435	MEDNIEKS
+Q002436	ZEMNIEKS
+Q002437	Meža un pļavas velšu VĀCĒJS
+Q002438	Ēku CELTNIEKS
+Q002439	BŪVNIEKS
+Q002440	Būvkonstrukciju MONTĒTĀJS
+Q002441	Sausās būves MONTĒTĀJS
+Q002442	Metāla būvkonstrukciju MONTĒTĀJS
+Q002443	Dzelzsbetona būvkonstrukciju MONTĒTĀJS
+Q002444	Stikloto būvkonstrukciju MONTĒTĀJS
+Q002445	Koka būvkonstrukciju MONTĒTĀJS
+Q002446	BRUĢĒTĀJS
+Q002447	Krāšņu PODNIEKS
+Q002448	MŪRNIEKS
+Q002449	Kausu ODERĒTĀJS
+Q002450	Kamīnu LICĒJS
+Q002451	Kuģu katlu un krāšņu MŪRNIEKS
+Q002452	AKMEŅKALIS
+Q002453	Akmeņu MŪRNIEKS
+Q002454	BETONĒTĀJS
+Q002455	STIEGROTĀJS
+Q002456	NAMDARIS
+Q002457	Guļbūves ēku CELTNIEKS
+Q002458	Koka ēku CELTNIEKS
+Q002459	BūvGALDNIEKS
+Q002460	Skatuves MONTĒTĀJS
+Q002461	Skatuves MEISTARS
+Q002462	Koka kuģu BŪVĒTĀJS
+Q002463	Būvizstrādājumu GALDNIEKS
+Q002464	Drenu LICĒJS
+Q002465	Sastatņu MONTĒTĀJS
+Q002466	BRIGADIERIS (būvniecības jomā)
+Q002467	Inženiertehnisko būvju BRIGADIERIS
+Q002468	Industriālais ALPĪNISTS
+Q002469	Mākslīgo būvju būvSTRĀDNIEKS
+Q002470	Mākslīgo būvju STRĀDNIEKS
+Q002471	Ugunsdzēsības sistēmu MONTĒTĀJS
+Q002472	Ledus MEISTARS
+Q002473	JUMIĶIS
+Q002474	FLĪZĒTĀJS
+Q002475	Mozaīkas KLĀJĒJS
+Q002476	Parketa KLĀJĒJS
+Q002477	APMETĒJS
+Q002478	Dekoratīvo būvelementu VEIDOTĀJS
+Q002479	Hidro- un siltumIZOLĒTĀJS
+Q002480	Ēku SILTINĀTĀJS
+Q002481	IZOLĒTĀJS
+Q002482	STIKLINIEKS
+Q002483	SANTEHNIĶIS
+Q002484	Apkures sistēmu MONTĒTĀJS
+Q002485	Inženierkomunikāciju MONTĒTĀJS
+Q002486	Cauruļvadu MONTĒTĀJS
+Q002487	Ārējo gāzes tīklu MONTĒTĀJS
+Q002488	Ārējo siltumapgādes tīklu MONTĒTĀJS
+Q002489	Gāzes sistēmu MONTĒTĀJS
+Q002490	Kondicionēšanas un aukstumiekārtu sistēmu MONTĒTĀJS
+Q002491	Aukstumiekārtu MEHĀNIĶIS
+Q002492	Vēdināšanas sistēmu MONTĒTĀJS
+Q002493	Kuģa saldēšanas iekārtu MEHĀNIĶIS
+Q002494	Gaisa kondicionēšanas mehānismu MEHĀNIĶIS
+Q002495	Apkures, ventilācijas un saldēšanas iekārtu MEHĀNIĶIS
+Q002496	KRĀSOTĀJS
+Q002497	BALSINĀTĀJS
+Q002498	Tapešu LĪMĒTĀJS
+Q002499	Transportlīdzekļu KRĀSOTĀJS
+Q002500	LAKOTĀJS
+Q002501	TONĒTĀJS
+Q002502	Būvju TĪRĪTĀJS
+Q002503	Konstrukciju TĪRĪTĀJS
+Q002504	SKURSTEŅSLAUĶIS
+Q002505	Veidņu IZGATAVOTĀJS
+Q002506	Serdeņu IZGATAVOTĀJS
+Q002507	Metāllējumu VEIDOTĀJS
+Q002508	Metāllējumu APCIRTĒJS
+Q002509	Metāllējumu IZSITĒJS
+Q002510	METĀLLĒJĒJS
+Q002511	Alumīnija logu izgatavošanas OPERATORS
+Q002512	Alumīnija logu un metāla durvju izgatavošanas OPERATORS
+Q002513	GāzMETINĀTĀJS (OAW)
+Q002514	KontaktMETINĀTĀJS
+Q002515	Rokas lokMETINĀTĀJS (MMA)
+Q002516	LokMETINĀTĀJS metināšanā ar mehanizēto iekārtu aktīvās gāzes vidē (MAG)
+Q002517	LokMETINĀTĀJS metināšanā ar mehanizēto iekārtu inertās gāzes vidē (MIG)
+Q002518	LokMETINĀTĀJS metināšanā ar volframa elektrodu inertās gāzes vidē (TIG)
+Q002519	LokMETINĀTĀJS metināšanā ar automātiskām iekārtām
+Q002520	LāzerMETINĀTĀJS
+Q002521	TermoGRIEZĒJS
+Q002522	Plastmasas METINĀTĀJS
+Q002523	Metālmateriālu METINĀTĀJS
+Q002524	Dzelzceļa METINĀTĀJS
+Q002525	Gāzes plazmas GRIEZĒJS
+Q002526	Metāla GRIEZĒJS
+Q002527	Lodēšanas iekārtu OPERATORS
+Q002528	Skārda VALCĒTĀJS
+Q002529	SKĀRDNIEKS
+Q002530	Jumtu SKĀRDNIEKS
+Q002531	Transportlīdzekļu SKĀRDNIEKS
+Q002532	Automobiļu SKĀRDNIEKS
+Q002533	Metāla konstrukciju ATSLĒDZNIEKS
+Q002534	Kuģubūves ATSLĒDZNIEKS
+Q002535	Kuģu REMONTATSLĒDZNIEKS
+Q002536	AIZZĪMĒTĀJS
+Q002537	Kuģu cauruļu ATSLĒDZNIEKS
+Q002538	TAKELĒTĀJS
+Q002539	Kuģu TAKELĒTĀJS
+Q002540	Trošu VIJĒJS
+Q002541	KALĒJS
+Q002542	Metāla ŠTANCĒTĀJS
+Q002543	Metāla PRESĒTĀJS
+Q002544	VELMĒTĀJS
+Q002545	TERMISTS
+Q002546	VARKALIS
+Q002547	ATSLĒDZNIEKS
+Q002548	Slēdzeņu ATSLĒDZNIEKS
+Q002549	Instrumentu ATSLĒDZNIEKS
+Q002550	Ieroču ATSLĒDZNIEKS
+Q002551	FRĒZĒTĀJS
+Q002552	TĒSĒJS
+Q002553	Darbgaldu IESTATĪTĀJS
+Q002554	MetālAPSTRĀDĀTĀJS
+Q002555	Datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu IESTATĪTĀJS
+Q002556	Zāģripu LABOTĀJS
+Q002557	Metālapstrādes tehnoloģisko līniju OPERATORS
+Q002558	Ciparu vadības frēzēšanas OPERATORS
+Q002559	Metāla gravēšanas OPERATORS
+Q002560	Metāla griešanas OPERATORS
+Q002561	Kabeļu ražošanas OPERATORS
+Q002562	Kniedēšanas OPERATORS
+Q002563	Metāla liekšanas iekārtas OPERATORS
+Q002564	Štancēšanas OPERATORS
+Q002565	Ciparu vadības virpošanas OPERATORS
+Q002566	Metāla zāģēšanas OPERATORS
+Q002567	Metālapstrādes darbgaldu OPERATORS
+Q002568	Vītņu griešanas OPERATORS
+Q002569	ELEKTROEROZISTS
+Q002570	Atsperu tīšanas OPERATORS
+Q002571	IZVIRPOTĀJS
+Q002572	Ražošanas BRIGADIERIS
+Q002573	Datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu OPERATORS
+Q002574	PULĒTĀJS
+Q002575	Instrumentu ASINĀTĀJS
+Q002576	SLĪPĒTĀJS
+Q002577	SMIRĢELĒTĀJS
+Q002578	Metāla RŪDĪTĀJS
+Q002579	Transporta MEHĀNIĶIS
+Q002580	AutoMEHĀNIĶIS
+Q002581	Transportlīdzekļu dzinēju REGULĒTĀJS
+Q002582	AutoATSLĒDZNIEKS
+Q002583	AutoMEHĀNIĶA PALĪGS
+Q002584	Transportlīdzekļu motoru MEHĀNIĶIS
+Q002585	Motociklu MEHĀNIĶIS
+Q002586	Autovirsbūvju REMONTATSLĒDZNIEKS
+Q002587	Dīzeļdzinēju MEHĀNIĶIS
+Q002588	Gaisa kuģa MEHĀNIĶIS
+Q002589	Gaisa kugu tehniskās apkopes MEHĀNIĶIS
+Q002590	Gāzes turbīnu dzinēju MEHĀNIĶIS
+Q002591	MEHĀNIĶIS
+Q002592	REMONTATSLĒDZNIEKS
+Q002593	Lauksaimniecības mašīnu MEHĀNIĶIS
+Q002594	Lauksaimniecības tehnikas REMONTATSLĒDZNIEKS
+Q002595	MONTĒTĀJS
+Q002596	EĻĻOTĀJS
+Q002597	Poligrāfisko iekārtu MEHĀNIĶIS
+Q002598	Celtniecības un ceļu būves mašīnu MEHĀNIĶIS
+Q002599	Celtniecības un ceļu būves mašīnu REMONTATSLĒDZNIEKS
+Q002600	Tekstilražošanas iekārtu MEHĀNIĶIS
+Q002601	Siltumiekārtu REMONTATSLĒDZNIEKS
+Q002602	Siltumiekārtu apkalpošanas ATSLĒDZNIEKS
+Q002603	Gāzes iekārtu REMONTATSLĒDZNIEKS
+Q002604	MEISTARA PALĪGS
+Q002605	Kokapstrādes iekārtu MEHĀNIĶIS
+Q002606	Metālapstrādes iekārtu MEHĀNIĶIS
+Q002607	Metālapstrādes iekārtu REMONTATSLĒDZNIEKS
+Q002608	Mehānismu MEHĀNIĶIS
+Q002609	Lauksaimniecības tehnikas MEHĀNIĶIS
+Q002610	Rūpniecisko iekārtu MEHĀNIĶIS
+Q002611	Instrumentu MEHĀNIĶIS
+Q002612	Dzinēju mehānismu MEHĀNIĶIS (lauksaimniecības un rūpniecības jomā)
+Q002613	Farmācijas iekārtu MEHĀNIĶIS
+Q002614	Ostas tehnikas mehānismu MEHĀNIĶIS
+Q002615	Ceha iekārtu MEHĀNIĶIS
+Q002616	Pazemes darbu mehānismu un iekārtu MEHĀNIĶIS
+Q002617	Dzelzceļa transporta MEHĀNIĶIS
+Q002618	Ritošā sastāva ATSLĒDZNIEKS
+Q002619	Refrižeratorsekciju MEHĀNIĶIS
+Q002620	Dzelzceļa REMONTATSLĒDZNIEKS
+Q002621	Jūras mehānismu MEHĀNIĶIS
+Q002622	Kuģu dzinēju MEHĀNIĶIS
+Q002623	Kuģa ATSLĒDZNIEKS
+Q002624	Kuģa armatūras REMONTATSLĒDZNIEKS
+Q002625	Ritošā sastāva REMONTATSLĒDZNIEKS
+Q002626	BRIGADIERIS (dzelzceļa transporta pakalpojumu jomā)
+Q002627	Sliežu ceļu BRIGADIERIS
+Q002628	Velosipēdu MEHĀNIĶIS
+Q002629	PulksteņMEISTARS
+Q002630	Optikas ierīču MEISTARS
+Q002631	Instrumentu MEISTARS
+Q002632	Akordeonu TEHNIĶIS
+Q002633	Klavieru BŪVĒTĀJS
+Q002634	Ērģeļu BŪVĒTĀJS
+Q002635	Mūzikas instrumentu SKAŅOTĀJS
+Q002636	Mūzikas instrumentu IZGATAVOTĀJS
+Q002637	Mūzikas instrumentu LABOTĀJS
+Q002638	Klavieru RESTAURATORS
+Q002639	Vijoļu BŪVĒTĀJS
+Q002640	Ērģeļu un mūzikas instrumentu RESTAURATORS
+Q002641	JUVELIERIS
+Q002642	Juvelierizstrādājumu GRAVIERIS
+Q002643	SUDRABKALIS
+Q002644	ROTKALIS
+Q002645	PODNIEKS
+Q002646	KERAMIĶIS
+Q002647	Stikla PŪTĒJS
+Q002648	Stikla SLĪPĒTĀJS
+Q002649	Stikla GRAVIERIS
+Q002650	Stikla MATĒTĀJS
+Q002651	APGLEZNOTĀJS
+Q002652	EMALJĒTĀJS
+Q002653	DaiļKRĀSOTĀJS
+Q002654	KokGRIEZĒJS
+Q002655	PINĒJS
+Q002656	MUCINIEKS
+Q002657	RATNIEKS
+Q002658	Apģērbu AMATNIEKS
+Q002659	Tautastērpu DARINĀTĀJS
+Q002660	Dekoratīvo tekstiltehniku IZSTRĀDĀTĀJS
+Q002661	Žalūziju IZGATAVOTĀJS
+Q002662	Šķiedru KĀRSĒJS
+Q002663	Dzijas VĒRPĒJS
+Q002664	Šķiedru GRIEZĒJS
+Q002665	Šķiedru CIRTĒJS
+Q002666	ADĪTĀJS
+Q002667	AUDĒJS
+Q002668	IESTATĪTĀJS
+Q002669	TINĒJS
+Q002670	Mežģīņu DARINĀTĀJS
+Q002671	KNIPELĒTĀJS
+Q002672	TAMBORĒTĀJS
+Q002673	Metāla AMATNIEKS
+Q002674	Akmens GRIEZĒJS
+Q002675	AKMEŅKALIS AMATNIEKS
+Q002676	Kapu/ akmens plākšņu IZGATAVOTĀJS
+Q002677	Iespieddarbu SALICĒJS
+Q002678	Iespieddarbu MAKETĒTĀJS
+Q002679	Reproiekārtas OPERATORS
+Q002680	Lāzergravēšanas OPERATORS
+Q002681	Teksta MAKETĒTĀJS
+Q002682	AUGSTSPIEDĒJS
+Q002683	Ofseta IESPIEDĒJS
+Q002684	Ofseta IESPIEDĒJA PALĪGS
+Q002685	FleksoIESPIEDĒJS
+Q002686	SietSPIEDĒJS
+Q002687	IESPIEDĒJS
+Q002688	Iespiedmašīnas OPERATORS
+Q002689	Audumu/ apdrukāšanas iekārtas OPERATORS
+Q002690	Digitālās iespiešanas OPERATORS
+Q002691	Plēvju līmējamās iekārtas/ iespiedmašīnas OPERATORS
+Q002692	Auduma IESPIEDĒJS
+Q002693	Iespieddarbu apstrādes SPECIĀLISTS
+Q002694	Gatavās produkcijas piegriešanas OPERATORS
+Q002695	BROŠĒTĀJS
+Q002696	Iesiešanas iekārtas OPERATORS
+Q002697	Locīšanas iekārtas OPERATORS
+Q002698	Grāmatu LABOTĀJS
+Q002699	ELEKTRIĶIS
+Q002700	Apgaismes ELEKTRIĶIS
+Q002701	BūvELEKTRIĶIS
+Q002702	ElektroATSLĒDZNIEKS
+Q002703	Liftu elektroMEHĀNIĶIS
+Q002704	Dzelzceļa elektroMONTIERIS
+Q002705	Elektromehānisko iekārtu MEHĀNIĶIS
+Q002706	Kontroles mēraparātu un automātikas elektroATSLĒDZNIEKS
+Q002707	Kontroles aparātu un mēriekārtu MEHĀNIĶIS
+Q002708	Sakaru elektroMEHĀNIĶIS
+Q002709	Peldošo līdzekļu dienesta galvenais elektroMEHĀNIĶIS
+Q002710	Pasažieru vilciena elektroMEHĀNIĶIS
+Q002711	AutoELEKTRIĶIS
+Q002712	Kuģa ELEKTRIĶIS
+Q002713	Gaisa kabeļu LICĒJS
+Q002714	Vadu VILCĒJS
+Q002715	Elektrolīniju MEHĀNIĶIS
+Q002716	LīnijSTRĀDNIEKS
+Q002717	Pazemes kabeļu LICĒJS
+Q002718	Lauku elektroMONTIERIS
+Q002719	Augstsprieguma līniju elektroMONTIERIS
+Q002720	Kabeļu trašu UZRAUGS
+Q002721	Gaisvadu līniju elektroMONTIERIS
+Q002722	Kontakttīklu elektroMONTIERIS
+Q002723	Elektronikas MEHĀNIĶIS
+Q002724	Elektronikas MONTĒTĀJS
+Q002725	Signāliekārtu MONTĒTĀJS
+Q002726	Kopēšanas tehnikas MEHĀNIĶIS
+Q002727	Radio MEHĀNIĶIS
+Q002728	Televizoru MEHĀNIĶIS
+Q002729	RadioELEKTRONIĶIS
+Q002730	KinoMEHĀNIĶIS
+Q002731	Radio un televīzijas iekārtu MEHĀNIĶIS
+Q002732	Elektronikas REGULĒTĀJS
+Q002733	Pusvadītāju aparātu būves IESTATĪTĀJS
+Q002734	Kontroles sistēmu MEHĀNIĶIS
+Q002735	Datortehnikas MEHĀNIĶIS
+Q002736	Telesakaru/ telekomunikāciju iekārtu MONTIERIS
+Q002737	Telefona sakaru MEHĀNIĶIS
+Q002738	MIESNIEKS
+Q002739	Zivju APSTRĀDĀTĀJS
+Q002740	Gaļas KŪPINĀTĀJS
+Q002741	Gaļas IZCIRTĒJS
+Q002742	Gaļas KULINĀRS
+Q002743	Zivju KŪPINĀTĀJS
+Q002744	Zivju KULINĀRS
+Q002745	Gaļas produktu IZGATAVOTĀJS
+Q002746	Lopu KĀVĒJS
+Q002747	CEPĒJS
+Q002748	DOZĒTĀJS
+Q002749	FORMĒTĀJS
+Q002750	MĪCĪTĀJS
+Q002751	KONDITORS
+Q002752	Mīklas GATAVOTĀJS
+Q002753	Konfekšu RAŽOTĀJS
+Q002754	Maizes un miltu konditorejas izstrādājumu SPECIĀLISTS
+Q002755	CEPĒJA PALĪGS
+Q002756	Sviesta MEISTARS
+Q002757	Siera IZGATAVOTĀJS
+Q002758	Piena produktu ražošanas MEISTARS
+Q002759	Piena produktu PĀRSTRĀDĀTĀJS
+Q002760	Siera KŪPINĀTĀJS
+Q002761	Augļu KONSERVĒTĀJS
+Q002762	Sulas SPIEDĒJS
+Q002763	Eļļas SPIEDĒJS
+Q002764	VĀRĪTĀJS
+Q002765	Dārzeņu KONSERVĒTĀJS
+Q002766	ALDARIS
+Q002767	VĪNDARIS
+Q002768	ŠĶIROTĀJS
+Q002769	DEGUSTĒTĀJS
+Q002770	Tabakas STRĀDNIEKS
+Q002771	Apaļkoku ŠĶIROTĀJS
+Q002772	Zāģmateriālu ŽĀVĒTĀJS
+Q002773	Koksnes IMPREGNĒTĀJS
+Q002774	GALDNIEKS
+Q002775	Mēbeļu GALDNIEKS
+Q002776	Transporta GALDNIEKS
+Q002777	GALDNIEKA PALĪGS
+Q002778	Koksnes materiālu APSTRĀDĀTĀJS
+Q002779	Koka izstrādājumu KRĀSOTĀJS LAKOTĀJS
+Q002780	Koka modeļu IZGATAVOTĀJS
+Q002781	Koka laivu IZGATAVOTĀJS
+Q002782	Koka rotaļlietu IZGATAVOTĀJS
+Q002783	Koka INKRUSTATORS
+Q002784	Parketa IZGATAVOTĀJS
+Q002785	Zārku IZGATAVOTĀJS
+Q002786	Koka izstrādājumu PULĒTĀJS
+Q002787	Koka dabisko formu izstrādājumu IZGATAVOTĀJS
+Q002788	Kokapstrādes darbgaldu IESTATĪTĀJS
+Q002789	Koka SLĪPĒTĀJS
+Q002790	Koka ZĀĢĒTĀJS (kokapstrādes jomā)
+Q002791	Koka VIRPOTĀJS
+Q002792	Datorizētu kokapstrādes iekārtu OPERATORS
+Q002793	Koksnes apstrādes virpas OPERATORS
+Q002794	Koksnes zāģēšanas mašīnu OPERATORS
+Q002795	Koksnes apdares iekārtu OPERATORS
+Q002796	Mēbeļu izgatavošanas iekārtu OPERATORS
+Q002797	Līmēšanas iekārtu OPERATORS
+Q002798	Kokapstrādes iekārtu OPERATORS
+Q002799	Kokapstrādes pusautomātisko iekārtu OPERATORS
+Q002800	Koka logu izgatavošanas OPERATORS
+Q002801	BRIGADIERIS (kokapstrādes jomā)
+Q002802	ŠUVĒJS
+Q002803	CEPURNIEKS
+Q002804	MODISTS
+Q002805	Kostīmu MEISTARS
+Q002806	Dāmu apģērbu DRĒBNIEKS
+Q002807	Kungu apģērbu DRĒBNIEKS
+Q002808	Mīksto rotaļlietu IZGATAVOTĀJS
+Q002809	Kažokādu DRĒBNIEKS
+Q002810	LEKĀLISTS
+Q002811	PIEGRIEZĒJS
+Q002812	Piegriešanas izklātņu VEIDOTĀJS
+Q002813	Modeļu IZGATAVOTĀJS
+Q002814	Audumu KOMPLEKTĒTĀJS
+Q002815	Audumu IZKLĀJĒJS
+Q002816	Lekālu IZKLĀJĒJS
+Q002817	Apģērbu ŠUVĒJS
+Q002818	IZŠUVĒJS
+Q002819	Pārsegu/ telšu IZGATAVOTĀJS
+Q002820	MašīnIZŠUVĒJS
+Q002821	Ādas apģērbu ŠUVĒJS
+Q002822	Šūto izstrādājumu IZGATAVOTĀJS
+Q002823	PalīgŠUVĒJS
+Q002824	Pērlīšu izstrādājumu IZGATAVOTĀJS
+Q002825	TAPSĒTĀJS
+Q002826	Mēbeļu TAPSĒTĀJS
+Q002827	Transportlīdzekļu TAPSĒTĀJS
+Q002828	Matraču ŠUVĒJS
+Q002829	Segu ŠUVĒJS
+Q002830	ĀDMINIS
+Q002831	Ādu KRĀSOTĀJS
+Q002832	Kažokādu IZSTRĀDĀTĀJS
+Q002833	KURPNIEKS
+Q002834	Apavu PIEGRIEZĒJS
+Q002835	Apavu LĪMĒTĀJS
+Q002836	Apavu KRĀSOTĀJS
+Q002837	KURPNIEKA PALĪGS
+Q002838	Apavu LABOTĀJS
+Q002839	Apavu LABOTĀJA PALĪGS
+Q002840	SEGLINIEKS
+Q002841	Ortopēdisko apavu IZGATAVOTĀJS
+Q002842	Industriālais/ komerciālais ŪDENSLĪDĒJS
+Q002843	SPRIDZINĀTĀJS
+Q002844	Spridzināšanas darbu VADĪTĀJS
+Q002845	KONTROLIERIS
+Q002846	DEFEKTOSKOPISTS
+Q002847	IZMĒĢINĀTĀJS
+Q002848	DOZIMETRISTS
+Q002849	RADIOMETRISTS
+Q002850	Sliežu DEFEKTOSKOPISTS
+Q002851	LABORANTS
+Q002852	DEZINFEKTORS
+Q002853	FLORISTS
+Q002854	Floristikas SPECIĀLISTS
+Q002855	Karjera STRĀDNIEKS
+Q002856	Nepārtrauktas darbības iekārtas OPERATORS
+Q002857	Karjera ražošanas līnijas OPERATORS
+Q002858	Akmens/ apstrādes iekārtas OPERATORS
+Q002859	Drupināšanas OPERATORS
+Q002860	Šķirošanas OPERATORS
+Q002861	Aku/ urbšanas OPERATORS
+Q002862	Naftas un gāzes atradņu/ urbšanas OPERATORS
+Q002863	Betona ražošanas OPERATORS
+Q002864	Cementa dzirnavu OPERATORS
+Q002865	Cementa dzirnavu OPERATORA PALĪGS
+Q002866	Asfaltbetona gatavošanas iekārtu OPERATORS
+Q002867	Bitumena gatavošanas iekārtu OPERATORS
+Q002868	Rūdas un metāla kausēšanas krāsns OPERATORS
+Q002869	Karstās apstrādes krāsns OPERATORS
+Q002870	Termiskās apstrādes iekārtu OPERATORS
+Q002871	Metāla stiepšanas iekārtas OPERATORS
+Q002872	Liešanas iekārtas OPERATORS
+Q002873	Velmēšanas stāva OPERATORS
+Q002874	Metāla KAUSĒTĀJS
+Q002875	CINKOTĀJS
+Q002876	ALVOTĀJS
+Q002877	ElektroPĀRKLĀJĒJS/ GALVANIZĒTĀJS
+Q002878	Attaukošanas OPERATORS
+Q002879	Kodināšanas OPERATORS
+Q002880	Metāla krāsošanas OPERATORS
+Q002881	Metāla pulverizēšanas OPERATORS
+Q002882	Metāla/ smilšstrūklas iekārtas OPERATORS
+Q002883	Ķīmisko vielu/ malšanas iekārtas OPERATORS
+Q002884	Ķīmisko vielu/ pulverizēšanas iekārtas OPERATORS
+Q002885	Apdedzināšanas krāsns OPERATORS
+Q002886	Ķīmisko procesu/ autoklāva OPERATORS
+Q002887	Rotējošās krāsns OPERATORS
+Q002888	Termoķīmiskās apstrādes iekārtas OPERATORS
+Q002889	Ķīmisko vielu/ centrbēdzes separatora OPERATORS
+Q002890	Ķīmisko vielu/ ekstraktu pagatavošanas OPERATORS
+Q002891	Smaržu/ destilēšanas iekārtas OPERATORS
+Q002892	Mazgāšanas līdzekļu ražošanas OPERATORS
+Q002893	Tualetes piederumu ražošanas OPERATORS
+Q002894	Ķīmisko vielu/ šķīdumu sagatavošanas OPERATORS
+Q002895	Ķīmisko vielu/ kraušanas iekārtu OPERATORS
+Q002896	Fotogrāfiju/ iespiedmašīnas OPERATORS
+Q002897	Gumijas izstrādājumu/ vulkanizācijas OPERATORS
+Q002898	VULKANIZĒTĀJS
+Q002899	Veidošanas OPERATORS
+Q002900	Plastmasas karstās presēšanas OPERATORS
+Q002901	Celofāna, polietilēna/ iesaiņojuma ražošanas OPERATORS
+Q002902	Plastikāta pudeļu izpūšanas OPERATORS
+Q002903	Plastikāta laivu IZGATAVOTĀJS
+Q002904	Plastikāta logu izgatavošanas OPERATORS
+Q002905	Plastikāta (PVC) logu un durvju izgatavošanas OPERATORS
+Q002906	Putuplasta ražošanas/ putuplasta izstrādājumu ražošanas OPERATORS
+Q002907	Papīra un kartona piegriešanas OPERATORS
+Q002908	Kartona/ izstrādājumu ražošanas OPERATORS
+Q002909	Tekstilšķiedru apstrādes OPERATORS
+Q002910	Šķiedru gatavošanas OPERATORS
+Q002911	Sintētisko šķiedru apstrādes OPERATORS
+Q002912	Diegu un dzijas/ vērpšanas iekārtas OPERATORS
+Q002913	Diegu VĒRĒJS (tekstiliekārtās)
+Q002914	Spoļu LICĒJS
+Q002915	Šķērēšanas iekārtas OPERATORS
+Q002916	Kāršanas iekārtas OPERATORS
+Q002917	Priekšvērpšanas iekārtas OPERATORS
+Q002918	Spolēšanas iekārtas OPERATORS
+Q002919	Dublēšanas iekārtas OPERATORS
+Q002920	Grodošanas iekārtas OPERATORS
+Q002921	ŠĶETERĒTĀJS
+Q002922	Teksturēšanas OPERATORS
+Q002923	Apvīšanas iekārtas OPERATORS
+Q002924	Aušanas OPERATORS
+Q002925	Adīšanas OPERATORS
+Q002926	Šūšanas iekārtu OPERATORS
+Q002927	Izšūšanas iekārtu OPERATORS
+Q002928	Veļas un korsešu šūšanas OPERATORS
+Q002929	Tekstilprodukcijas balināšanas OPERATORS
+Q002930	Ķīmiskās tīrīšanas OPERATORS
+Q002931	Krāsošanas OPERATORS
+Q002932	Tvaikošanas OPERATORS
+Q002933	Ķīmisko šķidrumu un krāsu SAGATAVOTĀJS
+Q002934	Ķīmiskās apstrādes OPERATORS
+Q002935	Tekstilprodukcijas apstrādes OPERATORS
+Q002936	Jēlādas apstrādes OPERATORS
+Q002937	Apavu ražošanas iekārtas OPERATORS
+Q002938	Ādas izstrādājumu ražošanas OPERATORS
+Q002939	Mazgāšanas OPERATORS
+Q002940	Veļas mazgājamās mašīnas OPERATORS
+Q002941	Žāvēšanas OPERATORS
+Q002942	Dalīšanas mašīnas OPERATORS
+Q002943	Pārtikas produktu ražošanas OPERATORS
+Q002944	Piena produktu ražošanas iekārtu OPERATORS
+Q002945	Zivju apstrādes iekārtu OPERATORS
+Q002946	Gaļas apstrādes iekārtu OPERATORS
+Q002947	Maiznīcas produkcijas ražošanas iekārtu OPERATORS
+Q002948	Maizes cepšanas iekārtu OPERATORS
+Q002949	Šokolādes ražošanas iekārtu OPERATORS
+Q002950	Graudu apstrādes OPERATORS
+Q002951	Alus, vīna un citu dzērienu ražošanas iekārtu OPERATORS
+Q002952	Graudu kaltēšanas iekārtu OPERATORS
+Q002953	Suņu un kaķu barības ražošanas iekārtu OPERATORS
+Q002954	MALĒJS
+Q002955	Alus misas VĀRĪTĀJS
+Q002956	Alus filtrēšanas OPERATORS
+Q002957	Dzērienu ražošanas BRIGADIERIS
+Q002958	Dzīvnieku barības ražošanas iekārtu OPERATORS
+Q002959	Papīra ražošanas iekārtu OPERATORS
+Q002960	Virsmas apdares iekārtas OPERATORS
+Q002961	Impregnēšanas iekārtas OPERATORS
+Q002962	Mizošanas iekārtas OPERATORS
+Q002963	Koksnes drupināšanas iekārtas OPERATORS
+Q002964	Šķeldas smalcināšanas OPERATORS
+Q002965	Granulu ražošanas OPERATORS
+Q002966	Kokzāģētavas OPERATORS
+Q002967	Lentzāģa OPERATORS
+Q002968	Gatera MAŠĪNISTS
+Q002969	Finieru lobīšanas OPERATORS
+Q002970	Zāģēšanas OPERATORS
+Q002971	Koksnes žāvēšanas iekārtas OPERATORS
+Q002972	Šķirošanas līnijas OPERATORS
+Q002973	Preses OPERATORS
+Q002974	Zāģmateriālu ražošanas OPERATORS
+Q002975	Finieru frēzēšanas OPERATORS
+Q002976	Finieru saaudzēšanas OPERATORS
+Q002977	Finieru piegriešanas OPERATORS
+Q002978	Finieru labošanas/ līnijas OPERATORS
+Q002979	Finieru paku savākšanas/ līnijas OPERATORS
+Q002980	Līmes sagatavošanas un formēšanas līnijas OPERATORS
+Q002981	Laminēšanas iekārtas OPERATORS
+Q002982	Koksnes slīpēšanas/ līnijas OPERATORS
+Q002983	Ķieģeļu un dakstiņu/ apdedzināšanas krāsns OPERATORS
+Q002984	Stikla un keramikas maisīšanas iekārtas/ ražošanas OPERATORS
+Q002985	Stikla un keramikas malšanas iekārtas/ ražošanas OPERATORS
+Q002986	Māla/ ražošanas OPERATORS
+Q002987	Stikla šķiedras/ ražošanas OPERATORS
+Q002988	Keramikas GLAZĒTĀJS
+Q002989	Rūpnīcas/ katlu KURINĀTĀJS
+Q002990	Tvaika mašīnas OPERATORS
+Q002991	Katlu MAŠĪNISTS
+Q002992	Apkures/ krāšņu KURINĀTĀJS
+Q002993	Siltumtīklu OPERATORS
+Q002994	Turbīnu iekārtu OPERATORS
+Q002995	Apkures iekārtas OPERATORS
+Q002996	Gazificēto krāšņu OPERATORS
+Q002997	Gāzes OPERATORS (krematorijā)
+Q002998	Kompresora OPERATORS
+Q002999	Ventilācijas iekārtas OPERATORS
+Q003000	Automatizētas kurināmā padeves OPERATORS
+Q003001	Aizvākošanas iekārtas OPERATORS
+Q003002	Cauruļu izolēšanas iekārtas OPERATORS
+Q003003	Etiķešu līmēšanas OPERATORS
+Q003004	Saiņošanas OPERATORS
+Q003005	Marķēšanas iekārtas OPERATORS
+Q003006	Konteineru/ pildīšanas iekārtas OPERATORS
+Q003007	Pudeļu uzpildes OPERATORS
+Q003008	Robota OPERATORS
+Q003009	Iepildīšanas līnijas OPERATORS
+Q003010	Skābekļa balonu PILDĪTĀJS
+Q003011	Olu šķirošanas, iesaiņošanas, marķēšanas un iepakošanas iekārtu OPERATORS
+Q003012	Presēšanas iekārtas OPERATORS
+Q003013	Šķidrumu iekārtas OPERATORS
+Q003014	Sniega ģeneratoru OPERATORS
+Q003015	Vagonu mazgāšanas mašīnas OPERATORS
+Q003016	Griešanas OPERATORS
+Q003017	Sveču ražošanas iekārtas OPERATORS
+Q003018	Dzesēšanas iekārtas OPERATORS
+Q003019	Karsēšanas iekārtas OPERATORS
+Q003020	Ledus ražošanas iekārtas OPERATORS
+Q003021	Saldēšanas iekārtas OPERATORS
+Q003022	Rūpniecisko iekārtu MONTIERIS
+Q003023	Montāžas darbu ATSLĒDZNIEKS
+Q003024	Sliežu ceļu MONTIERIS
+Q003025	Elektroiekārtu MONTIERIS
+Q003026	Uztīšanas iekārtas MONTIERIS
+Q003027	AKUMULATORISTS
+Q003028	Audiovideoiekārtu MONTIERIS
+Q003029	Elektronisko iekārtu MONTIERIS
+Q003030	Pusvadītāju aparātu būves OPERATORS
+Q003031	Mikroelektronikas iekārtu MONTIERIS
+Q003032	Radioaparatūras MONTIERIS
+Q003033	Vājstrāvu sistēmu MONTIERIS
+Q003034	Metāla/ mēbeļu MONTIERIS
+Q003035	Metāla izstrādājumu MONTĒTĀJS
+Q003036	Plastmasas izstrādājumu KOMPLEKTĒTĀJS
+Q003037	Gumijas izstrādājumu KOMPLEKTĒTĀJS
+Q003038	Koka izstrādājumu KOMPLEKTĒTĀJS
+Q003039	Koka/ mēbeļu KOMPLEKTĒTĀJS
+Q003040	Kartona izstrādājumu KOMPLEKTĒTĀJS
+Q003041	Kompozīto ražojumu MONTIERIS
+Q003042	Pasākumu tehniskā nodrošinājum aprīkojuma MONTIERIS
+Q003043	Dīzeļlokomotīves VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003044	Vilces līdzekļa VADĪTĀJS/ MAŠĪNISTS
+Q003045	Vilces līdzekļa VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003046	Dīzeļlokomotīves VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003047	Dīzeļvilciena VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003048	Elektrovilciena VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003049	Dīzeļvilciena VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003050	Elektrovilciena VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003051	Sliežu motortransporta VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003052	Dzelzceļa nepašgājējas mašīnas un to sastāvu OPERATORS/ MAŠĪNISTS
+Q003053	Dzelzceļa nepašgājējas mašīnas un to sastāvu OPERATORA/ MAŠĪNISTA PALĪGS
+Q003054	Vilces līdzekļa VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003055	Sliežu motortransporta VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003056	Tvaika lokomotīves VADĪTĀJA/ MAŠĪNISTA PALĪGS
+Q003057	Tvaika lokomotīves VADĪTĀJS/ MAŠĪNISTS INSTRUKTORS
+Q003058	Dzelzceļa PĀRMIJNIEKS
+Q003059	Vilcienu SASTĀDĪTĀJS
+Q003060	Vilcienu SARGS
+Q003061	Dzelzceļa SIGNALIZĒTĀJS
+Q003062	Dzelzceļa šķirošanas DEŽURANTS
+Q003063	Dzelzceļa pārbrauktuves DEŽURANTS
+Q003064	Vagonu APSKATĪTĀJS (remontētājs)
+Q003065	Vagonu parka DEŽURANTS
+Q003066	Vilcienu PIEŅĒMĒJS
+Q003067	Kravas vilcienu KONDUKTORS
+Q003068	Vilcienu SASTĀDĪTĀJA PALĪGS
+Q003069	Vagonu kustības ātruma REGULĒTĀJS
+Q003070	Ritošā sastāva EKIPĒTĀJS
+Q003071	Automobiļa VADĪTĀJS
+Q003072	Furgona VADĪTĀJS
+Q003073	Sanitārautomobiļa VADĪTĀJS
+Q003074	Mazietilpīga kravas automobiļa VADĪTĀJS
+Q003075	Taksometra VADĪTĀJS
+Q003076	Mikroautobusa VADĪTĀJS
+Q003077	Autobusa VADĪTĀJS
+Q003078	Tramvaja VADĪTĀJS
+Q003079	Trolejbusa VADĪTĀJS
+Q003080	Autobusa, trolejbusa un tramvaja VADĪTĀJS MANEVRĒTĀJS
+Q003081	Atkritumvedēja VADĪTĀJS
+Q003082	Bīstamu kravu pārvadāšanas transportlīdzekļu VADĪTĀJS
+Q003083	Kravas automobiļa VADĪTĀJS
+Q003084	Paškrāvēja/ automobiļa VADĪTĀJS
+Q003085	Vilcējautomobiļa VADĪTĀJS
+Q003086	Ielu laistīšanas/ automobiļa VADĪTĀJS
+Q003087	Ielu kaisīšanas/ automobiļa VADĪTĀJS
+Q003088	Mehāniskā transportlīdzekļa VADĪTĀJS
+Q003089	Betona maisītāja/ sūkņa VADĪTĀJS
+Q003090	Ledus atjaunošanas mašīnas VADĪTĀJS
+Q003091	Lidmašīnas servisa iekārtu un lidostas tehnikas OPERATORS
+Q003092	Lidmašīnu atledošanas SPECIĀLISTS
+Q003093	Kombaina VADĪTĀJS
+Q003094	Lauksaimniecības mašīnu OPERATORS
+Q003095	Kokvedēja automobiļa VADĪTĀJS
+Q003096	Traktora VADĪTĀJS
+Q003097	Traktortehnikas VADĪTĀJS
+Q003098	Meža mašīnu OPERATORS
+Q003099	Bagarēšanas mašīnu OPERATORS
+Q003100	Betona ieklājēja OPERATORS
+Q003101	Asfaltēšanas ieklājēja VADĪTĀJS
+Q003102	Asfalta ieklājēja OPERATORS
+Q003103	Zemes urbšanas mašīnu OPERATORS (būvniecības jomā)
+Q003104	Buldozera VADĪTĀJS
+Q003105	Pamatu veltņa VADĪTĀJS
+Q003106	Asfalta veltņa VADĪTĀJS
+Q003107	Ekskavatora VADĪTĀJS
+Q003108	Kūdras ieguves mašīnas MAŠĪNISTS
+Q003109	Pāļdziņa VADĪTĀJS
+Q003110	Gudronatora VADĪTĀJS
+Q003111	Autogreidera VADĪTĀJS
+Q003112	Sliežu ceļa mašīnu IESTATĪTĀJS
+Q003113	Ceļa frēzes VADĪTĀJS
+Q003114	Ceļa frēzes OPERATORS
+Q003115	Pašgājēja iekrāvēja VADĪTĀJS
+Q003116	Ceļu marķēšanas mašīnas VADĪTĀJS
+Q003117	Citas speciālās pašgājējtehnikas VADĪTĀJS
+Q003118	Zemessmēlēja VADĪTĀJS
+Q003119	Ceļa veltņa OPERATORS
+Q003120	Zemes pārvietošanas iekārtu OPERATORS
+Q003121	Cauruļlicēja VADĪTĀJS
+Q003122	Zemes klātnes uzturēšanas BRIGADIERIS
+Q003123	Celtņa OPERATORS
+Q003124	Elevatora OPERATORS
+Q003125	Eskalatora OPERATORS
+Q003126	Kuģa/ celtņa OPERATORS
+Q003127	Vinčas OPERATORS
+Q003128	Autoceltņa/ automobiļa VADĪTĀJS
+Q003129	Transportiera APKALPOTĀJS
+Q003130	Pacēlāja MAŠĪNISTS
+Q003131	Iekraušanas iekārtas APKALPOTĀJS
+Q003132	Hidrokrāvēja MAŠĪNISTS
+Q003133	Metalurģiskās iekārtas/ celtņa OPERATORS
+Q003134	Dzelzceļa celtņa VADĪTĀJS
+Q003135	Dzelzceļa celtņa VADĪTĀJA PALĪGS
+Q003136	DOKERS
+Q003137	DOKERU BRIGADIERIS
+Q003138	Autotorņa VADĪTĀJS
+Q003139	Lifta/ platformas OPERATORS
+Q003140	Autokrāvēja VADĪTĀJS
+Q003141	Elektrokrāvēja OPERATORS
+Q003142	Elektrokāra VADĪTĀJS
+Q003143	Lidostas KRĀVĒJS
+Q003144	BOCMANIS
+Q003145	Kuģa BOCMANIS (iekšlietu jomā)
+Q003146	Iekšējo ūdeņu kuģa MATROZIS
+Q003147	MATROZIS MOTORISTS
+Q003148	Kuģa MOTORISTS
+Q003149	Kuģa sūkņu MAŠĪNISTS
+Q003150	Kuģu TAUVOTĀJS
+Q003151	MĀJKALPOTĀJS
+Q003152	APKOPĒJS
+Q003153	TĪRĪTĀJS (roku darbs)
+Q003154	Viesnīcas ISTABENIS
+Q003155	ISTABENIS
+Q003156	Tūrisma mītnes ISTABENIS
+Q003157	Sabiedrisko tualešu APKOPĒJS
+Q003158	Veļas MAZGĀTĀJS
+Q003159	Veļas GLUDINĀTĀJS
+Q003160	Veļas PĀRZINIS
+Q003161	TĪRĪTĀJS (ķīmiskās tīrīšanas pakalpojumu jomā)
+Q003162	Transportlīdzekļu TĪRĪTĀJS
+Q003163	Automobiļu MAZGĀTĀJS
+Q003164	Logu/ vitrīnu stiklu MAZGĀTĀJS
+Q003165	Trauku MAZGĀTĀJS
+Q003166	MAZGĀTĀJS (roku darbs)
+Q003167	TĪRĪTĀJS
+Q003168	ZIRGKOPĒJS
+Q003169	LOPKOPĒJS
+Q003170	SLAUCĒJS
+Q003171	Lauksaimniecības/ fermas STRĀDNIEKS
+Q003172	Lauksaimniecības palīgSTRĀDNIEKS
+Q003173	Dārzniecības STRĀDNIEKS
+Q003174	Siltumnīcas STRĀDNIEKS
+Q003175	Mežsaimniecības STRĀDNIEKS
+Q003176	Zivsaimniecības STRĀDNIEKS
+Q003177	Akvakultūras STRĀDNIEKS
+Q003178	Iekšējo ūdeņu un piekrastes zvejniecības STRĀDNIEKS
+Q003179	Kūdras ieguves palīgSTRĀDNIEKS
+Q003180	Ceļu būves palīgSTRĀDNIEKS
+Q003181	Dzelzceļa STRĀDNIEKS
+Q003182	APGAITNIEKS
+Q003183	Inženiertehnisko būvju remonta STRĀDNIEKS
+Q003184	Ceļa marķējumu KRĀSOTĀJS
+Q003185	ASFALTĒTĀJS
+Q003186	Mākslīgo būvju palīgSTRĀDNIEKS
+Q003187	Trases STRĀDNIEKS
+Q003188	BūvSTRĀDNIEKS
+Q003189	RemontSTRĀDNIEKS
+Q003190	IESAIŅOTĀJS (roku darbs)
+Q003191	KOMPLEKTĒTĀJS IESAIŅOTĀJS
+Q003192	Šprotu PAKOTĀJS (roku darbs)
+Q003193	ŠĶIROTĀJS (roku darbs)
+Q003194	MONTĒTĀJS (roku darbs)
+Q003195	Izejvielu SAGATAVOTĀJS
+Q003196	Produkcijas NOŅĒMĒJS (no mašīnas)
+Q003197	Spoļu ATTINĒJS (roku darbs)
+Q003198	Karstā metāla NOVĀCĒJS (no velmēšanas stāva)
+Q003199	Iespieddarbu pēcapstrādes STRĀDNIEKS (roku darbs)
+Q003200	Ceha STRĀDNIEKS
+Q003201	PalīgSTRĀDNIEKS
+Q003202	Izstrādājumu MARĶĒTĀJS
+Q003203	Naftas produktu LĒJĒJS
+Q003204	Naftas produktu PIEŅĒMĒJS
+Q003205	Slēpošanas un snovborda inventāra apkopes STRĀDNIEKS
+Q003206	SPOLĒTĀJS (roku darbs)
+Q003207	Elektroiekārtu izolācijas SAGATAVOTĀJS
+Q003208	Trikotāžas izstrādājumu FORMĒTĀJS
+Q003209	Paraugu ŅĒMĒJS
+Q003210	Kārtridžu uzpildes pakalpojumu DARBINIEKS
+Q003211	Dokumentu KĀRTOTĀJS
+Q003212	VeloRIKŠA
+Q003213	KUČIERIS
+Q003214	REKVIZITORS
+Q003215	Skatuves STRĀDNIEKS
+Q003216	Noliktavas STRĀDNIEKS
+Q003217	SIGNALIZĒTĀJS
+Q003218	RATIŅSTŪMĒJS (lielveikalos)
+Q003219	Preču IZVIETOTĀJS
+Q003220	Ātrās ēdināšanas STRĀDNIEKS
+Q003221	PAVĀRA PALĪGS
+Q003222	Virtuves DARBINIEKS
+Q003223	Zivju VĒRĒJS (roku darbs)
+Q003224	Zivju RETINĀTĀJS (roku darbs)
+Q003225	Apavu TĪRĪTĀJS
+Q003226	Automašīnu logu MAZGĀTĀJS
+Q003227	Laikrakstu PĀRDEVĒJS
+Q003228	Preču IZNĒSĀTĀJS
+Q003229	Teātra programmu PĀRDEVĒJS
+Q003230	Atkritumu SAVĀCĒJS
+Q003231	Izgāztuves DEŽURANTS
+Q003232	Atkritumu ŠĶIROTĀJS
+Q003233	Otrreizējo izejvielu ŠĶIROTĀJS
+Q003234	SĒTNIEKS
+Q003235	Ielu SLAUCĪTĀJS
+Q003236	Dzīvnieku ĶĒRĀJS
+Q003237	Gadījuma darbu STRĀDNIEKS
+Q003238	Naudas automātu kontrolKASIERIS
+Q003239	Uzskaites rādījumu REĢISTRĒTĀJS
+Q003240	Dzērienu un pārtikas automātu APKALPOTĀJS
+Q003241	Malkas SAGĀDĀTĀJS
+Q003242	Ūdens SAGĀDĀTĀJS
+Q003243	ŠVEICARS
+Q003244	GARDEROBISTS
+Q003245	Ēkas DEŽURANTS
+Q003246	Muzeja izstāžu un ekspozīciju zāļu UZRAUGS
+Q003247	Ēkas un teritorijas DEŽURANTS
+Q003248	GARDEROBISTS (apstrādes rūpniecības jomā)
+Q003249	Teritorijas DEŽURANTS
+Q003250	Autostāvvietas DEŽURANTS
+Q003251	Atrakciju iekārtas UZRAUGS

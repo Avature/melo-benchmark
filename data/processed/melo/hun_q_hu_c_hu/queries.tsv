@@ -1,0 +1,362 @@
+Q000001	Helyi önkormányzat kinevezett vezetője
+Q000002	Társadalmi (érdek-képviseleti) és egyéb szervezet vezetője
+Q000003	Egyházi vezető
+Q000004	Mezőgazdasági, erdészeti, halászati és vadászati tevékenységet folytató egység vezetője
+Q000005	Ipari tevékenységet folytató egység vezetője
+Q000006	Építőipari tevékenységet folytató egység vezetője
+Q000007	Szállítási, logisztikai és raktározási tevékenységet folytató egység vezetője
+Q000008	Informatikai és telekommunikációs tevékenységet folytató egység vezetője
+Q000009	Pénzintézeti tevékenységet folytató egység vezetője
+Q000010	Szociális tevékenységet folytató egység vezetője
+Q000011	Idősgondozási tevékenységet folytató egység vezetője
+Q000012	Egészségügyi tevékenységet folytató egység vezetője
+Q000013	Oktatási-nevelési tevékenységet folytató egység vezetője
+Q000014	Szálláshely-szolgáltatási tevékenységet folytató egység vezetője
+Q000015	Vendéglátó tevékenységet folytató egység vezetője
+Q000016	Kereskedelmi tevékenységet folytató egység vezetője
+Q000017	Sport- és rekreációs tevékenységet folytató egység vezetője
+Q000018	Személyzeti vezető, humánpolitikai egység vezetője
+Q000019	Kutatási és fejlesztési tevékenységet folytató egység vezetője
+Q000020	Értékesítési és marketingtevékenységet folytató egység vezetője
+Q000021	Reklám-, PR- és egyéb kommunikációs tevékenységet folytató egység vezetője
+Q000022	Egyéb gazdasági tevékenységet segítő egység vezetője
+Q000023	Bányamérnök
+Q000024	Építészmérnök
+Q000025	Építőmérnök
+Q000026	Vegyészmérnök
+Q000027	Gépészmérnök
+Q000028	Villamosmérnök (energetikai mérnök)
+Q000029	Villamosmérnök (elektronikai mérnök)
+Q000030	Telekommunikációs mérnök
+Q000031	Mezőgazdasági mérnök
+Q000032	Erdő- és természetvédelmi mérnök
+Q000033	Táj- és kertépítészmérnök
+Q000034	Földmérő és térinformatikus
+Q000035	Grafikus és multimédia-tervező
+Q000036	Minőségbiztosítási mérnök
+Q000037	Szoftverfejlesztő
+Q000038	Hálózat- és multimédia-fejlesztő
+Q000039	Alkalmazásprogramozó
+Q000040	Egyéb szoftver- és alkalmazásfejlesztő, -elemző
+Q000041	Adatbázis-tervező és -üzemeltető
+Q000042	Rendszergazda
+Q000043	Számítógép-hálózati elemző, üzemeltető
+Q000044	Egyéb adatbázis- és hálózati elemző, üzemeltető
+Q000045	Fizikus
+Q000046	Csillagász
+Q000047	Kémikus
+Q000048	Geológus
+Q000049	Matematikus
+Q000050	Környezetfelmérő, -tanácsadó
+Q000051	Általános orvos
+Q000052	Szakorvos
+Q000053	Gyógyszerész, szakgyógyszerész
+Q000054	Környezet- és foglalkozás-egészségügyi foglalkozású
+Q000055	Optometrista
+Q000056	Dietetikus és táplálkozási tanácsadó
+Q000057	Gyógytornász
+Q000058	Védőnő
+Q000059	Mentőtiszt
+Q000060	Hallás- és beszédterapeuta
+Q000061	Alternatív gyógymódot alkalmazó
+Q000062	Egyéb humán-egészségügyi (társ)foglalkozású
+Q000063	Ápoló (felsőfokú képzettséghez kapcsolódó)
+Q000064	Szülész(nő) (felsőfokú képzettséghez kapcsolódó)
+Q000065	Állatorvos
+Q000066	Növényorvos (növényvédelmi szakértő)
+Q000067	Egyetemi, főiskolai oktató, tanár
+Q000068	Középiskolai tanár
+Q000069	Középfokú nevelési-oktatási intézményi szakoktató, gyakorlati oktató
+Q000070	Általános iskolai tanár, tanító
+Q000071	Csecsemő- és kisgyermeknevelő, óvodapedagógus
+Q000072	Gyógypedagógus
+Q000073	Konduktor
+Q000074	Pedagógiai szakértő, szaktanácsadó
+Q000075	Nyelvtanár (iskolarendszeren kívül)
+Q000076	Zenetanár (iskolarendszeren kívül)
+Q000077	Egyéb művészetek tanára (iskolarendszeren kívül)
+Q000078	Informatikatanár (iskolarendszeren kívül)
+Q000079	Egyéb szakképzett oktató, nevelő
+Q000080	Pénzügyi elemző és befektetési tanácsadó
+Q000081	Adótanácsadó, adószakértő
+Q000082	Könyvvizsgáló, könyvelő, könyvszakértő
+Q000083	Szervezetirányítási elemző, szervező
+Q000084	Üzletpolitikai elemző, szervező
+Q000085	Személyzeti és pályaválasztási szakértő
+Q000086	Képzési és személyzetfejlesztési szakértő
+Q000087	PR-tevékenységet tervező, szervező
+Q000088	Kereskedelmi tervező, szervező
+Q000089	Informatikai és telekommunikációs technológiai termékek értékesítését tervező, szervező
+Q000090	Jogász, jogtanácsos
+Q000091	Ügyész
+Q000092	Bíró
+Q000093	Közjegyző
+Q000094	Ügyvéd
+Q000095	Egyéb jogi foglalkozású
+Q000096	Történész, régész
+Q000097	Néprajzkutató
+Q000098	Elemző közgazdász
+Q000099	Statisztikus
+Q000100	Szociológus, demográfus
+Q000101	Nyelvész, fordító, tolmács
+Q000102	Pszichológus
+Q000103	Könyvtáros, informatikus könyvtáros
+Q000104	Levéltáros
+Q000105	Muzeológus, múzeumi gyűjteménygondnok
+Q000106	Könyv- és lapkiadó szerkesztője
+Q000107	Újságíró, rádióműsor-, televízióműsor-szerkesztő
+Q000108	Író (újságíró nélkül)
+Q000109	Képzőművész
+Q000110	Iparművész, gyártmány- és ruhatervező
+Q000111	Zeneszerző, zenész, énekes
+Q000112	Rendező, operatőr
+Q000113	Színész, bábművész
+Q000114	Táncművész, koreográfus
+Q000115	Cirkuszi- és hasonló előadóművész
+Q000116	Pap (lelkész), egyházi foglalkozású
+Q000117	Egyéb magasan képzett ügyintéző
+Q000118	Kohó- és anyagtechnikus
+Q000119	Fa- és könnyűipari technikus
+Q000120	Vegyésztechnikus
+Q000121	Villamosipari technikus (energetikai technikus)
+Q000122	Mezőgazdasági technikus
+Q000123	Erdő- és természetvédelmi technikus
+Q000124	Földmérő és térinformatikai technikus
+Q000125	Műszaki rajzoló, szerkesztő
+Q000126	Egyéb, máshova nem sorolható technikus
+Q000127	Informatikai és kommunikációs rendszereket kezelő technikus
+Q000128	Informatikai és kommunikációs rendszerek felhasználóit támogató technikus
+Q000129	Számítógéphálózat- és rendszertechnikus
+Q000130	Webrendszer- (hálózati) technikus
+Q000131	Műsorszóró és audiovizuális technikus
+Q000132	Telekommunikációs technikus
+Q000133	Energetikai (erőművi) berendezés vezérlője
+Q000134	Égető-, víz- és csatornaművi berendezés vezérlője
+Q000135	Vegyipari alapanyag-feldolgozó berendezés vezérlője
+Q000136	Kőolaj- és földgázfinomító berendezés vezérlője
+Q000137	Fémgyártási berendezés vezérlője
+Q000138	Egyéb folyamatirányító berendezés vezérlője
+Q000139	Energetikus
+Q000140	Tengeri és belvízi hajóparancsnok, fedélzeti tiszt
+Q000141	Légijármű-vezető, hajózómérnök
+Q000142	Légiforgalmi irányító
+Q000143	Légiforgalmi irányítástechnikai berendezések üzemeltetője
+Q000144	Egyéb műszaki foglalkozású
+Q000145	Bányászati szakmai irányító, felügyelő
+Q000146	Feldolgozóipari szakmai irányító, felügyelő
+Q000147	Építőipari szakmai irányító, felügyelő
+Q000148	Irodai szakmai irányító, felügyelő
+Q000149	Ápoló, szakápoló
+Q000150	Szülész(nő)i tevékenység segítője
+Q000151	Általános egészségügyi asszisztens
+Q000152	Egészségügyi dokumentátor
+Q000153	Orvosi képalkotó diagnosztikai és terápiás berendezések kezelője
+Q000154	Orvosi laboratóriumi asszisztens
+Q000155	Fogászati asszisztens
+Q000156	Gyógyszertári és gyógyszerellátási asszisztens
+Q000157	Alternatív gyógymódok alkalmazásának segítője
+Q000158	Környezet- és foglalkozás-egészségügyi kiegészítő foglalkozású
+Q000159	Fizioterápiás asszisztens, masszőr
+Q000160	Fogtechnikus
+Q000161	Ortopédiai eszközkészítő
+Q000162	Látszerész
+Q000163	Egyéb, humánegészségügyhöz kapcsolódó foglalkozású
+Q000164	Állatorvosi asszisztens
+Q000165	Növényorvosi (növényvédelmi) asszisztens
+Q000166	Oktatási asszisztens
+Q000167	Szociális segítő
+Q000168	Hivatásos nevelőszülő, főállású anya
+Q000169	Szociális gondozó, szakgondozó
+Q000170	Jelnyelvi tolmács
+Q000171	Munkaerő-piaci szolgáltatási ügyintéző
+Q000172	Pénzintézeti ügyintéző
+Q000173	Tőzsde- és pénzügyi ügynök, bróker
+Q000174	Számviteli ügyintéző
+Q000175	Statisztikai ügyintéző
+Q000176	Értékbecslő, kárbecslő, kárszakértő
+Q000177	Kereskedelmi ügyintéző
+Q000178	Anyaggazdálkodó, felvásárló
+Q000179	Ügynök (a biztosítási ügynök kivételével)
+Q000180	Egyéb, máshova nem sorolható üzleti jellegű szolgáltatás ügyintézője
+Q000181	Jogi asszisztens
+Q000182	Vám- és pénzügyőr
+Q000183	Adó- és illetékhivatali ügyintéző
+Q000184	Társadalombiztosítási és segélyezési hatósági ügyintéző
+Q000185	Hatósági engedélyek kiadásával foglalkozó ügyintéző
+Q000186	Nyomozó
+Q000187	Végrehajtó, adósságbehajtó
+Q000188	Egyéb hatósági ügyintéző
+Q000189	Segédszínész, statiszta
+Q000190	Fényképész
+Q000191	Kiegészítő filmgyártási és színházi foglalkozású
+Q000192	Kulturális intézményi szaktechnikus
+Q000193	Egyéb művészeti és kulturális foglalkozású
+Q000194	Sportoló
+Q000195	Egyéb vallási foglalkozású
+Q000196	Titkár(nő)
+Q000197	Gépíró, szövegszerkesztő
+Q000198	Könyvelő (analitikus)
+Q000199	Bérelszámoló
+Q000200	Pénzügyi, statisztikai, biztosítási adminisztrátor
+Q000201	Készlet- és anyagnyilvántartó
+Q000202	Szállítási, szállítmányozási nyilvántartó
+Q000203	Humánpolitikai adminisztrátor
+Q000204	Postai szolgáltató (kézbesítő, válogató)
+Q000205	Iratkezelő, irattáros
+Q000206	Egyéb, máshova nem sorolható irodai, ügyviteli foglalkozású
+Q000207	Banki pénztáros
+Q000208	Szerencsejáték-szervező
+Q000209	Zálogházi ügyintéző és pénzkölcsönző
+Q000210	Utazásszervező, tanácsadó
+Q000211	Recepciós
+Q000212	Ügyfél- (vevő)tájékoztató
+Q000213	Ügyfélszolgálati központ tájékoztatója
+Q000214	Lakossági kérdező, összeíró
+Q000215	Postai ügyfélkapcsolati foglalkozású
+Q000216	Egyéb ügyfélkapcsolati foglalkozású
+Q000217	Kereskedő
+Q000218	Vezető eladó
+Q000219	Bolti eladó
+Q000220	Piaci, utcai árus
+Q000221	Üzemanyagtöltő állomás kezelője
+Q000222	Áru- és divatbemutató
+Q000223	Telefonos (multimédiás) értékesítési ügynök
+Q000224	Egyéb, máshova nem sorolható kereskedelmi foglalkozású
+Q000225	Vendéglős
+Q000226	Pincér
+Q000227	Pultos
+Q000228	Szakács
+Q000229	Cukrász
+Q000230	Kozmetikus
+Q000231	Egyéb személyi szolgáltatási foglalkozású
+Q000232	Segédápoló, műtőssegéd
+Q000233	Házi gondozó
+Q000234	Egyéb személygondozási foglalkozású
+Q000235	Idegenvezető
+Q000236	Rendőr
+Q000237	Tűzoltó
+Q000238	Büntetés-végrehajtási őr
+Q000239	Természetvédelmi őr
+Q000240	Közterület-felügyelő
+Q000241	Egyéb személy- és vagyonvédelmi foglalkozású
+Q000242	Járművezető-oktató
+Q000243	Temetkezési foglalkozású
+Q000244	Egyéb, máshova nem sorolható szolgáltatási foglalkozású
+Q000245	Szántóföldinövény-termesztő
+Q000246	Bionövény-termesztő
+Q000247	Szőlő-, gyümölcstermesztő
+Q000248	Egyéb növénytermesztési foglalkozású
+Q000249	Baromfitartó és -tenyésztő
+Q000250	Méhész
+Q000251	Erdészeti foglalkozású
+Q000252	Fakitermelő (favágó)
+Q000253	Vadgazdálkodási foglalkozású
+Q000254	Halászati foglalkozású
+Q000255	Gyümölcs- és zöldségfeldolgozó, -tartósító
+Q000256	Borász és egyéb szeszesital-gyártó, szikvízkészítő
+Q000257	Szabásminta-készítő
+Q000258	Szabó, varró
+Q000259	Tímár
+Q000260	Bőrdíszműves, bőröndös, bőrtermékkészítő, -javító
+Q000261	Famegmunkáló
+Q000262	Faesztergályos
+Q000263	Kádár, bognár
+Q000264	Nyomdász, nyomdai gépmester
+Q000265	Fémöntőminta-készítő
+Q000266	Lakatos
+Q000267	Hegesztő, lángvágó
+Q000268	Kovács
+Q000269	Festékszóró, fényező
+Q000270	Fém- és egyéb tartószerkezet-szerelő
+Q000271	Mechanikaigép-karbantartó, -javító (műszerész)
+Q000272	Kerékpár-karbantartó, -javító
+Q000273	Villamos gépek és készülékek műszerésze, javítója
+Q000274	Címfestő
+Q000275	Keramikus
+Q000276	Üveggyártó
+Q000277	Hangszerkészítő
+Q000278	Textilműves, hímző, csipkeverő
+Q000279	Kőműves
+Q000280	Gipszkartonozó, stukkózó
+Q000281	Ács
+Q000282	Építményszerkezet-szerelő
+Q000283	Egyéb építőmesteri foglalkozású
+Q000284	Szellőző-, hűtő- és klimatizálóberendezés-szerelő
+Q000285	Felvonószerelő
+Q000286	Szigetelő
+Q000287	Tetőfedő
+Q000288	Épület-, építménybádogos
+Q000289	Burkoló
+Q000290	Kőfaragó, műköves
+Q000291	Kályha- és kandallóépítő
+Q000292	Ipari búvár
+Q000293	Ipari alpinista
+Q000294	Robbantómester
+Q000295	Egyéb, máshova nem sorolható ipari és építőipari foglalkozású
+Q000296	Élelmiszer-, italgyártó gép kezelője
+Q000297	Textilipari gép kezelője és gyártósor mellett dolgozó
+Q000298	Ruházati gép kezelője és gyártósor mellett dolgozó
+Q000299	Bőrkikészítő és -feldolgozó gép kezelője és gyártósor mellett dolgozó
+Q000300	Cipőgyártó gép kezelője és gyártósor mellett dolgozó
+Q000301	Fafeldolgozó gép kezelője és gyártósor mellett dolgozó
+Q000302	Papír- és cellulóztermék-gyártó gép kezelője és gyártósor mellett dolgozó
+Q000303	Kőolaj- és földgázfeldolgozó gép kezelője
+Q000304	Vegyi alapanyagot és terméket gyártó gép kezelője
+Q000305	Gyógyszergyártó gép kezelője
+Q000306	Műanyagtermék-gyártó gép kezelője
+Q000307	Gumitermékgyártó gép kezelője
+Q000308	Fotó- és mozgófilmlaboráns
+Q000309	Cement-, kő- és egyéb ásványianyag-feldolgozó gép kezelője
+Q000310	Papíripari alapanyagot gyártó gép kezelője
+Q000311	Fémmegmunkáló, felületkezelő gép kezelője
+Q000312	Egyéb, máshova nem sorolható feldolgozóipari gép kezelője
+Q000313	Mechanikaigép-összeszerelő
+Q000314	Villamosberendezés-összeszerelő
+Q000315	Egyéb termék-összeszerelő
+Q000316	Szilárdásvány-kitermelő gép kezelője (szén, kő)
+Q000317	Kútfúró, mélyfúró gép kezelője (kőolaj, földgáz, víz)
+Q000318	Energetikai gép kezelője
+Q000319	Vízgazdálkodási gép kezelője
+Q000320	Kazángépkezelő
+Q000321	Sugármentesítő gép, berendezés kezelője
+Q000322	Csomagoló-, palackozó- és címkézőgép kezelője
+Q000323	Mozigépész, vetítőgépész
+Q000324	Mosodai gép kezelője
+Q000325	Egyéb, máshova nem sorolható, helyhez kötött gép kezelője
+Q000326	Mozdonyvezető
+Q000327	Vasútijármű-vezetéshez kapcsolódó foglalkozású
+Q000328	Villamosvezető
+Q000329	Metróvezető
+Q000330	Trolibuszvezető
+Q000331	Személygépkocsi-vezető
+Q000332	Tehergépkocsi-vezető, kamionsofőr
+Q000333	Autóbuszvezető
+Q000334	Egyéb járművezető és kapcsolódó foglalkozású
+Q000335	Mezőgazdasági, erdőgazdasági, növényvédő gép kezelője
+Q000336	Földmunkagép és hasonló könnyű- és nehézgép kezelője
+Q000337	Daru, felvonó és hasonló anyagmozgató gép kezelője
+Q000338	Targoncavezető
+Q000339	Hajószemélyzet, kormányos, matróz
+Q000340	Háztartási takarító és kisegítő
+Q000341	Intézményi takarító és kisegítő
+Q000342	Kézi mosó, vasaló
+Q000343	Járműtakarító
+Q000344	Ablaktisztító
+Q000345	Szemétgyűjtő, utcaseprő
+Q000346	Hulladékosztályozó
+Q000347	Pedálos vagy kézi hajtású gépek vezetője
+Q000348	Állati erővel vont jármű hajtója
+Q000349	Rakodómunkás
+Q000350	Pultfeltöltő, árufeltöltő
+Q000351	Kézi csomagoló
+Q000352	Mérőóra-leolvasó és hasonló egyszerű foglalkozású
+Q000353	Hivatalsegéd, kézbesítő
+Q000354	Hordár, csomagkihordó
+Q000355	Gyorséttermi eladó
+Q000356	Konyhai kisegítő
+Q000357	Parkolóőr
+Q000358	Egyéb, máshova nem sorolható egyszerű szolgáltatási és szállítási foglalkozású
+Q000359	Egyszerű ipari foglalkozású
+Q000360	Kubikos
+Q000361	Egyéb egyszerű építőipari foglalkozású
+Q000362	Egyszerű erdészeti, vadászati és halászati foglalkozású

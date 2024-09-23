@@ -1,0 +1,2347 @@
+Q000001	Vojni namještenik/vojna namještenica
+Q000002	Predsjednik/predsjednica Republike
+Q000003	Predsjednik/predsjednica Hrvatskoga državnog sabora
+Q000004	Predsjednik/predsjednica radnog tijela doma Hrvatskoga državnog sabora
+Q000005	Zastupnik/zastupnica Hrvatskoga državnog sabora
+Q000006	Predsjednik/predsjednica Vlade
+Q000007	Ministar/ministrica
+Q000008	Župan/županica
+Q000009	Gradonačelnik/gradonačelnica
+Q000010	Predsjednik/predsjednica Vrhovnog suda
+Q000011	Predsjednik/predsjednica Upravnog suda
+Q000012	Predsjednik/predsjednica Visokoga trgovačkog suda
+Q000013	Predsjednik/predsjednica Visokoga prekršajnog suda
+Q000014	Državni odvjetnik/državna odvjetnica Republike Hrvatske
+Q000015	Državni pravobranitelj/državna pravobraniteljica Republike Hrvatske
+Q000016	Guverner/guvernerka Hrvatske narodne banke
+Q000017	Čuvar/čuvarica državnog pečata
+Q000018	Pučki pravobranitelj/pučka pravobraniteljica
+Q000019	Predsjednik/predsjednica izbornog povjerenstva
+Q000020	Tajnik/tajnica Hrvatskoga državnog sabora
+Q000021	Tajnik/tajnica radnog tijela Hrvatskoga državnog sabora
+Q000022	Tajnik/tajnica radnog tijela Vlade
+Q000023	Predstojnik/predstojnica Vladina ureda
+Q000024	Pomoćnik/pomoćnica ravnatelja upravne organizacije
+Q000025	Veleposlanik/veleposlanica
+Q000026	Konzul/konzulica
+Q000027	Čelnik/čelnica političke stranke
+Q000028	Dužnosnik/dužnosnica političke stranke
+Q000029	Čelnik/čelnica sindikata
+Q000030	Dužnosnik/dužnosnica sindikata
+Q000031	Čelnik/čelnica udruge poslodavaca
+Q000032	Dužnosnik/dužnosnica udruge poslodavaca
+Q000033	Čelnik/čelnica strukovne komore
+Q000034	Dužnosnik/dužnosnica strukovne komore
+Q000035	Čelnik/čelnica interesne udruge
+Q000036	Dužnosnik/dužnosnica interesne udruge
+Q000037	Čelnik/čelnica humanitarne organizacije
+Q000038	Generalni direktor/generalna direktorica
+Q000039	Član/članica uprave trgovačkog društva
+Q000040	Rektor/rektorica sveučilišta
+Q000041	Direktor/direktorica proizvodnje poljoprivrednog društva
+Q000042	Direktor/direktorica proizvodnje i poslovanja lovno-uzgojnog društva
+Q000043	Direktor/direktorica proizvodnje i poslovanja šumarskog društva
+Q000044	Direktor/direktorica proizvodnje ribarskog društva
+Q000045	Tehnički direktor/tehnička direktorica rudnika
+Q000046	Tehnički direktor/tehnička direktorica društva za industrijsku proizvodnju
+Q000047	Direktor/direktorica operative građevinskog društva
+Q000048	Direktor/direktorica poslovne jedinice trgovine
+Q000049	Direktor/direktorica hotelskog poslovanja
+Q000050	Direktor/direktorica poslovanja društva za smještaj gostiju
+Q000051	Direktor/direktorica restoranskog poslovanja
+Q000052	Šef/šefica željezničkog prometa
+Q000053	Direktor/direktorica poslovanja špediterskog društva
+Q000054	Direktor/direktorica međunarodnoga putničkog prometa u društvu
+Q000055	Direktor/direktorica prijevoza opasnih tvari u društvu
+Q000056	Direktor/direktorica prijevoza u brodarskom društvu
+Q000057	Direktor/direktorica telekomunikacija
+Q000058	Direktor/direktorica poslovanja putničke i turističke agencije
+Q000059	Direktor/direktorica poslovanja društva za ostale usluge u prometu
+Q000060	Direktor/direktorica poslovanja društva za promet nekretninama
+Q000061	Direktor/direktorica poslovanja društva za urbanizam
+Q000062	Direktor/direktorica za organizaciju rada
+Q000063	Prokurist/prokuristica
+Q000064	Direktor/direktorica poslovanja društva za uklanjanje otpadnih voda
+Q000065	Ravnatelj/ravnateljica škole
+Q000066	Ravnatelj/ravnateljica predškolske ustanove
+Q000067	Ravnatelj/ravnateljica poslovanja ustanove za kulturu
+Q000068	Producent/producentica
+Q000069	Direktor/direktorica poslovanja nakladničkog društva
+Q000070	Ravnatelj/ravnateljica poslovanja zdravstvene ustanove
+Q000071	Ravnatelj/ravnateljica ustanove socijalnog rada
+Q000072	Voditelj/voditeljica područne službe
+Q000073	Sportski direktor/sportska direktorica
+Q000074	Direktor/direktorica sportskog objekta
+Q000075	Direktor/direktorica zoološkog vrta
+Q000076	Direktor/direktorica nacionalnog parka
+Q000077	Direktor/direktorica izvanteritorijalne organizacije
+Q000078	Direktor/direktorica financija i računovodstva
+Q000079	Direktor/direktorica službe osiguravateljskog društva
+Q000080	Direktor/direktorica pravne, kadrovske i opće službe
+Q000081	Direktor/direktorica prodaje
+Q000082	Direktor/direktorica komercijalne službe
+Q000083	Direktor/direktorica službe za oglašavanje
+Q000084	Direktor/direktorica poslova za odnose s javnošću
+Q000085	Direktor/direktorica nabave
+Q000086	Direktor/direktorica distribucije
+Q000087	Direktor/direktorica razvojno-istraživačke službe
+Q000088	Direktor/direktorica internoga glasila
+Q000089	Direktor/direktorica zaštite okoliša i sigurnosti na radu
+Q000090	Direktor/direktorica malog poljoprivrednoga gospodarstva
+Q000091	Direktor/direktorica maloga vrtlarskog društva
+Q000092	Direktor/direktorica maloga lovno-uzgojnog društva
+Q000093	Direktor/direktorica malog lovišta
+Q000094	Direktor/direktorica maloga šumarskog društva
+Q000095	Direktor/direktorica maloga građevinskog društva
+Q000096	Direktor/direktorica male trgovine
+Q000097	Direktor/direktorica male kavane
+Q000098	Direktor/direktorica malog disko-bara
+Q000099	Direktor/direktorica maloga prijevoznog društva
+Q000100	Direktor/direktorica maloga skladišta
+Q000101	Direktor/direktorica maloga telekomunikacijskog društva
+Q000102	Direktor/direktorica male turističke agencije
+Q000103	Direktor/direktorica malog društva za informatičke usluge
+Q000104	Direktor/direktorica revizije za poslovanje poduzetnika
+Q000105	Direktor/direktorica revizije za poslovanje banaka i financijskih organizacija
+Q000106	Direktor/direktorica malog društva za urbanizam
+Q000107	Direktor/direktorica malog društva za poslovne usluge
+Q000108	Direktor/direktorica malog društva za pranje i čišćenje
+Q000109	Direktor/direktorica male zdravstvene ustanove
+Q000110	Direktor/direktorica malog veterinarskog društva
+Q000111	Direktor/direktorica male ustanove socijalnog rada
+Q000112	Direktor/direktorica male izvanteritorijalne organizacije
+Q000113	Slobodna profesija p.n.
+Q000114	Diplomirani inženjer/diplomirana inženjerka fizike
+Q000115	Diplomirani astronom/diplomirana astronomka
+Q000116	Istraživač fizičar/istraživačica  fizičarka
+Q000117	Samostalni istraživač fizičar/samostalna istraživačica fizičarka
+Q000118	Diplomirani meteorolog/diplomirana meteorologinja
+Q000119	Diplomirani hidrolog/diplomirana hidrologinja
+Q000120	Samostalni prognostičar/samostalna prognostičarka vremena
+Q000121	Istraživač meteorolog/istraživačica meteorologinja
+Q000122	Samostalni istraživač meteorolog/samostalna istraživačica meteorologinja
+Q000123	Diplomirani kemičar/diplomirana kemičarka anorganskih sustava
+Q000124	Diplomirani kemičar/diplomirana kemičarka elektrokemijskih sustava
+Q000125	Diplomirani kemičar/diplomirana kemičarka organskih sustava
+Q000126	Diplomirani kemičar/diplomirana kemičarka radioloških sustava
+Q000127	Diplomirani kemičar/diplomirana kemičarka farmaceutskih sustava
+Q000128	Istraživač kemičar/istraživačica kemičarka
+Q000129	Samostalni istraživač kemičar/samostalna istraživačica kemičarka
+Q000130	Diplomirani geolog/diplomirana geologinja za istraživanje metalnih i nemetalnih sirovina
+Q000131	Diplomirani geolog/diplomirana geologinja za hidrologiju
+Q000132	Diplomirani geolog/diplomirana geologinja za geotermiku
+Q000133	Diplomirani geolog/diplomirana geologinja za inženjersku geologiju
+Q000134	Diplomirani geolog/diplomirana geologinja za geomehaniku
+Q000135	Diplomirani geolog/diplomirana geologinja za stratigrafiju
+Q000136	Diplomirani geolog/diplomirana geologinja za tektoniku
+Q000137	Diplomirani geolog/diplomirana geologinja za sedimentologiju
+Q000138	Diplomirani geolog/diplomirana geologinja za paleontologiju
+Q000139	Diplomirani geolog/diplomirana geologinja za petrografiju
+Q000140	Diplomirani geolog/diplomirana geologinja za obradu podataka
+Q000141	Diplomirani inženjer/diplomirana inženjerka za geološko istraživanje ležišta
+Q000142	Diplomirani inženjer/diplomirana inženjerka za laboratorijsko ispitivanje stijena
+Q000143	Diplomirani inženjer/diplomirana inženjerka za geofizičko istraživanje ležišta
+Q000144	Diplomirani inženjer/diplomirana inženjerka za geofizička mjerenja
+Q000145	Diplomirani inženjer/diplomirana inženjerka za obradu geofizičkih podataka
+Q000146	Diplomirani seizmolog/diplomirana seizmologinja
+Q000147	Istraživač geolog/istraživačica geologinja
+Q000148	Samostalni istraživač geolog/samostalna istraživačica geologinja
+Q000149	Diplomirani inženjer/diplomirana inženjerka geofizike
+Q000150	Diplomirani matematičar/diplomirana matematičarka
+Q000151	Aktuar/aktuarica
+Q000152	Istraživač matematičar/istraživačica matematičarka
+Q000153	Samostalni istraživač matematičar/samostalna istraživačica matematičarka
+Q000154	Diplomirani statističar, metodolog/diplomirana statističarka, metodologinja
+Q000155	Demograf/demografkinja
+Q000156	Diplomirani statističar/diplomirana statističarka
+Q000157	Istraživač statističar/istraživačica statističarka
+Q000158	Samostalni istraživač statističar/samostalna istraživačica statističarka
+Q000159	Diplomirani analitičar/diplomirana analitičarka sustava za računalne mreže
+Q000160	Diplomirani programer/diplomirana programerka za računalne mreže
+Q000161	Diplomirani programer/diplomirana programerka strojeva upravljanih brojčano
+Q000162	Diplomirani inženjer/diplomirana inženjerka sustava za osobna računala
+Q000163	Administrator/administratorica baza podataka
+Q000164	Diplomirani projektant/diplomirana projektantica arhitekture
+Q000165	Diplomirani projektant/diplomirana projektantica interijera
+Q000166	Diplomirani arhitekt konzervator/diplomirana arhitektica konzervatorica
+Q000167	Diplomirani planer/diplomirana planerka visokogradnje
+Q000168	Diplomirani inženjer/diplomirana inženjerka arhitekture
+Q000169	Diplomirani dizajner/diplomirana dizajnerica
+Q000170	Diplomirani inženjer/diplomirana inženjerka željezničkoga prometa
+Q000171	Diplomirani inženjer/diplomirana inženjerka cestovnog prometa
+Q000172	Diplomirani inženjer/diplomirana inženjerka zračnoga prometa
+Q000173	Diplomirani inženjer/diplomirana inženjerka poštanskoga prometa
+Q000174	Diplomirani inženjer/diplomirana inženjerka aeronautike
+Q000175	Diplomirani inženjer/diplomirana inženjerka pomorskoga prometa
+Q000176	Diplomirani inženjer/diplomirana inženjerka unutarnje plovidbe
+Q000177	Voditelj/voditeljica špeditersko-agencijskih poslova
+Q000178	Diplomirani projektant/diplomirana projektantica građevinskih konstrukcija
+Q000179	Diplomirani projektant/diplomirana projektantica hidrotehničkih građevina
+Q000180	Diplomirani inženjer/diplomirana inženjerka za geotehniku
+Q000181	Diplomirani projektant/diplomirana projektantica organizacije gradnje
+Q000182	Diplomirani voditelj/diplomirana voditeljica gradnje
+Q000183	Diplomirani inženjer/diplomirana inženjerka elektroenergetike
+Q000184	Projektant/projektantica elektroenergetskih postrojenja
+Q000185	Diplomirani elektroinženjer/diplomirana elektroinženjerka za automatizaciju u elektroenergetici
+Q000186	Diplomirani inženjer/diplomirana inženjerka elektrostrojarstva
+Q000187	Diplomirani elektroinženjer/diplomirana elektroinženjerka za električnu vuču
+Q000188	Diplomirani elektroinženjer/diplomirana elektroinženjerka za plovila
+Q000189	Diplomirani elektroinženjer/diplomirana elektroinženjerka  za automatizaciju u transportu
+Q000190	Diplomirani inženjer/diplomirana inženjerka za normizaciju u elektroenergetici i elektrostrojarstvu
+Q000191	Istraživač/istraživačica za elektroenergetiku i elektrostrojarstvo
+Q000192	Diplomirani inženjer/diplomirana inženjerka elektrotehnike
+Q000193	Diplomirani inženjer/diplomirana inženjerka za elektroničke proizvode
+Q000194	Diplomirani inženjer/diplomirana inženjerka za elektroničke komponente
+Q000195	Diplomirani inženjer/diplomirana inženjerka medicinske elektronike
+Q000196	Diplomirani inženjer/diplomirana inženjerka zrakoplovne elektronike
+Q000197	Diplomirani inženjer/diplomirana inženjerka računalne elektronike
+Q000198	Diplomirani inženjer/diplomirana inženjerka telekomunikacija
+Q000199	Diplomirani elektroinženjer/diplomirana elektroinženjerka  za mjerenja i instrumentaciju
+Q000200	Diplomirani elektroinženjer/diplomirana elektroinženjerka  za automatiku
+Q000201	Diplomirani inženjer/diplomirana inženjerka za optoelektroniku
+Q000202	Diplomirani inženjer/diplomirana inženjerka elektronike za normizaciju i mjerenje
+Q000203	Istraživač/istraživačica elektronike, telekomunikacija i automatike
+Q000204	Diplomirani inženjer/diplomirana inženjerka elektronike
+Q000205	Projektant/projektantica mreže za distribuciju plinovitih medija
+Q000206	Strojarski projektant/strojarska projektantica postrojenja procesne industrije
+Q000207	Projektant/projektantica strojarskog dijela energetskog postrojenja
+Q000208	Strojarski projektant/strojarska projektantica postrojenja
+Q000209	Projektant konstruktor/projektantica konstruktorica cestovnih vozila
+Q000210	Projektant konstruktor/projektantica konstruktorica pružnih vozila
+Q000211	Projektant konstruktor/projektantica konstruktorica alatnih strojeva
+Q000212	Projektant konstruktor/projektantica konstruktorica dizalica
+Q000213	Projektant konstruktor/projektantica konstruktorica pumpi i kompresora
+Q000214	Projektant konstruktor/projektantica konstruktorica tlačnih posuda
+Q000215	Projektant konstruktor/projektantica konstruktorica metalnih konstrukcija
+Q000216	Projektant konstruktor/projektantica konstruktorica preciznih instrumenata
+Q000217	Strojarski projektant/strojarska projektantica male automatizacije
+Q000218	Projektant konstruktor/projektantica konstruktorica plovila
+Q000219	Projektant konstruktor/projektantica konstruktorica brodskih motora
+Q000220	Projektant/projektantica tehnologije gradnje plovila
+Q000221	Diplomirani strojarski tehnolog/diplomirana strojarska tehnologinja za održavanje procesne opreme
+Q000222	Diplomirani strojarski tehnolog/diplomirana strojarska tehnologinja za održavanje metalurške opreme
+Q000223	Diplomirani strojarski tehnolog/diplomirana strojarska tehnologinja za održavanje energetskih postrojenja
+Q000224	Projektant/projektantica tehnologije za održavanje cestovnih vozila
+Q000225	Projektant/projektantica tehnologije održavanja zrakoplova
+Q000226	Diplomirani strojarski inženjer/diplomirana strojarska inženjerka za normizaciju
+Q000227	Istraživač/istraživačica strojarstva
+Q000228	Istraživač/istraživačica brodogradnje
+Q000229	Samostalni istraživač/samostalna istraživačica strojarstva
+Q000230	Samostalni istraživač/samostalna istraživačica brodogradnje
+Q000231	Diplomirani petrokemijski tehnolog/diplomirana petrokemijska tehnologinja
+Q000232	Diplomirani tehnolog/diplomirana tehnologinja prerade polimera
+Q000233	Diplomirani tehnolog/diplomirana tehnologinja farmaceutskih proizvoda
+Q000234	Diplomirani tehnolog/diplomirana tehnologinja kozmetičkih proizvoda
+Q000235	Diplomirani tehnolog/diplomirana tehnologinja papirničarstva
+Q000236	Diplomirani tehnolog/diplomirana tehnologinja prerade mesa i ribe
+Q000237	Diplomirani tehnolog/diplomirana tehnologinja prerade mlijeka i mliječnih prerađevina
+Q000238	Diplomirani tehnolog/diplomirana tehnologinja mlinarstva i prerade brašna
+Q000239	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje šećera, škroba i derivata
+Q000240	Diplomirani tehnolog/diplomirana tehnologinja konditorske proizvodnje
+Q000241	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje biljnih ulja i masti
+Q000242	Diplomirani tehnolog/diplomirana tehnologinja prerade voća, povrća i bezalkoholnih pića
+Q000243	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje gotove hrane
+Q000244	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje vina, alkohola, octa
+Q000245	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje piva
+Q000246	Istraživač/istraživačica prehrambene tehnologije
+Q000247	Samostalni istraživač/samostalna istraživačica prehrambene tehnologije
+Q000248	Diplomirani inženjer/diplomirana inženjerka biotehnologije
+Q000249	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje soli
+Q000250	Diplomirani naftno-rudarski inženjer/diplomirana naftno-rudarska inženjerka za razvoj
+Q000251	Diplomirani inženjer/diplomirana inženjerka za izradu i održavanje naftnih bušotina
+Q000252	Diplomirani inženjer/diplomirana inženjerka za proizvodnju nafte i plina
+Q000253	Diplomirani inženjer/diplomirana inženjerka za transport nafte i plina
+Q000254	Diplomirani tehnolog/diplomirana tehnologinja za metale i legure
+Q000255	Diplomirani tehnolog/diplomirana tehnologinja za lijevanje čelika
+Q000256	Diplomirani tehnolog/diplomirana tehnologinja za toplinsku preradu čelika
+Q000257	Diplomirani tehnolog/diplomirana tehnologinja proizvodnje obojenih metala
+Q000258	Diplomirani tehnolog/diplomirana tehnologinja lijevanja i valjanja obojenih  metala
+Q000259	Diplomirani tehnolog/diplomirana tehnologinja prešanja obojenih metala
+Q000260	Istraživač metalurg/istraživačica metalurginja
+Q000261	Samostalni istraživač metalurg/samostalna istraživačica metalurginja
+Q000262	Diplomirani inženjer/diplomirana inženjerka metalurgije
+Q000263	Diplomirani kartograf/diplomirana kartografkinja
+Q000264	Diplomirani pomorski kartograf/diplomirana pomorska kartografkinja
+Q000265	Diplomirani geodet hidrograf/diplomirana geodetkinja hidrografkinja
+Q000266	Savjetnik/savjetnica zemljišno-informatičkog sustava
+Q000267	Diplomirani rudarski mjernik/diplomirana rudarska mjernica
+Q000268	Glavni planer/glavna planerka održavanja
+Q000269	Glavni planer/glavna planerka izgradnje
+Q000270	Diplomirani inženjer/diplomirana inženjerka za zaštitu na radu
+Q000271	Voditelj/voditeljica zaštitarske službe
+Q000272	Diplomirani inženjer/diplomirana inženjerka za zaštitu okoliša
+Q000273	Diplomirani tehnolog/diplomirana tehnologinja pakiranja
+Q000274	Diplomirani tehnolog/diplomirana tehnologinja za preciznu optiku
+Q000275	Diplomirani tekstilnomehanički inženjer/diplomirana tekstilnomehanička inženjerka
+Q000276	Diplomirani tekstilno-kemijski inženjer/diplomirana tekstilno-kemijska inženjerka
+Q000277	Diplomirani inženjer/diplomirana inženjerka tekstilne tehnologije
+Q000278	Diplomirani inženjer/diplomirana inženjerka kožarstva
+Q000279	Diplomirani dizajner/diplomirana dizajnerica obuće i kožne galanterije
+Q000280	Diplomirani inženjer/diplomirana inženjerka drvne tehnologije
+Q000281	Grafički urednik/grafička urednica
+Q000282	Diplomirani grafički dizajner/diplomirana grafička dizajnerica
+Q000283	Diplomirani snimatelj/diplomirana snimateljica slike
+Q000284	Diplomirani montažer/diplomirana montažerka slike i zvuka
+Q000285	Diplomirani inženjer bakteriolog/diplomirana inženjerka bakteriologinja
+Q000286	Diplomirani inženjer ekolog/diplomirana inženjerka ekologinja
+Q000287	Diplomirani inženjer botaničar/diplomirana inženjerka botaničarka
+Q000288	Diplomirani inženjer molekularni biolog/diplomirana inženjerka molekularna biologinja
+Q000289	Diplomirani inženjer genetičar/diplomirana inženjerka genetičarka
+Q000290	Diplomirani inženjer mikrobiolog/diplomirana inženjerka mikrobiologinja
+Q000291	Diplomirani inženjer ribarstveni biolog/diplomirana inženjerka ribarstvena biologinja
+Q000292	Diplomirani inženjer imunolog/diplomirana inženjerka imunologinja
+Q000293	Diplomirani inženjer parazitolog/diplomirana inženjerka parazitologinja
+Q000294	Diplomirani inženjer hidrobiolog/diplomirana inženjerka hidrobiologinja
+Q000295	Diplomirani inženjer marinski biolog/diplomirana inženjerka marinska biologinja
+Q000296	Diplomirani inženjer biolog/diplomirana inženjerka biologinja
+Q000297	Istraživač biolog/istraživačica biologinja
+Q000298	Samostalni istraživač biolog/samostalna istraživačica biologinja
+Q000299	Diplomirani anatom/diplomirana anatomka
+Q000300	Diplomirani fiziolog/diplomirana fiziologinja
+Q000301	Diplomirani patolog/diplomirana patologinja
+Q000302	Diplomirani biofizičar/diplomirana biofizičarka
+Q000303	Diplomirani farmakolog/diplomirana farmakologinja
+Q000304	Diplomirani toksikolog/diplomirana toksikologinja
+Q000305	Diplomirani biokemičar/diplomirana biokemičarka
+Q000306	Diplomirani inženjer/diplomirana inženjerka medicinske biokemije
+Q000307	Diplomirani tehnolog/diplomirana tehnologinja peradarstva
+Q000308	Agronom/agronomka savjetodavne službe
+Q000309	Diplomirani inženjer/diplomirana inženjerka šumarstva
+Q000310	Istraživač agronom/istraživačica agronomka
+Q000311	Samostalni istraživač agronom/samostalna istraživačica agronomka
+Q000312	Doktor/doktorica opće medicine
+Q000313	Doktor/doktorica obiteljske medicine
+Q000314	Doktor/doktorica medicine rada
+Q000315	Doktor medicine internist/doktorica medicine internistica
+Q000316	Doktor medicine pneumoftizeolog/doktorica medicine pneumoftizeologinja
+Q000317	Doktor medicine infektolog/doktorica medicine infektologinja
+Q000318	Doktor medicine neurolog/doktorica medicine neurologinja
+Q000319	Doktor medicine psihijatar/doktorica medicine psihijatrica
+Q000320	Doktor medicine neuropsihijatar/doktorica medicine neuropsihijatrica
+Q000321	Doktor medicine dermatolog i venerolog/doktorica medicine dermatologinja i venerologinja
+Q000322	Doktor medicine dermatolog/doktorica medicine dermatologinja
+Q000323	Doktor medicine pedijatar/doktorica medicine pedijatrica
+Q000324	Doktor medicine opći kirurg/doktorica medicine opća kirurginja
+Q000325	Doktor medicine neurokirurg/doktorica medicine neurokirurginja
+Q000326	Doktor medicine dječji kirurg/doktorica medicine dječja kirurginja
+Q000327	Doktor medicine maksilofacijalni kirurg/doktorica medicine maksilofacijalna kirurginja
+Q000328	Doktor medicine urolog/doktorica medicine urologinja
+Q000329	Doktor medicine ortoped/doktorica medicine ortopedica
+Q000330	Doktor medicine otorinolaringolog/doktorica medicine otorinolaringologinja
+Q000331	Doktor medicine oftalmolog/doktorica medicine oftalmologinja
+Q000332	Doktor medicine ginekolog i opstetričar/doktorica medicine ginekologinja i opstetričarka
+Q000333	Doktor medicine anesteziolog i reanimatolog/doktorica medicine anesteziologinja i reanimatologinja
+Q000334	Doktor medicine transfuziolog/doktorica medicine transfuziologinja
+Q000335	Doktor medicine radiolog/doktorica medicine radiologinja
+Q000336	Doktor medicine radioterapeut/doktorica medicine radioterapeutkinja
+Q000337	Doktor medicine radioterapeut i onkolog/doktorica medicine radioterapeutkinja i onkologinja
+Q000338	Doktor/doktorica nuklearne medicine
+Q000339	Doktor/doktorica fizikalne medicine i rehabilitacije
+Q000340	Doktor/doktorica medicinske mikrobiologije s parazitologijom
+Q000341	Doktor medicine klinički citolog/doktorica medicine klinička citologinja
+Q000342	Doktor/doktorica sudske medicine
+Q000343	Doktor medicine klinički farmakolog/doktorica medicine klinička farmakologinja
+Q000344	Doktor medicine klinički farmakolog i toksikolog/doktorica medicine klinička farmakologinja i toksikologinja
+Q000345	Doktor/doktorica socijalne medicine
+Q000346	Doktor/doktorica javnog zdravstva
+Q000347	Doktor medicine epidemiolog/doktorica medicine epidemiologinja
+Q000348	Doktor/doktorica obiteljske stomatologije
+Q000349	Doktor/doktorica dječje i preventivne stomatologije
+Q000350	Doktor stomatologije ortodont/doktorica stomatologije ortodontica
+Q000351	Doktor stomatologije parodontolog/doktorica stomatologije parodontologinja
+Q000352	Doktor stomatologije protetičar/doktorica stomatologije protetičarka
+Q000353	Doktor stomatologije oralni kirurg/doktorica stomatologije oralna kirurginja
+Q000354	Doktor stomatologije oralni patolog/doktorica stomatologije oralna patologinja
+Q000355	Doktor/doktorica stomatologije
+Q000356	Veterinar/veterinarka
+Q000357	Veterinar/veterinarka kućnih ljubimaca
+Q000358	Magistar/magistra farmacije
+Q000359	Magistar/magistra farmacije za ljekovito bilje
+Q000360	Magistar/magistra farmacije na ispitivanju i kontroli lijekova
+Q000361	Magistar/magistra farmacije u veleprodaji
+Q000362	Predavač/predavačica filozofije
+Q000363	Sveučilišni asistent/sveučilišna asistentica filozofije
+Q000364	Sveučilišni profesor/sveučilišna profesorica filozofije
+Q000365	Predavač/predavačica povijesti
+Q000366	Sveučilišni asistent/sveučilišna asistentica povijesti
+Q000367	Sveučilišni profesor/sveučilišna profesorica povijesti
+Q000368	Predavač/predavačica arheologije
+Q000369	Sveučilišni asistent/sveučilišna asistentica arheologije
+Q000370	Sveučilišni profesor/sveučilišna profesorica arheologije
+Q000371	Predavač/predavačica etnologije
+Q000372	Sveučilišni asistent/sveučilišna asistentica etnologije
+Q000373	Sveučilišni profesor/sveučilišna profesorica etnologije
+Q000374	Predavač/predavačica filologije
+Q000375	Sveučilišni asistent/sveučilišna asistentica filologije
+Q000376	Sveučilišni profesor/sveučilišna profesorica filologije
+Q000377	Predavač/predavačica pedagogije
+Q000378	Sveučilišni profesor/sveučilišna profesorica pedagogije
+Q000379	Predavač/predavačica psihologije
+Q000380	Sveučilišni asistent/sveučilišna asistentica psihologije
+Q000381	Sveučilišni profesor/sveučilišna profesorica psihologije
+Q000382	Predavač/predavačica sociologije
+Q000383	Sveučilišni asistent/sveučilišna asistentica sociologije
+Q000384	Sveučilišni profesor/sveučilišna profesorica sociologije
+Q000385	Predavač/predavačica prava
+Q000386	Sveučilišni profesor/sveučilišna profesorica prava
+Q000387	Predavač/predavačica ekonomije
+Q000388	Sveučilišni asistent/sveučilišna asistentica ekonomije
+Q000389	Sveučilišni profesor/sveučilišna profesorica ekonomije
+Q000390	Predavač/predavačica politologije
+Q000391	Sveučilišni asistent/sveučilišna asistentica politologije
+Q000392	Sveučilišni profesor/sveučilišna profesorica politologije
+Q000393	Predavač/predavačica defektologije
+Q000394	Sveučilišni profesor/sveučilišna profesorica defektologije
+Q000395	Predavač/predavačica socijalnog rada
+Q000396	Sveučilišni asistent/sveučilišna asistentica socijalnog rada
+Q000397	Sveučilišni profesor/sveučilišna profesorica socijalnog rada
+Q000398	Predavač/predavačica organizacijskih znanosti
+Q000399	Sveučilišni profesor/sveučilišna profesorica organizacijskih znanosti
+Q000400	Predavač/predavačica informacijskih znanosti
+Q000401	Sveučilišni asistent/sveučilišna asistentica informacijskih znanosti
+Q000402	Sveučilišni profesor/sveučilišna profesorica informacijskih znanosti
+Q000403	Predavač/predavačica glazbenih umjetnosti
+Q000404	Sveučilišni asistent/sveučilišna asistentica glazbenih umjetnosti
+Q000405	Sveučilišni profesor/sveučilišna profesorica glazbenih umjetnosti
+Q000406	Predavač/predavačica likovnih umjetnosti
+Q000407	Sveučilišni asistent/sveučilišna asistentica likovnih umjetnosti
+Q000408	Sveučilišni profesor/sveučilišna profesorica likovnih umjetnosti
+Q000409	Sveučilišni asistent/sveučilišna asistentica primijenjenih umjetnosti
+Q000410	Sveučilišni profesor/sveučilišna profesorica primijenjenih umjetnosti
+Q000411	Predavač/predavačica scenskih umjetnosti
+Q000412	Sveučilišni asistent/sveučilišna asistentica scenskih umjetnosti
+Q000413	Sveučilišni profesor/sveučilišna profesorica scenskih umjetnosti
+Q000414	Sveučilišni asistent/sveučilišna asistentica kineziologije
+Q000415	Sveučilišni profesor/sveučilišna profesorica kineziologije
+Q000416	Sveučilišni asistent/sveučilišna asistentica kriminalistike
+Q000417	Sveučilišni profesor/sveučilišna profesorica kriminalistike
+Q000418	Predavač/predavačica društveno-humanističkih znanosti
+Q000419	Sveučilišni asistent/sveučilišna asistentica društveno-humanističkih znanosti
+Q000420	Sveučilišni profesor/sveučilišna profesorica društveno-humanističkih znanosti
+Q000421	Predavač/predavačica matematike
+Q000422	Predavač/predavačica fizike
+Q000423	Predavač/predavačica astronomije
+Q000424	Predavač/predavačica mehanike
+Q000425	Predavač/predavačica kemije
+Q000426	Predavač/predavačica biologije
+Q000427	Predavač/predavačica geologije
+Q000428	Sveučilišni asistent/sveučilišna asistentica matematike
+Q000429	Sveučilišni asistent/sveučilišna asistentica fizike
+Q000430	Sveučilišni asistent/sveučilišna asistentica geofizike
+Q000431	Sveučilišni asistent/sveučilišna asistentica astronomije
+Q000432	Sveučilišni asistent/sveučilišna asistentica mehanike
+Q000433	Sveučilišni asistent/sveučilišna asistentica kemije
+Q000434	Sveučilišni asistent/sveučilišna asistentica geografije
+Q000435	Sveučilišni profesor/sveučilišna profesorica matematike
+Q000436	Sveučilišni profesor/sveučilišna profesorica fizike
+Q000437	Sveučilišni profesor/sveučilišna profesorica geofizike
+Q000438	Sveučilišni profesor/sveučilišna profesorica astronomije
+Q000439	Sveučilišni profesor/sveučilišna profesorica mehanike
+Q000440	Sveučilišni profesor/sveučilišna profesorica kemije
+Q000441	Sveučilišni profesor/sveučilišna profesorica biologije
+Q000442	Sveučilišni profesor/sveučilišna profesorica geografije
+Q000443	Sveučilišni profesor/sveučilišna profesorica geologije
+Q000444	Sveučilišni profesor/sveučilišna profesorica prirodnih znanosti
+Q000445	Predavač/predavačica medicine
+Q000446	Predavač/predavačica stomatologije
+Q000447	Predavač/predavačica veterine
+Q000448	Predavač/predavačica farmacije
+Q000449	Sveučilišni asistent/sveučilišna asistentica medicine
+Q000450	Sveučilišni asistent/sveučilišna asistentica stomatologije
+Q000451	Sveučilišni asistent/sveučilišna asistentica medicinske biokemije
+Q000452	Sveučilišni profesor/sveučilišna profesorica medicine
+Q000453	Sveučilišni profesor/sveučilišna profesorica stomatologije
+Q000454	Sveučilišni profesor/sveučilišna profesorica veterine
+Q000455	Sveučilišni profesor/sveučilišna profesorica farmacije
+Q000456	Sveučilišni profesor/sveučilišna profesorica medicinske biokemije
+Q000457	Predavač/predavačica rudarstva
+Q000458	Sveučilišni asistent/sveučilišna asistentica rudarstva
+Q000459	Sveučilišni profesor/sveučilišna profesorica rudarstva
+Q000460	Predavač/predavačica metalurgije
+Q000461	Sveučilišni asistent/sveučilišna asistentica metalurgije
+Q000462	Sveučilišni profesor/sveučilišna profesorica metalurgije
+Q000463	Predavač/predavačica strojarstva
+Q000464	Sveučilišni asistent/sveučilišna asistentica strojarstva
+Q000465	Sveučilišni profesor/sveučilišna profesorica strojarstva
+Q000466	Sveučilišni asistent/sveučilišna asistentica brodogradnje
+Q000467	Sveučilišni profesor/sveučilišna profesorica brodogradnje
+Q000468	Sveučilišni asistent/sveučilišna asistentica elektrotehnike
+Q000469	Sveučilišni profesor/sveučilišna profesorica elektrotehnike
+Q000470	Predavač/predavačica računalstva
+Q000471	Sveučilišni profesor/sveučilišna profesorica računalstva
+Q000472	Sveučilišni asistent/sveučilišna asistentica kemijskog inženjerstva i tehnologije
+Q000473	Sveučilišni profesor/sveučilišna profesorica kemijskog inženjerstva i tehnologije
+Q000474	Predavač/predavačica grafičke tehnologije
+Q000475	Sveučilišni profesor/sveučilišna profesorica grafičke tehnologije
+Q000476	Predavač/predavačica tekstilne tehnologije
+Q000477	Sveučilišni profesor/sveučilišna profesorica tekstilne tehnologije
+Q000478	Predavač/predavačica arhitekture i urbanizma
+Q000479	Sveučilišni asistent/sveučilišna asistentica arhitekture i urbanizma
+Q000480	Sveučilišni profesor/sveučilišna profesorica arhitekture i urbanizma
+Q000481	Predavač/predavačica građevinarstva
+Q000482	Sveučilišni asistent/sveučilišna asistentica građevinarstva
+Q000483	Sveučilišni profesor/sveučilišna profesorica građevinarstva
+Q000484	Predavač/predavačica geodezije
+Q000485	Sveučilišni profesor/sveučilišna profesorica geodezije
+Q000486	Predavač/predavačica prometa
+Q000487	Sveučilišni asistent/sveučilišna asistentica prometa
+Q000488	Sveučilišni profesor/sveučilišna profesorica prometa
+Q000489	Predavač/predavačica zaštite na radu
+Q000490	Sveučilišni asistent/sveučilišna asistentica zaštite na radu
+Q000491	Sveučilišni profesor/sveučilišna profesorica zaštite na radu
+Q000492	Predavač/predavačica dizajna
+Q000493	Sveučilišni asistent/sveučilišna asistentica dizajna
+Q000494	Sveučilišni profesor/sveučilišna profesorica dizajna
+Q000495	Predavač/predavačica tehničko-tehnoloških znanosti
+Q000496	Sveučilišni asistent/sveučilišna asistentica tehničko-tehnoloških znanosti
+Q000497	Sveučilišni profesor/sveučilišna profesorica tehničko-tehnoloških znanosti
+Q000498	Predavač/predavačica biotehnologije i prehrambene tehnologije
+Q000499	Predavač/predavačica agronomije
+Q000500	Predavač/predavačica ugostiteljstva i turizma
+Q000501	Predavač/predavačica šumarstva
+Q000502	Predavač/predavačica tehnologije drva
+Q000503	Sveučilišni asistent/sveučilišna asistentica biotehnologije i prehrambene tehnologije
+Q000504	Sveučilišni asistent/sveučilišna asistentica agronomije
+Q000505	Sveučilišni asistent/sveučilišna asistentica ugostiteljstva i turizma
+Q000506	Sveučilišni asistent/sveučilišna asistentica tehnologije drva
+Q000507	Sveučilišni asistent/sveučilišna asistentica biotehničkih znanosti
+Q000508	Sveučilišni profesor/sveučilišna profesorica biotehnologije i prehrambene tehnologije
+Q000509	Sveučilišni profesor/sveučilišna profesorica agronomije
+Q000510	Sveučilišni profesor/sveučilišna profesorica ugostiteljstva i turizma
+Q000511	Sveučilišni profesor/sveučilišna profesorica šumarstva
+Q000512	Sveučilišni profesor/sveučilišna profesorica tehnologije drva
+Q000513	Sveučilišni profesor/sveučilišna profesorica biotehničkih znanosti
+Q000514	Predavač/predavačica teologije
+Q000515	Sveučilišni asistent/sveučilišna asistentica teologije
+Q000516	Profesor/profesorica hrvatskog jezika
+Q000517	Profesor/profesorica engleskog jezika
+Q000518	Profesor/profesorica njemačkog jezika
+Q000519	Profesor/profesorica francuskog jezika
+Q000520	Profesor/profesorica talijanskog jezika
+Q000521	Profesor/profesorica latinskog jezika
+Q000522	Profesor/profesorica grčkog jezika
+Q000523	Profesor/profesorica mađarskog jezika
+Q000524	Profesor/profesorica španjolskog jezika
+Q000525	Profesor/profesorica slovenskog jezika
+Q000526	Profesor/profesorica romskog jezika
+Q000527	Profesor/profesorica rusinskog jezika
+Q000528	Profesor/profesorica češkog jezika
+Q000529	Profesor/profesorica slovačkog jezika
+Q000530	Profesor/profesorica poljskog jezika
+Q000531	Profesor/profesorica srpskog jezika
+Q000532	Profesor/profesorica albanskog jezika
+Q000533	Profesor/profesorica ruskog jezika
+Q000534	Profesor/profesorica stranog jezika
+Q000535	Profesor/profesorica filozofije
+Q000536	Profesor/profesorica logike
+Q000537	Profesor/profesorica povijesti
+Q000538	Profesor/profesorica pedagogije
+Q000539	Profesor/profesorica psihologije
+Q000540	Profesor/profesorica sociologije
+Q000541	Profesor/profesorica pravnih predmeta
+Q000542	Profesor/profesorica ekonomskih predmeta
+Q000543	Profesor/profesorica birotehničkih predmeta
+Q000544	Profesor/profesorica trgovinskih predmeta
+Q000545	Profesor/profesorica glazbenih predmeta
+Q000546	Profesor/profesorica likovnih predmeta
+Q000547	Profesor/profesorica scenskih predmeta
+Q000548	Profesor/profesorica baleta i plesa
+Q000549	Profesor/profesorica tjelesne i zdravstvene kulture
+Q000550	Profesor/profesorica matematike
+Q000551	Profesor/profesorica informatike
+Q000552	Profesor/profesorica fizike
+Q000553	Profesor/profesorica astronomije
+Q000554	Profesor/profesorica mehanike
+Q000555	Profesor/profesorica kemije
+Q000556	Profesor/profesorica biologije
+Q000557	Profesor/profesorica geologije
+Q000558	Profesor/profesorica geografije
+Q000559	Profesor/profesorica osnovnih i socijalnih medicinskih znanosti
+Q000560	Profesor/profesorica kliničkih medicinskih znanosti
+Q000561	Profesor/profesorica fizioterapije
+Q000562	Profesor/profesorica stomatoloških predmeta
+Q000563	Profesor/profesorica farmaceutskih predmeta
+Q000564	Profesor/profesorica medicinsko-biokemijskih predmeta
+Q000565	Profesor/profesorica ratarstva i povrtlarstva
+Q000566	Profesor/profesorica stočarstva
+Q000567	Profesor/profesorica prerade mlijeka
+Q000568	Profesor/profesorica ugostiteljstva i turizma
+Q000569	Profesor/profesorica šumarstva
+Q000570	Profesor/profesorica tehnologije drva
+Q000571	Profesor/profesorica rudarstva
+Q000572	Profesor/profesorica metalurgije
+Q000573	Profesor/profesorica strojarske energetike
+Q000574	Profesor/profesorica strojarstva
+Q000575	Profesor/profesorica brodogradnje
+Q000576	Profesor/profesorica elektrotehnike
+Q000577	Profesor/profesorica računalstva
+Q000578	Profesor/profesorica kemijske tehnologije
+Q000579	Profesor/profesorica gumarske tehnologije
+Q000580	Profesor/profesorica plastičarske tehnologije
+Q000581	Profesor/profesorica staklarske tehnologije
+Q000582	Profesor/profesorica keramičarske tehnologije
+Q000583	Profesor/profesorica tehnologije papira
+Q000584	Profesor/profesorica tekstilne tehnologije
+Q000585	Profesor/profesorica konfekcijske tehnologije
+Q000586	Profesor/profesorica kožarsko-krznarske tehnologije
+Q000587	Profesor/profesorica obućarske i kožno-galanterijske tehnologije
+Q000588	Profesor/profesorica restauracije i gradnje glazbala
+Q000589	Profesor/profesorica arhitekture
+Q000590	Profesor/profesorica građevinarstva
+Q000591	Profesor/profesorica geodezije
+Q000592	Profesor/profesorica cestovnog prometa
+Q000593	Profesor/profesorica željezničkog prometa
+Q000594	Profesor/profesorica zrakoplovnog prometa
+Q000595	Profesor/profesorica pomorskog prometa
+Q000596	Profesor/profesorica riječnog prometa
+Q000597	Profesor/profesorica pt prometa
+Q000598	Profesor/profesorica unutrašnjeg prometa
+Q000599	Profesor/profesorica zaštite na radu
+Q000600	Profesor/profesorica protupožarne zaštite
+Q000601	Profesor/profesorica praktične nastave
+Q000602	Diplomirani vjeroučitelj/diplomirana vjeroučiteljica
+Q000603	Razredni učitelj/razredna učiteljica
+Q000604	Učitelj/učiteljica hrvatskog jezika
+Q000605	Učitelj/učiteljica engleskog jezika
+Q000606	Učitelj/učiteljica njemačkog jezika
+Q000607	Učitelj/učiteljica francuskog jezika
+Q000608	Učitelj/učiteljica talijanskog jezika
+Q000609	Učitelj/učiteljica grčkog jezika
+Q000610	Učitelj/učiteljica mađarskog jezika
+Q000611	Učitelj/učiteljica slovenskog jezika
+Q000612	Učitelj/učiteljica romskog jezika
+Q000613	Učitelj/učiteljica rusinskog jezika
+Q000614	Učitelj/učiteljica češkog jezika
+Q000615	Učitelj/učiteljica slovačkog jezika
+Q000616	Učitelj/učiteljica srpskog jezika
+Q000617	Učitelj/učiteljica albanskog jezika
+Q000618	Učitelj/učiteljica ruskog jezika
+Q000619	Učitelj/učiteljica povijesti
+Q000620	Učitelj/učiteljica zemljopisa
+Q000621	Učitelj/učiteljica glazbene kulture
+Q000622	Učitelj/učiteljica likovne kulture
+Q000623	Učitelj/učiteljica tjelesne i zdravstvene kulture
+Q000624	Učitelj/učiteljica tehničke kulture
+Q000625	Učitelj/učiteljica matematike
+Q000626	Učitelj/učiteljica informatike
+Q000627	Učitelj/učiteljica fizike
+Q000628	Učitelj/učiteljica kemije
+Q000629	Učitelj/učiteljica biologije
+Q000630	Učitelj/učiteljica predškolske djece
+Q000631	Učitelj/učiteljica osoba s oštećenjem vida
+Q000632	Učitelj/učiteljica osoba s oštećenjem sluha
+Q000633	Učitelj/učiteljica mentalno retardiranih osoba
+Q000634	Učitelj/učiteljica tjelesno invalidnih osoba
+Q000635	Učitelj/učiteljica osoba s poremećajima u ponašanju
+Q000636	Specijalist/specijalistica metodike u obrazovnim područjima
+Q000637	Specijalist/specijalistica za razvoj odgojno-obrazovnog programa
+Q000638	Specijalist/specijalistica za obrazovne tehnologije
+Q000639	Istraživač/istraživačica odgojnih znanosti
+Q000640	Samostalni istraživač/samostalna istraživačica odgojnih znanosti
+Q000641	Ovlašteni revizor/ovlaštena revizorica
+Q000642	Porezni savjetnik/porezna savjetnica
+Q000643	Interni revizor/interna revizorica
+Q000644	Voditelj/voditeljica kadrovskih poslova
+Q000645	Analitičar/analitičarka zanimanja
+Q000646	Organizator/organizatorica obrazovanja odraslih
+Q000647	Organizator/organizatorica poslovnih priredaba
+Q000648	Analitičar/analitičarka istraživanja tržišta
+Q000649	Oglašivač/oglašivačica
+Q000650	Glasnogovornik/glasnogovornica
+Q000651	Savjetnik/savjetnica za patente
+Q000652	Savjetnik/savjetnica za poduzetništvo
+Q000653	Organizator/organizatorica rada
+Q000654	Savjetnik/savjetnica za nekretnine
+Q000655	Savjetnik/savjetnica za ekonomiku kućanstva
+Q000656	Odvjetnik/odvjetnica
+Q000657	Državni odvjetnik/državna odvjetnica
+Q000658	Državni pravobranitelj/državna pravobraniteljica
+Q000659	Predsjednik/predsjednica županijskog suda
+Q000660	Predsjednik/predsjednica trgovačkog suda
+Q000661	Predsjednik/predsjednica općinskog suda
+Q000662	Predsjednik/predsjednica prekršajnog suda
+Q000663	Sudac/sutkinja Ustavnog suda
+Q000664	Sudac/sutkinja Vrhovnog suda
+Q000665	Sudac/sutkinja Upravnog suda
+Q000666	Sudac/sutkinja Visokoga trgovačkog suda
+Q000667	Sudac/sutkinja Visokoga prekršajnog suda
+Q000668	Sudac/sutkinja županijskog suda
+Q000669	Sudac/sutkinja trgovačkog suda
+Q000670	Sudac/sutkinja općinskog suda
+Q000671	Sudac/sutkinja prekršajnog suda
+Q000672	Voditelj/voditeljica općih poslova
+Q000673	Tajnik/tajnica kabineta čelnika/dužnosnika
+Q000674	Javni bilježnik/javna bilježnica
+Q000675	Arhivist/arhivistica
+Q000676	Kustos/kustosica
+Q000677	Muzejski pedagog/muzejska pedagoginja
+Q000678	Diplomirani knjižničar/diplomirana knjižničarka
+Q000679	Istraživač knjižničar/istraživačica knjižničarka
+Q000680	Samostalni istraživač knjižničar/samostalna istraživačica knjižničarka
+Q000681	Informacijski stručnjak/informacijska stručnjakinja
+Q000682	Samostalni informacijski istraživač/samostalna informacijska istraživačica
+Q000683	Diplomirani ekonomist/diplomirana ekonomistica za financije
+Q000684	Diplomirani ekonomist/diplomirana ekonomistica za marketing
+Q000685	Diplomirani ekonomist/diplomirana ekonomistica hotelijerstva
+Q000686	Diplomirani ekonomist/diplomirana ekonomistica menadžmenta
+Q000687	Diplomirani ekonomist/diplomirana ekonomistica za carinske poslove
+Q000688	Diplomirani agroekonomist/diplomirana agroekonomistica
+Q000689	Diplomirani ekonomist/diplomirana ekonomistica za analize i planiranje
+Q000690	Diplomirani ekonomist/diplomirana ekonomistica platnog prometa
+Q000691	Diplomirani ekonomist/diplomirana ekonomistica kreditno-garantnih poslova
+Q000692	Diplomirani ekonomist/diplomirana ekonomistica za devizno poslovanje
+Q000693	Voditelj/voditeljica trgovanja novcem i vrijednosnicama
+Q000694	Investicijski savjetnik/investicijska savjetnica
+Q000695	Samostalni istraživač/samostalna istraživačica ekonomskih znanosti
+Q000696	Diplomirani ekonomist/diplomirana ekonomistica
+Q000697	Diplomirani kroatolog/diplomirana kroatologinja
+Q000698	Diplomirani sociolog/diplomirana sociologinja
+Q000699	Istraživač sociolog/istraživačica sociologinja
+Q000700	Samostalni istraživač sociolog/samostalna istraživačica sociologinja
+Q000701	Istraživač antropolog/istraživačica antropologinja
+Q000702	Samostalni istraživač antropolog/samostalna istraživačica antropologinja
+Q000703	Diplomirani arheolog/diplomirana arheologinja
+Q000704	Istraživač arheolog/istraživačica arheologinja
+Q000705	Samostalni istraživač arheolog/samostalna istraživačica arheologinja
+Q000706	Diplomirani etnolog/diplomirana etnologinja
+Q000707	Samostalni istraživač etnolog/samostalna istraživačica etnologinja
+Q000708	Diplomirani geograf/diplomirana geografkinja
+Q000709	Istraživač geograf/istraživačica geografkinja
+Q000710	Samostalni istraživač geograf/samostalna istraživačica geografkinja
+Q000711	Diplomirani komunikolog/diplomirana komunikologinja
+Q000712	Istraživač komunikolog/istraživačica komunikologinja
+Q000713	Samostalni istraživač komunikolog/samostalna istraživačica komunikologinja
+Q000714	Diplomirani penolog/diplomirana penologinja
+Q000715	Diplomirani filozof/diplomirana filozofkinja
+Q000716	Istraživač/istraživačica filozofije
+Q000717	Samostalni istraživač/samostalna istraživačica filozofije
+Q000718	Diplomirani politolog/diplomirana politologinja
+Q000719	Istraživač/istraživačica politologije
+Q000720	Samostalni istraživač/samostalna istraživačica politologije
+Q000721	Diplomirani povjesničar/diplomirana povjesničarka
+Q000722	Istraživač/istraživačica povijesti
+Q000723	Samostalni istraživač/samostalna istraživačica povijesti
+Q000724	Diplomirani povjesničar/diplomirana povjesničarka umjetnosti
+Q000725	Leksikograf/leksikografkinja
+Q000726	Diplomirani indolog/diplomirana indologinja
+Q000727	Diplomirani hungarolog/diplomirana hungarologinja
+Q000728	Diplomirani turkolog/diplomirana turkologinja
+Q000729	Psiholog/psihologinja rada
+Q000730	Školski psiholog/školska psihologinja
+Q000731	Klinički psiholog/klinička psihologinja
+Q000732	Sportski psiholog/sportska psihologinja
+Q000733	Istraživač psiholog/istraživačica psihologinja
+Q000734	Samostalni istraživač psiholog/samostalna istraživačica psihologinja
+Q000735	Diplomirani socijalni radnik/diplomirana socijalna radnica u centru
+Q000736	Diplomirani socijalni radnik/diplomirana socijalna radnica u zdravstvu
+Q000737	Novinar/novinarka
+Q000738	Korektor/korektorica u izdavaštvu
+Q000739	Književnik/književnica
+Q000740	Dramaturg/dramaturginja
+Q000741	Tehnički pisac
+Q000742	Pisac reklamnih poruka
+Q000743	Recenzent/recenzentica
+Q000744	Moderator/moderatorica
+Q000745	Akademski slikar/akademska slikarica
+Q000746	Akademski grafičar/akademska grafičarka
+Q000747	Akademski kipar/akademska kiparica
+Q000748	Slikar naivac/slikarica naivka
+Q000749	Kipar naivac/kiparica naivka
+Q000750	Tapiserist/tapiseristica
+Q000751	Akademski keramičar/akademska keramičarka
+Q000752	Akademski dirigent/akademska dirigentica
+Q000753	Akademski skladatelj/akademska skladateljica
+Q000754	Akademski muzikolog/akademska muzikologinja
+Q000755	Akademski klavirist/akademska klaviristica
+Q000756	Akademski orguljaš/akademska orguljašica
+Q000757	Akademski harfist/akademska harfistica
+Q000758	Akademski violinist/akademska violinistica
+Q000759	Akademski violist/akademska violistica
+Q000760	Akademski violončelist/akademska violončelistica
+Q000761	Akademski kontrabasist/akademska kontrabasistica
+Q000762	Akademski gitarist/akademska gitaristica
+Q000763	Akademski flautist/akademska flautistica
+Q000764	Akademski oboist/akademska oboistica
+Q000765	Akademski klarinetist/akademska klarinetistica
+Q000766	Akademski saksofonist/akademska saksofonistica
+Q000767	Akademski fagotist/akademska fagotistica
+Q000768	Akademski rogist/akademska rogistica
+Q000769	Akademski trubljač/akademska trubljačica
+Q000770	Akademski trombonist/akademska trombonistica
+Q000771	Akademski tubist/akademska tubistica
+Q000772	Akademski udaraljkaš/akademska udaraljkašica
+Q000773	Akademski crkveni glazbenik/akademska crkvena glazbenica
+Q000774	Korepetitor/korepetitorica
+Q000775	Akademski folklorni glazbenik/akademska folklorna glazbenica
+Q000776	Akademski instrumentalist/akademska instrumentalistica
+Q000777	Sopran solistica
+Q000778	Mezosopran solistica
+Q000779	Alt solistica
+Q000780	Bariton solist
+Q000781	Bas solist
+Q000782	Akademski solopjevač/akademska solopjevačica
+Q000783	Redatelj/redateljica operne predstave
+Q000784	Inspicijent/inspicijentica opere
+Q000785	Plesač/plesačica klasičnog baleta
+Q000786	Plesač/plesačica suvremenog plesa
+Q000787	Koreograf/koreografkinja
+Q000788	Glumac/glumica
+Q000789	Redatelj/redateljica
+Q000790	Biskup
+Q000791	Episkop
+Q000792	Imam
+Q000793	Poglavar/poglavarica redovničke zajednice
+Q000794	Svećenik/svećenica
+Q000795	Redovnik/redovnica
+Q000796	Diplomirani teolog/diplomirana teologinja
+Q000797	Pastor
+Q000798	Rabin
+Q000799	Carinski inspektor/carinska inspektorica
+Q000800	Devizni inspektor/devizna inspektorica
+Q000801	Državni inspektor/državna inspektorica za poštu
+Q000802	Državni inspektor/državna inspektorica za telekomunikacije
+Q000803	Državni revizor/državna revizorica
+Q000804	Elektroenergetski inspektor/elektroenergetska inspektorica
+Q000805	Inspektor/inspektorica financijske policije
+Q000806	Lovni inspektor/lovna inspektorica
+Q000807	Inspektor/inspektorica parnih kotlova
+Q000808	Poljoprivredni inspektor/poljoprivredna inspektorica
+Q000809	Porezni inspektor/porezna inspektorica
+Q000810	Inspektor/inspektorica postrojenja pod tlakom
+Q000811	Prosvjetni inspektor/prosvjetna inspektorica
+Q000812	Ribarski inspektor/ribarska inspektorica za morsko ribarstvo
+Q000813	Ribarski inspektor/ribarska inspektorica vanjskoga ribolovnog mora
+Q000814	Rudarski inspektor/rudarska inspektorica
+Q000815	Šumski inspektor/šumska inspektorica
+Q000816	Turistički inspektor/turistička inspektorica
+Q000817	Inspektor/inspektorica uređaja s radioaktivnim zračenjem
+Q000818	Vodoprivredni inspektor/vodoprivredna inspektorica
+Q000819	Inspektor/inspektorica za nadzor predmeta od plemenitih kovina
+Q000820	Inspektor/inspektorica za nadzor mjernih jedinica
+Q000821	Inspektor/inspektorica za slatkovodno ribarstvo
+Q000822	Inspektor/inspektorica zaštite od požara
+Q000823	Inspektor/inspektorica zaštite okoliša
+Q000824	Zdravstveni inspektor/zdravstvena inspektorica
+Q000825	Inspektor/inspektorica zrakoplovstva
+Q000826	Inspektor/inspektorica pravosudne policije
+Q000827	Proračunski inspektor/proračunska inspektorica
+Q000828	Inspektor/inspektorica državne uprave, p.n.
+Q000829	Prehrambenokemijski laborant/prehrambenokemijska laborantica
+Q000830	Kemijski inženjer analitičar/kemijska inženjerka analitičarka
+Q000831	Kemijski tehničar/kemijska tehničarka analitičkih sustava
+Q000832	Kemijski tehničar/kemijska tehničarka anorganskih sustava
+Q000833	Kemijski tehničar/kemijska tehničarka organskih sustava
+Q000834	Tehničar/tehničarka radioloških sustava
+Q000835	Tehničar/tehničarka farmaceutskih sustava
+Q000836	Kemijski tehničar/kemijska tehničarka
+Q000837	Astronomski tehničar/astronomska tehničarka
+Q000838	Meteorološki tehničar/meteorološka tehničarka
+Q000839	Meteorološki inženjer/meteorološka inženjerka
+Q000840	Hidrološki tehničar/hidrološka tehničarka
+Q000841	Hidrološki inženjer/hidrološka inženjerka
+Q000842	Fizikalni tehničar/fizikalna tehničarka
+Q000843	Tehničar/tehničarka geološkog istraživanja ležišta
+Q000844	Inženjer/inženjerka naftne geologije
+Q000845	Geološki tehničar/geološka tehničarka
+Q000846	Inženjer/inženjerka geofizičkih istraživanja
+Q000847	Gravimetrijski i magnetometrijski tehničar/gravimetrijska i magnetometrijska tehničarka
+Q000848	Tehničar/tehničarka geoelektričnih mjerenja
+Q000849	Tehničar/tehničarka obrade geofizičkih podataka
+Q000850	Tehničar/tehničarka interpretacije geofizičkih podataka
+Q000851	Geofizički tehničar/geofizička tehničarka
+Q000852	Projektant/projektantica visokogradnje
+Q000853	Projektant/projektantica hidrogradnje
+Q000854	Prostorni planer/prostorna planerka
+Q000855	Prostorni projektant/prostorna projektantica
+Q000856	Inženjer voditelj/inženjerka voditeljica gradnje prometnica
+Q000857	Inženjer voditelj/inženjerka voditeljica radova visokogradnje
+Q000858	Voditelj/voditeljica asfaltirnice
+Q000859	Tehnički crtač/tehnička crtačica za arhitekturu
+Q000860	Tehnički crtač/tehnička crtačica za građevinarstvo
+Q000861	Građevinski tehničar razrađivač/građevinska tehničarka razrađivačica projekta
+Q000862	Građevinski tehničar/građevinska tehničarka visokogradnje
+Q000863	Građevinski inženjer/građevinska inženjerka
+Q000864	Građevinski poslovođa/građevinska poslovotkinja
+Q000865	Kartograf/kartografkinja
+Q000866	Geodetski inženjer/geodetska inženjerka za pregled i ovjeru elaborata
+Q000867	Geodetski inženjer/geodetska inženjerka za katastar vodova
+Q000868	Geodetski inženjer/geodetska inženjerka za urbanističku regulativu
+Q000869	Geodetski tehničar/geodetska tehničarka za katastar
+Q000870	Geodetski tehničar/geodetska tehničarka za evidenciju državnog vlasništva
+Q000871	Geodetski inženjer/geodetska inženjerka za evidenciju prostornih jedinica
+Q000872	Geodetski tehničar/geodetska tehničarka hidrografije
+Q000873	Geodetski tehničar/geodetska tehničarka
+Q000874	Voditelj/voditeljica rudarskoga katastra
+Q000875	Tehničar rudarski mjernik/tehničarka rudarska mjernica
+Q000876	Tehnički geodetski crtač/tehnička geodetska crtačica
+Q000877	Elektrotehničar/elektrotehničarka za proizvodnju električne energije
+Q000878	Elektroinženjer/elektroinženjerka za proizvodnju električne energije
+Q000879	Elektrotehničar/elektrotehničarka za distribuciju električne energije
+Q000880	Elektroinženjer/elektroinženjerka za prijenos i distribuciju električne energije
+Q000881	Elektroenergetski inženjer/elektroenergetska inženjerka
+Q000882	Inženjer konstruktor/inženjerka konstruktorica električnih proizvoda
+Q000883	Elektrostrojarski tehničar/elektrostrojarska tehničarka
+Q000884	Elektrostrojarski inženjer/elektrostrojarska inženjerka
+Q000885	Tehničar/tehničarka za proizvodnju elektrotehničkih proizvoda
+Q000886	Inženjer/inženjerka za proizvodnju elektrotehničkih proizvoda
+Q000887	Elektrotehničar/elektrotehničarka proizvoda za kućanstvo
+Q000888	Elektrotehničar/elektrotehničarka za mjerne instrumente i sklopove
+Q000889	Elektroinženjer/elektroinženjerka za mjerne instrumente i sklopove
+Q000890	Elektroinženjer/elektroinženjerka za opremu proizvodnih strojeva
+Q000891	Elektrotehničar/elektrotehničarka za procesnu tehniku
+Q000892	Elektroinženjer/elektroinženjerka za plovila
+Q000893	Elektrotehničar/elektrotehničarka za dizala i transportna sredstva
+Q000894	Elektrotehničar/elektrotehničarka za instalacije i opremu
+Q000895	Tehnički crtač/tehnička crtačica za elektrotehniku
+Q000896	Elektrotehničar/elektrotehničarka
+Q000897	Elektroinženjer/elektroinženjerka
+Q000898	Predradnik/predradnica u elektromontaži i instalacijama
+Q000899	Inženjer/inženjerka za elektroničke proizvode
+Q000900	Tehničar/tehničarka za energetsko-elektroničke uređaje
+Q000901	Tehničar/tehničarka za medicinske elektroničke uređaje
+Q000902	Inženjer/inženjerka za medicinske elektroničke uređaje
+Q000903	Tehničar/tehničarka za uređaje zrakoplovne eletronike
+Q000904	Inženjer/inženjerka za uređaje zrakoplovne eletronike
+Q000905	Tehničar elektroničar/tehničarka elektroničarka za računala
+Q000906	Inženjer elektroničar/inženjerka elektroničarka za računala
+Q000907	Tehničar/tehničarka za zrakoplovne telekomunikacije
+Q000908	Inženjer/inženjerka za zrakoplovne telekomunikacije
+Q000909	Tehničar/tehničarka za brodske telekomunikacije
+Q000910	Tehničar/tehničarka za telekomunikacije
+Q000911	Inženjer/inženjerka za telekomunikacije
+Q000912	Tehničar/tehničarka za radijske i televizijske uređaje
+Q000913	Tehničar/tehničarka elektronike za signalno-zaštitne uređaje
+Q000914	Tehničar/tehničarka elektronike za mjerne i upravljačke uređaje
+Q000915	Inženjer/inženjerka za mjerne i upravljačke uređaje
+Q000916	Tehničar/tehničarka za procesnu automatiku
+Q000917	Inženjer/inženjerka za procesnu automatiku
+Q000918	Tehnički crtač/tehnička crtačica za elektroniku
+Q000919	Tehničar/tehničarka za mehatroniku
+Q000920	Tehničar/tehničarka elektronike
+Q000921	Inženjer/inženjerka elektronike
+Q000922	Predradnik elektroničar/predradnica elektroničarka
+Q000923	Predradnik elektroničar/predradnica elektroničarka u montaži
+Q000924	Konstruktor/konstruktorica cestovnih vozila
+Q000925	Konstruktor/konstruktorica tekstilnih strojeva
+Q000926	Konstruktor/konstruktorica poljoprivrednih strojeva
+Q000927	Konstruktor/konstruktorica šivaćih  strojeva
+Q000928	Konstruktor/konstruktorica dizalica
+Q000929	Konstruktor/konstruktorica turbina
+Q000930	Konstruktor/konstruktorica proizvoda precizne mehanike
+Q000931	Konstruktor/konstruktorica uređaja  za zavarivanje
+Q000932	Konstruktor/konstruktorica tlačnih posuda
+Q000933	Strojarski konstruktor/strojarska konstruktorica
+Q000934	Konstruktor/konstruktorica pripremaka
+Q000935	Konstruktor/konstruktorica strojnih dijelova
+Q000936	Konstruktor/konstruktorica limenih dijelova
+Q000937	Konstruktor/konstruktorica dijelova proizvoda precizne mehanike
+Q000938	Konstruktor/konstruktorica cjevovoda
+Q000939	Strojarski konstruktor detaljist/strojarska konstruktorica detaljistica
+Q000940	Konstruktor/konstruktorica dijelova plovila
+Q000941	Konstruktor/konstruktorica plovila
+Q000942	Tehničar/tehničarka za obradu deformacijom
+Q000943	Tehnolog/tehnologinja za obradu deformacijom
+Q000944	Tehničar/tehničarka za obradu odvajanjem čestica
+Q000945	Tehnolog/tehnologinja za obradu odvajanjem čestica
+Q000946	Tehnolog/tehnologinja za zavarivanje
+Q000947	Strojarski tehničar/strojarska tehničarka za preradu plastičnih masa
+Q000948	Strojarski tehnolog/strojarska tehnologinja za preradu plastičnih masa
+Q000949	Strojarski tehničar/strojarska tehničarka za montažne  postupke
+Q000950	Strojarski tehnolog/strojarska tehnologinja za montažne  postupke
+Q000951	Tehničar/tehničarka za gradnju plovila
+Q000952	Tehnolog/tehnologinja za gradnju plovila
+Q000953	Strojarski tehničar/strojarska tehničarka održavanja procesne opreme
+Q000954	Strojarski tehnolog/strojarska tehnologinja održavanja procesne opreme
+Q000955	Strojarski tehnolog/strojarska tehnologinja održavanja cestovnih vozila
+Q000956	Strojarski tehničar/strojarska tehničarka održavanja pružnih vozila
+Q000957	Strojarski tehnolog/strojarska tehnologinja održavanja pružnih vozila
+Q000958	Strojarski tehnolog/strojarska tehnologinja održavanja proizvodne opreme
+Q000959	Strojarski tehničar/strojarska tehničarka održavanja energetskog postrojenja
+Q000960	Strojarski tehničar/strojarska tehničarka održavanja metalurške opreme
+Q000961	Strojarski tehničar/strojarska tehničarka održavanja zrakoplova
+Q000962	Strojarski tehnolog/strojarska tehnologinja održavanja zrakoplova
+Q000963	Strojarski tehnolog/strojarska tehnologinja održavanja plinske mreže
+Q000964	Strojarski tehničar/strojarska tehničarka održavanja brodske opreme
+Q000965	Strojarski tehnolog/strojarska tehnologinja održavanja brodske opreme
+Q000966	Strojarski tehnolog/strojarska tehnologinja održavanja cjevovodne mreže
+Q000967	Strojarski tehnolog/strojarska tehnologinja održavanja opreme
+Q000968	Tehnički crtač/tehnička crtačica za strojarstvo
+Q000969	Tehnički crtač/tehnička crtačica za brodogradnju
+Q000970	Strojarski inženjer/strojarska inženjerka
+Q000971	Brodograđevni tehničar/brodograđevna tehničarka
+Q000972	Brodograđevni inženjer/brodograđevna inženjerka
+Q000973	Predradnik/predradnica obrade kovina
+Q000974	Predradnik/predradnica montaže strojeva i metalnih proizvoda
+Q000975	Petrokemijski tehničar/petrokemijska tehničarka
+Q000976	Petrokemijski tehnolog/petrokemijska tehnologinja
+Q000977	Tehnolog/tehnologinja prerade nafte
+Q000978	Tehničar/tehničarka za organske sinteze
+Q000979	Tehnolog/tehnologinja za organske sinteze
+Q000980	Tehničar/tehničarka prerade polimera
+Q000981	Tehnolog/tehnologinja prerade polimera
+Q000982	Tehnolog/tehnologinja boja i lakova
+Q000983	Tehnolog/tehnologinja kozmetičkih proizvoda
+Q000984	Tehničar/tehničarka sredstava za pranje
+Q000985	Tehnolog/tehnologinja sredstava za pranje
+Q000986	Tehničar/tehničarka pigmenata
+Q000987	Tehnolog/tehnologinja pigmenata
+Q000988	Tehničar/tehničarka agrokemikalija
+Q000989	Tehnolog/tehnologinja agrokemikalija
+Q000990	Tehničar/tehničarka zaštite od korozije
+Q000991	Tehnolog/tehnologinja zaštite od korozije
+Q000992	Tehničar/tehničarka pripreme i obrade vode
+Q000993	Tehnolog/tehnologinja pripreme i obrade vode
+Q000994	Kemijski tehničar/kemijska tehničarka elektrotehničkih materijala
+Q000995	Kemijski tehnolog/kemijska tehnologinja elektrotehničkih materijala
+Q000996	Tehničar/tehničarka fotografskih proizvoda
+Q000997	Tehnolog/tehnologinja fotografskih proizvoda
+Q000998	Tehnolog/tehnologinja papirničarstva
+Q000999	Kemijsko-tehnološki tehničar/kemijsko-tehnološka tehničarka
+Q001000	Tehnolog/tehnologinja prerade mesa i ribe
+Q001001	Mljekarski tehničar/mljekarska tehničarka
+Q001002	Mljekarski tehnolog/mljekarska tehnologinja
+Q001003	Tehničar/tehničarka prerade voća, povrća i sokova
+Q001004	Tehnolog/tehnologinja prerade voća, povrća i sokova
+Q001005	Tehničar/tehničarka proizvodnje biljnih ulja
+Q001006	Tehnolog/tehnologinja proizvodnje biljnih ulja
+Q001007	Tehničar/tehničarka mlinarstva i prerade brašna
+Q001008	Tehničar/tehničarka proizvodnje stočne hrane
+Q001009	Tehnolog/tehnologinja proizvodnje stočne hrane
+Q001010	Tehnolog/tehnologinja proizvodnje šećera
+Q001011	Tehnolog/tehnologinja proizvodnje škroba i derivata
+Q001012	Tehničar/tehničarka dijetetske proizvodnje
+Q001013	Tehnolog/tehnologinja dijetetske proizvodnje
+Q001014	Tehničar/tehničarka proizvodnje voda i gaziranih napitaka
+Q001015	Tehnolog/tehnologinja proizvodnje voda i gaziranih napitaka
+Q001016	Tehnolog/tehnologinja proizvodnje piva
+Q001017	Tehničar/tehničarka proizvodnje vina
+Q001018	Tehnolog/tehnologinja proizvodnje vina
+Q001019	Tehnolog/tehnologinja proizvodnje jakih alkoholnih pića
+Q001020	Tehničar/tehničarka proivodnje enzima
+Q001021	Tehnolog/tehnologinja proizvodnje enzima
+Q001022	Tehničar/tehničarka prerade duhana
+Q001023	Tehnolog/tehnologinja prerade duhana
+Q001024	Prehrambeni tehničar/prehrambena tehničarka
+Q001025	Prehrambeni tehnolog/prehrambena tehnologinja
+Q001026	Rudarski tehničar/rudarska tehničarka površinske eksploatacije
+Q001027	Rudarski inženjer/rudarska inženjerka površinske eksploatacije
+Q001028	Rudarski tehničar/rudarska tehničarka podzemne eksploatacije
+Q001029	Rudarski tehničar/rudarska tehničarka za pripremu proizvodnje
+Q001030	Inženjer/inženjerka izrade i održavanja bušotina
+Q001031	Naftno-rudarski tehničar/naftno-rudarska tehničarka za bušotinske fluide
+Q001032	Naftno-rudarski tehničar/naftno-rudarska tehničarka za sanacijske radove u bušotinama
+Q001033	Tehničar/tehničarka za podvodnu opremu na bušaćoj platformi
+Q001034	Tehničar/tehničarka za razradu naftnih i plinskih ležišta
+Q001035	Inženjer/inženjerka za proizvodnju nafte i plina
+Q001036	Rudarski jamski poslovođa/rudarska jamska poslovotkinja
+Q001037	Rudarski poslovođa/rudarska poslovotkinja površinskoga kopa
+Q001038	Poslovođa/poslovotkinja miniranja
+Q001039	Vođa smjene na postrojenju za remont bušotina
+Q001040	Poslovođa/poslovotkinja pripreme, izrade i održavanja bušotina
+Q001041	Poslovođa/poslovotkinja pripreme karotažnih radova
+Q001042	Tehničar/tehničarka za metale i legure
+Q001043	Tehnolog/tehnologinja za metale i legure
+Q001044	Tehničar/tehničarka za lijevanje čelika
+Q001045	Tehnolog/tehnologinja za lijevanje čelika
+Q001046	Tehničar/tehničarka za toplinsku preradu čelika
+Q001047	Tehnolog/tehnologinja za toplinsku preradu čelika
+Q001048	Tehničar/tehničarka proizvodnje obojenih metala
+Q001049	Tehničar/tehničarka lijevanja obojenih metala
+Q001050	Tehničar/tehničarka metalurgije
+Q001051	Inženjer/inženjerka metalurgije
+Q001052	Planer/planerka proizvodnje
+Q001053	Planer/planerka održavanja
+Q001054	Planer/planerka izgradnje
+Q001055	Raspoređivač/raspoređivačica rada
+Q001056	Snimatelj/snimateljica vremena i pokreta
+Q001057	Analitičar/analitičarka tehničkih kalkulacija
+Q001058	Logističar/logističarka
+Q001059	Tehnički suradnik/tehnička suradnica za zaštitu okoliša
+Q001060	Tehnolog/tehnologinja pakiranja
+Q001061	Tehničar/tehničarka za građevne materijale
+Q001062	Tehnolog/tehnologinja za građevne materijale
+Q001063	Tehnolog/tehnologinja bitumensko-katranskih proizvoda
+Q001064	Tehničar/tehničarka za proizvodnju leća
+Q001065	Tehničar/tehničarka predenja
+Q001066	Inženjer/inženjerka predenja
+Q001067	Tehničar/tehničarka pletenja
+Q001068	Inženjer/inženjerka pletenja
+Q001069	Inženjer/inženjerka za odjeću
+Q001070	Kožarski inženjer/kožarska inženjerka
+Q001071	Obućarski tehničar/obućarska tehničarka
+Q001072	Tehničar/tehničarka za kožnu galanteriju
+Q001073	Inženjer/inženjerka za obuću i kožnu galanteriju
+Q001074	Drvni tehničar/drvna tehničarka
+Q001075	Tehničar grafički urednik/tehničarka grafička urednica
+Q001076	Predradnik/predradnica za građevne materijale
+Q001077	Predradnik/predradnica obrade kamena
+Q001078	Predradnik/predradnica za keramiku
+Q001079	Predradnik/predradnica za emajle i glazure
+Q001080	Predradnik/predradnica za bitumensko-katranske materijale
+Q001081	Predradnik/predradnica u staklarstvu
+Q001082	Tekstilni predradnik/tekstilna predradnica
+Q001083	Predradnik/predradnica kožne galanterije
+Q001084	Drvni predradnik/drvna predradnica
+Q001085	Pismoslikarski poslovođa/pismoslikarska poslovotkinja
+Q001086	Poslovođa/poslovotkinja čišćenja
+Q001087	Inženjer/inženjerka sustava za osobna računala
+Q001088	Inženjer/inženjerka sustava za računalne mreže
+Q001089	Računalni tehničar/računalna tehničarka
+Q001090	Kontrolor/kontrolorka pripreme i obrade podataka
+Q001091	Operator/operatorica za pripremu obrade podataka
+Q001092	Operator/operatorica na vanjskoj računalnoj opremi
+Q001093	Operator/operatorica na robotu
+Q001094	Novinski fotograf/novinska fotografkinja
+Q001095	Mikrofotograf/mikrofotografkinja
+Q001096	Snimatelj/snimateljica slike
+Q001097	Snimatelj/snimateljica trika
+Q001098	Mješač/mješačica zvuka
+Q001099	Montažer/montažerka slike i zvuka
+Q001100	Studijski ili radijski operator/studijska ili radijska operatorica
+Q001101	Studijski ili televizijski operator/studijska ili televizijska operatorica
+Q001102	Operator/operatorica snimanja na diskete
+Q001103	Operator/operatorica snimanja na vrpce
+Q001104	Operator/operatorica videosnimanja
+Q001105	Operator/operatorica na televizijskom odašiljaču
+Q001106	Operator/operatorica televizijskog prijenosa
+Q001107	Operator/operatorica na željezničkim telekomunikacijama
+Q001108	Radiotelegrafist/radiotelegrafistica
+Q001109	Kinooperator/kinooperatorica
+Q001110	Operator/operatorica na audiometrijskoj opremi
+Q001111	Operator/operatorica na elektrokardiografskoj opremi
+Q001112	Operator/operatorica na elektroencefalografskoj opremi
+Q001113	Rendgenski tehničar/rendgenska tehničarka
+Q001114	Operator/operatorica na opremi medicinske radiografije
+Q001115	Operator/operatorica na medicinskoj skenirajućoj opremi
+Q001116	Operator/operatorica na opremi za dijalizu
+Q001117	Operator/operatorica na opremi u očnoj dijagnostici
+Q001118	Operator/operatorica na medicinskoj opremi
+Q001119	Operator/operatorica na scenskoj rasvjeti
+Q001120	Majstor/majstorica rasvjete
+Q001121	Upravitelj/upraviteljica stroja
+Q001122	Inženjer/inženjerka brodske elektronike
+Q001123	Brodostrojar/brodostrojarka
+Q001124	Zapovjednik/zapovjednica broda
+Q001125	Zapovjednik/zapovjednica broda unutarnje plovidbe
+Q001126	Peljar/peljarica
+Q001127	Ribarsko-nautički tehničar/ribarsko-nautička tehničarka
+Q001128	Vođa posade marine
+Q001129	Skiper/skiperica
+Q001130	Pilot/pilotkinja helikoptera
+Q001131	Probni padobranac/probna padobranka
+Q001132	Inženjer/inženjerka zračnog prometa
+Q001133	Inženjer/inženjerka željezničkog prometa
+Q001134	Inženjer/inženjerka cestovnog prometa
+Q001135	Inženjer/inženjerka za prekrcaj
+Q001136	Poslovođa/poslovotkinja žičare
+Q001137	Poslovođa/poslovotkinja prekrcaja
+Q001138	Inženjer/inženjerka poštanskog prometa
+Q001139	Građevinski nadzornik/građevinska nadzornica
+Q001140	Nadzornik/nadzornica tehničke ispravnosti tramvaja
+Q001141	Poslovođa/poslovotkinja stanice za tehnički pregled vozila
+Q001142	Botanički tehničar/botanička tehničarka
+Q001143	Zoološki tehničar/zoološka tehničarka
+Q001144	Inženjer/inženjerka zoologije
+Q001145	Bakteriološki tehničar/bakteriološka tehničarka
+Q001146	Ekološki tehničar/ekološka tehničarka
+Q001147	Inženjer/inženjerka ekologije
+Q001148	Inženjer/inženjerka patologije
+Q001149	Farmakološki tehničar/farmakološka tehničarka
+Q001150	Inženjer/inženjerka farmakologije
+Q001151	Biokemijski tehničar/biokemijska tehničarka
+Q001152	Inženjer/inženjerka biokemije
+Q001153	Biološki tehničar/biološka tehničarka
+Q001154	Medicinski laboratorijski tehničar/medicinska laboratorijska tehničarka
+Q001155	Medicinski laboratorijski inženjer/medicinska laboratorijska inženjerka
+Q001156	Ratarski tehničar/ratarska tehničarka
+Q001157	Povrtlarski tehničar/povrtlarska tehničarka
+Q001158	Poljoprivredni tehničar/poljoprivredna tehničarka za melioraciju
+Q001159	Voćarski tehničar/voćarska tehničarka
+Q001160	Vinogradarski tehničar/vinogradarska tehničarka
+Q001161	Hortikulturni tehničar/hortikulturna tehničarka
+Q001162	Poljoprivredni tehničar/poljoprivredna tehničarka
+Q001163	Šumarski tehničar/šumarska tehničarka
+Q001164	Čuvar/čuvarica šume
+Q001165	Ratarski poslovođa/ratarska poslovotkinja
+Q001166	Voćarski poslovođa/voćarska poslovotkinja
+Q001167	Vinogradarski poslovođa/vinogradarska poslovotkinja
+Q001168	Nadzornik/nadzornica lovišta
+Q001169	Inženjer/inženjerka ratarstva
+Q001170	Inženjer/inženjerka povrtlarstva
+Q001171	Inženjer/inženjerka stočarstva
+Q001172	Inženjer/inženjerka peradarstva
+Q001173	Inženjer/inženjerka poljoprivrede
+Q001174	Poljoprivredni inženjer savjetodavac/poljoprivredna inženjerka savjetodavka
+Q001175	Sanitarni inženjer/sanitarna inženjerka
+Q001176	Dijetetičar/dijetetičarka
+Q001177	Očni optičar/očna optičarka
+Q001178	Zubotehničar/zubotehničarka
+Q001179	Viši zubni tehničar/viša zubna tehničarka
+Q001180	Viši fizioterapeut/viša fizioterapeutkinja
+Q001181	Veterinarski tehničar/veterinarska tehničarka
+Q001182	Veterinarski tehničar/veterinarska tehničarka za trihinoskopiju
+Q001183	Farmaceutski tehničar/farmaceutska tehničarka
+Q001184	Terapeut/terapeutkinja za govor i gluhoću
+Q001185	Terapeut/terapeutkinja za poremećaje vida
+Q001186	Glazbeni terapeut/glazbena terapeutkinja
+Q001187	Umjetnički terapeut/umjetnička terapeutkinja
+Q001188	Radni terapeut/radna terapeutkinja
+Q001189	Viša medicinska sestra
+Q001190	Primalja
+Q001191	Viša primalja
+Q001192	Učitelj/učiteljica razredne nastave
+Q001193	Nastavnik/nastavnica hrvatskog jezika
+Q001194	Nastavnik/nastavnica engleskog jezika
+Q001195	Nastavnik/nastavnica njemačkog jezika
+Q001196	Nastavnik/nastavnica francuskog jezika
+Q001197	Nastavnik/nastavnica talijanskog jezika
+Q001198	Nastavnik/nastavnica mađarskog jezika
+Q001199	Nastavnik/nastavnica slovenskog jezika
+Q001200	Nastavnik/nastavnica romskog jezika
+Q001201	Nastavnik/nastavnica rusinskog jezika
+Q001202	Nastavnik/nastavnica češkog jezika
+Q001203	Nastavnik/nastavnica slovačkog jezika
+Q001204	Nastavnik/nastavnica srpskog jezika
+Q001205	Nastavnik/nastavnica albanskog jezika
+Q001206	Nastavnik/nastavnica ruskog jezika
+Q001207	Nastavnik/nastavnica stranog jezika
+Q001208	Nastavnik/nastavnica povijesti
+Q001209	Nastavnik/nastavnica zemljopisa
+Q001210	Nastavnik/nastavnica glazbene kulture
+Q001211	Nastavnik/nastavnica likovne kulture
+Q001212	Nastavnik/nastavnica tehničke kulture
+Q001213	Nastavnik/nastavnica matematike
+Q001214	Nastavnik/nastavnica fizike
+Q001215	Nastavnik/nastavnica kemije
+Q001216	Nastavnik/nastavnica prirode i biologije
+Q001217	Nastavnik/nastavnica
+Q001218	Vjeroučitelj/vjeroučiteljica
+Q001219	Nastavnik/nastavnica za osobe s oštećenjima vida
+Q001220	Nastavnik/nastavnica za osobe s oštećenjima sluha
+Q001221	Nastavnik/nastavnica za mentalno retardirane osobe
+Q001222	Nastavnik/nastavnica za tjelesno invalidne osobe
+Q001223	Nastavnik/nastavnica za osobe s poremećajima u ponašanju
+Q001224	Strukovni učitelj/strukovna učiteljica klasičnog baleta
+Q001225	Strukovni učitelj/strukovna učiteljica suvremenog plesa i ritmike
+Q001226	Strukovni učitelj/strukovna učiteljica u sportu
+Q001227	Strukovni učitelj/strukovna učiteljica primarne obrade drva
+Q001228	Strukovni učitelj/strukovna učiteljica rudarstva
+Q001229	Strukovni učitelj/strukovna učiteljica obojene metalurgije
+Q001230	Strukovni učitelj/strukovna učiteljica ručne obrade metala
+Q001231	Strukovni učitelj/strukovna učiteljica strojne obrade metala
+Q001232	Strukovni učitelj/strukovna učiteljica strojne energetike
+Q001233	Strukovni učitelj/strukovna učiteljica montaže strojeva
+Q001234	Strukovni učitelj/strukovna učiteljica rukovanja strojevima i uređajima
+Q001235	Strukovni učitelj/strukovna učiteljica zrakoplovne mehanike
+Q001236	Strukovni učitelj/strukovna učiteljica brodogradnje
+Q001237	Strukovni učitelj/strukovna učiteljica telekomunikacija
+Q001238	Strukovni učitelj/strukovna učiteljica računalne tehnike
+Q001239	Strukovni učitelj/strukovna učiteljica plastičarske tehnologije
+Q001240	Strukovni učitelj/strukovna učiteljica staklarske tehnologije
+Q001241	Strukovni učitelj/strukovna učiteljica tehnologije papira
+Q001242	Strukovni učitelj/strukovna učiteljica tekstilne tehnologije
+Q001243	Strukovni učitelj/strukovna učiteljica konfekcije
+Q001244	Strukovni učitelj/strukovna učiteljica prerade kože i krzna
+Q001245	Strukovni učitelj/strukovna učiteljica proizvodnje obuće i kožne galanterije
+Q001246	Strukovni učitelj/strukovna učiteljica visokogradnje
+Q001247	Strukovni učitelj/strukovna učiteljica završnih građevinskih radova
+Q001248	Strukovni učitelj/strukovna učiteljica hidrogradnje
+Q001249	Strukovni učitelj/strukovna učiteljica proizvodnje građevnog materijala
+Q001250	Strukovni učitelj/strukovna učiteljica geodezije
+Q001251	Strukovni učitelj/strukovna učiteljica cestovnog prometa
+Q001252	Strukovni učitelj/strukovna učiteljica prometa
+Q001253	Strukovni učitelj/strukovna učiteljica PT prometa
+Q001254	Strukovni učitelj/strukovna učiteljica unutarnjeg prometa
+Q001255	Strukovni učitelj/strukovna učiteljica zaštite na radu
+Q001256	Strukovni učitelj/strukovna učiteljica protupožarne zaštite
+Q001257	Strukovni učitelj/strukovna učiteljica ratarstva i povrtlarstva
+Q001258	Strukovni učitelj/strukovna učiteljica stočarstva
+Q001259	Strukovni učitelj/strukovna učiteljica voćarstva i vinogradarstva
+Q001260	Strukovni učitelj/strukovna učiteljica prehrambene tehnologije
+Q001261	Strukovni učitelj/strukovna učiteljica melioracije
+Q001262	Strukovni učitelj/strukovna učiteljica domaćinstva
+Q001263	Strukovni učitelj/strukovna učiteljica šumarstva
+Q001264	Strukovni učitelj/strukovna učiteljica njege bolesnika
+Q001265	Strukovni učitelj/strukovna učiteljica ginekološko-opstetričke njege
+Q001266	Strukovni učitelj/strukovna učiteljica zdravstvene laboratorijske tehnike
+Q001267	Strukovni učitelj/strukovna učiteljica kozmetologije
+Q001268	Strukovni učitelj/strukovna učiteljica fizioterapije
+Q001269	Strukovni učitelj/strukovna učiteljica veterinarstva
+Q001270	Strukovni učitelj/strukovna učiteljica
+Q001271	Suradnik/suradnica u praktičnoj nastavi
+Q001272	Zastupnik/zastupnica osiguranja
+Q001273	Zastupnik/zastupnica pomorskog osiguranja
+Q001274	Organizator/organizatorica putovanja
+Q001275	Ekonomist/ekonomistica turizma i ugostiteljstva
+Q001276	Komesar/komesarica broda
+Q001277	Tehnički zastupnik/tehnička zastupnica trgovine
+Q001278	Voditelj/voditeljica poslovnice prodaje
+Q001279	Poslovođa/poslovotkinja trgovine
+Q001280	Poslovođa/poslovotkinja skladišta
+Q001281	Voditelj/voditeljica skladišnog poslovanja
+Q001282	Nabavljač/nabavljačica
+Q001283	Voditelj/voditeljica poslovnice nabave
+Q001284	Procjenitelj/procjeniteljica umjetnina
+Q001285	Dražbovatelj/dražbovateljica
+Q001286	Ekonomist/ekonomistica marketinga
+Q001287	Ekonomist/ekonomistica za hotelijerstvo
+Q001288	Ekonomist/ekonomistica za poljoprivredu
+Q001289	Pozajmljivač/pozajmljivačica novca
+Q001290	Trgovački posrednik/trgovačka posrednica
+Q001291	Brodarski broker/brodarska brokerica
+Q001292	Tarifer/tariferka
+Q001293	Transportni agent/transportna agentica
+Q001294	Pomorski agent/pomorska agentica
+Q001295	Špediter/špediterka
+Q001296	Savjetodavac/savjetodavka pri zapošljavanju
+Q001297	Posrednik/posrednica pri zapošljavanju
+Q001298	Posrednik/posrednica komisijske prodaje
+Q001299	Posrednik/posrednica za izložbene prostore
+Q001300	Poslovni tajnik/poslovna tajnica
+Q001301	Ekonomist/ekonomistica za kalkulacije
+Q001302	Knjigovođa bilancist/knjigovotkinja bilancistica
+Q001303	Voditelj/voditeljica analitičkofinancijskih poslova
+Q001304	Ekonomist/ekonomistica
+Q001305	Statističar/statističarka
+Q001306	Carinik/carinica
+Q001307	Porezni službenik/porezna službenica
+Q001308	Socijalni radnik/socijalna radnica za ostvarivanje prava
+Q001309	Upravni službenik/upravna službenica za isprave
+Q001310	Voditelj/voditeljica matičnog ureda
+Q001311	Matičar/matičarka
+Q001312	Voditelj/voditeljica ispostave II. Vrste zvanja
+Q001313	Voditelj/voditeljica odjeljka II. Vrste zvanja
+Q001314	Predstojnik/predstojnica pododsjeka II. Vrste zvanja
+Q001315	Pristav II. Vrste zvanja p.n.
+Q001316	Namještenik/namještenica II. Vrste zvanja p.n.
+Q001317	Inspektor/inspektorica II. Vrste zvanja p.n.
+Q001318	Voditelj/voditeljica zaštitarskih poslova
+Q001319	Privatni detektiv/privatna detektivka
+Q001320	Socijalni radnik/socijalna radnica u centru
+Q001321	Socijalni radnik/socijalna radnica u domu
+Q001322	Socijalni radnik/socijalna radnica u obrazovanju
+Q001323	Socijalni radnik/socijalna radnica u zdravstvu
+Q001324	Socijalni radnik/socijalna radnica u pravosuđu
+Q001325	Dizajner/dizajnerica tekstila i odjeće
+Q001326	Dizajner/dizajnerica kože
+Q001327	Modelar i konstruktor/modelarka i konstruktorica obuće
+Q001328	Modelar i konstruktor/modelarka i konstruktorica kožne galanterije
+Q001329	Dizajner/dizajnerica stakla
+Q001330	Dizajner/dizajnerica keramike
+Q001331	Grafički dizajner/grafička dizajnerica
+Q001332	Scenski dizajner/scenska dizajnerica
+Q001333	Dizajner/dizajnerica interijera
+Q001334	Aranžer/aranžerka
+Q001335	Ilustrator/ilustratorica
+Q001336	Najavljivač/najavljivačica programa
+Q001337	Diskodžokej
+Q001338	Pjevač/pjevačica zabavne i narodne glazbe
+Q001339	Pjevač/pjevačica zbora
+Q001340	Klavirist/klaviristica
+Q001341	Klavijaturist/klavijaturistica
+Q001342	Violinist/violinistica
+Q001343	Violist/violistica
+Q001344	Violončelist/violončelistica
+Q001345	Kontrabasist/kontrabasistica
+Q001346	Bas-gitarist/bas-gitaristica
+Q001347	Gitarist/gitaristica
+Q001348	Oboist/oboistica
+Q001349	Flautist/flautistica
+Q001350	Klarinetist/klarinetistica
+Q001351	Saksofonist/saksofonistica
+Q001352	Fagotist/fagotistica
+Q001353	Rogist/rogistica
+Q001354	Trubljač/trubljačica
+Q001355	Trombonist/trombonistica
+Q001356	Tubist/tubistica
+Q001357	Udaraljkaš/udaraljkašica
+Q001358	Bubnjar/bubnjarica
+Q001359	Harmonikaš/harmonikašica
+Q001360	Tamburaš/tamburašica
+Q001361	Orguljaš/orguljašica
+Q001362	Glazbenik/glazbenica
+Q001363	Dirigent/dirigentica zbora
+Q001364	Glazbeni skladatelj/glazbena skladateljica
+Q001365	Pisac tekstova za pjesme
+Q001366	Plesač/plesačica
+Q001367	Statist/statistica
+Q001368	Šaptač/šaptačica
+Q001369	Inspicijent/inspicijentica drame
+Q001370	Komičar/komičarka
+Q001371	Kaskader/kaskaderka
+Q001372	Voditelj/voditeljica sportske rekreacije
+Q001373	Sportski trener/sportska trenerica
+Q001374	Sportski sudac/sportska sutkinja
+Q001375	Viši arhivski službenik/viša arhivska službenica
+Q001376	Knjižničar/knjižničarka
+Q001377	Jerej
+Q001378	Jeromonah
+Q001379	Mualim
+Q001380	Mujezin
+Q001381	Teolog/teologinja
+Q001382	Župni asistent/župna asistentica
+Q001383	Daktilograf/daktilografkinja
+Q001384	Operator/operatorica računala za tekst
+Q001385	Operator/operatorica za unos podataka
+Q001386	Tajnica
+Q001387	Knjigovođa/knjigovotkinja zaliha
+Q001388	Financijski knjigovođa/financijska knjigovotkinja
+Q001389	Službenik/službenica obračuna plaća
+Q001390	Kalkulant/kalkulantica
+Q001391	Knjigovođa/knjigovotkinja
+Q001392	Ekonomski službenik/ekonomska službenica
+Q001393	Službenik/službenica deviznog poslovanja
+Q001394	Kreditni službenik/kreditna službenica
+Q001395	Bankovni službenik/bankovna službenica
+Q001396	Službenik/službenica obrade osiguranja
+Q001397	Pomoćni skladištar/pomoćna skladištarka
+Q001398	Skladištar/skladištarka alata
+Q001399	Rekviziter/rekviziterka
+Q001400	Evidentičar/evidentičarka u proizvodnji
+Q001401	Špediterskoagencijski službenik/špediterskoagencijska službenica
+Q001402	Prometnik/prometnica vlakova
+Q001403	Vlakovođa/vlakovotkinja
+Q001404	Zrakoplovni prometnik/zrakoplovna prometnica
+Q001405	Komercijalni službenik/komercijalna službenica
+Q001406	Videotekar/videotekarica
+Q001407	Iznajmljivač/iznajmljivačica plovila
+Q001408	Iznajmljivač/iznajmljivačica opreme
+Q001409	Arhivski službenik/arhivska službenica
+Q001410	Voditelj/voditeljica pisarnice
+Q001411	Pomoćni knjižničar/pomoćna knjižničarka
+Q001412	Pomoćni poštar/pomoćna poštarica
+Q001413	Poštar/poštarica
+Q001414	Voditelj/voditeljica poštanskog ureda
+Q001415	Šifrant/šifrantica
+Q001416	Korektor/korektorica
+Q001417	Upravni službenik/upravna službenica
+Q001418	Službenik/službenica kadrovskih poslova
+Q001419	Blagajnik/blagajnica u prodavaonici
+Q001420	Bankovni šalterski službenik/bankovna šalterska službenica
+Q001421	Blagajnik/blagajnica
+Q001422	Prodavač/prodavačica ulaznica
+Q001423	PT-šalterski službenik/PT-šalterska službenica
+Q001424	Mjenjač/mjenjačica novca
+Q001425	Primatelj/primateljica uloga za klađenje
+Q001426	Krupje
+Q001427	Skupljač/skupljačica dugova
+Q001428	Šalterski službenik/šalterska službenica putničke agencije
+Q001429	Željeznički robno-putnički blagajnik/željeznička robno-putnička blagajnica
+Q001430	Prodavač/prodavačica autobusnih karata
+Q001431	Prodavač/prodavačica zrakoplovnih karata
+Q001432	Prodavač/prodavačica putničkih karata
+Q001433	Službenik/službenica za informacije
+Q001434	Telefonist/telefonistica
+Q001435	Voditeljica u kabini zrakoplova
+Q001436	Zemaljska domaćica
+Q001437	Brodska sobarica
+Q001438	Željeznički kondukter/željeznička kondukterka
+Q001439	Kondukter/kondukterka u cestovnome putničkom prometu
+Q001440	Kondukter/kondukterka
+Q001441	Vodič/vodičica
+Q001442	Hotelska domaćica
+Q001443	Domaćica kuhinje
+Q001444	Hotelska sobarica
+Q001445	Domar/domarka kampa
+Q001446	Domar/domarka planinarskog doma
+Q001447	Pomoćni kuhar/pomoćna kuharica
+Q001448	Kuhar/kuharica
+Q001449	Brodski kuhar/brodska kuharica
+Q001450	Pečenjar/pečenjarica
+Q001451	Konobar/konobarica
+Q001452	Barmen/barmenica
+Q001453	Natkonobar/natkonobarica
+Q001454	Brodski konobar/brodska konobarica
+Q001455	Brodski natkonobar/brodska natkonobarica
+Q001456	Njegovatelj/njegovateljica djece
+Q001457	Udomitelj/udomiteljica
+Q001458	Babica
+Q001459	Njegovatelj/njegovateljica u bolnici
+Q001460	Njegovatelj/njegovateljica osoba s teškoćama razvoju
+Q001461	Njegovatelj/njegovateljica životinja
+Q001462	Frizer/frizerka za žene
+Q001463	Frizer/frizerka za muškarce
+Q001464	Frizer/frizerka
+Q001465	Kozmetičar/kozmetičarka
+Q001466	Pediker/pedikerka
+Q001467	Maser/maserka
+Q001468	Maser kupeljar/maserka kupeljarka
+Q001469	Grobar/grobarka
+Q001470	Domaćin/domaćica kluba
+Q001471	Plesni partner/plesna partnerica
+Q001472	Astrolog/astrologinja
+Q001473	Gatara
+Q001474	Vatrogasac/vatrogasica
+Q001475	Policajac/policajka
+Q001476	Pravosudni policajac/pravosudna policajka
+Q001477	Komunalni redar/komunalna redarica
+Q001478	Čuvar/čuvarica objekata i okoliša
+Q001479	Lovočuvar/lovočuvarica
+Q001480	Maneken/manekenka
+Q001481	Umjetnički model
+Q001482	Dostavljač/dostavljačica robe
+Q001483	Prodavač/prodavačica
+Q001484	Prodavač/prodavačica kemikalija za poljoprivredu
+Q001485	Prodavač/prodavačica vozila
+Q001486	Trgovački demonstrator i prodavač/trgovačka demonstratorica i prodavačica
+Q001487	Ratar/ratarica
+Q001488	Vrtlar/vrtlarica
+Q001489	Vrtlar, specijalizirani/vrtlarica, specijalizirana
+Q001490	Vrtlar/vrtlarica za parkove
+Q001491	Cvjećar/cvjećarica
+Q001492	Uzgajivač/uzgajivačica ljekovitog bilja
+Q001493	Uzgajivač/uzgajivačica goveda
+Q001494	Uzgajivač/uzgajivačica svinja
+Q001495	Stočar/stočarica
+Q001496	Uzgajivač/uzgajivačica pasa
+Q001497	Uzgajivač/uzgajivačica mačaka
+Q001498	Dreser/dreserica pasa
+Q001499	Trener/trenerica konja
+Q001500	Peradar/peradarica
+Q001501	Pomoćni uzgajivač/pomoćna uzgajivačica životinja
+Q001502	Uzgajivač/uzgajivačica puževa
+Q001503	Uzgajivač/uzgajivačica žaba
+Q001504	Uzgajivač/uzgajivačica gujavica
+Q001505	Uzgajivač/uzgajivačica raznih životinja
+Q001506	Uzgajivač/uzgajivačica životinja za krzno
+Q001507	Uzgajivač/uzgajivačica kunića za meso
+Q001508	Uzgajivač/uzgajivačica ptica
+Q001509	Uzgajivač/uzgajivačica laboratorijskih životinja
+Q001510	Pomoćni uzgajivač/pomoćna uzgajivačica divljači
+Q001511	Pčelar/pčelarica
+Q001512	Uzgajivač/uzgajivačica dudova prelca
+Q001513	Šumski rasadničar/šumska rasadničarka
+Q001514	Šumski uzgajivač/šumska uzgajivačica
+Q001515	Šumski sjekač/šumska sjekačica
+Q001516	Mrjestilišni uzgajivač/mrjestilišna uzgajivačica
+Q001517	Ronitelj/roniteljica spužvi i koralja
+Q001518	Ribar/ribarka na otvorenome moru
+Q001519	Lovac/lovkinja
+Q001520	Pomoćni rudar/pomoćna rudarica površinskoga kopa
+Q001521	Rudar/rudarica površinskoga kopa
+Q001522	Pomoćni rudar/pomoćna rudarica podzemnoga kopa
+Q001523	rudar/rudarica podzemnoga kopa
+Q001524	pomoćni rudarski tesar/pomoćna rudarska tesarica
+Q001525	rudarski tesar/rudarska tesarica
+Q001526	podgrađivač okna, specijalizirani /podgrađivačica okna, specijalizirana
+Q001527	palitelj/paliteljica mina
+Q001528	pirotehničar/pirotehničarka
+Q001529	protugradni raketar/protugradna raketarica
+Q001530	klesar/klesarica
+Q001531	proizvođač/proizvođačica soli
+Q001532	solanski vodar/solanska vodarica
+Q001533	pomoćni zidar/pomoćna zidarica
+Q001534	zidar/zidarica
+Q001535	zidar šamoter/zidarica šamoterica
+Q001536	zidar šamoter, specijalizirani/zidarica šamoterica, specijalizirana
+Q001537	zidar/zidarica kamenom
+Q001538	zidar kamenom, specijalizirani/zidarica kamenom, specijalizirana
+Q001539	zidar/zidarica dimnjaka
+Q001540	zidar dimnjaka, specijalizirani/zidarica dimnjaka, specijalizirana
+Q001541	betonirac/betonirka
+Q001542	teracer/teracerka
+Q001543	tesar/tesarica
+Q001544	građevinski stolar, majstor/građevinska stolarka, majstorica
+Q001545	roletar/roletarka
+Q001546	roletar, majstor/roletarka, majstorica
+Q001547	stolar/stolarka za scensku opremu, specijalizirani/specijalizirana
+Q001548	graditelj/graditeljica drvenih brodova
+Q001549	graditelj/graditeljica drvenih brodova, majstor/majstorica
+Q001550	brodostolar/brodostolarka
+Q001551	graditejl/graditeljica lakih letjelica
+Q001552	građevinar/građevinarka za održavanje
+Q001553	asfalter/asfalterka
+Q001554	cestar/cestarica
+Q001555	monter/monterka građevinskih skela
+Q001556	pomoćni brodoskelar/pomoćna brodoskelarica
+Q001557	pružni radnik/pružna radnica
+Q001558	figurant/figurantica
+Q001559	nažigač/nažigačica
+Q001560	krovopokrivač/krovopokrivačica
+Q001561	krovopokrivač, majstor/krovopokrivačica, majstorica
+Q001562	polagač/polagačica keramičkih pločica
+Q001563	gipsar/gipsarica
+Q001564	hidroizolater/hidroizolaterka
+Q001565	termoizolater/termoizolaterka
+Q001566	izolater/izolaterka
+Q001567	vodoinstalater/vodoinstalaterka
+Q001568	plinoinstalater/plinoinstalaterka
+Q001569	vodoinstalater i plinoinstalater/vodoinstalaterka i plinoinstalaterka
+Q001570	brodocjevar/brodocjevarica
+Q001571	brodocjevar, specijalizirani/brodocjevarica, specijalizirana
+Q001572	monter/monterka cjevovoda
+Q001573	elektroinstalater, majstor/elektroinstalaterka, majstorica
+Q001574	električar/električarka održavanja
+Q001575	električar održavanja, specijalizirani/električarka održavanja, specijalizirana
+Q001576	električar/električarka pozornice i studija
+Q001577	električar/električarka pozornice i studija, specijalizirani/specijalizirana
+Q001578	kućni majstor/kućna majstorica
+Q001579	ličilac/ličiteljica
+Q001580	brusač i ličilac/brusačica i ličiteljica konstrukcija
+Q001581	autolakirer/autolakirerica
+Q001582	polagač/polagačica zidnih tapeta
+Q001583	dimnjačar/dimnjačarka
+Q001584	ljevački kalupar/ljevačka kaluparica
+Q001585	jezgrar/jezgrarica ljevačkih kalupa
+Q001586	strojni ljevački kalupar/strojna ljevačka kaluparica
+Q001587	ljevač/ljevačica kovina
+Q001588	zavarivač/zavarivačica plinom
+Q001589	elektrozavarivač/elektrozavarivačica
+Q001590	zavarivač/zavarivačica
+Q001591	lemitelj/lemiteljica
+Q001592	limar/limarica
+Q001593	autolimar/autolimarica
+Q001594	autolimar, majstor/autolimarica, majstorica
+Q001595	aviolimar/aviolimarica
+Q001596	aviolimar, specijalizirani/aviolimarica, specijalizirana
+Q001597	ocrtavač/ocrtavačica limova
+Q001598	kotlar/kotlarica
+Q001599	monter/monterka metalnih konstrukcija
+Q001600	elektrolučni žljebač i brusač/elektrolučna žljebačica i brusačica
+Q001601	obrađivač/obrađivačica konstrukcijskog željeza
+Q001602	brodotraser/brodotraserica
+Q001603	brodotraser, specijalizirani/brodotraserica, specijalizirana
+Q001604	brodolimar/brodolimarica
+Q001605	brodolimar, specijalizirani/brodolimarica, specijalizirana
+Q001606	brodomonter/brodomonterka
+Q001607	brodomonter, specijalizirani/brodomonterka, specijalizirana
+Q001608	graditelj/graditeljica metalnih brodova
+Q001609	graditelj/graditeljica metalnih brodova, majstor/majstorica
+Q001610	monter/monterka čelične užadi
+Q001611	strojni kovač/strojna kovačica
+Q001612	kalilac
+Q001613	kalilac, specijalizirani
+Q001614	potkivač/potkivačica
+Q001615	alatničar/alatničarka za mjerne pribore, specijalizirani/specijalizirana
+Q001616	alatničar/alatničarka za stezne pribore, specijalizirani/specijalizirana
+Q001617	puškar/puškarica
+Q001618	bravar/bravarica
+Q001619	kovinomodelar/kovinomodelarka
+Q001620	namještač/namještačica sastavljenih reznih alata, specijalizirani/specijalizirana
+Q001621	namještač/namještačica specijalnih alatnih strojeva, specijalizirani/specijalizirana
+Q001622	kovinotokar/kovinotokarica
+Q001623	kovinoglodač/kovinoglodačica
+Q001624	kovinoglodač, specijalizirani/kovinoglodačica, specijalizirana
+Q001625	horizontalni kovinobušač/horizontalna kovinobušačica
+Q001626	horizontalni kovinobušač, specijalizirani/horizontalna kovinobušačica, specijalizirana
+Q001627	blanjač/blanjačica kovina
+Q001628	kovinobrusač/kovinobrusačica
+Q001629	kovinobrusač, specijalizirani/kovinobrusačica, specijalizirana
+Q001630	prešač/prešačica kovina
+Q001631	lepač/lepačica
+Q001632	serviser/serviserka dijamantnih pila
+Q001633	mehaničar/mehaničarka motocikla
+Q001634	mehaničar motocikla, majstor/mehaničarka motocikla, majstorica
+Q001635	automehaničar/automehaničarka
+Q001636	automehaničar, majstor/automehaničarka, majstorica
+Q001637	mehaničar/mehaničarka zrakoplova i motora, specijalizirani/specijalizirana
+Q001638	monter/monterka procesne opreme
+Q001639	monter/monterka procesne opreme, specijalizirani/specijalizirana
+Q001640	monter/monterka energetske opreme, specijalizirani/specijalizirana
+Q001641	monter/monterka industrijskih transportnih sredstava
+Q001642	monter/monterka industrijskih transportnih sredstava, specijalizirani/specijalizirana
+Q001643	monter/monterka dizala
+Q001644	monter/monterka alatnih strojeva
+Q001645	pomoćni monter/pomoćna monterka strojeva
+Q001646	mehaničar/mehaničarka procesne opreme
+Q001647	mehaničar/mehaničarka procesne opreme, specijalizirani/specijalizirana
+Q001648	mehaničar/mehaničarka opreme za grijanje
+Q001649	mehaničar/mehaničarka opreme za grijanje, specijalizirani/specijalizirana
+Q001650	mehaničar/mehaničarka za rashladne i klimatizacijske uređaje
+Q001651	mehaničar/mehaničarka alatnih strojeva
+Q001652	mehaničar/mehaničarka brodskih strojeva
+Q001653	mehaničar/mehaničarka strojeva za preradu nemetala
+Q001654	mehaničar/mehaničarka strojeva za preradu nemetala, specijalizirani/specijalizirana
+Q001655	mehaničar/mehaničarka za hidrauliku i pneumatiku
+Q001656	mehaničar/mehaničarka tekstilnih strojeva
+Q001657	mehaničar/mehaničarka građevinskih strojeva
+Q001658	mehaničar/mehaničarka rudarskih strojeva
+Q001659	mehaničar/mehaničarka poljoprivredne mehanizacije
+Q001660	mehaničar/mehaničarka prekrcajne mehanizacije
+Q001661	mehaničar/mehaničarka industrijske opreme
+Q001662	pomoćni strojobravar/pomoćna strojobravarica
+Q001663	strojobravar, majstor/strojobravarica, majstorica
+Q001664	serviser/serviserka uređaja za natakanje goriva
+Q001665	serviser/serviserka uređaja za natakanje goriva, specijalizirani/specijalizirana
+Q001666	serviser/serviserka vatrogasnih aparata
+Q001667	elektromonter/elektromonterka energetskih strojeva i uređaja
+Q001668	elektromonter/elektromonterka energetskih strojeva i uređaja, specijalizirani/specijalizirana
+Q001669	monter/monterka električnih strojeva i opreme
+Q001670	elektromonter/elektromonterka dizala
+Q001671	elektromehaničar/elektromehaničarka za elektroenergetiku
+Q001672	elektromehaničar/elektromehaničarka za elektroenergetiku, specijalizirani/specijalizirana
+Q001673	elektromehaničar/elektromehaničarka željezničke vuče i vozila
+Q001674	elektromehaničar/elektromehaničarka za mjerne instrumente i sklopove
+Q001675	elektromehaničar/elektromehaničarka za mjerne instrumente i sklopove, specijalizirani/specijalizirana
+Q001676	elektromehaničar/elektromehaničarka za kućanske aparate
+Q001677	elektromehaničar/elektromehaničarka proizvodnih strojeva
+Q001678	elektromehaničar/elektromehaničarka proizvodnih strojeva, specijalizirani/specijalizirana
+Q001679	elektromonter/elektromonterka
+Q001680	elektromehaničar/elektromehaničarka
+Q001681	elektromehaničar, specijalizirani/elektromehaničarka, specijalizirana
+Q001682	monter/monterka elektronike instrumenata, specijalizirani/specijalizirana
+Q001683	monter/monterka medicinske elektronike, specijalizirani/specijalizirana
+Q001684	monter/monterka audiovizualne elektronike, specijalizirani/specijalizirana
+Q001685	monter/monterka računalne elektronike, specijalizirani/specijalizirana
+Q001686	monter/monterka elektroničke opreme
+Q001687	mehaničar/mehaničarka za elektroničke mjerne i upravljačke uređaje, specijalizirani/specijalizirana
+Q001688	mehaničar/mehaničarka elektronike proizvodnih strojeva
+Q001689	mehaničar/mehaničarka elektronike proizvodnih strojeva, specijalizirani/specijalizirana
+Q001690	mehaničar/mehaničarka medicinske elektronike
+Q001691	mehaničar/mehaničarka elektronike uredskih strojeva
+Q001692	mehaničar/mehaničarka zrakoplovne elektronike, specijalizirani/specijalizirana
+Q001693	mehaničar/mehaničarka audiotehnike i videotehnike
+Q001694	mehaničar/mehaničarka studijskih tonskih i videouređaja
+Q001695	monter/monterka električnih mreža
+Q001696	urar/urarica
+Q001697	mehaničar/mehaničarka za baždarenje mjernih instrumenata
+Q001698	izrađivač/izrađivačica kirurških instrumenata
+Q001699	izrađivač/izrađivačica ortopedskih pomagala, majstor/majstorica
+Q001700	instrumentalni optičar, majstor/instrumentalna optičarka, majstorica
+Q001701	finomehaničar/finomehaničarka
+Q001702	pomoćni glazbalar/pomoćna glazbalarka
+Q001703	glazbalar, majstor/glazbalarka, majstorica za tambure
+Q001704	glazbalar, majstor/glazbalarka, majstorica za gudaća glazbala
+Q001705	glazbalar, majstor/glazbalarka, majstorica za harmonike
+Q001706	glazbalar, majstor/glazbalarka, majstorica za puhaća glazbala
+Q001707	glazbalar, majstor/glazbalarka, majstorica za udaraća glazbala
+Q001708	glazbalar, majstor/glazbalarka, majstorica za orgulje
+Q001709	zlatar/zlatarica
+Q001710	draguljar/draguljarka
+Q001711	bižuterist/bižuteristica
+Q001712	filigranist/filigranistica
+Q001713	valjač/valjačica plemenitih kovina
+Q001714	modelar gipsa/modelarka gipsa
+Q001715	modelar gipsa, specijalizirani/modelarka gipsa, specijalizirana
+Q001716	lončar/lončarica
+Q001717	ljevač/ljevačica keramičkih proizvoda
+Q001718	razvrstavač/razvrstavačica keramičkih proizvoda
+Q001719	keramičar/keramičarka
+Q001720	izrađivač/izrađivačica sredstava za poliranje i brušenje
+Q001721	staklopuhač/staklopuhačica
+Q001722	izrađivač/izrađivačica leća
+Q001723	brusač/brusačica kristalnog stakla
+Q001724	brusač/brusačica kristalnog stakla, specijalizirani/specijalizirana
+Q001725	dekorater/dekoraterka stakla
+Q001726	posrebrivač/posrebrivačica ogledala
+Q001727	dekorater/dekoraterka drva
+Q001728	dekorativni ličilac/dekorativna ličiteljica
+Q001729	graver pečatorezac/graverka pečatoreskinja
+Q001730	ručni slagar/ručna slagarica
+Q001731	izrađivač/izrađivačica ploče za Brailleovo pismo
+Q001732	knjigotiskar/knjigotiskarica
+Q001733	fleksografski tiskar/fleksografska tiskarica
+Q001734	ofset tiskar/tiskarica
+Q001735	tiskar/tiskarica višebojnih otisaka u fleksotisku
+Q001736	tiskar/tiskarica višebojnih otisaka u bakrotisku
+Q001737	grafičar slagar/monter // grafičarka slagarka/monterka
+Q001738	ručni graver/ručna graverka tiskarskih uzoraka u nemetalu
+Q001739	tiskarski graver, specijalizirani/tiskarska graverka, specijalizirana
+Q001740	kemigraf/kemigrafkinja
+Q001741	reprofotograf/reprofotografkinja
+Q001742	fotograf/fotografkinja
+Q001743	fotograf, majstor/fotografkinja, majstorica
+Q001744	knjigoveža mekog uveza
+Q001745	knjigoveža tvrdog uveza
+Q001746	knjigoveža za ručni uvez
+Q001747	knjigoveža
+Q001748	grafičar/grafičarka završne proizvodnje, specijalizirani/specijalizirana
+Q001749	ručni izrađivač/ručna izrađivačica proizvoda od papira
+Q001750	tiskar/tiskarica na tekstilu
+Q001751	tehnički crtač/tehnička crtačica
+Q001752	kemijski laborant/kemijska laborantica
+Q001753	mesar/mesarica
+Q001754	pekar/pekarica
+Q001755	pekar, majstor/pekarica, majstorica
+Q001756	slastičar/slastičarka
+Q001757	slastičar, majstor/slastičarka, majstorica
+Q001758	licitar/licitarka
+Q001759	tjesteninar/tjesteninarka
+Q001760	proizvođač/proizvođačica jestivih ulja
+Q001761	proizvođač/proizvođačica alkoholnih pića
+Q001762	proizvođač/proizvođačica bezalkoholnih pića
+Q001763	ocjenjivač/ocjenjivačica hrane
+Q001764	paritelj/pariteljica drva
+Q001765	pomoćni kuhar/pomoćna kuharica šibe
+Q001766	kuhar/kuharica šibe
+Q001767	sušitelj/sušiteljica drva
+Q001768	impregnator/impregnatorica drva
+Q001769	pomoćni stolar/pomoćna stolarica
+Q001770	stolar/stolarica stilskog pokućstva
+Q001771	majstor/majstorica stilskog pokućstva
+Q001772	stolar, dekorni i umjetnički/stolarica, dekorna i umjetnička
+Q001773	stolar, dekorni i umjetnički, majstor/stolarica, dekorna i umjetnička, majstorica
+Q001774	restaurator/restauratorica drvenih predmeta, specijalizirani/specijalizirana
+Q001775	stolar/stolarica za šablone
+Q001776	drvorezbar/drvorezbarica
+Q001777	izrađivač/izrađivačica drvene sportske opreme
+Q001778	izrađivač/izrađivačica alata za grafičku ambalažu
+Q001779	izrađivač/izrađivačica okvira za slike
+Q001780	bojadisar/bojadisarka drvenih proizvoda
+Q001781	bačvar/bačvarica
+Q001782	kolar/kolarica
+Q001783	kolar, majstor/kolarica, majstorica
+Q001784	namještač/namještačica drvoobrađivačkih strojeva
+Q001785	drvotokar/drvotokarica
+Q001786	pletač/pletačica košara
+Q001787	pletač/pletačica pokućstva
+Q001788	pletač/pletačica košaračkih uzoraka
+Q001789	četkar/četkarica
+Q001790	metlar/metlarica
+Q001791	tkalac/tkalja
+Q001792	pletač/pletačica
+Q001793	čipkar/čipkarica
+Q001794	izrađivač/izrađivačica tapiserija
+Q001795	izrađivač/izrađivačica narodnih nošnji
+Q001796	užar i izrađivač/užarica i izrađivačica vrpca
+Q001797	krojač/krojačica ženske odjeće, majstor/majstorica
+Q001798	krojač/krojačica muške odjeće, majstor/majstorica
+Q001799	krojač rublja, majstor/krojačica rublja, majstorica
+Q001800	krojač/krojačica u scenografiji, specijalizirani/specijalizirana
+Q001801	klobučar/klobučarka
+Q001802	izrađivač/izrađivačica šablona za odjeću, specijalizirani/specijalizirana
+Q001803	krojitelj/krojiteljica lake odjeće
+Q001804	krojitelj/krojiteljica teške odjeće
+Q001805	krojitelj/krojiteljica trikotažne odjeće
+Q001806	krojitelj/krojiteljica materijala za tapeciranje
+Q001807	krojitelj/krojiteljica tekstila
+Q001808	pomoćni krojitelj/pomoćna krojiteljica podstave obuće
+Q001809	šivač/šivačica tekstila
+Q001810	šivač/šivačica krzna
+Q001811	šivač/šivačica
+Q001812	kišobranar/kišobranarka
+Q001813	vezilja
+Q001814	pomoćni šivač/pomoćna šivačica podstave obuće
+Q001815	šivač/šivačica gornjišta obuće
+Q001816	tapetar/tapetarka
+Q001817	tapetar/tapetarka vozila
+Q001818	izrađivač/izrađivačica posteljine
+Q001819	izrađivač/izrađivačica krzna
+Q001820	obućar, majstor/obućarka, majstorica
+Q001821	izrađivač/izrađivačica gornjišta obuće
+Q001822	ortopedski obućar/ortopedska obućarka
+Q001823	izrađivač/izrađivačica gornjišta ortopedske obuće
+Q001824	pomoćni izrađivač/pomoćna izrađivačica donjišta obuće
+Q001825	graditelj/graditeljica plastičnih plovila
+Q001826	graditelj/graditeljica plastičnih plovila, majstor/majstorica
+Q001827	rukovatelj/rukovateljica jamskom utovarnom mehanizacijom
+Q001828	pomoćni rukovatelj/pomoćna rukovateljica postrojenjem za separaciju
+Q001829	rukovatelj/rukovateljica postrojenjem za separaciju
+Q001830	rukovatelj/rukovateljica postrojenjem za oplemenjivanje mineralnih sirovina
+Q001831	klinaš/klinašica
+Q001832	tornjaš/tornjašica
+Q001833	rukovatelj/rukovateljica proizvodnim postrojenjem za naftu i plin, specijalizirani/specijalizirana
+Q001834	bušač/bušačica pri geomehaničkim istraživanjima
+Q001835	bušač/bušačica geoloških istražnih bušotina
+Q001836	rukovatelj/rukovateljica uređajima peći za ferolegure
+Q001837	pomoćni bušač/pomoćna bušačica otvora metalurške peći
+Q001838	bušač/bušačica otvora metalurške peći
+Q001839	pomoćni rukovatelj/pomoćna rukovateljica postrojenjima za lijevanje čelika
+Q001840	rukovatelj/rukovateljica valjaoničkim uređajima za toplo valjanje
+Q001841	rukovatelj/rukovateljica valjaoničkim uređajima za toplo valjanje, specijalizirani/specijalizirana
+Q001842	rukovatelj/rukovateljica valjaoničkim uređajima za hladno valjanje
+Q001843	rukovatelj/rukovateljica uređajem za toplinsku obradu kovina
+Q001844	rukovatelj/rukovateljica uređajima za vučenje čelika
+Q001845	rukovatelj/rukovateljica uređajima za izvlačenje žice
+Q001846	rukovatelj/rukovateljica pećima za staklo
+Q001847	rukovatelj/rukovateljica pećima za keramiku
+Q001848	rukovatelj/rukovateljica uređajem za staklene proizvode
+Q001849	pomoćni rukovatelj/pomoćna rukovateljica uređajem za proizvodnju abraziva
+Q001850	rukovatelj/rukovateljica uređajem za proizvodnju abraziva
+Q001851	poslužitelj/poslužiteljica peći za fritu
+Q001852	rukovatelj/rukovateljica peći za fritu
+Q001853	rukovatelj/rukovateljica uređajem za pripremu glazure
+Q001854	rukovatelj/rukovateljica postrojenjem za izradu staklenih vlakana
+Q001855	rukovatelj/rukovateljica strojem za miješanje abrazivne smjese
+Q001856	rukovatelj/rukovateljica strojem za dijeljenje drva bez iverja
+Q001857	pomoćni priprematelj/pomoćna pripremateljica oblovine
+Q001858	rukovatelj/rukovateljica strojem za otkoravanje
+Q001859	pomoćni radnik/pomoćna radnica primarne prerade drva
+Q001860	rukovatelj/rukovateljica višelisnom kružnom pilom
+Q001861	rukovatelj/rukovateljica strojem za iveranje drva
+Q001862	pomoćni razvrstavač/pomoćna razvrstavačica drvene građe
+Q001863	rukovatelj/rukovateljica prešom za sljepljivanje drvenih vlakana
+Q001864	rukovatelj/rukovateljica uređajem za sljepljivanje rubova drva
+Q001865	poslužitelj/poslužiteljica postrojenja za izradu parketa
+Q001866	rukovatelj/rukovateljica strojem za izradu pragova
+Q001867	rukovatelj/rukovateljica strojem za obradu pluta
+Q001868	rukovatelj/rukovateljica brojčano upravljanim strojevima za primarnu preradu drva
+Q001869	rukovatelj/rukovateljica postrojenjem za razvlaknjivanje drva
+Q001870	rukovatelj/rukovateljica uređajem za iskuhavanje drva
+Q001871	rukovatelj/rukovateljica autoklavom za sječku
+Q001872	rukovatelj/rukovateljica uređajem za izbjeljivanje celuloze
+Q001873	rukovatelj/rukovateljica digestorom za pulpu
+Q001874	rukovatelj/rukovateljica mlinom za papirnu smjesu
+Q001875	rukovatelj/rukovateljica uređajem za preradu otpadnog luga
+Q001876	pomoćni rukovatelj/pomoćna rukovateljica strojem za proizvodnju papira
+Q001877	rukovatelj/rukovateljica strojem za proizvodnju papira
+Q001878	rukovatelj/rukovateljica strojem za proizvodnju papira, specijalizirani/specijalizirana
+Q001879	pomoćni rukovatelj/pomoćna rukovateljica strojem za doradu papira
+Q001880	rukovatelj/rukovateljica strojem za doradu papira
+Q001881	pomoćni rukovatelj/pomoćna rukovateljica drobilicom za kemikalije
+Q001882	rukovatelj/rukovateljica drobilicom za kemikalije
+Q001883	pomoćni rukovatelj/pomoćna rukovateljica mlinom za kemikalije
+Q001884	rukovatelj/rukovateljica mlinom za kemikalije
+Q001885	pomoćni rukovatelj/pomoćna rukovateljica dispergatorom kemikalija
+Q001886	rukovatelj/rukovateljica dispergatorom kemikalija
+Q001887	rukovatelj/rukovateljica uređajem za otapanje kemikalija
+Q001888	rukovatelj/rukovateljica uređajem za zamješavanje kemikalija
+Q001889	pomoćni rukovatelj/pomoćna rukovateljica uređajem za granuliranje kemikalija
+Q001890	rukovatelj/rukovateljica uređajem za granuliranje kemikalija
+Q001891	rukovatelj/rukovateljica uređajem za kuhanje kemikalija
+Q001892	pomoćni rukovatelj/pomoćna rukovateljica sušarom za kemikalije
+Q001893	rukovatelj/rukovateljica sušarom za kemikalije
+Q001894	pomoćni rukovatelj/pomoćna rukovateljica ekstruderom za kemikalije
+Q001895	rukovatelj/rukovateljica ekstruderom za kemikalije
+Q001896	rukovatelj/rukovateljica uređajem za kalciniranje
+Q001897	pomoćni rukovatelj/pomoćna rukovateljica sterilizatorom
+Q001898	pomoćni rukovatelj/pomoćna rukovateljica peći za vapno
+Q001899	rukovatelj/rukovateljica peći za vapno
+Q001900	pomoćni rukovatelj/pomoćna rukovateljica peći za gips
+Q001901	rukovatelj/rukovateljica peći za gips
+Q001902	pomoćni rukovatelj/pomoćna rukovateljica uređajima za proizvodnju elektroda
+Q001903	rukovatelj/rukovateljica uređajima za proizvodnju elektroda
+Q001904	pomoćni rukovatelj/pomoćna rukovateljica strojem za bitumensko-katranske proizvode
+Q001905	rukovatelj/rukovateljica uređajem za bitumensko-katranske proizvode
+Q001906	rukovatelj/rukovateljica strojevima za toplinsku obradu kemikalija
+Q001907	pomoćni rukovatelj/pomoćna rukovateljica filtrima za kemikalije
+Q001908	rukovatelj/rukovateljica filtrima za kemikalije
+Q001909	pomoćni rukovatelj/pomoćna rukovateljica sitima za kemikalije
+Q001910	rukovatelj/rukovateljica sitima za kemikalije
+Q001911	pomoćni rukovatelj/pomoćna rukovateljica ekstraktorom kemikalija
+Q001912	rukovatelj/rukovateljica ekstraktorom kemikalija
+Q001913	rukovatelj/rukovateljica destilatorom
+Q001914	rukovatelj/rukovateljica uređajem za frakcijsku destilaciju drva
+Q001915	rukovatelj/rukovateljica uređajem za suhu destilaciju drva
+Q001916	pomoćni rukovatelj/pomoćna rukovateljica uređajem za sintezu kemikalija
+Q001917	rukovatelj/rukovateljica uređajem za sintezu kemikalija
+Q001918	pomoćni rukovatelj/pomoćna rukovateljica reaktorskim postrojenjem za proizvodnju kemikalija
+Q001919	rukovatelj/rukovateljica reaktorskim postrojenjem za proizvodnju kemikalija
+Q001920	rukovatelj/rukovateljica cjevovodnotransportnim uređajima
+Q001921	rukovatelj/rukovateljica postrojenjima u preradi nafte
+Q001922	rafinerijski punitelj/rafinerijska puniteljica
+Q001923	rukovatelj/rukovateljica uređajima za oplemenjivanje plina
+Q001924	rukovatelj/rukovateljica postrojenjem za oplemenjivanje plina, specijalizirani/specijalizirana
+Q001925	pomoćni rukovatelj/pomoćna rukovateljica uređajem za proizvodnju sintetičkih vlakana
+Q001926	poslužitelj/poslužiteljica uređaja na petrokemijskim postrojenjima
+Q001927	rukovatelj/rukovateljica uređajima na petrokemijskim postrojenjima
+Q001928	rukovatelj/rukovateljica petrokemijskim postrojenjem, specijalizirani/specijalizirana
+Q001929	rukovatelj/rukovateljica uređajem za elektrolizu vode
+Q001930	rukovatelj/rukovateljica uređajem za bijeljenje kemikalija
+Q001931	pomoćni rukovatelj/pomoćna rukovateljica prešama za kemikalije
+Q001932	rukovatelj/rukovateljica prešama za kemikalije
+Q001933	rukovatelj/rukovateljica pećima za sagorijevanje kemikalija
+Q001934	rukovatelj/rukovateljica opremom za preradu radioaktivnog materijala
+Q001935	rukovatelj/rukovateljica parnim turbinama
+Q001936	rukovatelj/rukovateljica vodnim turbinama
+Q001937	strojar/strojarka motora s unutrašnjim izgaranjem, specijalizirani/specijalizirana
+Q001938	rukovatelj/rukovateljica uklopnim postrojenjem
+Q001939	rukovatelj/rukovateljica uklopnim postrojenjem, specijalizirani/specijalizirana
+Q001940	rukovatelj/rukovateljica parnim kotlovima s ručnim loženjem
+Q001941	rukovatelj/rukovateljica parnim kotlovima s mehaniziranim loženjem
+Q001942	strojar/strojarka parnih kotlova s mehaniziranim loženjem, specijalizirani/specijalizirana
+Q001943	strojar/strojarka parnih kotlova s automatskom komandom, specijalizirani/specijalizirana
+Q001944	strojar/strojarka parnih strojeva
+Q001945	rukovatelj/rukovateljica pokretnim parnim kotlovima
+Q001946	strojar/strojarka pokretnih parnih kotlova, specijalizirani/specijalizirana
+Q001947	rukovatelj/rukovateljica spalioničkim postrojenjem
+Q001948	rukovatelj/rukovateljica postrojenjem za pripremu vode
+Q001949	rukovatelj/rukovateljica postrojenjem za pročišćavanje vode
+Q001950	rukovatelj/rukovateljica crpkama
+Q001951	strojar/strojarka crpnih stanica, specijalizirani/specijalizirana (osim nafte i prirodnog plina)
+Q001952	higijeničar/higijeničarka vodoopskrbe
+Q001953	strojar/strojarka kompresorskih stanica, specijalizirani/specijalizirana
+Q001954	rukovatelj/rukovateljica rashladnim postrojenjem
+Q001955	strojar/strojarka rashladnog postrojenja, specijalizirani/specijalizirana
+Q001956	rukovatelj/rukovateljica postrojenjem za ventilaciju i klimatizaciju
+Q001957	rukovatelj/rukovateljica filtrom za pročišćavanje plinova
+Q001958	rukovatelj/rukovateljica robotom, specijalizirani/specijalizirana
+Q001959	rukovatelj/rukovateljica automatiziranom montažnom linijom, specijalizirani/specijalizirana
+Q001960	rukovatelj/rukovateljica strojem za piljenje kovina
+Q001961	rukovatelj/rukovateljica strojnim škarama za rezanje kovina
+Q001962	rukovatelj/rukovateljica tokarilicom kovina
+Q001963	rukovatelj/rukovateljica glodalicom kovina
+Q001964	rukovatelj/rukovateljica strojem za graviranje kovina
+Q001965	rukovatelj/rukovateljica strojem za glodanje žljebova
+Q001966	rukovatelj/rukovateljica blanjalicom kovina
+Q001967	rukovatelj/rukovateljica strojem za brušenje kovina
+Q001968	rukovatelj/rukovateljica uređajem za poliranje kovina
+Q001969	rukovatelj/rukovateljica strojem za honanje
+Q001970	rukovatelj/rukovateljica oštrilicom alata
+Q001971	rukovatelj/rukovateljica uređajem za zavarivanje plamenom
+Q001972	rukovatelj/rukovateljica uređajem za rezanje plamenom
+Q001973	rukovatelj/rukovateljica strojem za jetkanje kovina
+Q001974	rukovatelj/rukovateljica strojem za proizvodnju kotlova
+Q001975	rukovatelj/rukovateljica uređajem za izradu metalne galanterije
+Q001976	rukovatelj/rukovateljica uređajem za izradu žičanih mreža i tkanina
+Q001977	rukovatelj/rukovateljica strojem za proizvodnju nakita
+Q001978	rukovatelj/rukovateljica strojem za elektroerodiranje
+Q001979	rukovatelj/rukovateljica brojčano upravljanim strojem za obradu kovina
+Q001980	rukovatelj/rukovateljica uređajem za zamješavanje betona
+Q001981	rukovatelj/rukovateljica strojem za lijevanje betona
+Q001982	rukovatelj/rukovateljica uređajem za izradu betonskih proizvoda
+Q001983	rukovatelj/rukovateljica uređajem za izradu proizvoda od porobetona
+Q001984	rukovatelj/rukovateljica uređajem za azbestnocementne proizvode
+Q001985	rukovatelj/rukovateljica uređajem za gipsane ploče
+Q001986	rukovatelj/rukovateljica uređajem za proizvode od polimernog betona
+Q001987	rukovatelj/rukovateljica linijom za proizvodnju kamene vune
+Q001988	pomoćni rukovatelj/pomoćna rukovateljica strojevima za obradu kamena
+Q001989	rukovatelj/rukovateljica strojevima za obradu kamena
+Q001990	rukovatelj/rukovateljica strojem za farmaceutske proizvode
+Q001991	rukovatelj/rukovateljica strojem za kozmetičke proizvode
+Q001992	rukovatelj/rukovateljica postrojenjem za kozmetičke proizvode, specijalizirani/specijalizirana
+Q001993	pomoćni rukovatelj/pomoćna rukovateljica strojem za peraća sredstva
+Q001994	rukovatelj/rukovateljica postrojenjem za peraća sredstva, specijalizirani/specijalizirana
+Q001995	rukovatelj/rukovateljica destilatorom aroma i parfema
+Q001996	rukovatelj/rukovateljica uređajem za eksploziv
+Q001997	pomoćni rukovatelj/pomoćna rukovateljica uređajem za streljivo
+Q001998	rukovatelj/rukovateljica uređajem za streljivo, specijalizirani/specijalizirana
+Q001999	sastavljač streljiva, specijalizirani/sastavljačica streljiva, specijalizirana
+Q002000	rukovatelj/rukovateljica uređajem za pirotehničke proizvode
+Q002001	rukovatelj/rukovateljica uređajem za pripremu smjese za šibice
+Q002002	rukovatelj/rukovateljica uređajem za izradu šibica
+Q002003	rukovatelj/rukovateljica uređajem za pjeskarenje kovina
+Q002004	rukovatelj/rukovateljica uređajem za odmašćivanje kovina
+Q002005	rukovatelj/rukovateljica uređajem za uranjanje kovina
+Q002006	galvanizer/galvanizerka
+Q002007	rukovatelj/rukovateljica uređajem za eloksiranje
+Q002008	rukovatelj/rukovateljica uređajem za fosfatiziranje kovina
+Q002009	rukovatelj/rukovateljica uređajem za elektrolizu
+Q002010	rukovatelj/rukovateljica uređajem za emajliranje
+Q002011	rukovatelj/rukovateljica uređajem za razvijanje filmova
+Q002012	rukovatelj/rukovateljica uređajem za izradu fotografija
+Q002013	rukovatelj/rukovateljica uređajem za proizvodnju olovaka
+Q002014	rukovatelj/rukovateljica uređajem za proizvodnju školskog pribora
+Q002015	pomoćni rukovatelj/pomoćna rukovateljica strojevima za proizvodnju soli
+Q002016	rukovatelj/rukovateljica strojevima za proizvodnju soli
+Q002017	pomoćni rukovatelj/pomoćna rukovateljica uređajem za vulkaniziranje
+Q002018	rukovatelj/rukovateljica uređajem za vulkaniziranje
+Q002019	pomoćni rukovatelj/pomoćna rukovateljica strojem za doradu gumenih proizvoda
+Q002020	rukovatelj/rukovateljica miješalicom za granulat plastike
+Q002021	rukovatelj/rukovateljica mlinom za plastiku
+Q002022	rukovatelj/rukovateljica strojem za brizganje polimera
+Q002023	pomoćni rukovatelj/pomoćna rukovateljica strojem za puhanje polimera
+Q002024	rukovatelj/rukovateljica strojem za puhanje polimera
+Q002025	rukovatelj/rukovateljica prešom za polimere
+Q002026	rukovatelj/rukovateljica strojem za injekcijsko prešanje polimera
+Q002027	rukovatelj/rukovateljica strojem za rotolijev polimera
+Q002028	rukovatelj/rukovateljica strojem za toplo oblikovanje polimera
+Q002029	rukovatelj/rukovateljica strojem za izradu gumba
+Q002030	rukovatelj/rukovateljica tračnom pilom
+Q002031	rukovatelj/rukovateljica kružnom pilom
+Q002032	rukovatelj/rukovateljica blanjalicom za drvo
+Q002033	rukovatelj/rukovateljica bušilicom za drvo
+Q002034	rukovatelj/rukovateljica strojem za dubljenje rupa u drvu
+Q002035	rukovatelj/rukovateljica drvotokarskim strojem
+Q002036	rukovatelj/rukovateljica strojem za brušenje i poliranje drva
+Q002037	rezač/rezačica drvenih figura
+Q002038	rukovatelj/rukovateljica strojem za obrađivanje i obljepljivanje drva
+Q002039	rukovatelj/rukovateljica uređajem za kondicioniranje drva
+Q002040	rukovatelj/rukovateljica brojčano upravljanim drvoobrađivačkim strojem, specijalizirani/specijalizirana
+Q002041	rukovatelj/rukovateljica uređajima u kemigrafiji
+Q002042	rukovatelj/rukovateljica uređajima u reprofotografiji
+Q002043	rukovatelj/rukovateljica uređajima u slovoljevaonici
+Q002044	rukovatelj/rukovateljica fleksotiskarskim strojem
+Q002045	rukovatelj/rukovateljica tiskarskim strojem
+Q002046	rukovatelj/rukovateljica knjigoveškim strojevima
+Q002047	rukovatelj/rukovateljica strojem za izradu kuverata
+Q002048	rukovatelj/rukovateljica strojem za izradu vrećica
+Q002049	rukovatelj/rukovateljica strojem za preradu papira
+Q002050	rukovatelj/rukovateljica strojevima za predenje
+Q002051	rukovatelj/rukovateljica strojevima za netkani tekstil
+Q002052	rukovatelj/rukovateljica strojevima za užad
+Q002053	rukovatelj/rukovateljica strojevima za pletenje
+Q002054	rukovatelj/rukovateljica strojevima za vezenje
+Q002055	rukovatelj/rukovateljica strojem za ravno šivanje odjeće
+Q002056	rukovatelj/rukovateljica posebnim strojevima za šivanje odjeće
+Q002057	pomoćni rukovatelj/pomoćna rukovateljica šivaćim strojevima za tapetariju
+Q002058	rukovatelj/rukovateljica šivaćim strojevima za tapetariju
+Q002059	rukovatelj/rukovateljica šivaćim strojem za tekstil
+Q002060	rukovatelj/rukovateljica šivaćim strojem za kožu
+Q002061	rukovatelj/rukovateljica strojem za vezenje na tekstilu
+Q002062	rukovatelj/rukovateljica šivaćim strojem za obuću
+Q002063	rukovatelj/rukovateljica strojem za prošivanje potplata
+Q002064	rukovatelj/rukovateljica strojem za cijeđenje rublja
+Q002065	kemijski čistač, majstor/kemijska čistačica, majstorica
+Q002066	rukovatelj/rukovateljica strojem za bojadisanje tekstilnih vlakana
+Q002067	rukovatelj/rukovateljica strojem za tiskanje tekstila
+Q002068	rukovatelj/rukovateljica strojem za valjkanje tekstila
+Q002069	rukovatelj/rukovateljica strojem za čupavljenje tekstila
+Q002070	rukovatelj/rukovateljica strojem za šišanje tekstila
+Q002071	rukovatelj/rukovateljica tekstilnom prešom
+Q002072	rukovatelj/rukovateljica strojem za glačanje odjeće
+Q002073	rukovatelj/rukovateljica strojem za namatanje tekstila
+Q002074	rukovatelj/rukovateljica strojem za plastificiranje tekstila
+Q002075	rukovatelj/rukovateljica strojem za skidanje mesine
+Q002076	rukovatelj/rukovateljica strojem za struganje kože
+Q002077	rukovatelj/rukovateljica strojevima za sušenje kože
+Q002078	rukovatelj/rukovateljica strojevima za napinjanje kože
+Q002079	rukovatelj/rukovateljica strojevima za brušenje i četkanje kože
+Q002080	rukovatelj/rukovateljica strojevima za češljanje i šišanje krzna
+Q002081	rukovatelj/rukovateljica strojevima za glačanje i ravnanje kože
+Q002082	rukovatelj/rukovateljica strojem za lomljenje lica kože
+Q002083	rukovatelj/rukovateljica strojem za mekšanje kože
+Q002084	rukovatelj/rukovateljica strojem za mjerenje kože
+Q002085	rukovatelj/rukovateljica strojevima za pokrivne slojeve kože
+Q002086	rukovatelj/rukovateljica strojevima za doradu potplatnih koža
+Q002087	rukovatelj/rukovateljica kožarsko-krznarskim strojevima
+Q002088	poslužitelj/poslužiteljica stroja za gradiranje obućarskih šablona
+Q002089	rukovatelj/rukovateljica strojem za navlačenje gornjišta obuće
+Q002090	pomoćni rukovatelj/pomoćna rukovateljica strojem za prešanje dijelova obuće
+Q002091	pomoćni rukovatelj/pomoćna rukovateljica strojem za brizganje potplata na obuću
+Q002092	rukovatelj/rukovateljica obućarskim strojevima
+Q002093	rukovatelj/rukovateljica strojevima za izradu tuljaka i šešira
+Q002094	rukovatelj/rukovateljica uređajima za obradu ribe
+Q002095	rukovatelj/rukovateljica strojevima za topljenje masti
+Q002096	rukovatelj/rukovateljica uređajima za izradu kobasica
+Q002097	rukovatelj/rukovateljica strojevima za preradu ribe
+Q002098	poslužitelj/poslužiteljica strojeva u preradi mesa i ribe
+Q002099	rukovatelj/rukovateljica uređajem za obradu mlijeka
+Q002100	rukovatelj/rukovateljica strojem za konzerviranje mlijeka
+Q002101	industrijski obrađivač mlijeka, specijalizirani/industrijska obrađivačica mlijeka, specijalizirana
+Q002102	rukovatelj/rukovateljica postrojenjem za preradu mlijeka
+Q002103	rukovatelj/rukovateljica postrojenjem za proizvodnju mliječne dječje hrane
+Q002104	rukovatelj/rukovateljica uređajem za hlađenje mliječnih proizvoda
+Q002105	rukovatelj/rukovateljica uređajem za pasterizaciju mliječnih proizvoda
+Q002106	rukovatelj/rukovateljica strojevima za mliječne proizvode
+Q002107	sirar, industrijski/sirarica, industrijska
+Q002108	prerađivač mlijeka, specijalizirani/prerađivačica mlijeka, specijalizirana
+Q002109	poslužitelj/poslužiteljica uređaja u preradi mlijeka
+Q002110	rukovatelj/rukovateljica strojevima za ljuštenje žita
+Q002111	rukovatelj/rukovateljica strojevima za mljevenje žita
+Q002112	rukovatelj/rukovateljica mlinskim sitima
+Q002113	rukovatelj/rukovateljica mlinskim valjcima
+Q002114	rukovatelj/rukovateljica mlinom za začine
+Q002115	rukovatelj/rukovateljica silosnim uređajima
+Q002116	poslužitelj/poslužiteljica strojeva za mljevenje prehrambenih proizvoda
+Q002117	rukovatelj/rukovateljica strojevima za proizvodnju stočne hrane
+Q002118	rukovatelj/rukovateljica strojevima za proizvodnju dijetne hrane
+Q002119	rukovatelj/rukovateljica strojevima za žitne proizvode
+Q002120	rukovatelj/rukovateljica strojevima u pekarstvu
+Q002121	rukovatelj/rukovateljica strojevima za proizvodnju tjestenine
+Q002122	rukovatelj/rukovateljica strojevima za proizvodnju keksa
+Q002123	rukovatelj/rukovateljica strojevima za slastice i peciva
+Q002124	rukovatelj/rukovateljica strojevima za proizvodnju kolača
+Q002125	rukovatelj/rukovateljica strojevima za proizvodnju žvakaćih guma
+Q002126	rukovatelj/rukovateljica strojevima za pranje voća i povrća
+Q002127	rukovatelj/rukovateljica uređajima za sušenje voća i povrća
+Q002128	rukovatelj/rukovateljica uređajima za steriliziranje konzerva voća i povrća
+Q002129	rukovatelj/rukovateljica strojevima za preradu voća i povrća
+Q002130	rukovatelj/rukovateljica strojevima za proizvodnju dječje hrane
+Q002131	rukovatelj/rukovateljica strojevima za mljevenje uljarične ljuske
+Q002132	rukovatelj/rukovateljica strojevima za mljevenje uljnog sjemena
+Q002133	pomoćni rukovatelj/pomoćna rukovateljica strojevima za proizvodnju jestivog ulja
+Q002134	rukovatelj/rukovateljica strojevima za proizvodnju jestivog ulja
+Q002135	rukovatelj/rukovateljica strojevima za rafiniranje ulja i masti
+Q002136	rukovatelj/rukovateljica strojevima za proizvodnju margarina
+Q002137	uzorkovač/uzorkovačica repe
+Q002138	pomoćni rukovatelj/pomoćna rukovateljica postrojenjem za rezanje repe
+Q002139	rukovatelj/rukovateljica postrojenjem za rezanje repe
+Q002140	rukovatelj/rukovateljica postrojenjem za ekstrakciju šećera
+Q002141	rukovatelj/rukovateljica postrojenjem za čišćenje soka
+Q002142	rukovatelj/rukovateljica postrojenjem za filtriranje sirupa
+Q002143	rukovatelj/rukovateljica postrojenjem za koncentriranje sokova
+Q002144	rukovatelj/rukovateljica postrojenjem za kristalizaciju šećera
+Q002145	rukovatelj/rukovateljica postrojenjem za tekući šećer
+Q002146	rukovatelj/rukovateljica postrojenjem za separaciju škroba
+Q002147	rukovatelj/rukovateljica postrojenjem za dobivanje škrobnog sirupa
+Q002148	rukovatelj/rukovateljica postrojenjem za rafiniranje škroba
+Q002149	rukovatelj/rukovateljica postrojenjem za dobivanje glutena
+Q002150	poslužitelj/poslužiteljica strojeva u proizvodnji šećera
+Q002151	rukovatelj/rukovateljica postrojenjem za proizvodnju piva
+Q002152	rukovatelj/rukovateljica uređajima za proizvodnju bezalkoholnih pića
+Q002153	rukovatelj/rukovateljica postrojenjem za proizvodnju octa
+Q002154	rukovatelj/rukovateljica uređajima za proizvodnju pića
+Q002155	sastavljač/sastavljačica brodske pomoćne opreme
+Q002156	sastavljač/sastavljačica motora
+Q002157	sastavljač/sastavljačica pružnih vozila
+Q002158	sastavljač/sastavljačica motornih vozila
+Q002159	sastavljač/sastavljačica dizalica
+Q002160	sastavljač/sastavljačica parnih kotlova
+Q002161	sastavljač/sastavljačica parnih turbina
+Q002162	sastavljač/sastavljačica plinskih turbina
+Q002163	sastavljač/sastavljačica baterija
+Q002164	pomoćni elektronamatač/pomoćna elektronamatačica
+Q002165	elektronamatač/elektronamatačica
+Q002166	elektronamatač, specijalizirani/elektronamatačica, specijalizirana
+Q002167	impregnirač/impregniračica elektromehaničkih komponenta i sklopova
+Q002168	sastavljač/sastavljačica elektromotora
+Q002169	sastavljač/sastavljačica malih transformatora
+Q002170	sastavljač/sastavljačica žarulja
+Q002171	poslužitelj/poslužiteljica stroja za proizvodnju žarulja
+Q002172	sastavljač/sastavljačica rasvjetnih tijela
+Q002173	sastavljač/sastavljačica elektrotehničkih elemenata
+Q002174	sastavljač/sastavljačica elektrožičanih snopova
+Q002175	sastavljač/sastavljačica elektromehaničkih komponenta i sklopova
+Q002176	sastavljač/sastavljačica tiskanih ploča
+Q002177	sastavljač/sastavljačica elektroničkih sklopova
+Q002178	sastavljač/sastavljačica telefonskog aparata
+Q002179	sastavljač/sastavljačica telekomunikacijske opreme
+Q002180	sastavljač/sastavljačica elektroničke opreme
+Q002181	sastavljač/sastavljačica metalnog pokućstva
+Q002182	sastavljač/sastavljačica metalnih proizvoda
+Q002183	sastavljač/sastavljačica plastičnih proizvoda
+Q002184	sastavljač/sastavljačica gumenih proizvoda
+Q002185	sastavljač/sastavljačica drvenih proizvoda
+Q002186	sastavljač/sastavljačica građevne stolarije
+Q002187	rukovatelj/rukovateljica linijom za sastavljanje tapeciranih proizvoda
+Q002188	sastavljač/sastavljačica naočala
+Q002189	sastavljač/sastavljačica proizvoda od različitih materijala
+Q002190	pomoćni izrađivač/pomoćna izrađivačica silicijskih ploča
+Q002191	rukovatelj/rukovateljica uređajem za proizvodnju silicijskih ploča
+Q002192	rukovatelj/rukovateljica strojem za presvlačenje električnih vodova
+Q002193	rukovatelj/rukovateljica strojem za obilježavanje robe
+Q002194	rukovatelj/rukovateljica strojem za dodavanje financijskih markica
+Q002195	rukovatelj/rukovateljica strojem za hermetičko zatvaranje
+Q002196	rukovatelj/rukovateljica strojem za pranje boca
+Q002197	rukovatelj/rukovateljica postrojenjem za punjenje boca
+Q002198	rukovatelj/rukovateljica postrojenjem za punjenje boca tehničkim plinom
+Q002199	rukovatelj/rukovateljica strojem za proizvodnju tableta
+Q002200	rukovatelj/rukovateljica strojem za postavljanje cijevne instalacije
+Q002201	rukovatelj/rukovateljica strojem za postavljanje električnih kabela
+Q002202	rukovatelj/rukovateljica opremom u zabavnom parku
+Q002203	rukovatelj/rukovateljica vagom
+Q002204	rukovatelj/rukovateljica postrojenjem za pranje cisterna
+Q002205	rukovatelj/rukovateljica uređajem za pranje vozila
+Q002206	pomoćnik/pomoćnica strojovođe dizelskog vučnog vozila
+Q002207	strojovođa/strojovotkinja dizelskog vučnog vozila
+Q002208	dispečer/dispečerica vuče vlakova
+Q002209	pomoćnik/pomoćnica strojovođe elektrovučnog vozila
+Q002210	strojovođa/strojovotkinja elektrovučnog vozila
+Q002211	vozač/vozačica motornih pružnih vozila
+Q002212	pregledač/pregledačica vagona
+Q002213	prometnotransportni radnik/prometnotransportna radnica
+Q002214	vozač/vozačica taksija
+Q002215	vozač/vozačica lakog dostavnog vozila
+Q002216	vozač/vozačica autobusa
+Q002217	vozač/vozačica tramvaja
+Q002218	vozač/vozačica trolejbusa
+Q002219	vozač/vozačica teretnog vozila
+Q002220	vozač/vozačica teretnog vozila s prikolicom
+Q002221	vozač/vozačica tegljača s poluprikolicom
+Q002222	vozač/vozačica traktora
+Q002223	vozač/vozačica opasnih tvari
+Q002224	poljoprivredni traktorist/poljoprivredna traktoristica
+Q002225	šumski traktorist/šumska traktoristica
+Q002226	vozač/vozačica poljoprivrednih strojeva
+Q002227	vozač/vozačica teške šumske mehanizacije
+Q002228	vozač/vozačica strojeva za iskop
+Q002229	vozač/vozačica strojeva za planiranje
+Q002230	vozač/vozačica strojeva za ugradbu betonskih kolnika
+Q002231	vozač/vozačica strojeva za zemljane radove
+Q002232	rukovatelj/rukovateljica strojevima za iskop
+Q002233	rukovatelj/rukovateljica strojevima za iskop tunela
+Q002234	rukovatelj/rukovateljica strojevima za planiranje
+Q002235	rukovatelj/rukovateljica strojevima za injektiranje tla
+Q002236	rukovatelj/rukovateljica strojevima za zabijanje pilota
+Q002237	rukovatelj/rukovateljica strojevima za kesonsko temeljenje
+Q002238	rukovatelj/rukovateljica strojevima za izradu dijafragme
+Q002239	rukovatelj/rukovateljica strojevima za ugradbu betonskih kolnika
+Q002240	rukovatelj/rukovateljica betonskom crpkom
+Q002241	vozač/vozačica strojeva za čišćenje prometnica
+Q002242	vozač/vozačica vozila za vakumiranje cjevovoda
+Q002243	rukovatelj/rukovateljica žičarom
+Q002244	rukovatelj/rukovateljica uspinjačom
+Q002245	rukovatelj/rukovateljica vitlom
+Q002246	rukovatelj/rukovateljica transportnom trakom
+Q002247	rukovatelj/rukovateljica dizalom
+Q002248	rukovatelj/rukovateljica rudarskim izvoznim postrojenjem
+Q002249	rukovatelj/rukovateljica uređajima brane
+Q002250	rukovatelj/rukovateljica pomičnim mostom
+Q002251	rukovatelj/rukovateljica pokretnom dizalicom
+Q002252	vezač/vezačica tereta
+Q002253	rukovatelj/rukovateljica obalnom dizalicom
+Q002254	rukovatelj/rukovateljica lučkom mehanizacijom
+Q002255	lučkotransportni radnik/lučkotransportna radnica
+Q002256	rukovatelj/rukovateljica dizalicom
+Q002257	vozač/vozačica viličara
+Q002258	mornar/mornarka
+Q002259	kormilar/kormilarka
+Q002260	vođa palube
+Q002261	brodovođa/brodovotkinja unutarnje plovidbe
+Q002262	brodski mazač/brodska mazačica
+Q002263	brodski motorist/brodska motoristica
+Q002264	vođa stroja unutarnje plovidbe
+Q002265	mornar/mornarka marine
+Q002266	mornar motorist/mornarka motoristica
+Q002267	skelar/skelarica
+Q002268	vođa maloga plovećeg radnog stroja
+Q002269	vozač/vozačica taksija na vodi
+Q002270	vođa palube na platformi
+Q002271	rukovatelj/rukovateljica uređajima na palubi platforme
+Q002272	svjetioničar/svjetioničarka
+Q002273	prodavač/prodavačica na priredbama
+Q002274	prodavač/prodavačica po kućama
+Q002275	čistač/čistačica obuće
+Q002276	plakatar/plakatarka
+Q002277	sobarica
+Q002278	kuhinjski radnik/kuhinjska radnica
+Q002279	glačarica
+Q002280	zvonar/zvonarka
+Q002281	crkvenjak/crkvenjakinja
+Q002282	ručni perač/ručna peračica automobila
+Q002283	perač/peračica prozora
+Q002284	nosač/nosačica
+Q002285	poslužitelj/poslužiteljica u golfu
+Q002286	čuvar/čuvarica prtljage
+Q002287	poslužitelj/poslužiteljica zabavnog parka
+Q002288	poslužitelj/poslužiteljica zahoda
+Q002289	biljeter/biljeterka
+Q002290	očitač/očitačica brojila plina/vode/struje
+Q002291	praznitelj/prazniteljica prodajnih automata
+Q002292	utovarivač/utovarivačica otpada
+Q002293	čistač/čistačica ulica
+Q002294	perač/peračica ulica
+Q002295	kupališni radnik/kupališna radnica
+Q002296	živoder/živoderka
+Q002297	voćarski radnik/voćarska radnica
+Q002298	vinogradarski radnik/vinogradarska radnica
+Q002299	berač/beračica ljekovitog bilja
+Q002300	stočarski radnik/stočarska radnica
+Q002301	pastir/pastirica
+Q002302	pčelarski radnik/pčelarska radnica
+Q002303	šumski radnik/šumska radnica
+Q002304	berač/beračica šumskih plodova
+Q002305	sjekač/sjekačica šiba i trske
+Q002306	radnik/radnica u lovištu
+Q002307	rudarski radnik/rudarska radnica
+Q002308	radnik/radnica u kamenolomu
+Q002309	solanski radnik/solanska radnica
+Q002310	radnik/radnica u glinokopu
+Q002311	radnik/radnica u šljunčari
+Q002312	radnik/radnica za uređenje kaptaža
+Q002313	cestarski radnik/cestarska radnica
+Q002314	radnik/radnica u asfaltirnici
+Q002315	radnik/radnica niskogradnje
+Q002316	zidarski radnik/zidarska radnica
+Q002317	tesarski radnik/tesarska radnica
+Q002318	radnik betonirac/radnica betonirka
+Q002319	armirački radnik/armiračka radnica
+Q002320	ručni pakirer/ručna pakirerka
+Q002321	ručni perač/ručna peračica ambalaže
+Q002322	radnik/radnica na montaži
+Q002323	ručni savijač/ručna savijačica kovina
+Q002324	radnik/radnica na izradi namota
+Q002325	drvoprerađivački radnik/drvoprerađivačka radnica
+Q002326	grafički radnik/grafička radnica
+Q002327	keramički radnik/keramička radnica
+Q002328	radnik/radnica u ciglarstvu
+Q002329	radnik/radnica u izradi građevnih materijala
+Q002330	staklarski radnik/staklarska radnica
+Q002331	radnik/radnica na pakiranju tehničkih plinova
+Q002332	radnik/radnica u naftno-kemijskoj proizvodnji
+Q002333	radnik/radnica na energetskom postrojenju
+Q002334	kemijski radnik/kemijska radnica
+Q002335	čitač/čitačica natpisa
+Q002336	obućarski radnik/obućarska radnica
+Q002337	kožarski radnik/kožarska radnica
+Q002338	radnik/radnica na razvrstavanju otpada
+Q002339	kočijaš/kočijašica
+Q002340	samaraš/samarašica
+Q002341	vozač/vozačica ručnih kolica
+Q002342	lučki radnik/lučka radnica
+Q002343	skladišni radnik/skladišna radnica
+Q002344	trgovački radnik/trgovačka radnica
+Q002345	radnik/radnica u zdravstvenoj ustanovi
+Q002346	prevozitelj/prevoziteljica brodicom na vesla
+Q002347	mlađi mornar/mlađa mornarka

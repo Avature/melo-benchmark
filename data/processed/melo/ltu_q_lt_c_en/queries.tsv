@@ -1,0 +1,3849 @@
+Q000001	Generolas leitenantas {karinės sausumos pajėgos}
+Q000002	Generolas majoras {karinės sausumos pajėgos}
+Q000003	Brigados generolas {karinės sausumos pajėgos}
+Q000004	Pulkininkas {karinės sausumos pajėgos}
+Q000005	Pulkininkas leitenantas {karinės sausumos pajėgos}
+Q000006	Majoras {karinės sausumos pajėgos}
+Q000007	Kapitonas {karinės sausumos pajėgos}
+Q000008	Vyresnysis leitenantas {karinės sausumos pajėgos}
+Q000009	Leitenantas {karinės sausumos pajėgos}
+Q000010	Generolas leitenantas {karinės oro pajėgos}
+Q000011	Generolas majoras {karinės oro pajėgos}
+Q000012	Brigados generolas {karinės oro pajėgos}
+Q000013	Pulkininkas {karinės oro pajėgos}
+Q000014	Pulkininkas leitenantas {karinės oro pajėgos}
+Q000015	Majoras {karinės oro pajėgos}
+Q000016	Kapitonas {karinės oro pajėgos}
+Q000017	Vyresnysis leitenantas {karinės oro pajėgos}
+Q000018	Leitenantas {karinės oro pajėgos}
+Q000019	Viceadmirolas {karinės jūrų pajėgos}
+Q000020	Kontradmirolas {karinės jūrų pajėgos}
+Q000021	Flotilės admirolas {karinės jūrų pajėgos}
+Q000022	Jūrų kapitonas {karinės jūrų pajėgos}
+Q000023	Komandoras {karinės jūrų pajėgos}
+Q000024	Komandoras leitenantas {karinės jūrų pajėgos}
+Q000025	Kapitonas leitenantas {karinės jūrų pajėgos}
+Q000026	Vyresnysis leitenantas {karinės jūrų pajėgos}
+Q000027	Leitenantas {karinės jūrų pajėgos}
+Q000028	Vyresnysis puskarininkis {karinės sausumos pajėgos}
+Q000029	Puskarininkis {karinės sausumos pajėgos}
+Q000030	Jaunesnysis puskarininkis {karinės sausumos pajėgos}
+Q000031	Viršila {karinės sausumos pajėgos}
+Q000032	Vyresnysis seržantas {karinės sausumos pajėgos}
+Q000033	Seržantas {karinės sausumos pajėgos}
+Q000034	Jaunesnysis seržantas {karinės sausumos pajėgos}
+Q000035	Vyresnysis puskarininkis {karinės oro pajėgos}
+Q000036	Puskarininkis {karinės oro pajėgos}
+Q000037	Jaunesnysis puskarininkis {karinės oro pajėgos}
+Q000038	Viršila {karinės oro pajėgos}
+Q000039	Vyresnysis seržantas {karinės oro pajėgos}
+Q000040	Seržantas {karinės oro pajėgos}
+Q000041	Jaunesnysis seržantas {karinės oro pajėgos}
+Q000042	Vyresnysis puskarininkis {karinės jūrų pajėgos}
+Q000043	Puskarininkis {karinės jūrų pajėgos}
+Q000044	Jaunesnysis puskarininkis {karinės jūrų pajėgos}
+Q000045	Laivūnas {karinės jūrų pajėgos}
+Q000046	Vyresnysis seržantas {karinės jūrų pajėgos}
+Q000047	Seržantas {karinės jūrų pajėgos}
+Q000048	Jaunesnysis seržantas {karinės jūrų pajėgos}
+Q000049	Grandinis {karinės sausumos pajėgos}
+Q000050	Eilinis {karinės sausumos pajėgos}
+Q000051	Grandinis {karinės oro pajėgos}
+Q000052	Eilinis {karinės oro pajėgos}
+Q000053	Grandinis {karinės jūrų pajėgos}
+Q000054	Jūreivis {karinės jūrų pajėgos}
+Q000055	Respublikos Prezidentas
+Q000056	Seimo narys
+Q000057	Ministras Pirmininkas
+Q000058	Ministras
+Q000059	Savivaldybės tarybos narys
+Q000060	Meras
+Q000061	Seimo kancleris
+Q000062	Respublikos Prezidento kanceliarijos kancleris
+Q000063	Teismo (išskyrus apygardos teismą) kancleris
+Q000064	Generalinės prokuratūros kancleris
+Q000065	Seimo Pirmininko sekretoriato vadovas
+Q000066	Seimo Pirmininko patarėjas
+Q000067	Institucijos ar įstaigos padalinio vadovas (Seimui ir (ar) Respublikos Prezidentui atskaitingos institucijos"," vyriausybei atskaitingos įstaigos"," ministerijos struktūrinio padalinio vadovas)
+Q000068	Respublikos Prezidento patarėjas
+Q000069	Respublikos Prezidento atstovas ypatingiems pavedimams
+Q000070	Gynybos patarėjas
+Q000071	Ministro Pirmininko sekretoriato vadovas
+Q000072	Ministro Pirmininko patarėjas
+Q000073	Viceministras
+Q000074	Ministro patarėjas
+Q000075	Ministro Pirmininko kancleris
+Q000076	Vyriausiasis prokuroras (išskyrus apygardos ir apylinkės vyriausiąjį prokurorą)
+Q000077	Mero patarėjas
+Q000078	Ambasadorius
+Q000079	Vyriausybės įgaliotinis
+Q000080	Administracijos direktorius
+Q000081	Ministerijos kancleris
+Q000082	Vyriausybės atstovas Europos žmogaus teisių teisme
+Q000083	Komisijos ar tarybos sekretoriato vadovas
+Q000084	Teismo  (išskyrus apygardos ir apylinkės teismą) pirmininko patarėjas
+Q000085	Teismo (išskyrus apygardos ir apylinkės teismą) pirmininkas
+Q000086	Generalinis prokuroras
+Q000087	Generalinės prokuratūros padalinio vadovas
+Q000088	Teismo  (išskyrus apygardos ir apylinkės teismą) padalinio vadovas
+Q000089	Seniūnijos seniūnas
+Q000090	Viešojo administravimo įstaigos vadovas (įstaigos prie ministerijos ar pan. vadovas)
+Q000091	Įstaigos vadovas {neišvardytų sričių įstaigos}
+Q000092	Žemės ūkio bendrovės vadovas
+Q000093	Miškų urėdas
+Q000094	Žuvininkystės įmonės vadovas
+Q000095	Miškų ūkio įmonės vadovas
+Q000096	Medžioklės ūkio [įmonės] vadovas
+Q000097	Gamybos įmonės vadovas
+Q000098	Elektrinės vadovas
+Q000099	Energetikos įmonės vadovas
+Q000100	Dujų tiekimo įmonės vadovas
+Q000101	Vandens tiekimo įmonės vadovas
+Q000102	Spaustuvės vadovas
+Q000103	Leidybos įmonės vadovas
+Q000104	Statybos įmonės vadovas
+Q000105	Prekybos įmonės vadovas
+Q000106	Mažmeninės prekybos įmonės vadovas
+Q000107	Didmeninės prekybos įmonės vadovas
+Q000108	Vaistinės vadovas
+Q000109	Turgaus vadovas
+Q000110	Viešbučio vadovas
+Q000111	Restorano vadovas
+Q000112	Maitinimo įmonės vadovas
+Q000113	Transporto įmonės vadovas
+Q000114	Ryšių įmonės vadovas
+Q000115	Oro [jūrų"," upių] uosto vadovas
+Q000116	Civilinės aviacijos bendrovės [įmonės] vadovas
+Q000117	Pašto vadovas
+Q000118	Sandėliavimo įmonės vadovas
+Q000119	Verslo paslaugų įmonės vadovas
+Q000120	Buitinių paslaugų įmonės vadovas
+Q000121	Atliekų tvarkymo įmonės vadovas
+Q000122	Aukštosios mokyklos vadovas
+Q000123	Aukštosios mokyklos kancleris
+Q000124	Kultūros įstaigos vadovas
+Q000125	Švietimo įstaigos vadovas
+Q000126	Sveikatos priežiūros įstaigos vadovas
+Q000127	Socialinio darbo įstaigos vadovas
+Q000128	Poilsio įstaigos vadovas
+Q000129	Sporto įstaigos vadovas
+Q000130	Kelionių agentūros vadovas
+Q000131	Organizacijos vadovas
+Q000132	Apygardos [apylinkės] teismo pirmininkas
+Q000133	Apygardos [apylinkės] vyriausiasis prokuroras
+Q000134	Apygardos teismo kancleris
+Q000135	Apygardos prokuratūros kancleris
+Q000136	Įmonės vadovas
+Q000137	Agentūros vadovas
+Q000138	Mokslinių tyrimų instituto vadovas
+Q000139	Koncertinės įstaigos vadovas
+Q000140	Laboratorijos vadovas
+Q000141	Muziejaus vadovas
+Q000142	Mokslinis sekretorius (dirbantis aukštojoje mokykloje ar mokslinio tyrimo institute)
+Q000143	Archyvo vadovas
+Q000144	Bankrutuojančios įmonės administratorius
+Q000145	Restruktūrizuojamos įmonės administratorius
+Q000146	Įmonės likvidatorius
+Q000147	Ekonomikos ir finansų direktorius
+Q000148	Ekonomikos padalinio vadovas
+Q000149	Ekonomikos ir finansų padalinio vadovas
+Q000150	Vyriausiasis ekonomistas
+Q000151	Mažosios verslo paslaugų  įmonės vadovas {nekilnojamojo turto operacijos"," nuoma ir išperkamoji nuoma}
+Q000152	Žmogiškųjų išteklių srities vadovai
+Q000153	Viešojo administravimo įstaigos padalinio vadovas (įstaigos prie ministerijos padalinio"," teritorinio padalinio"," jo struktūrinio padalinio vadovas)
+Q000154	Strateginio planavimo padalinio vadovas
+Q000155	Bendrojo planavimo padalinio vadovas
+Q000156	Siuvimo [fotografijos"," mezgimo ir kt.] ateljė direktorius
+Q000157	Pirties direktorius
+Q000158	Kirpyklos direktorius
+Q000159	Ritualinių paslaugų įmonės direktorius
+Q000160	Buitinių paslaugų padalinio vadovas
+Q000161	Valymo paslaugų padalinio vadovas
+Q000162	Asmens priežiūros paslaugų padalinio vadovas
+Q000163	Kapinių vedėjas
+Q000164	Darbų saugos padalinio vadovas
+Q000165	Darbų vadovas
+Q000166	Mažosios buitinių paslaugų įmonės  vadovas
+Q000167	Mažosios valymo ir tvarkymo paslaugų įmonės vadovas
+Q000168	Mažosios verslo paslaugų įmonės  vadovas {architektūros ir inžinerijos veikla"," techninis tikrinimas ir analizė}
+Q000169	Komercijos direktorius
+Q000170	Prekybos padalinio vadovas
+Q000171	Mažosios verslo paslaugų įmonės vadovas {pagrindinių buveinių veikla"," konsultacinė valdymo veikla}
+Q000172	Technikos direktorius
+Q000173	Techninis vadovas
+Q000174	Vyriausiasis konstruktorius
+Q000175	Žemės ūkio padalinio vadovas
+Q000176	Medienos ruošos padalinio vadovas
+Q000177	Sėklų stoties vadovas
+Q000178	Vyriausiasis agronomas
+Q000179	Vyriausiasis zootechnikas
+Q000180	Vyriausiasis inžinierius {žemės"," miškų"," medžioklės ūkis}
+Q000181	Miškų ūkio padalinio vadovas
+Q000182	Medžioklės padalinio vadovas
+Q000183	Girininkas
+Q000184	Vyriausiasis veterinarijos gydytojas
+Q000185	Medelyno [daigyno] vadovas
+Q000186	Veterinarijos gydyklos vadovas
+Q000187	Veterinarijos klinikos vadovas
+Q000188	Veterinarijos laboratorijos vadovas
+Q000189	Pasienio veterinarijos posto vadovas
+Q000190	Vyriausiasis žuvininkas
+Q000191	Eksploatacijos direktorius
+Q000192	Gamybos vadovas
+Q000193	Elektros stoties viršininkas
+Q000194	Cecho [baro] viršininkas
+Q000195	Dirbtuvių viršininkas [vedėjas]
+Q000196	Vyriausiasis technologas
+Q000197	Vyriausiasis mechanikas
+Q000198	Vyriausiasis inžinierius
+Q000199	Vyriausiasis energetikas
+Q000200	Vyriausiasis radiologas
+Q000201	Vyriausiasis metrologas
+Q000202	Vyriausiasis hidrotechnikas
+Q000203	Vyriausiasis cecho [baro] inžinierius
+Q000204	Įmonės [cecho"," baro] pamainos viršininkas
+Q000205	Vyriausiasis dailininkas
+Q000206	Mažosios gavybos įmonės  vadovas
+Q000207	Statybos vadovai
+Q000208	Pašto padalinio vadovas
+Q000209	Geležinkelio stoties vadovas
+Q000210	Sandėlio vadovas
+Q000211	Krovinių padalinio vadovas
+Q000212	Geležinkelio ruožo viršininkas
+Q000213	Mažosios transporto įmonės  vadovas
+Q000214	Mažosios  transporto paslaugų įmonės vadovas
+Q000215	Traukinio viršininkas
+Q000216	Autobusų stoties vadovas
+Q000217	Ryšių padalinio vadovas
+Q000218	Informacinių technologijų padalinio vadovas
+Q000219	Informatikos padalinio vadovas
+Q000220	Vaikų priežiūros paslaugų srities vadovai
+Q000221	Vaikų lopšelio [lopšelio-darželio"," darželio"," darželio-mokyklos] direktorius
+Q000222	Vaikų priežiūros dienos centro direktorius
+Q000223	Mažosios švietimo įstaigos  vadovas {ikimokyklinis ir priešmokyklinis ugdymas"," vaikų dienos priežiūra}
+Q000224	Sveikatinimo paslaugų srities vadovai
+Q000225	Pagyvenusių žmonių slaugos ir socialinių paslaugų įstaigos direktorius
+Q000226	Socialinio darbo įstaigos padalinio vadovas {slaugos ir socialinės paslaugos pagyvenusiems žmonėms}
+Q000227	Senelių globos namų ar pensionato direktorius
+Q000228	Slaugos namų direktorius
+Q000229	Mažosios socialinių paslaugų įstaigos  vadovas {slaugos ir socialinės paslaugos pagyvenusiems žmonėms}
+Q000230	Bendruomenės centro vadovas
+Q000231	Šeimos centro vadovas
+Q000232	Mažosios socialinių paslaugų įstaigos  vadovas {išskyrus slaugos ir socialines paslaugas pagyvenusiems žmonėms}
+Q000233	Švietimo padalinio [centro"," skyriaus] vadovas
+Q000234	Verslo paslaugų padalinio vadovas {finansinės ir draudimo paslaugos}
+Q000235	Draudimo bendrovės padalinio vadovas
+Q000236	Mažosios verslo paslaugų įmonės  vadovas {finansinės ir draudimo paslaugos}
+Q000237	Planetariumo direktorius
+Q000238	Bibliotekos direktorius [vedėjas]
+Q000239	Pamainos viršininkas [vadas]
+Q000240	Padalinio vadovas [viršininkas"," vadas]
+Q000241	Muziejaus direktorius [vedėjas]
+Q000242	Apygardos [apylinkės] teismo padalinio vadovas
+Q000243	Apygardos [apylinkės] prokuratūros padalinio vadovas
+Q000244	Viešbučio padalinio vadovas
+Q000245	Maitinimo padalinio (restorano"," baro"," kavinės"," valgyklos) vadovas
+Q000246	Maisto gamybos vedėjas
+Q000247	Mažosios maitinimo įmonės  (restorano"," baro"," kavinės"," valgyklos) vadovas
+Q000248	Parduotuvės padalinio vadovas
+Q000249	Mažmeninės prekybos padalinio vadovas
+Q000250	Didmeninės prekybos padalinio vadovas
+Q000251	Mažosios didmeninės prekybos įmonės  vadovas
+Q000252	Mažosios kultūros įstaigos vadovas (išskyrus muziejų"," meno galeriją"," biblioteką)
+Q000253	Sporto centro vadovas
+Q000254	Aukciono direktorius
+Q000255	Kontaktų centro vadovas
+Q000256	Observatorijos vadovas
+Q000257	Kelionių padalinio vadovas
+Q000258	Mažosios turizmo įmonės vadovas
+Q000259	Konferencijų centro direktorius
+Q000260	Kelionių agentūros direktorius
+Q000261	Astronomas
+Q000262	Klimatologas
+Q000263	Sinoptikas
+Q000264	Meteorologas
+Q000265	Meteorologas klimatologas
+Q000266	Orų prognozės meteorologas
+Q000267	Mokslo darbuotojas {meteorologija}
+Q000268	Chemikas
+Q000269	Chemikas {analizinė chemija}
+Q000270	Korozijos chemikas
+Q000271	Kristalografijos chemikas
+Q000272	Ploviklių chemikas
+Q000273	Dažiklių chemikas
+Q000274	Maisto pramonės chemikas
+Q000275	Stiklo chemikas
+Q000276	Chemikas {neorganinė chemija}
+Q000277	Odų chemikas
+Q000278	Metalurgijos chemikas
+Q000279	Chemikas {branduolinė chemija}
+Q000280	Chemikas {organinė chemija}
+Q000281	Dažų chemikas
+Q000282	Naftos perdirbimo chemikas
+Q000283	Farmacijos pramonės chemikas
+Q000284	Chemikas {fizikinė chemija}
+Q000285	Plastikų chemikas
+Q000286	Polimerų chemikas
+Q000287	Kokybės kontrolės chemikas
+Q000288	Gumos chemikas
+Q000289	Tekstilės chemikas
+Q000290	Kristalografas
+Q000291	Chemikas {organinė metalų chemija}
+Q000292	Spektroskopininkas
+Q000293	Mokslo darbuotojas {chemija}
+Q000294	Geodezininkas
+Q000295	Inžinerijos geologas
+Q000296	Mikropaleontologijos geologas
+Q000297	Kasybos geologas
+Q000298	Okeanografijos geologas
+Q000299	Stratigrafijos geologas
+Q000300	Geofizikas
+Q000301	Geomagnetizmo geofizikas
+Q000302	Geomorfologijos geofizikas
+Q000303	Hidrologijos geofizikas
+Q000304	Okeanografijos geofizikas
+Q000305	Seismologijos geofizikas
+Q000306	Hidrologas
+Q000307	Mikropaleontologas
+Q000308	Mineralogas
+Q000309	Geologas okeanografas
+Q000310	Geofizikas okeanografas
+Q000311	Paleontologas
+Q000312	Seismologas
+Q000313	Stratigrafas
+Q000314	Geologas
+Q000315	Hidrogeologijos inžinierius
+Q000316	Mokslo darbuotojas {geologija"," geofizika)
+Q000317	Hidrogeologinio gręžimo seismologas žvalgytojas
+Q000318	Aktuaras
+Q000319	Operacijų tyrimo analitikas
+Q000320	Matematikas
+Q000321	Mokslo darbuotojas {matematika}
+Q000322	Biometrijos specialistas
+Q000323	Demografas
+Q000324	Statistikas
+Q000325	Mokslo darbuotojas {statistika}
+Q000326	Bakteriologas
+Q000327	Žemės ūkio bakteriologas
+Q000328	Pienininkystės bakteriologas
+Q000329	Žuvininkystės bakteriologas
+Q000330	Maisto bakteriologas
+Q000331	Pramonės bakteriologas
+Q000332	Medicinos bakteriologas
+Q000333	Farmacijos bakteriologas
+Q000334	Dirvožemio bakteriologas
+Q000335	Veterinarijos bakteriologas
+Q000336	Biologas
+Q000337	Gėlųjų vandenų biologas
+Q000338	Jūrų biologas
+Q000339	Molekulių biologas
+Q000340	Botanikas
+Q000341	Citologas
+Q000342	Gyvūnų citologas
+Q000343	Augalų citologas
+Q000344	Embriologas
+Q000345	Entomologas
+Q000346	Genetikas
+Q000347	Histologas
+Q000348	Gyvūnų histologas
+Q000349	Augalų histologas
+Q000350	Hidrobiologas
+Q000351	Ichtiologas
+Q000352	Imunologas
+Q000353	Teriologas
+Q000354	Mikrobiologas
+Q000355	Mikologas
+Q000356	Ornitologas
+Q000357	Parazitologas
+Q000358	Taksonomas
+Q000359	Gyvūnų taksonomas
+Q000360	Augalų taksonomas
+Q000361	Zoologas
+Q000362	Zoologas ekologas
+Q000363	Zoologas entomologas
+Q000364	Zoologas histologas
+Q000365	Zoologas ichtiologas
+Q000366	Zoologas ornitologas
+Q000367	Zoologas parazitologas
+Q000368	Žuvininkystės zoologas
+Q000369	Zoologas taksonomas
+Q000370	Vivariumo selekcininkas
+Q000371	Mokslo darbuotojas {biologija"," botanika"," zoologija ir panašios sritys}
+Q000372	Botaninių kolekcijų kuratorius
+Q000373	Anatomas
+Q000374	Biochemikas
+Q000375	Biofizikas
+Q000376	Fitopatologas
+Q000377	Farmakologas
+Q000378	Fiziologas
+Q000379	Mokslo darbuotojas {farmakologija}
+Q000380	Medicinos biologas
+Q000381	Medicinos mikrobiologas
+Q000382	Medicinos parazitologas
+Q000383	Žemės ir miškų ūkio bei žuvininkystės specialistai
+Q000384	Agronomas
+Q000385	Augalų apsaugos agronomas
+Q000386	Gyvulininkystės specialistas
+Q000387	Miškininkas
+Q000388	Miško želdinimo ir miško apsaugos inžinierius
+Q000389	Pasėlių tyrimo specialistas
+Q000390	Gėlininkystės specialistas
+Q000391	Sodininkystės specialistas
+Q000392	Daržininkystės specialistas
+Q000393	Medelyno specialistas
+Q000394	Miškininkystės specialistas
+Q000395	Dirvožemininkas
+Q000396	Zootechnikas
+Q000397	Miškų ūkio inžinierius
+Q000398	Agronomas ekonomistas
+Q000399	Agronomas mechanikas
+Q000400	Agronomas zootechnikas
+Q000401	Agronomas sodininkas
+Q000402	Agronomas apželdintojas
+Q000403	Žemės ūkio specialistas
+Q000404	Miškotvarkos inžinierius
+Q000405	Mokslo darbuotojas {agronomija ir panašios sritys}
+Q000406	Žemės ūkio konsultantas
+Q000407	Ūkininkavimo konsultantas
+Q000408	Miškų ūkio konsultantas
+Q000409	Medžioklėtyros specialistas
+Q000410	Medžioklėtvarkos specialistas
+Q000411	Ekologas
+Q000412	Aplinkos chemikas
+Q000413	Eksploatavimo inžinierius
+Q000414	Sąnaudų įvertinimo inžinierius
+Q000415	Valdymo organizavimo inžinierius
+Q000416	Gamybos automatizavimo inžinierius
+Q000417	Planavimo inžinierius
+Q000418	Darbo operacijų trukmės tyrimo inžinierius
+Q000419	Darbo efektyvumo inžinierius
+Q000420	Darbo organizavimo inžinierius
+Q000421	Cemento gamybos technologas
+Q000422	Keramikos gamybos technologas
+Q000423	Stiklo gamybos technologas
+Q000424	Odos technologas
+Q000425	Pakavimo technologas
+Q000426	Spausdinimo technologas
+Q000427	Tekstilės gamybos technologas
+Q000428	Medienos apdirbimo technologas
+Q000429	Megztinių gaminių technologas
+Q000430	Įrenginių techninės priežiūros inžinierius
+Q000431	Įrenginių techninės priežiūros ir remonto inžinierius
+Q000432	Avalynės gamybos technologas
+Q000433	Darbo normavimo inžinierius
+Q000434	Audimo technologas
+Q000435	Darbo organizavimo ir normavimo inžinierius
+Q000436	Eksploatavimo ir remonto organizavimo inžinierius
+Q000437	Eksploatavimo inžinierius inspektorius
+Q000438	Medienos apdirbimo inžinierius
+Q000439	Verpimo technologas
+Q000440	Odos gaminių technologas
+Q000441	Siuvimo technologas
+Q000442	Techninės saugos inžinierius inspektorius
+Q000443	Mokslo darbuotojas {technologijų ir gamybos sritys}
+Q000444	Įrenginių inžinierius
+Q000445	Gamybos inžinierius
+Q000446	Robotikos inžinierius
+Q000447	Statybinių konstrukcijų inžinierius
+Q000448	Statybos inžinierius
+Q000449	Aerodromų statybos inžinierius
+Q000450	Tiltų statybos inžinierius
+Q000451	Pastatų konstrukcijų inžinierius
+Q000452	Dūmtraukių statybos inžinierius
+Q000453	Statinių priežiūros inžinierius
+Q000454	Dokų ir krantinių statybos inžinierius
+Q000455	Hidrotechnikos statinių statybos inžinierius
+Q000456	Hidrologijos įrenginių statybos inžinierius
+Q000457	Drėkinimo sistemų inžinierius
+Q000458	Sveikatinimo objektų statybos inžinierius
+Q000459	Geležinkelių tiesybos inžinierius
+Q000460	Sanitarijos inžinierius
+Q000461	Konstrukcijų inžinierius
+Q000462	Bokštų statybos inžinierius
+Q000463	Tunelių statybos inžinierius
+Q000464	Statybinių medžiagų technologas
+Q000465	Civilinės statybos inžinierius
+Q000466	Pramonės statinių statybos ir montavimo inžinierius
+Q000467	Mokslo darbuotojas {civilinė inžinerija"," statyba}
+Q000468	Aplinkos apsaugos inžinierius
+Q000469	Mokslo darbuotojas {ekologija}
+Q000470	Aplinkos gerinimo specialistas
+Q000471	Aviacijos inžinierius
+Q000472	Laivo mechaninės įrangos inžinierius
+Q000473	Mechatronikos inžinierius
+Q000474	Orlaivių konstruktorius
+Q000475	Reaktoriaus valdymo inžinierius
+Q000476	Kelių transporto priemonių inžinierius
+Q000477	Kriogeninės technikos inžinierius
+Q000478	Dyzelinių variklių inžinierius
+Q000479	Dujų turbinų inžinierius
+Q000480	Reaktyvinių variklių inžinierius
+Q000481	Lokomotyvų variklių inžinierius
+Q000482	Tepimo inžinierius
+Q000483	Aviacijos mechaninės įrangos inžinierius
+Q000484	Žemės ūkio mechaninės įrangos inžinierius
+Q000485	Šildymo"," vėdinimo ir oro kondicionavimo inžinierius
+Q000486	Pramonės įrenginių ir įrankių inžinierius
+Q000487	Įrankių inžinierius
+Q000488	Laivų variklių ir jėgainių inžinierius
+Q000489	Variklių ir jėgainių (išskyrus laivų) inžinierius
+Q000490	Laivo konstrukcijų matmenų optinės matavimo įrangos inžinierius
+Q000491	Branduolinės energetikos inžinierius
+Q000492	Šaldymo įrenginių inžinierius
+Q000493	Variklių inžinierius
+Q000494	Laivų statybos inžinierius
+Q000495	Inžinierius instruktorius
+Q000496	Mechanikos inžinierius
+Q000497	Kelių transporto priemonių ekspertas
+Q000498	Technologijų inžinierius
+Q000499	Konstrukcijų mechanikas
+Q000500	Šaldytuvų įrenginių inžinierius
+Q000501	Turbinos valdymo inžinierius
+Q000502	Reaktorių skyriaus mechanikos inžinierius
+Q000503	Konstruktorius
+Q000504	Transporto specialistas
+Q000505	Remonto inžinierius
+Q000506	Techninių dokumentų inžinierius
+Q000507	Pasirengimo gamybai inžinierius
+Q000508	Branduolinės saugos inžinierius inspektorius
+Q000509	Šilumos energetikos inžinierius
+Q000510	Cheminės radiacinės saugos inžinierius inspektorius
+Q000511	Priešgaisrinės priežiūros grupės inžinierius
+Q000512	Suvirinimo darbų inžinierius
+Q000513	Vežimo technologas
+Q000514	Inžinierius kontrolierius
+Q000515	Standartizacijos inžinierius
+Q000516	Geodezijos inžinierius
+Q000517	Techninės priežiūros inžinierius
+Q000518	Mokslo darbuotojas {mechanikos inžinerija"," mechanika}
+Q000519	Jūrų laivų inžinierius
+Q000520	Naftos ir gamtinių dujų chemijos technologas
+Q000521	Gamtinių dujų gavybos ir paskirstymo inžinierius
+Q000522	Naftos inžinierius
+Q000523	Aludarystės technologas
+Q000524	Maisto produktų ir gėrimų technologas
+Q000525	Degalų ir kuro technologas
+Q000526	Popieriaus technologas
+Q000527	Buitinių paslaugų technologas
+Q000528	Žaliavų kokybės inžinierius
+Q000529	Degalų apskaitos inžinierius
+Q000530	Biofizikos ir chemijos inžinierius
+Q000531	Biochemijos inžinierius
+Q000532	Chemijos inžinierius
+Q000533	Kokybės inžinierius
+Q000534	Mokslo darbuotojas {chemijos inžinerija"," cheminė technologija}
+Q000535	Naftos perdirbimo inžinierius
+Q000536	Sprogdinimo darbų inžinierius
+Q000537	Kasybos inžinierius
+Q000538	Metalotyrininkas
+Q000539	Kasybos technologas
+Q000540	Metalų apdirbimo inžinierius
+Q000541	Metalų apdirbimo technologas
+Q000542	Gręžinių tyrimo inžinierius
+Q000543	Naftos gavybos inžinierius
+Q000544	Naftos paruošimo inžinierius
+Q000545	Gręžinių gręžybos inžinierius
+Q000546	Gręžinių praplovimo skiedinių inžinierius
+Q000547	Mokslo darbuotojas {kasyba"," metalurgija}
+Q000548	Akmens anglių kasybos inžinierius
+Q000549	Naftos ir gamtinių dujų gavybos inžinierius
+Q000550	Radiochemijos inžinierius
+Q000551	Ryšių (išskyrus kompiuterių ryšius) analitikas
+Q000552	Sistemų (išskyrus kompiuterių sistemas) analitikas
+Q000553	Sistemų (išskyrus kompiuterių sistemas) projektuotojas
+Q000554	Darbų saugos inžinierius
+Q000555	Biomedicinos inžinierius
+Q000556	Optinės įrangos inžinierius
+Q000557	Medžiagų inžinierius
+Q000558	Saugos inžinierius
+Q000559	Sistemų (išskyrus kompiuterių sistemas) inžinierius
+Q000560	Automatikos inžinierius
+Q000561	Inžinerijos ekonomistas
+Q000562	Sistemų technikos inžinierius
+Q000563	Turto valdymo inžinierius
+Q000564	Metrologijos inžinierius
+Q000565	Mokslo darbuotojas {kitos inžinerijos sritys}
+Q000566	Sprogmenų inžinierius
+Q000567	Jūrų gelbėjimo inžinierius
+Q000568	Elektros inžinierius
+Q000569	Elektros apšvietimo inžinierius
+Q000570	Elektros sistemų inžinierius
+Q000571	Elektros paskirstymo inžinierius
+Q000572	Elektros gamybos inžinierius
+Q000573	Elektros perdavimo inžinierius
+Q000574	Elektrinės traukos inžinierius
+Q000575	Elektromechaninės įrangos elektros inžinierius
+Q000576	Aukštosios įtampos inžinierius
+Q000577	Silpnųjų srovių inžinierius
+Q000578	Elektros energetikos inžinierius
+Q000579	Elektros energetikos išteklių inžinierius
+Q000580	Mokslo darbuotojas {elektros inžinerija}
+Q000581	Avionikos inžinierius
+Q000582	Aviacinių kosminių aparatų inžinierius
+Q000583	Elektronikos inžinierius
+Q000584	Aparatinės įrangos elektroninių įtaisų projektavimo inžinierius
+Q000585	Elektronikos inžinierius {informacinė inžinerija}
+Q000586	Kontrolinės matavimo aparatūros inžinierius
+Q000587	Puslaidininkinių įtaisų elektronikos inžinierius
+Q000588	Elektroninės inžinerijos technologas
+Q000589	Aukštadažnių sistemų inžinierius
+Q000590	Atominės elektrinės bloko valdymo inžinierius
+Q000591	Radioelektronikos inžinierius
+Q000592	Mokslo darbuotojas {elektronika}
+Q000593	Telekomunikacijų inžinierius
+Q000594	Orlaivių ir erdvėlaivių ryšių inžinierius
+Q000595	Radarinio ryšio inžinierius
+Q000596	Radijo ryšio inžinierius
+Q000597	Signalizavimo sistemų inžinierius
+Q000598	Telegrafo ryšio inžinierius
+Q000599	Telefono ryšio inžinierius
+Q000600	Televizijos ryšio inžinierius
+Q000601	Telekomunikacijų technologas
+Q000602	Radiofizikos inžinierius
+Q000603	Elektronikos ir telekomunikacijų inžinierius
+Q000604	Palydovinio ryšio inžinierius
+Q000605	Mokslo darbuotojas {telekomunikacijos}
+Q000606	Transliavimo inžinierius
+Q000607	Pastatų architektas
+Q000608	Interjero architektas
+Q000609	Architektas
+Q000610	Mokslo darbuotojas {architektūra"," interjero projektavimas}
+Q000611	Kraštovaizdžio architektas
+Q000612	Mokslo darbuotojas {kraštovaizdžio projektavimas}
+Q000613	Heraldikos specialistas
+Q000614	Komercinių produktų dizaineris
+Q000615	Drabužių dizaineris
+Q000616	Madų dizaineris
+Q000617	Baldų dizaineris
+Q000618	Pramonės gaminių dizaineris
+Q000619	Juvelyrinių dirbinių dizaineris
+Q000620	Pakuočių dizaineris
+Q000621	Plakatų dizaineris
+Q000622	Tekstilės dizaineris
+Q000623	Kelių eismo sistemos planuotojas
+Q000624	Miesto projektuotojas
+Q000625	Statybos projektavimo ir generalinio plano specialistas
+Q000626	Projektuotojas konstruktorius
+Q000627	Teritorijų planavimo specialistas
+Q000628	Kartografas
+Q000629	Jūrų kartografas
+Q000630	Fotogrametrijos specialistas
+Q000631	Kosminės topografijos specialistas
+Q000632	Geodezijos topografas
+Q000633	Hidrografijos topografas
+Q000634	Matininkas
+Q000635	Markšeideris
+Q000636	Fotografinės topografijos specialistas
+Q000637	Topografas
+Q000638	Žemėtvarkininkas
+Q000639	Žemėtvarkos inžinierius
+Q000640	Mokslo darbuotojas {kartografija"," topografija}
+Q000641	Grafikos dizaineris
+Q000642	Dizaineris maketuotojas
+Q000643	Multimedijos dizaineris
+Q000644	Mokslo darbuotojas {bendroji praktika/šeimos medicina}
+Q000645	Mokslo darbuotojas {medicina"," išskyrus bendrąją praktiką/šeimos mediciną}
+Q000646	Bendrosios praktikos slaugytojas
+Q000647	Mokslo darbuotojas {slauga}
+Q000648	Akušeris
+Q000649	Homeopatas
+Q000650	Gyvūnų patologas
+Q000651	Veterinarijos gydytojas
+Q000652	Mokslo darbuotojas {veterinarija}
+Q000653	Gydytojas odontologas
+Q000654	Mokslo darbuotojas {odontologija}
+Q000655	Farmacijos pramonės vaistininkas
+Q000656	Ligoninės vaistininkas
+Q000657	Vaistininkas
+Q000658	Mokslo darbuotojas {farmacija}
+Q000659	Vaistininkas vadybininkas
+Q000660	Vaistininkas didmenininkas
+Q000661	Vaistininkas farmacinės veiklos vadovas (dirbantis vaistinėje ar farmacinių atliekų tvarkymo įmonėje)
+Q000662	Vaistininkas konsultantas (internetu ar žodžiu)
+Q000663	Veterinarijos įmonės vaistininkas
+Q000664	Epidemiologas
+Q000665	Profesinės sveikatos specialistas
+Q000666	Aplinkos higienistas
+Q000667	Visuomenės sveikatos specialistas
+Q000668	Sveikatos ekologas
+Q000669	Gydytojas parazitologas
+Q000670	Gydytojas epidemiologas
+Q000671	Vaikų higienos gydytojas
+Q000672	Higienos laboratorijos gydytojas
+Q000673	Aplinkos higienos gydytojas
+Q000674	Sveikatos priežiūros vadybininkas
+Q000675	Gydytojas edukologas
+Q000676	Bendrosios higienos gydytojas
+Q000677	Darbo higienos gydytojas
+Q000678	Dezinfektologas
+Q000679	Gydytojas mikrobiologas
+Q000680	Mokslo darbuotojas {visuomenės sveikata"," epidemiologija}
+Q000681	Sveikatos edukologas
+Q000682	Darbų saugos organizatorius
+Q000683	Radiacinės saugos specialistas
+Q000684	Kineziterapeutas
+Q000685	Ergoterapeutas
+Q000686	Kineziologas
+Q000687	Dietistas
+Q000688	Dietologas
+Q000689	Dietetikos technologas
+Q000690	Audiologai ir kalbos terapeutai
+Q000691	Kalbos terapeutas
+Q000692	Optometrijos specialistai ir optikai
+Q000693	Optometrijos specialistas
+Q000694	Klinikos patologas
+Q000695	Teismo medicinos patologas
+Q000696	Medicinos patologas
+Q000697	Medicinos entomologas
+Q000698	Medicinos genetikas
+Q000699	Teismo medicinos ekspertas
+Q000700	Mokslo darbuotojas {kitos sveikatos priežiūros"," farmacijos ir veterinarijos sritys"," išskyrus slaugą}
+Q000701	Medicinos auditorius
+Q000702	Sveikatos priežiūros paslaugų inspektorius
+Q000703	Farmacinės veiklos inspektorius
+Q000704	Filosofijos dėstytojas
+Q000705	Etikos dėstytojas
+Q000706	Teologijos dėstytojas
+Q000707	Religijos mokslų dėstytojas
+Q000708	Menotyros dėstytojas
+Q000709	Filologijos dėstytojas
+Q000710	Užsienio kalbos dėstytojas
+Q000711	Gimtosios kalbos dėstytojas
+Q000712	Istorijos dėstytojas
+Q000713	Archeologijos dėstytojas
+Q000714	Etnologijos dėstytojas
+Q000715	Kitų humanitarinių mokslų dėstytojas
+Q000716	Muzikos dėstytojas
+Q000717	Atlikėjų meno dėstytojas
+Q000718	Dailės dėstytojas
+Q000719	Vaizduojamojo meno dėstytojas
+Q000720	Dizaino dėstytojas
+Q000721	Dailiųjų amatų dėstytojas
+Q000722	Teatro meno dėstytojas
+Q000723	Audiovizualinio meno dėstytojas
+Q000724	Architektūros dėstytojas
+Q000725	Kitų meno dalykų dėstytojas
+Q000726	Teisės dėstytojas
+Q000727	Politikos mokslų dėstytojas
+Q000728	Vadybos ir verslo administravimo dėstytojas
+Q000729	Didmeninės ir mažmeninės prekybos dėstytojas
+Q000730	Rinkodaros ir reklamos dėstytojas
+Q000731	Finansų"," bankininkystės ir draudimo dėstytojas
+Q000732	Buhalterinės apskaitos ir apmokestinimo dėstytojas
+Q000733	Viešojo administravimo dėstytojas
+Q000734	Valdymo ir administravimo dėstytojas
+Q000735	Sekretorių ir raštvedžių darbo dėstytojas
+Q000736	Darbo organizavimo dėstytojas
+Q000737	Ekonomikos dėstytojas
+Q000738	Sociologijos dėstytojas
+Q000739	Kultūrologijos dėstytojas
+Q000740	Socialinio darbo dėstytojas
+Q000741	Vaikų priežiūros ir paslaugų jaunimui dėstytojas
+Q000742	Psichologijos dėstytojas
+Q000743	Edukologijos dėstytojas
+Q000744	Ikimokyklinių įstaigų mokytojų rengimo dėstytojas
+Q000745	Bendrųjų dalykų mokytojų rengimo dėstytojas
+Q000746	Profesijos dalykų mokytojų rengimo dėstytojas
+Q000747	Sporto dėstytojas
+Q000748	Komunikacijos ir informacijos dalykų dėstytojas
+Q000749	Žurnalistikos ir reportažų rengimo dėstytojas
+Q000750	Bibliotekų"," informacijos ir archyvų darbo dėstytojas
+Q000751	Kitų socialinių mokslų dėstytojas
+Q000752	Matematikos dėstytojas
+Q000753	Statistikos dėstytojas
+Q000754	Fizikos dėstytojas
+Q000755	Chemijos dėstytojas
+Q000756	Biochemijos dėstytojas
+Q000757	Geologijos dėstytojas
+Q000758	Geografijos dėstytojas
+Q000759	Informatikos dėstytojas
+Q000760	Kompiuterijos dėstytojas
+Q000761	Kitų fizinių mokslų dėstytojas
+Q000762	Biologijos dėstytojas
+Q000763	Biofizikos dėstytojas
+Q000764	Ekologijos ir aplinkotyros dėstytojas
+Q000765	Agronomijos dėstytojas
+Q000766	Augalininkystės dėstytojas
+Q000767	Sodininkystės dėstytojas
+Q000768	Miškininkystės dėstytojas
+Q000769	Žuvininkystės dėstytojas
+Q000770	Žemės ūkio dėstytojas
+Q000771	Medicinos dėstytojas
+Q000772	Medicinos diagnostikos ir gydymo technologijų dėstytojas
+Q000773	Odontologijos dėstytojas
+Q000774	Farmacijos dėstytojas
+Q000775	Reabilitacijos dėstytojas
+Q000776	Slaugos dėstytojas
+Q000777	Veterinarinės medicinos dėstytojas
+Q000778	Gyvulininkystės technologijos dėstytojas
+Q000779	Gamtinės aplinkos ir zoologijos dėstytojas
+Q000780	Aplinkotyros dėstytojas
+Q000781	Kitų biomedicinos mokslų dėstytojas
+Q000782	Elektros inžinerijos dėstytojas
+Q000783	Elektronikos inžinerijos dėstytojas
+Q000784	Automatikos dėstytojas
+Q000785	Statybos inžinerijos dėstytojas
+Q000786	Saugos inžinerijos dėstytojas
+Q000787	Transporto inžinerijos dėstytojas
+Q000788	Aplinkos inžinerijos dėstytojas
+Q000789	Kraštotvarkos dėstytojas
+Q000790	Cheminės technologijos dėstytojas
+Q000791	Bioinžinerijos dėstytojas
+Q000792	Energetikos dėstytojas
+Q000793	Informatikos inžinerijos dėstytojas
+Q000794	Medžiagų mokslo dėstytojas
+Q000795	Pramonės inžinerijos dėstytojas
+Q000796	Maisto produktų gamybos dėstytojas
+Q000797	Tekstilės"," aprangos"," avalynės"," odos gamybos dėstytojas
+Q000798	Kasybos ir gavybos dėstytojas
+Q000799	Mechanikos inžinerijos dėstytojas
+Q000800	Metrologijos dėstytojas
+Q000801	Kitų technologijos mokslų dėstytojas
+Q000802	Vaizduojamojo meno mokytojas
+Q000803	Muzikos ir atlikėjų meno mokytojas
+Q000804	Audiovizualinio meno mokytojas
+Q000805	Žiniasklaidos dalykų mokytojas
+Q000806	Dailiųjų amatų mokytojas
+Q000807	Archeologijos mokytojas
+Q000808	Filosofijos ir etikos mokytojas
+Q000809	Kitų humanitarinių mokslų ir meno dalykų mokytojas
+Q000810	Psichologijos mokytojas
+Q000811	Sociologijos ir kultūrologijos mokytojas
+Q000812	Politikos mokslų mokytojas
+Q000813	Ekonomikos mokytojas
+Q000814	Archyvistikos mokytojas
+Q000815	Prekybos mokytojas
+Q000816	Rinkodaros ir reklamos mokytojas
+Q000817	Finansų mokytojas
+Q000818	Bankininkystės mokytojas
+Q000819	Draudimo mokytojas
+Q000820	Buhalterijos ir audito mokytojas
+Q000821	Valdymo ir administravimo mokytojas
+Q000822	Sekretoriaus darbo mokytojas
+Q000823	Raštvedybos mokytojas
+Q000824	Darbo organizavimo mokytojas
+Q000825	Teisės mokytojas
+Q000826	Kitų socialinių mokslų"," verslo ir teisės dalykų mokytojas
+Q000827	Biochemijos mokytojas
+Q000828	Aplinkotyros mokytojas
+Q000829	Taikomosios fizikos mokytojas
+Q000830	Taikomosios chemijos mokytojas
+Q000831	Geodezijos ir geologijos mokytojas
+Q000832	Hidrotechnikos mokytojas
+Q000833	Taikomosios matematikos mokytojas
+Q000834	Statistikos mokytojas
+Q000835	Informacinių technologijų mokytojas
+Q000836	Kitų gamtos mokslų"," matematikos ir kompiuterijos dalykų mokytojas
+Q000837	Mechanikos ir metalo darbų mokytojas
+Q000838	Elektros įrangos ir energijos gamybos mokytojas
+Q000839	Elektronikos ir automatikos mokytojas
+Q000840	Cheminių medžiagų ir procesų mokytojas
+Q000841	Maisto produktų gamybos mokytojas
+Q000842	Tekstilės ir odos gaminių"," aprangos ir avalynės gamybos mokytojas
+Q000843	Gaminių iš medienos"," popieriaus"," plastikų"," stiklo gamybos mokytojas
+Q000844	Kasybos ir gavybos mokytojas
+Q000845	Architektūros ir miestų planavimo mokytojas
+Q000846	Žemėtvarkos mokytojas
+Q000847	Statybos mokytojas
+Q000848	Kitų inžinerijos"," gamybos ir statybos dalykų mokytojas
+Q000849	Slaugos ir priežiūros mokytojas
+Q000850	Terapijos ir reabilitacijos mokytojas
+Q000851	Vaikų priežiūros ir paslaugų jaunimui mokytojas
+Q000852	Socialinio darbo mokytojas
+Q000853	Kitų sveikatos priežiūros ir socialinės apsaugos dalykų mokytojas
+Q000854	Viešbučių"," restoranų ir viešojo maitinimo įmonių paslaugų mokytojas
+Q000855	Kelionių"," turizmo ir laisvalaikio paslaugų mokytojas
+Q000856	Paslaugų teikimo namuose mokytojas
+Q000857	Kūno grožio priežiūros paslaugų mokytojas
+Q000858	Aplinkosaugos mokytojas
+Q000859	Sanitarijos ir higienos mokytojas
+Q000860	Asmenų ir nuosavybės apsaugos mokytojas
+Q000861	Profesinės sveikatos ir darbo saugos mokytojas
+Q000862	Kitų paslaugų ir saugos dalykų mokytojas
+Q000863	Kitų užsienio kalbų mokytojas
+Q000864	Matematikos mokytojas
+Q000865	Kompiuterijos mokytojas
+Q000866	Istorijos mokytojas
+Q000867	Politologijos mokytojas
+Q000868	Pilietinės visuomenės pagrindų mokytojas
+Q000869	Ekonomikos mokytojas
+Q000870	Geografijos mokytojas
+Q000871	Fizikos ir astronomijos mokytojas
+Q000872	Biologijos mokytojas
+Q000873	Chemijos mokytojas
+Q000874	Dailės mokytojas
+Q000875	Teatro meno mokytojas
+Q000876	Choreografijos mokytojas
+Q000877	Tikybos mokytojas
+Q000878	Etikos mokytojas
+Q000879	Kūno kultūros mokytojas
+Q000880	Braižybos mokytojas
+Q000881	Darbų mokytojas
+Q000882	Technologijos mokytojas
+Q000883	Civilinės saugos ir saugaus eismo mokytojas
+Q000884	Pradinio ugdymo mokytojas
+Q000885	Lopšelio-darželio auklėtojas
+Q000886	Švietimo konsultantas
+Q000887	Švietimo metodų konsultantas
+Q000888	Mokymo metodų konsultantas
+Q000889	Mokymo planų sudarytojas
+Q000890	Garsinių"," vaizdinių ir kitų mokomųjų priemonių specialistas
+Q000891	Garsinių ir vaizdinių mokomųjų priemonių specialistas
+Q000892	Vaizdinių mokomųjų priemonių specialistas
+Q000893	Metodininkas
+Q000894	Mokyklų inspektorius
+Q000895	Švietimo paslaugų vadybininkas
+Q000896	Specialusis pedagogas
+Q000897	Kitų specialiųjų poreikių asmenų mokytojas
+Q000898	Neformaliojo švetimo mokytojas {kalbų mokymas}
+Q000899	Neformaliojo švietimo mokytojas {muzikos mokymas}
+Q000900	Privatus šokių mokytojas
+Q000901	Neformaliojo švietimo mokytojas {informacinių technologijų mokymas}
+Q000902	Informacinių technologijų naudojimo mokytojas
+Q000903	Kompiuterių naudojimo mokytojas
+Q000904	Socialinis pedagogas
+Q000905	Auklėtojas
+Q000906	Mokslo darbuotojas {kitos mokymo sritys}
+Q000907	Pailgintos mokymosi dienos grupės auklėtojas
+Q000908	Neformaliojo švietimo mokytojas {sporto"," kūno kultūros ir pan. mokymas}
+Q000909	Savivaldybės kontrolierius
+Q000910	Valstybinis auditorius
+Q000911	Buhalteris
+Q000912	Auditorius
+Q000913	Finansų kontrolierius
+Q000914	Mokslo darbuotojas {apskaita}
+Q000915	Nekilnojamojo turto planuotojas
+Q000916	Asmeninis bankininkas
+Q000917	Finansų planuotojas
+Q000918	Finansų vadybininkas
+Q000919	Mokslo darbuotojas {finansų mokslas}
+Q000920	Finansų analitikas
+Q000921	Finansininkas
+Q000922	Gamybos metodų inžinierius
+Q000923	Verslo konsultantas
+Q000924	Vadybos konsultantas
+Q000925	Mokslo darbuotojas {vadyba}
+Q000926	Bankrutuojančios įmonės administratoriaus padėjėjas
+Q000927	Patarėjas (išskyrus Respublikos Prezidento"," Seimo Pirmininko"," Ministro Primininko"," ministro"," mero"," teismų pirmininkų ir diplomatinės tarnybos patarėją)
+Q000928	Seimo nuolatinis atstovas Europos Sąjungoje
+Q000929	Respublikos Prezidento konsultantas
+Q000930	Respublikos Prezidento referentas
+Q000931	Ministro Pirmininko padėjėjas
+Q000932	Ministro padėjėjas
+Q000933	Specialusis atašė
+Q000934	Savivaldybės tarybos sekretorius
+Q000935	Projekto vadovas
+Q000936	Viešojo administravimo specialistas
+Q000937	Politikos (veiklos krypčių) analitikas
+Q000938	Informacijos rinkimo specialistas
+Q000939	Užimtumo analitikas
+Q000940	Užimtumo specialistas
+Q000941	Įdarbinimo konsultantas
+Q000942	Profesinio orientavimo konsultantas
+Q000943	Užimtumo tyrėjas
+Q000944	Personalo padalinio inspektorius
+Q000945	Personalo padalinio psichologas
+Q000946	Mokslo darbuotojas {personalas"," profesinis orientavimas}
+Q000947	Personalo mokymo specialistas
+Q000948	Personalo rengimo specialistas
+Q000949	Personalo rengimo inžinierius
+Q000950	Gamybinio mokymo meistras
+Q000951	Reklamos kampanijų organizatorius
+Q000952	Rinkos tyrimo analitikas
+Q000953	Logistikos specialistas [vadybininkas]
+Q000954	Pardavimo skatinimo metodų specialistas
+Q000955	Rinkodaros specialistas [vadybininkas]
+Q000956	Prekių žinovas
+Q000957	Rinkotyros specialistas [vadybininkas]
+Q000958	Turizmo vadybininkas
+Q000959	Sutarčių inžinierius
+Q000960	Vežimo specialistas [vadybininkas]
+Q000961	Prekių ir paslaugų pirkimo specialistas
+Q000962	Leidybos organizavimo specialistas
+Q000963	Visuomenės informavimo specialistas
+Q000964	Atstovas ryšiams su visuomene
+Q000965	Atstovas spaudai
+Q000966	Technikos ir medicinos sričių pardavimo (išskyrus informacinių technologijų ir ryšių paslaugų pardavimą) specialistai
+Q000967	Medicinos ir farmacijos gaminių pardavimo atstovas
+Q000968	Techninis pardavimo atstovas
+Q000969	Informacinių technologijų ir ryšių paslaugų pardavimo atstovas
+Q000970	Kompiuterių sistemų analitikas
+Q000971	Grafinių sistemų analitikas
+Q000972	Verslo informacinių technologijų konsultantas
+Q000973	Programinės įrangos kūrėjas
+Q000974	Programinės įrangos projektuotojas
+Q000975	Programų analitikas
+Q000976	Svetainės kūrėjas
+Q000977	Kompiuterinių žaidimų programų kūrėjas
+Q000978	Programuotojas
+Q000979	Ekonominių informacinių sistemų programuotojas
+Q000980	Inžinierius programuotojas
+Q000981	Mokslo darbuotojas {kompiuterių programavimas}
+Q000982	Programinės įrangos testuotojas
+Q000983	Duomenų bazių administratorius
+Q000984	Duomenų bazių programuotojas
+Q000985	Tinklo administratorius
+Q000986	Informacinių technologijų sistemų administratorius
+Q000987	Asmeninių kompiuterių tinklo administratorius
+Q000988	Kompiuterių tinklo administratorius
+Q000989	Ryšių programuotojas
+Q000990	Leidinių maketuotojas {kompiuterinis maketavimas}
+Q000991	Informacinių technologijų ir ryšių saugumo specialistas
+Q000992	Kompiuterijos inžinierius
+Q000993	Mokslo darbuotojas {kitos kompiuterijos sritys}
+Q000994	Advokatas
+Q000995	Įgaliotinis"," patikėtinis
+Q000996	Teisininkas
+Q000997	Civilinės teisės specialistas
+Q000998	Turto perdavimo teisininkas
+Q000999	Baudžiamosios teisės specialistas
+Q001000	Prokuroras
+Q001001	Antstolis
+Q001002	Teisėjai
+Q001003	Konstitucinio Teismo teisėjas
+Q001004	Teisėjas
+Q001005	Apeliacinio teismo teisėjas
+Q001006	Arbitražo teismo teisėjas
+Q001007	Apygardos teismo teisėjas
+Q001008	Apylinkės teismo teisėjas
+Q001009	Civilinių bylų teismo teisėjas
+Q001010	Aukščiausiojo Teismo teisėjas
+Q001011	Ikiteisminio tyrimo teisėjas
+Q001012	Baudžiamųjų bylų teisėjas
+Q001013	Apygardos administracinio teismo teisėjas
+Q001014	Vyriausiojo administracinio teismo teisėjas
+Q001015	Patarėjas (dirbantis diplomatinėje tarnyboje)
+Q001016	Konsulas
+Q001017	Teismo pirmininko padėjėjas
+Q001018	Apygardos [apylinkės] teismo pirmininko patarėjas
+Q001019	Teismo skyriaus pirmininko patarėjas
+Q001020	Teismo konsultantas
+Q001021	Juriskonsultas
+Q001022	Draudimo ieškinių patikėtinis
+Q001023	Notaras
+Q001024	Tyrėjas
+Q001025	Archyvaras
+Q001026	Muziejininkas
+Q001027	Mokslo darbuotojas {archyvų tvarkymas"," muziejininkystė}
+Q001028	Dokumentuotojas
+Q001029	Bibliotekininkas
+Q001030	Bibliografas
+Q001031	Mokslo darbuotojas {bibliotekininkystė ir panašios sritys}
+Q001032	Ekonomistas
+Q001033	Mokesčių ekonomistas
+Q001034	Antropologas
+Q001035	Archeologas
+Q001036	Etnologas
+Q001037	Geografas
+Q001038	Sociologas
+Q001039	Mokslo darbuotojas {sociologija"," antropologija ir panašios sritys}
+Q001040	Genealogas
+Q001041	Istorikas
+Q001042	Filosofas
+Q001043	Politologas
+Q001044	Mokslo darbuotojas {filosofija"," istorija"," politikos mokslai}
+Q001045	Psichologas
+Q001046	Medicinos psichologas
+Q001047	Mokyklos psichologas
+Q001048	Psichologas psichoterapeutas
+Q001049	Socialinės psichologijos psichologas
+Q001050	Mokslo darbuotojas {psichologija}
+Q001051	Teismo psichologas
+Q001052	Socialinių išmokų specialistas
+Q001053	Vaikų globos namų ar pensionato auklėtojas
+Q001054	Nepilnamečių pataisos namų auklėtojas
+Q001055	Lygtinio paleidimo iš laisvės atėmimo vietos priežiūros pareigūnas
+Q001056	Socialinis darbuotojas
+Q001057	Neįgaliųjų socialinis darbuotojas
+Q001058	Socialinis darbuotojas konsultantas
+Q001059	Socialinis reabilitologas
+Q001060	Neįgaliųjų reabilitologas
+Q001061	Mokslo darbuotojas {socialinis darbas}
+Q001062	Vedybų konsultantas
+Q001063	Socialinio darbo organizatorius
+Q001064	Socialinių programų koordinatorius
+Q001065	Socialinio darbo vadybininkas
+Q001066	Socialinio darbo specialistas (dirbantis seniūnijoje)
+Q001067	Kapelionas
+Q001068	Dvasininkas
+Q001069	Vienuolis
+Q001070	Rašytojas
+Q001071	Biografas
+Q001072	Reklamos tekstų autorius
+Q001073	Viešųjų leidinių tekstų autorius
+Q001074	Techninių tekstų autorius
+Q001075	Kritikas
+Q001076	Meno kritikas
+Q001077	Knygų kritikas
+Q001078	Teatro kritikas
+Q001079	Kino filmų kritikas
+Q001080	Literatūros kritikas
+Q001081	Muzikos kritikas
+Q001082	Radijo laidų kritikas
+Q001083	Televizijos laidų kritikas
+Q001084	Dramaturgas
+Q001085	Mokslinis redaktorius
+Q001086	Knygų redaktorius
+Q001087	Filmo [radijo laidos"," televizijos laidos] jungiamojo teksto redaktorius
+Q001088	Rankraščių redaktorius
+Q001089	Scenarijaus redaktorius
+Q001090	Eseistas
+Q001091	Romanistas
+Q001092	Novelistas
+Q001093	Poetas
+Q001094	Stilistas
+Q001095	Brailio rašto knygų redaktorius
+Q001096	Pjesių autorius
+Q001097	Metraštininkas
+Q001098	Apžvalgininkas
+Q001099	Laidos vedėjas
+Q001100	Žinių komentatorius [vedėjas]
+Q001101	Žiniasklaidos korespondentas
+Q001102	Vietinių naujienų skyriaus redaktorius
+Q001103	Finansų skyriaus redaktorius
+Q001104	Užsienio skyriaus redaktorius
+Q001105	Laikraščio redaktorius
+Q001106	Žurnalistas
+Q001107	Korektūrų redaktorius
+Q001108	Sporto skyriaus redaktorius
+Q001109	Budintysis redaktorius
+Q001110	Žiniasklaidos reporteris
+Q001111	Laikraščio skyriaus redaktorius
+Q001112	Periodinio leidinio skyriaus redaktorius
+Q001113	Reporteris
+Q001114	Radijo laidų komentatorius
+Q001115	Etimologas
+Q001116	Grafologas
+Q001117	Vertėjas žodžiu
+Q001118	Leksikografas
+Q001119	Literatūrologas
+Q001120	Filologas
+Q001121	Filologas morfologas
+Q001122	Fonologas
+Q001123	Semasiologas
+Q001124	Vertėjas raštu
+Q001125	Tautosakininkas
+Q001126	Kalbos tvarkytojas
+Q001127	Lietuvių kalbos konsultantas
+Q001128	Kalbininkas
+Q001129	Gestų kalbos vertėjas
+Q001130	Vertėjas
+Q001131	Mokslo darbuotojas {kalbotyra"," literatūrologija}
+Q001132	Dailininkas drabužių modeliuotojas
+Q001133	Dailininkas madų kūrėjas
+Q001134	Grafikas
+Q001135	Peizažininkas
+Q001136	Tapytojas
+Q001137	Plakatų dailininkas
+Q001138	Karikatūrininkas
+Q001139	Skulptorius
+Q001140	Miniatiūrų dailininkas"," miniatiūrininkas
+Q001141	Portretų dailininkas"," portretistas
+Q001142	Dailininkas restauratorius
+Q001143	Dailininkas scenografas
+Q001144	Dailininkas apipavidalintojas
+Q001145	Restauratorius
+Q001146	Dailėtyrininkas
+Q001147	Dailininkas dekoratorius
+Q001148	Dailininkas fotografas
+Q001149	Grimo dailininkas
+Q001150	Šviesos dailininkas
+Q001151	Kostiumų dailininkas
+Q001152	Kompozitorius
+Q001153	Muzikos aranžuotojas
+Q001154	Muzikantas
+Q001155	Muzikologas
+Q001156	Dirigentas
+Q001157	Koncertmeisteris
+Q001158	Akompanuotojas
+Q001159	Chormeisteris
+Q001160	Choreografas
+Q001161	Prodiuseris
+Q001162	Radijo laidų režisierius
+Q001163	Scenos režisierius
+Q001164	Vaizdo režisierius
+Q001165	Teatro režisierius
+Q001166	Šviesos režisierius
+Q001167	Garso režisierius
+Q001168	Režisieriaus asistentas
+Q001169	Koncertų [spektaklių] organizatorius
+Q001170	Aktorius
+Q001171	Diktorius
+Q001172	Renginio vedėjas"," konferansjė
+Q001173	Lėlininkas
+Q001174	Astronomijos technikas
+Q001175	Chemijos technikas
+Q001176	Geologijos technikas
+Q001177	Geofizikos technikas
+Q001178	Meteorologijos technikas
+Q001179	Okeanografijos technikas
+Q001180	Fizikos technikas
+Q001181	Sprogdinimo darbų technikas
+Q001182	Audinių apdailos technikas
+Q001183	Metrologas
+Q001184	Metrologijos technikas
+Q001185	Statybos inžinerijos vertintojas
+Q001186	Statybos darbų prižiūrėtojas
+Q001187	Statybos inžinerijos technikas
+Q001188	Dugno gilinimo ir valymo technikas
+Q001189	Hidraulikos technikas
+Q001190	Hidrologijos technikas
+Q001191	Melioracijos technikas
+Q001192	Sanitarinių įrenginių technikas
+Q001193	Sanitarinės inžinerijos technikas
+Q001194	Gruntų mechanikos technikas
+Q001195	Topografijos technikas
+Q001196	Konstrukcijų technikas
+Q001197	Darbo normavimo technikas
+Q001198	Eksploatavimo technikas
+Q001199	Geotechnikos technikas
+Q001200	Valstybinės priešgaisrinės priežiūros inspekcijos inspektorius
+Q001201	Pastatų priežiūros tarnybos inspektorius
+Q001202	Elektrotechninės įrangos vertintojas
+Q001203	Elektrotechnikas
+Q001204	Elektros apšvietimo elektrotechnikas
+Q001205	Elektros paskirstymo elektrotechnikas
+Q001206	Elektros perdavimo elektrotechnikas
+Q001207	Elektrinės traukos elektrotechnikas
+Q001208	Aukštosios įtampos elektrotechnikas
+Q001209	Elektros sistemų elektrotechnikas
+Q001210	Šaldymo agregatų elektrotechnikas
+Q001211	Elektros energetikos technikas
+Q001212	Elektrinių gaminių kokybės inspektorius
+Q001213	Elektronikos inžinerijos technikas
+Q001214	Aviacinių kosminių aparatų technikas
+Q001215	Remonto doko meistras
+Q001216	Cecho meistras
+Q001217	Aviacijos technikas
+Q001218	Laivų statybos technikas
+Q001219	Orlaivių technikas
+Q001220	Žemės ūkio mašinų technikas
+Q001221	Savaeigių mašinų technikas
+Q001222	Dujų turbinų technikas
+Q001223	Šildymo"," vėdinimo ir šaldymo įrenginių technikas
+Q001224	Matavimo aparatūros gamybos technikas
+Q001225	Reaktyvinių variklių technikas
+Q001226	Lokomotyvų variklių technikas
+Q001227	Tepimo technikas
+Q001228	Branduolinės įrangos technikas
+Q001229	Laivų statybos įrangos technikas
+Q001230	Variklių ir jėgainių įrangos technikas
+Q001231	Karinių laivų technikas
+Q001232	Branduolinės energetikos įrenginių technikas
+Q001233	Įrangos eksploatavimo ir remonto technikas
+Q001234	Įrangos meistras
+Q001235	Įrenginių eksploatavimo meistras
+Q001236	Remonto technikas
+Q001237	Mechaninių dirbtuvių technikas
+Q001238	Aviacijos inžinerijos technikas
+Q001239	Jūrų inžinerijos technikas
+Q001240	Mechanikos technikas
+Q001241	Jūrų laivų ekspertas
+Q001242	Transporto priemonių inspektorius
+Q001243	Transporto priemonių atitikties techninių standartų reikalavimams inspektorius
+Q001244	Kelių transporto priemonių techninių apžiūrų centro kontrolierius
+Q001245	Vežimo technikas
+Q001246	Cheminės inžinerijos technikas
+Q001247	Naftos ir dujų gręžinių apdorojimo rūgštimi technikas
+Q001248	Naftos ir dujų gręžinių cementuotojas
+Q001249	Naftos ir dujų gręžinių torpeduotojas
+Q001250	Kasybos technikas
+Q001251	Naftos ir gamtinių dujų gavybos technikas
+Q001252	Liejamosios metalurgijos technikas
+Q001253	Radioaktyviųjų mineralų metalurgijos technikas
+Q001254	Gręžinių apdorojimo rūgštimi technikas
+Q001255	Gręžinių likvidavimo technikas
+Q001256	Budintysis technikas
+Q001257	Kasybos inžinerijos technikas
+Q001258	Metalurgijos technikas
+Q001259	Saugių darbo sąlygų ir sveikatos saugos inspektorius {gavyba}
+Q001260	Braižytojas
+Q001261	Architektūrinių brėžinių braižytojas
+Q001262	Žemėlapių ir jūrlapių braižytojas
+Q001263	Štampų ir matricų braižytojas
+Q001264	Techninių brėžinių braižytojas
+Q001265	Statybos inžinerijos objektų braižytojas
+Q001266	Elektrotechninių gaminių braižytojas
+Q001267	Elektroninių gaminių braižytojas
+Q001268	Šildymo ir vėdinimo sistemų braižytojas
+Q001269	Jūrų inžinerijos braižytojas
+Q001270	Mechanikos inžinerijos braižytojas
+Q001271	Statybos technikos braižytojas
+Q001272	Geologinių žemėlapių braižytojas
+Q001273	Technologinių įrankių ir įtaisų braižytojas
+Q001274	Litografijos braižytojas
+Q001275	Techninis braižytojas
+Q001276	Topografinių žemėlapių braižytojas
+Q001277	Techninis iliustruotojas
+Q001278	Informacinių technologijų technikas
+Q001279	Pramonės išdėstymo organizavimo technikas
+Q001280	Metodų tyrimo technikas
+Q001281	Planavimo [organizavimo] technikas
+Q001282	Gamybos metodų technikas
+Q001283	Saugumo technikos technikas
+Q001284	Sistemų (išskyrus kompiuterių sistemas) projektavimo technikas
+Q001285	Laiko sąnaudų ir darbo operacijų trukmės tyrimo technikas
+Q001286	Darbo laiko analizės technikas
+Q001287	Darbų apimties įvertinimo technikas
+Q001288	Standartizacijos technikas
+Q001289	Televizijos laidų rengimo grafikų sudarytojas
+Q001290	Gamybos parengimo technikas
+Q001291	Robotikos technikas
+Q001292	Naftos ir dujų gręžinių gręžimo meistras
+Q001293	Naftos gavybos meistras
+Q001294	Karjero darbų meistras
+Q001295	Gręžinio brigadininkas
+Q001296	Pamainos meistras
+Q001297	Gamybos meistras
+Q001298	Cecho [baro] meistras
+Q001299	Remonto mechaninio baro meistras
+Q001300	Gamybos darbų brigadininkas
+Q001301	Surinkimo darbų meistras
+Q001302	Geležinkelio ruožo meistras
+Q001303	Tiltų meistras
+Q001304	Kelių meistras
+Q001305	Statybos darbų brigadininkas
+Q001306	Pastatų statybos darbų meistras
+Q001307	Pastatų ir statinių remonto meistras
+Q001308	Elektrinės skirstomojo skydo dispečeris
+Q001309	Elektrinės operatorius
+Q001310	Elektros generavimo dujų įrangos operatorius
+Q001311	Elektros generatoriaus operatorius
+Q001312	Hidroelektrinės generatoriaus operatorius
+Q001313	Garo jėgainės elektros generatoriaus operatorius
+Q001314	Geoterminės jėgainės operatorius
+Q001315	Hidroelektrinės operatorius
+Q001316	Branduolinės elektrinės operatorius
+Q001317	Branduolinio reaktoriaus elektros generatoriaus operatorius
+Q001318	Reaktorių skyriaus operatorius
+Q001319	Garo jėgainės operatorius
+Q001320	Elektros generavimo turbinos operatorius
+Q001321	Jėgainės turbinos operatorius
+Q001322	Vėjo elektrinės operatorius
+Q001323	Kilnojamosios elektros stoties mašinistas
+Q001324	Karštosios kameros operatorius
+Q001325	Saulės elektrinės operatorius
+Q001326	Potvynių elektrinės operatorius
+Q001327	Reaktorių skyriaus transporto technologinės įrangos operatorius
+Q001328	Atliekų deginimo ir vandens valymo įrenginių operatoriai
+Q001329	Aerotanko operatorius
+Q001330	Nusodintuvų operatorius
+Q001331	Vandens filtravimo įrenginių operatorius
+Q001332	Nuotekų valymo įrenginių aparatininkas
+Q001333	Atliekų deginimo įrenginio operatorius
+Q001334	Vandens siurblinės operatorius
+Q001335	Siurblinės (išskyrus naftos ir gamtinių dujų) operatorius
+Q001336	Chloravimo įrangos operatorius
+Q001337	Vandens rezervuaro operatorius
+Q001338	Vandens užtvankos prižiūrėtojas
+Q001339	Kompresorinės mašinistas
+Q001340	Kompresorinės įrenginių operatorius
+Q001341	Valymo įrenginių operatorius
+Q001342	Dumblo aikštelių operatorius
+Q001343	Vandens cheminio valymo įrenginių operatorius
+Q001344	Vandens nupiltuvo motoristas
+Q001345	Vandentiekio siurblinės mašinistas
+Q001346	Vandentiekio įrenginių operatorius
+Q001347	Valymo įrangos operatorius
+Q001348	Siurblinės mašinistas
+Q001349	Vandens cheminio valymo įrenginių aparatininkas
+Q001350	Nuosėdų džiovinimo įrenginių operatorius
+Q001351	Vandens specialiojo valymo įrenginių operatorius
+Q001352	Vandens nuotėkio paieškos operatorius
+Q001353	Nuotekų valymo stoties operatorius
+Q001354	Nuotekų šalinimo įrenginio operatorius
+Q001355	Cheminio ir panašaus apdorojimo įrenginio operatorius
+Q001356	Cheminėje ir panašioje technologijoje naudojamo šiluminio apdorojimo įrenginio operatorius
+Q001357	Cheminėje ir panašioje technologijoje naudojamo maišytuvo operatorius
+Q001358	Cheminių ir panašių medžiagų filtravimo preso operatorius
+Q001359	Naftos telkinių dehidratavimo įrenginių operatorius
+Q001360	Cheminių ir panašių medžiagų sraigtinio preso operatorius
+Q001361	Cheminių ir panašių medžiagų ekstraktoriaus operatorius
+Q001362	Būgninio filtro operatorius
+Q001363	Cheminių ir panašių medžiagų sijojimo įrenginio operatorius
+Q001364	Žalios naftos valymo įrenginio operatorius
+Q001365	Ultrafiltravimo įrenginio operatorius
+Q001366	Cheminėje technologijoje naudojamo (išskyrus naftos ir gamtinių dujų) garintuvo operatorius
+Q001367	Karštosios kameros technikas
+Q001368	Chemikalų balinimo aparato operatorius
+Q001369	Vakuuminio įrenginio operatorius
+Q001370	Galvaninių elementų cheminio apdorojimo įrenginio operatorius
+Q001371	Radioaktyviųjų medžiagų cheminio apdorojimo įrenginio operatorius
+Q001372	Naftos ir gamtinių dujų perdirbimo įrenginių operatoriai
+Q001373	Naftos ir gamtinių dujų perdirbimo produktų maišytuvo operatorius
+Q001374	Išvalytos naftos ir gamtinių dujų mišinių paruošimo įrenginio operatorius
+Q001375	Išvalytos naftos ir gamtinių dujų distiliatoriaus operatorius
+Q001376	Naftos ir gamtinių dujų siurblinės operatorius
+Q001377	Naftos ir gamtinių dujų perdirbimo įmonės operatorius
+Q001378	Išvalytos naftos ir gamtinių dujų distiliatoriaus siurblio operatorius
+Q001379	Sieros iš išvalytos naftos ir gamtinių dujų šalinimo įrenginio operatorius
+Q001380	Išvalytos naftos ir gamtinių dujų apdorojimo įrenginio operatorius
+Q001381	Metalo lydkrosnės operatorius
+Q001382	Tiglinės metalo lydkrosnės operatorius
+Q001383	Besemerio konverterio operatorius
+Q001384	Deguoninio konverterio operatorius
+Q001385	Tomo konverterio operatorius
+Q001386	Pudlingavimo krosnies operatorius
+Q001387	Spalvotųjų metalų rafinavimo krosnies operatorius
+Q001388	Plieno rafinavimo krosnies operatorius
+Q001389	Plieno rafinavimo atvirosios angos krosnies operatorius
+Q001390	Plieno rafinavimo Marteno krosnies operatorius
+Q001391	Spalvotųjų metalų konverterio operatorius
+Q001392	Plieno konverterio operatorius
+Q001393	Šachtinės metalo lydkrosnės operatorius
+Q001394	Elektrinės lankinės metalo lydkrosnės operatorius
+Q001395	Metalo lydymo Marteno krosnies operatorius
+Q001396	Atšvaitinės metalo lydkrosnės operatorius
+Q001397	Metalų atkaitinimo antrajam lydymui krosnies operatorius
+Q001398	Roboto valdymo technikas
+Q001399	Robotų technikas
+Q001400	Pramonės roboto valdymo technikas
+Q001401	Automatinės surinkimo linijos įrenginių operatorius
+Q001402	Automatizuotos surinkimo linijos operatorius
+Q001403	Robotų operatorius
+Q001404	Anatomijos laborantas
+Q001405	Bakteriologijos laborantas
+Q001406	Biologijos laborantas
+Q001407	Botanikos laborantas
+Q001408	Ekologijos laborantas
+Q001409	Farmakologijos laborantas
+Q001410	Fiziologijos laborantas
+Q001411	Serologijos laborantas
+Q001412	Audinių laborantas
+Q001413	Zoologijos laborantas
+Q001414	Mikrobiologijos laborantas
+Q001415	Laborantas
+Q001416	Chemijos laborantas
+Q001417	Ėminių ėmėjas
+Q001418	Valstybinis veislininkystės inspektorius
+Q001419	Pasėlių tyrimo technikas
+Q001420	Gėlininkystės technikas
+Q001421	Daržininkystės technikas
+Q001422	Sodininkystės technikas
+Q001423	Dirvotyros technikas
+Q001424	Apželdinimo technikas
+Q001425	Valstybinis aplinkos apsaugos inspektorius
+Q001426	Miškininkystės technikas
+Q001427	Miškotvarkos technikas
+Q001428	Eigulys
+Q001429	Medienos ruošos meistras
+Q001430	Miško medelyno meistras
+Q001431	Taksatorius
+Q001432	Medžioklėtyros technikas
+Q001433	Medžiojamų žvėrių ir paukščių prižiūrėtojas
+Q001434	Paukščių rezervato prižiūrėtojas
+Q001435	Gamtos rezervato prižiūrėtojas
+Q001436	Medžioklės plotų prižiūrėtojas
+Q001437	Medžioklės žinovas
+Q001438	Budintysis mechanikas
+Q001439	Vyriausiasis laivo mechanikas
+Q001440	Antrasis mechanikas
+Q001441	Mechanikas stažuotojas
+Q001442	Laivo elektromechanikas
+Q001443	Budintysis elektromechanikas
+Q001444	Radijo ryšio operatorius
+Q001445	Jūrų laivo įrangos technikas
+Q001446	Laivo refrižeratorinių įrenginių mechanikas
+Q001447	Laivo sistemų mechanikas
+Q001448	Laivo statytojas mechanikas
+Q001449	Laivo kapitonas
+Q001450	Vyresnysis laivo kapitono padėjėjas
+Q001451	Vadovaujantysis jūrininkas
+Q001452	Budintysis laivo kapitono padėjėjas
+Q001453	Budintysis laivo kapitono padėjėjas stažuotojas
+Q001454	Laivo kapitonas mechanikas
+Q001455	Laivavedys
+Q001456	Stividoras
+Q001457	Laivo škiperis
+Q001458	Laivo kapitono padėjėjas
+Q001459	Laivo škiperio padėjėjas
+Q001460	Uosto kapitonas
+Q001461	Žemkasės kapitonas
+Q001462	Vyresnysis žemkasės kapitono padėjėjas
+Q001463	Locmanas
+Q001464	Šturmanas
+Q001465	Žemsiurbės vadas
+Q001466	Žemsiurbės vado padėjėjas
+Q001467	Jachtos kapitonas
+Q001468	Orlaivio navigatorius
+Q001469	Oro linijų transporto pilotas
+Q001470	Sraigtasparnio pilotas
+Q001471	Pilotas mėgėjas
+Q001472	Komercinės aviacijos pilotas
+Q001473	Skraidantysis inžinierius
+Q001474	Sklandytojas
+Q001475	Laisvojo aerostato pilotas
+Q001476	Skraidymo instruktorius
+Q001477	Skrydžių saugos technikas
+Q001478	Aerodromo technikas
+Q001479	Audiometrijos įrangos operatorius
+Q001480	Elektrokardiografijos įrangos operatorius
+Q001481	Elektroencefalografijos įrangos operatorius
+Q001482	Medicininės rentgeno įrangos operatorius
+Q001483	Medicininės radiografijos įrangos operatorius
+Q001484	Skenavimo įrangos operatorius
+Q001485	Optinio skenavimo įrangos operatorius
+Q001486	Radiologinės diagnostikos technologas
+Q001487	Funkcinės diagnostikos technologas
+Q001488	Perfuzininkas
+Q001489	Operacinės slaugytojas
+Q001490	Branduolinės medicinos technologas
+Q001491	Medicininės radioterapijos technikas
+Q001492	Diagnostinės radiologijos technologas
+Q001493	Mamografijos technologas
+Q001494	Kraujo banko laborantas
+Q001495	Citologijos laborantas
+Q001496	Genetikos laborantas
+Q001497	Hematologijos laborantas
+Q001498	Patologijos ir teismo medicinos diagnostikos technologas
+Q001499	Medicinos mokslų laborantas
+Q001500	Patologijos laborantas
+Q001501	Medicinos tarnybos laborantas
+Q001502	Laboratorinės diagnostikos technologas
+Q001503	Klinikos laborantas
+Q001504	Veterinarijos laborantas
+Q001505	Farmakotechnikas
+Q001506	Vaistininko padėjėjas
+Q001507	Medicinos ir dantų technikai
+Q001508	Anestezijos ir intensyviosios terapijos slaugytojas (dirbantis ar dalyvaujantis teikiant anesteziją)
+Q001509	Dantų technikas
+Q001510	Chirurginių reikmenų gamintojas
+Q001511	Chirurginių reikmenų taisytojas
+Q001512	Slaugytojas asistentas
+Q001513	Slaugytojas praktikantas
+Q001514	Veterinarijos technikai ir felčeriai
+Q001515	Veterinarijos felčeris
+Q001516	Veterinaro sėklintojo padėjėjas
+Q001517	Gydytojo odontologo padėjėjas
+Q001518	Burnos higienistas
+Q001519	Medicininių įrašų ir sveikatos informacijos technikai
+Q001520	Sveikatos statistikas ir informatikas
+Q001521	Statistinių duomenų koduotojas {medicina}
+Q001522	Medicinos įstaigos registratorius
+Q001523	Gydytojo epidemiologo padėjėjas
+Q001524	Gydytojo parazitologo padėjėjas
+Q001525	Higienos laborantas
+Q001526	Visuomenės sveikatos stiprinimo specialistas
+Q001527	Vaikų ir jaunimo sveikatos priežiūros specialistas
+Q001528	Visuomenės sveikatos administratorius
+Q001529	Optikai
+Q001530	Optikos reikmenų pardavėjas
+Q001531	Akinių meistras
+Q001532	Kontaktinių lęšių optikas
+Q001533	Ergoterapeuto padėjėjas
+Q001534	Kineziterapeuto padėjėjas
+Q001535	Masažuotojas
+Q001536	Gydytojo padėjėjas
+Q001537	Darbo higienos inspektorius
+Q001538	Ne maisto produktų saugos inspektorius
+Q001539	Maisto produktų saugos inspektorius
+Q001540	Darbuotojų saugos ir sveikatos inspektorius
+Q001541	Vaikų priežiūros ir sveikatos saugos inspektorius
+Q001542	Vartotojų apsaugos ir sveikatos saugos inspektorius
+Q001543	Sveikatos saugos ir apsaugos nuo elektros inspektorius
+Q001544	Darbuotojų saugos ir sveikatos specialistas
+Q001545	Pramonės atliekų apdorojimo darbuotojų darbo ir sveikatos saugos inspektorius
+Q001546	Kontrolės tarnybos technikas
+Q001547	Apsaugos nuo taršos ir sveikatos saugos inspektorius
+Q001548	Parduotuvės darbuotojų darbo ir sveikatos saugos inspektorius
+Q001549	Transporto darbuotojų darbo ir sveikatos saugos inspektorius
+Q001550	Technikos saugos inspektorius
+Q001551	Pamainos inspektorius
+Q001552	Sanitarijos inspektorius
+Q001553	Sanitarijos specialistas
+Q001554	Gydytojo higienisto padėjėjas
+Q001555	Medicinos entomologo padėjėjas
+Q001556	Profesinės sveikatos ir darbo saugos inspektorius
+Q001557	Maisto higienos ir saugos inspektorius
+Q001558	Dispečeris (dirbantis GMP dispečerinėje)
+Q001559	Skubiosios medicinos pagalbos slaugos specialistas
+Q001560	Ortoepistas
+Q001561	Kosmetologas
+Q001562	Užsienio biržos brokeris
+Q001563	Investavimo brokeris
+Q001564	Vertybinių popierių brokeris
+Q001565	Akcijų ir obligacijų brokeris
+Q001566	Biržos makleris
+Q001567	Paskolų specialistas
+Q001568	Hipotekos specialistas
+Q001569	Jaunesnieji apskaitos specialistai
+Q001570	Buhalteris sąskaitininkas
+Q001571	Personalo inspektorius
+Q001572	Apskaitos technikas
+Q001573	Darbo užmokesčio apskaitos buhalteris
+Q001574	Gamybos apskaitos buhalteris
+Q001575	Žaliavų ir medžiagų apskaitos buhalteris
+Q001576	Išlaidų apskaitos buhalteris
+Q001577	Auditoriaus padėjėjas
+Q001578	Aktuaro asistentas
+Q001579	Matematiko asistentas
+Q001580	Statistiko asistentas
+Q001581	Nuostolių vertintojas
+Q001582	Draudimo ieškinių ekspertas
+Q001583	Turto vertintojas
+Q001584	Ieškinių inspektorius
+Q001585	Draudimo ieškinių inspektorius
+Q001586	Draudimo agentai
+Q001587	Draudimo agentas [vadybininkas]
+Q001588	Draudimo brokeris
+Q001589	Komercijos agentas
+Q001590	Tiekimo agentas [vadybininkas]
+Q001591	Tiekėjas
+Q001592	Logistas
+Q001593	Jūrų laivų brokeris
+Q001594	Prekybos brokeris
+Q001595	Muitinės tarpininkas
+Q001596	Konferencijų ir renginių organizatorius
+Q001597	Vestuvių planuotojas
+Q001598	Įdarbinimo agentas
+Q001599	Nekilnojamojo turto agentas
+Q001600	Nekilnojamojo turto pardavėjas
+Q001601	Turto agentas
+Q001602	Nuosavybės valdytojas
+Q001603	Patentų agentas
+Q001604	Patentinis patikėtinis
+Q001605	Aukciono vedėjas
+Q001606	Literatūros kūrinių agentas
+Q001607	Muzikos kūrinių agentas
+Q001608	Reklamos agentas [vadybininkas]
+Q001609	Gidas
+Q001610	Raštinės administratorius
+Q001611	Administravimo padalinio vyresnysis darbuotojas
+Q001612	Vyresnysis duomenų įvesties darbuotojas
+Q001613	Vyresnysis kataloguotojas
+Q001614	Vyresnysis sekretorius
+Q001615	Teisės institucijų sekretoriai
+Q001616	Teisės institucijos sekretorius
+Q001617	Struktūrinio padalinio ar specialisto padėjėjas
+Q001618	Seimo frakcijos referentas
+Q001619	Seimo nario padėjėjas-sekretorius
+Q001620	Mero padėjėjas
+Q001621	Korespondencijos tvarkytojas
+Q001622	Stenogramų tvarkytojas
+Q001623	Administracijos sekretorius
+Q001624	Žinių padalinio administratorius
+Q001625	Televizijos laidų organizatorius
+Q001626	Operatyvaus valdymo skyriaus budėtojas
+Q001627	Administratorius referentas
+Q001628	Poilsio organizavimo administratorius
+Q001629	Prekybos įmonės administratorius
+Q001630	Reklamos administratorius
+Q001631	Viešbučio administratorius
+Q001632	Verslo įmonės administratorius
+Q001633	Sporto salės administratorius
+Q001634	Pardavimo padalinio administratorius
+Q001635	Apgyvendinimo paslaugų administratorius
+Q001636	Maitinimo paslaugų administratorius
+Q001637	Projekto administratorius
+Q001638	Elektroninio pašto ir informacijos paslaugų administratorius
+Q001639	Asmeninis sekretorius [padėjėjas]
+Q001640	Diplomatinis kurjeris
+Q001641	Konsulato sekretorius
+Q001642	Medicinos sekretoriai
+Q001643	Administratorius {medicina}
+Q001644	Medicinos įstaigos sekretorius
+Q001645	Pasienietis
+Q001646	Deklarantas
+Q001647	Importo ir eksporto deklarantas
+Q001648	Licencijų išdavimo specialistas
+Q001649	Migracijos įstaigos inspektorius
+Q001650	Policijos tyrėjas
+Q001651	Policijos specialistas
+Q001652	Gaisrų tyrėjas
+Q001653	Gaisrų prevencijos inspektorius
+Q001654	Gaisrinės saugos specialistas
+Q001655	Priešgaisrinės profilaktikos instruktorius
+Q001656	Kainų kontrolės specialistas
+Q001657	Viešojo administravimo institucijos specialistas
+Q001658	Darbo teisės inspektorius
+Q001659	Metrologijos inspektorius
+Q001660	Civilinės saugos specialistas
+Q001661	Valstybinės tarnybos komisijos pareigūnas
+Q001662	Rinkimų komisijos narys
+Q001663	Vaiko teisių apsaugos inspektorius
+Q001664	Revizorius
+Q001665	Revizorius kontrolierius
+Q001666	Draudimo agento [vadybininko] padėjėjas
+Q001667	Brokerio padėjėjas
+Q001668	Teisininko padėjėjas
+Q001669	Privatus detektyvas
+Q001670	Socialinių išmokų darbuotojas
+Q001671	Jaunesnysis socialinės rūpybos specialistas
+Q001672	Jaunesnysis socialinis darbuotojas
+Q001673	Jaunesnysis lygtinio paleidimo iš laisvės atėmimo vietos priežiūros pareigūnas
+Q001674	Socialinio darbuotojo padėjėjas
+Q001675	Lankomosios priežiūros darbuotojas
+Q001676	Asmeninis padėjėjas {socialinis darbas}
+Q001677	Keliaujantis pamokslininkas
+Q001678	Parapijos darbuotojas
+Q001679	Pamokslininkas pasaulietis
+Q001680	Zakristijonas
+Q001681	Užkalbėtojas
+Q001682	Sportininkas
+Q001683	Sportininkas profesionalas
+Q001684	Sporto treneris
+Q001685	Sporto instruktorius
+Q001686	Sporto teisėjas
+Q001687	Slidinėjimo instruktorius
+Q001688	Plaukimo instruktorius
+Q001689	Kūno rengybos instruktorius
+Q001690	Jojimo instruktorius
+Q001691	Asmeninis treneris
+Q001692	Turizmo instruktorius
+Q001693	Kino filmo operatorius
+Q001694	Kinematografijos specialistas
+Q001695	Kinematografijos kameros operatorius
+Q001696	Kino filmo kameros operatorius
+Q001697	Fotografas
+Q001698	Kino operatorius
+Q001699	Fotožurnalistas
+Q001700	Dekoracijų dizaineris
+Q001701	Eksponavimo priemonių dizaineris
+Q001702	Eksponavimo vitrinų dizaineris
+Q001703	Parodų dizaineris
+Q001704	Interjero dizaineris
+Q001705	Scenos dekoracijų dizaineris
+Q001706	Iškamšininkas
+Q001707	Bibliotekos technikas
+Q001708	Vyriausiasis virėjas
+Q001709	Režisieriaus padėjėjas
+Q001710	Vestuvių vedėjas
+Q001711	Sufleris
+Q001712	Scenos technikas
+Q001713	Specialiųjų efektų technikas
+Q001714	Gatvės šokėjas
+Q001715	Gatvės muzikantas
+Q001716	Apšvietimo technikas
+Q001717	Triukų koordinatorius
+Q001718	Tatuiruotojas
+Q001719	Išorinės kompiuterių įrangos operatorius
+Q001720	Kompiuterių sparčiojo spausdintuvo operatorius
+Q001721	Pagalbos informacinių technologijų ir ryšių sistemų naudotojams technikai
+Q001722	Kompiuterių ryšių specialisto asistentas
+Q001723	Kompiuterių duomenų bazių analitiko asistentas
+Q001724	Kompiuterių konstruktoriaus asistentas
+Q001725	Kompiuterio programuotojo asistentas
+Q001726	Kompiuterių sistemų analitiko asistentas
+Q001727	Kompiuterių naudotojų paslaugų specialisto asistentas
+Q001728	Kompiuterių technikas
+Q001729	Informacinių technologijų specialisto asistentas
+Q001730	Kompiuterių tinklų ir sistemų technikai
+Q001731	Pagalbos tinklų naudotojams technikas
+Q001732	Svetainės administratorius
+Q001733	Mikrofono operatorius
+Q001734	Garso operatorius
+Q001735	Vaizdo montažo režisierius
+Q001736	Garso ir vaizdo operatorius
+Q001737	Transliavimo technikas
+Q001738	Kino mechanikas
+Q001739	Telekomunikacijų inžinerijos technikas
+Q001740	Sekretorius
+Q001741	Sekretorius stenografininkas
+Q001742	Sekretorius referentas
+Q001743	Mašininkas
+Q001744	Duomenų įvesties operatorius
+Q001745	Kompiuterio operatorius
+Q001746	Kompiuterininkas
+Q001747	Banko kasininkas
+Q001748	Banko kasininkas kontrolierius
+Q001749	Pašto kasininkas [klientų aptarnavimo specialistas]
+Q001750	Inkasatorius
+Q001751	Lažybų tarpininkas"," bukmekeris
+Q001752	Lošimo namų tarnautojas"," krupjė
+Q001753	Pinigų skolintojas
+Q001754	Lombardo darbuotojas"," lombardininkas
+Q001755	Labdaros rinkėjas
+Q001756	Skolų išieškotojas
+Q001757	Kelionių konsultantas
+Q001758	Kelionių organizatorius
+Q001759	Kelionių agentūros tarnautojas
+Q001760	Informatorius
+Q001761	Informatorius operatorius
+Q001762	Ryšių su klientais centro informavimo tarnautojas
+Q001763	Klientų aptarnavimo skyriaus padėjėjas
+Q001764	Telefonu aptarnaujantis operatorius
+Q001765	Telefono skirstiklio operatorius
+Q001766	Priimamojo sekretorius
+Q001767	Rinkos tyrimo apklausų atlikėjas
+Q001768	Apklausų atlikėjas
+Q001769	Slaptas pirkėjas
+Q001770	Ligoninės priimamojo tarnautojas
+Q001771	Aukciono įmonės tarnautojas
+Q001772	Audito įmonės tarnautojas
+Q001773	Sąskaitybos tvarkytojas
+Q001774	Įmonės kasininkas
+Q001775	Buhalterijos tarnautojas
+Q001776	Buhalteris apskaitininkas
+Q001777	Iždininkas
+Q001778	Draudimo įmonės statistikos tarnautojas
+Q001779	Maklerių įstaigos tarnautojas
+Q001780	Kredito tvarkytojas
+Q001781	Investicijų tvarkytojas
+Q001782	Vertybinių popierių tvarkytojas
+Q001783	Statistikos įstaigos tarnautojas
+Q001784	Mokesčių įstaigos tarnautojas
+Q001785	Darbo užmokesčio skaičiuotojas
+Q001786	Skubaus krovinių išsiuntimo tvarkytojas
+Q001787	Išvežamų krovinių tvarkytojas
+Q001788	Gaunamų krovinių tvarkytojas
+Q001789	Atsargų apskaitininkas
+Q001790	Logistikos įmonės tarnautojas
+Q001791	Svėrėjas
+Q001792	Tiekimo sandėlio sandėlininkas
+Q001793	Medžiagų sandėlio sandėlininkas
+Q001794	Naftos produktų"," cheminių reagentų ir chemikalų sandėlininkas
+Q001795	Krovinių priėmėjas
+Q001796	Rekvizitininkas
+Q001797	Prekių priėmėjas
+Q001798	Ekipuotojas
+Q001799	Krovinių tvarkytojas
+Q001800	Prekių fasuotojas
+Q001801	Gamybos planuotojas
+Q001802	Oro transporto paslaugų tvarkytojas
+Q001803	Kelių transporto paslaugų kontrolierius
+Q001804	Laivų dispečeris
+Q001805	Naftos vamzdynų dispečeris
+Q001806	Geležinkelio dispečeris
+Q001807	Taksi dispečeris
+Q001808	Sunkvežimių dispečeris
+Q001809	Liftų priežiūros dispečeris
+Q001810	Elektros tinklų dispečeris
+Q001811	Šilumos tinklų dispečeris
+Q001812	Priešgaisrinės ir gelbėjimo tarnybos dispečeris
+Q001813	Krovinių prižiūrėtojas
+Q001814	Kelto prižiūrėtojas
+Q001815	Krantinės prižiūrėtojas
+Q001816	Geležinkelio transporto revizorius
+Q001817	Vietinio keleivinio kelių transporto kontrolierius
+Q001818	Eismo revizorius
+Q001819	Keleivinių traukinių kontrolierius revizorius
+Q001820	Centralizacijos posto budėtojas
+Q001821	Depo budėtojas
+Q001822	Dispečeris
+Q001823	Operatyvinis dispečeris
+Q001824	Paieškos ir gelbėjimo koordinacinio centro darbuotojas
+Q001825	Žiniavietės instruktorius
+Q001826	Vandentiekio ir nuotakynų dispečeris
+Q001827	Kelyno budėtojas
+Q001828	Darbų skirstytojas
+Q001829	Elektrinės pastotės dispečeris
+Q001830	Uosto dispečeris
+Q001831	Bibliotekos tarnautojas
+Q001832	Paštininkas
+Q001833	Pašto darbuotojas
+Q001834	Raštinės koduotojas
+Q001835	Statistinių duomenų koduotojas
+Q001836	Dokumentų rūšiavimo mašinos operatorius
+Q001837	Siuntų apmokėjimo žymėtuvo operatorius
+Q001838	Korektorius
+Q001839	Atspaudų tikrintojas
+Q001840	Šifruotojas
+Q001841	Blankų ir formuliarų užpildymo konsultantas
+Q001842	Raštininkas
+Q001843	Perrašinėtojas
+Q001844	Klasifikatorių tvarkytojas
+Q001845	Dokumentų tvarkytojas
+Q001846	Rodyklės sudarytojas
+Q001847	Kopijavimo įrangos operatorius
+Q001848	Archyvo tvarkytojas
+Q001849	Personalo skyriaus tarnautojas
+Q001850	Katalogų perrašinėtojas
+Q001851	Katalogų sudarytojas
+Q001852	Reklamos tarnautojas
+Q001853	Korespondencijos tarnautojas
+Q001854	Leidybos tarnautojas
+Q001855	Spaudos apžvalgininkas
+Q001856	Oro uosto palydovas
+Q001857	Lėktuvo palydovas
+Q001858	Laivo palydovas
+Q001859	Laivo ekonomas
+Q001860	Transporto priemonių konduktoriai
+Q001861	Traukinio palydovas
+Q001862	Specialiojo vagono palydovas
+Q001863	Kelto palydovas
+Q001864	Elektrotechnikos laboratorijos vagono palydovas
+Q001865	Konduktorius kontrolierius
+Q001866	Kelionių vadovas
+Q001867	Virėjas
+Q001868	Dietinių patiekalų virėjas
+Q001869	Kulinaras
+Q001870	Padavėjai
+Q001871	Padavėjas
+Q001872	Vyriausiasis padavėjas
+Q001873	Vyno padavėjas
+Q001874	Barmenas
+Q001875	Barmenas padavėjas
+Q001876	Kirpėjas
+Q001877	Vyrų kirpėjas
+Q001878	Kirpėjas modeliuotojas
+Q001879	Pirtininkas
+Q001880	Garo pirties pirtininkas
+Q001881	Saunos pirtininkas
+Q001882	Turkiškos pirties pirtininkas
+Q001883	Dekoratyvinės kosmetikos kosmetikas
+Q001884	Manikiūrininkas
+Q001885	Pedikiūrininkas
+Q001886	Ūkvedys
+Q001887	Stovyklos komendantas
+Q001888	Bendrabučio komendantas
+Q001889	Ūkio techninės priežiūros skyriaus technikas
+Q001890	Ūkio skyriaus darbuotojas
+Q001891	Stovyklos ūkvedys
+Q001892	Komendantas
+Q001893	Aukšto administratorius
+Q001894	Restorano salės administratorius
+Q001895	Ūkio reikalų tvarkytojas"," gydymo įstaigos skyriaus ūkvedys
+Q001896	Vyresnysis liokajus
+Q001897	Ekonomas
+Q001898	Namų ūkio ekonomas
+Q001899	Šeimininkė
+Q001900	Pastatų prižiūrėtojai
+Q001901	Pastato prižiūrėtojas
+Q001902	Vyresnysis pastato durininkas
+Q001903	Bažnyčios tvarkdarys
+Q001904	Astrologas
+Q001905	Būrėjas
+Q001906	Numerologas
+Q001907	Patarnautojas
+Q001908	Viešbučio patarnautojas
+Q001909	Darbo drabužių tvarkytojas
+Q001910	Laidojimo paslaugų įmonės darbuotojas
+Q001911	Šarvotojas
+Q001912	Veterinarijos sanitaras
+Q001913	Naminių gyvūnų kirpėjas
+Q001914	Šunų dresuotojas
+Q001915	Instruktorius dresuotojas
+Q001916	Lenktyninių žirgų treneris
+Q001917	Kvalifikuotas zoologijos sodo darbininkas
+Q001918	Kinologas
+Q001919	Veterinaro pagalbininkas
+Q001920	Vairavimo instruktorius
+Q001921	Kitur nepriskirti paslaugų asmenims darbuotojai
+Q001922	Striptizo šokėjas
+Q001923	Klubo šeimininkas
+Q001924	Turgavietės pardavėjas
+Q001925	Smulkus prekybininkas
+Q001926	Gaiviųjų gėrimų ir užkandžių pardavėjas
+Q001927	Maisto produktų gatvės pardavėjas
+Q001928	Vyriausiasis kasininkas
+Q001929	Parduotuvių pardavėjai
+Q001930	Automobilių techninės priežiūros centro užsakymų darbuotojas
+Q001931	Pardavėjas
+Q001932	Pardavėjas kasininkas
+Q001933	Bilietų kasininkas
+Q001934	Kasininkas
+Q001935	Parduotuvės kasininkas
+Q001936	Manekenas
+Q001937	Modelis [pozuotojas]
+Q001938	Reklamos modelis [pozuotojas]
+Q001939	Dailininko modelis [pozuotojas]
+Q001940	Madų demonstruotojas
+Q001941	Demonstruotojas
+Q001942	Mažmeninės prekybos platinimo tarnybos agentas
+Q001943	Išnešiojamosios prekybos agentas
+Q001944	Prekybos telefonu agentas
+Q001945	Ryšių su klientais centro pardavėjas
+Q001946	Pardavėjas internetu
+Q001947	Nuotolinės rinkodaros specialistas
+Q001948	Degalinės operatorius
+Q001949	Bufetininkas
+Q001950	Bufetininkas kasininkas
+Q001951	Savitarnos valgyklos prekystalio pardavėjas
+Q001952	Salotų baro pardavėjas
+Q001953	Išnuomojimo paslaugų pardavėjas
+Q001954	Vaikų guvernantė
+Q001955	Auklė
+Q001956	Pagalbinis medicinos darbuotojas
+Q001957	Paramedikas {greitoji medicinos pagalba}
+Q001958	Slaugytojo padėjėjas
+Q001959	Asmens priežiūros namuose darbuotojas
+Q001960	Medicininių autoklavų aparatininkas
+Q001961	Vaistininko pagalbininkas
+Q001962	Gamybinių patalpų dezaktyvuotojas
+Q001963	Dezaktyvuotojas
+Q001964	Dozimetrininkas
+Q001965	Ugniagesys gelbėtojas
+Q001966	Kalėjimo prižiūrėtojas
+Q001967	Šaulys
+Q001968	Asmens sargybinis
+Q001969	Pašto siuntų lydėtojas
+Q001970	Apsaugos skyriaus kontrolierius
+Q001971	Apsaugos darbuotojas
+Q001972	Atsakingasis budėtojas
+Q001973	Pamainos budėtojas
+Q001974	Oro uosto saugos tarnybos darbuotojas
+Q001975	Vyresnysis durininkas
+Q001976	Gelbėtojas
+Q001977	Kvalifikuotas kultūrinių lauko augalų ūkio darbininkas
+Q001978	Kvalifikuotas linų ūkio darbininkas
+Q001979	Kvalifikuotas cukrinių runkelių ūkio darbininkas
+Q001980	Kvalifikuotas tabako ūkio darbininkas
+Q001981	Kvalifikuotas javų ūkio darbininkas
+Q001982	Kvalifikuotas liucernų ūkio darbininkas
+Q001983	Apynių augintojas
+Q001984	Kvalifikuotas vaismedžių ūkio darbininkas
+Q001985	Ūkininkas vaismedžių augintojas
+Q001986	Ūkininkas apynių augintojas
+Q001987	Vaismedžių augintojas
+Q001988	Kvalifikuotas apželdinimo darbininkas
+Q001989	Sumedėjusių augalų priežiūros darbuotojas"," arboristas
+Q001990	Kvalifikuotas mišriųjų kultūrinių augalų ūkio darbininkas
+Q001991	Ūkininkas mišriųjų kultūrinių augalų augintojas
+Q001992	Žirgų augintojas
+Q001993	Avių augintojas
+Q001994	Kiaulių augintojas
+Q001995	Kačių augintojas
+Q001996	Šunų augintojas
+Q001997	Ūkininkas žirgų augintojas
+Q001998	Ūkininkas gyvulių augintojas
+Q001999	Kvalifikuotas šunų veislyno darbininkas
+Q002000	Piemuo
+Q002001	Naminių paukščių augintojas
+Q002002	Paukštininkas
+Q002003	Kvalifikuotas paukštininkystės ūkio darbininkas
+Q002004	Ūkininkas naminių paukščių augintojas
+Q002005	Bitininkas
+Q002006	Ūkininkas bitininkas
+Q002007	Stručių augintojas
+Q002008	Laukinių paukščių augintojas
+Q002009	Ūkininkas laukinių paukščių augintojas
+Q002010	Medžiojamų paukščių augintojas
+Q002011	Laboratorinių gyvūnų augintojas
+Q002012	Sraigių augintojas
+Q002013	Sliekų augintojas
+Q002014	Ūkininkas laukinių kailinių žvėrelių augintojas
+Q002015	Laukinių žvėrelių ir paukščių prižiūrėtojas
+Q002016	Gyvūnų draustinio prižiūrėtojas
+Q002017	Laukinių paukščių paukštidės prižiūrėtojas
+Q002018	Kvalifikuotas gyvūnų laboratorijos darbininkas
+Q002019	Kvalifikuotas mišriojo ūkio darbininkas
+Q002020	Mišriojo ūkio ūkininkas
+Q002021	Žemdirbys
+Q002022	Miško medelyno darbininkas
+Q002023	Motorinio pjūklo operatorius
+Q002024	Medkirtys
+Q002025	Medienos ruošos darbuotojas
+Q002026	Kvalifikuotas miškų ūkio darbininkas
+Q002027	Kvalifikuotas miško apželdinimo darbininkas
+Q002028	Miško sodintojas
+Q002029	Rąstų matuotojas
+Q002030	Miško augintojas
+Q002031	Medžių sakintojas
+Q002032	Medžio anglių degėjas
+Q002033	Kvalifikuotas medienos distiliavimo darbininkas
+Q002034	Kvalifikuotas žuvininkystės įmonės [ūkio] darbininkas
+Q002035	Ūkininkas žuvininkas
+Q002036	Kvalifikuotas žuvų veisyklos darbininkas
+Q002037	Jūros priekrantės žvejys
+Q002038	Vidaus vandenų žvejys
+Q002039	Kvalifikuotas vidaus vandenų žvejybos darbininkas
+Q002040	Medžiotojas
+Q002041	Kvalifikuotas natūraliojo augalininkystės ūkio darbininkas
+Q002042	Natūraliojo ūkio kultūrinių augalų augintojas
+Q002043	Kvalifikuotas mišriojo natūraliojo ūkio darbininkas
+Q002044	Mišriojo natūraliojo ūkio kultūrinių augalų ir gyvulių augintojas
+Q002045	Natūraliojo ūkio miško gėrybių ir vaistažolių rinkėjas
+Q002046	Akmens raižytojas
+Q002047	Akmeninių paminklų restauruotojas
+Q002048	Betonuotojas
+Q002049	Mozaikų klojėjas
+Q002050	Stalius dailidė
+Q002051	Stalius montuotojas
+Q002052	Dailidė
+Q002053	Statybininkas ramstytojas
+Q002054	Darbininkas griovėjas
+Q002055	Pastatų techninės priežiūros darbininkas
+Q002056	Pastatų surenkamųjų konstrukcijų montuotojas
+Q002057	Drenažo vamzdžių klojėjas
+Q002058	Statinių techninės priežiūros ir einamojo remonto darbininkas
+Q002059	Pastatų remontininkas
+Q002060	Dūmtraukių remontininkas
+Q002061	Pastolininkas
+Q002062	Pastolių statytojas
+Q002063	Darbininkas aukštybininkas
+Q002064	Medinių atraminių konstrukcijų darbininkas {statyba}
+Q002065	Pastatų remontininkas aukštybininkas
+Q002066	Kelių remontininkas
+Q002067	Asfaltuotojas
+Q002068	Asfaltbetonio rūšiuotojas {kelių tiesimas}
+Q002069	Kelininkas
+Q002070	Geodezininko ir markšeiderio padėjėjas
+Q002071	Stogdengys
+Q002072	Grindėjas
+Q002073	Grindinio klojėjas
+Q002074	Parketo klojėjas
+Q002075	Plytelių klojėjas
+Q002076	Medinių blokelių klojėjas
+Q002077	Parketo darbininkas
+Q002078	Plytelių klojėjas derintojas
+Q002079	Tinkuotojas apdailininkas
+Q002080	Tinkuotojas
+Q002081	Izoliuotojas
+Q002082	Stiklius
+Q002083	Transporto priemonių stiklius
+Q002084	Šulinių kasėjas
+Q002085	Vamzdyno montuotojas
+Q002086	Orlaivio vamzdyno montuotojas
+Q002087	Dujų vamzdyno montuotojas
+Q002088	Laivo vamzdyno įrengėjas
+Q002089	Nuotakyno montuotojas
+Q002090	Vėdinimo vamzdyno montuotojas
+Q002091	Orlaivio vamzdyno šaltkalvis montuotojas
+Q002092	Vamzdyno klojėjas sujungėjas
+Q002093	Vamzdžių klojėjas
+Q002094	Pagrindinio [magistralinio] vamzdyno klojėjas sujungėjas
+Q002095	Vamzdynininkas
+Q002096	Cheminių įrenginių vandentiekininkas
+Q002097	Laivo vamzdynininkas
+Q002098	Vamzdynų ir šildymo sistemų įrenginių montuotojas
+Q002099	Vėdinimo sistemų šaltkalvis
+Q002100	Santechnikos sistemų ir įrenginių montuotojas
+Q002101	Vidaus santechnikos tinklų ir įrenginių santechnikas
+Q002102	Vidaus santechnikos vamzdynų ir įrenginių montuotojas
+Q002103	Santechnikas
+Q002104	Technologinių vamzdynų ir įrenginių montuotojas
+Q002105	Vandentiekio ir nuotakynų šaltkalvis apeivis
+Q002106	Medinių gaminių dažytojas
+Q002107	Metalinių gaminių dažytojas
+Q002108	Laivų korpusų dažytojas
+Q002109	Sienų apmušėjas
+Q002110	Vagonų cisternų dažytojas
+Q002111	Apdailininkas mozaikininkas
+Q002112	Dailės ir dekoratyviųjų dirbinių restauruotojas
+Q002113	Transporto priemonių dažytojas
+Q002114	Kaminkrėtys
+Q002115	Pastatų vidaus valytojas {statyba}
+Q002116	Dūmtakių valytojas
+Q002117	Pastatų išorės valytojas
+Q002118	Švino pjaustytojas dujomis
+Q002119	Suvirintojas
+Q002120	Lituotojas
+Q002121	Suvirintojas elektra
+Q002122	Metalo pjaustytojas pjūklais [žirklėmis"," staklėmis"," presais]
+Q002123	Metalo pjaustytojas dujomis
+Q002124	Suvirintojas taškiniu būdu
+Q002125	Orlaivio plokščių kalėjas
+Q002126	Transporto priemonių plokščių kalėjas
+Q002127	Katilų šaltkalvis
+Q002128	Varkalys
+Q002129	Katilų gamintojas
+Q002130	Plonalakščio metalo valcuotojas
+Q002131	Aviacinių plonalakščių dalių šaltkalvis
+Q002132	Ornamentinių plonalakščių gaminių šaltkalvis
+Q002133	Alavinių gaminių šaltkalvis
+Q002134	Transporto priemonių plonalakščių dalių šaltkalvis
+Q002135	Skardininkas
+Q002136	Valcuotojas
+Q002137	Plieninių konstrukcijų surinkėjas [montuotojas]
+Q002138	Metalinių konstrukcijų montuotojas
+Q002139	Kniedytojas
+Q002140	Laivo metalinių konstrukcijų montuotojas
+Q002141	Metalografijos laborantas
+Q002142	Fizikinių ir mechaninių bandymų laborantas
+Q002143	Spektroanalizės laborantas
+Q002144	Metalinių konstrukcijų surinkimo šaltkalvis
+Q002145	Tiltų lynų priežiūros darbininkas
+Q002146	Kabamųjų tiltų lynų priežiūros darbininkas
+Q002147	Takelažininkas
+Q002148	Lynų montuotojas
+Q002149	Orlaivių lynų montuotojas
+Q002150	Kėlimo įrangos lynų montuotojas
+Q002151	Statybinės kėlimo įrangos lynų montuotojas
+Q002152	Naftos ir dujų šulinių įrangos lynų montuotojas
+Q002153	Geležinkelio lynų montuotojas
+Q002154	Laivų takelažininkas
+Q002155	Slidžių keltuvo lynų montuotojas
+Q002156	Lynų susukėjas apspaudėjas
+Q002157	Vielos susukėjas apspaudėjas
+Q002158	Liftų montuotojas
+Q002159	Kalvis
+Q002160	Vielos tempėjas
+Q002161	Pneumatinio kalvės kūjo operatorius
+Q002162	Krintančio kalvės kūjo operatorius
+Q002163	Kalvis arklių kaustytojas
+Q002164	Štampavimo preso operatorius
+Q002165	Metalo kalimo preso operatorius
+Q002166	Kalvės kūjo ir preso operatorius
+Q002167	Kalvis suvirintojas
+Q002168	Štampuotojas
+Q002169	Kalvystės ir presavimo darbų kontrolierius
+Q002170	Štampų apdailininkas
+Q002171	Ginklininkas
+Q002172	Spynų meistras
+Q002173	Šablonų gamintojas
+Q002174	Štampų gamintojas
+Q002175	Lekalų gamintojas
+Q002176	Įrankininkas
+Q002177	Metalo žymėtojas
+Q002178	Metalo liejinių modelių gamintojas
+Q002179	Statybos šaltkalvis
+Q002180	Šaltkalvis
+Q002181	Šaltkalvis įrankininkas
+Q002182	Galąstojas
+Q002183	Metalo gręžėjas
+Q002184	Metalo apdirbimo staklių derintojas
+Q002185	Metalo gręžimo staklių derintojas operatorius
+Q002186	Metalo pjovimo staklių derintojas operatorius
+Q002187	Metalo šlifavimo staklių derintojas operatorius
+Q002188	Metalo štampavimo staklių derintojas operatorius
+Q002189	Metalo tekinimo staklių derintojas operatorius
+Q002190	Metalo galandimo staklių derintojas operatorius
+Q002191	Metalo padengimo staklių derintojas operatorius
+Q002192	Skaitmeninio valdymo metalo apdirbimo staklių derintojas operatorius
+Q002193	Metalo drožimo staklių derintojas operatorius
+Q002194	Metalo apdirbimo staklių-plėstuvo derintojas operatorius
+Q002195	Metalo lakštų vyniotojas
+Q002196	Automatinių linijų derintojas
+Q002197	Metalo apdirbimo štampų gamybos presų derintojas operatorius
+Q002198	Plataus profilio staklininkas
+Q002199	Prietaisų ir detalių bandytojas
+Q002200	Prietaisų tikrintojas
+Q002201	Prietaisininkas
+Q002202	Frezuotojas mechanikas
+Q002203	Elektroerozininkas
+Q002204	Šaltkalvio ir staklininko darbų kontrolierius
+Q002205	Krumpliaračių gamybos staklių operatorius
+Q002206	Vijimo staklių operatorius
+Q002207	Suvirinimo ir dujinio pjaustymo įrangos derintojas
+Q002208	Metalo apdirbimo staklių centro operatorius
+Q002209	Universaliųjų tekinimo ir sriegimo staklių operatorius
+Q002210	Metalo apdirbimo staklių operatorius
+Q002211	Revolverinių metalo apdirbimo staklių operatorius
+Q002212	Armatūros gamybos mašinų operatorius
+Q002213	Komponentų automatinio perdavimo įrenginių operatorius
+Q002214	Metalo lenkimo staklių operatorius
+Q002215	Katilų gamybos mašinų operatorius
+Q002216	Metalo gręžimo mašinų operatorius
+Q002217	Metalo poliravimo staklių operatorius
+Q002218	Metalo preso (išskyrus kalimo presą) operatorius
+Q002219	Kabelių gamybos mašinų operatorius
+Q002220	Laikrodžių gamybos mašinų operatorius
+Q002221	Perjungtuvų gamybos mašinų operatorius
+Q002222	Gurgučių pūtimo mašinų operatorius
+Q002223	Metalo gaminių gurgučių gamybos mašinų operatorius
+Q002224	Vamzdžių gurgučių gamybos mašinų operatorius
+Q002225	Metalo pjovimo staklių operatorius
+Q002226	Metalo graviravimo staklių operatorius
+Q002227	Metalo ėsdinimo mašinų operatorius
+Q002228	Dujinio ar deguoninio metalo pjaustymo mašinų operatorius
+Q002229	Metalo kalimo staklių operatorius
+Q002230	Metalo štampavimo mašinų operatorius
+Q002231	Tekinimo staklių operatorius
+Q002232	Metalo tekinimo staklių operatorius
+Q002233	Metalo šlifavimo staklių operatorius
+Q002234	Metalo aštrinimo staklių operatorius
+Q002235	Juvelyrinių dirbinių gamybos mašinų operatorius
+Q002236	Metalo pritrynimo staklių operatorius
+Q002237	Emulsijos ruošėjas
+Q002238	Metalinių gaminių gamybos mašinų operatorius
+Q002239	Metalo frezavimo staklių operatorius
+Q002240	Metalo liejimo mašinų operatorius
+Q002241	Adatų gamybos mašinų operatorius
+Q002242	Metalinių veržlių gamybos mašinų operatorius
+Q002243	Vamzdžių gamybos mašinų operatorius
+Q002244	Metalo drožimo staklių operatorius
+Q002245	Metalo skylių plėtimo staklių operatorius
+Q002246	Kniedžių gamybos mašinų operatorius
+Q002247	Kniedijimo staklių operatorius
+Q002248	Metalo formavimo preso operatorius
+Q002249	Profilinių detalių gamybos mašinų operatorius
+Q002250	Metalo kirpimo mašinų operatorius
+Q002251	Metalo valcavimo mašinų operatorius
+Q002252	Metalinės sporto įrangos mašinų operatorius
+Q002253	Įrankių gamybos mašinų operatorius
+Q002254	Metalinių žaislų gamybos mašinų operatorius
+Q002255	Rankinių ir kišeninių laikrodžių gamybos mašinų operatorius
+Q002256	Metalo suvirinimo mašinų operatorius
+Q002257	Vielos gaminių mašinų operatorius
+Q002258	Elektrinių grandinių montavimo mašinų operatorius
+Q002259	Automatinės staklių linijos operatorius
+Q002260	Tėjinio profiliuočio gamybos mašinų operatorius
+Q002261	Metalo juodintojas
+Q002262	Metalo valytojas
+Q002263	Metalinių liejinių apdailininkas
+Q002264	Metalo apdailininkas
+Q002265	Metalo šlifuotojas
+Q002266	Metalo poliruotojas
+Q002267	Įrankių galąstojas
+Q002268	Transporto priemonių variklių šaltkalvis surinkėjas
+Q002269	Automobilių mechanikas
+Q002270	Garažo mechanikas
+Q002271	Motociklų mechanikas
+Q002272	Sunkvežimių mechanikas
+Q002273	Variklinių transporto priemonių mechanikas
+Q002274	Variklinių transporto priemonių pavarų mechanikas
+Q002275	Traktorių mechanikas
+Q002276	Akumuliatorių pildytojas
+Q002277	Kelių transporto priemonių variklių derintojas
+Q002278	Mechanikas remontininkas
+Q002279	Remonto mechaninio baro mechanikas
+Q002280	Remonto meistras
+Q002281	Mechanikas
+Q002282	Mechaninio surinkimo šaltkalvis
+Q002283	Kelių mašinų ir įrenginių derintojas
+Q002284	Automobilių kolonos mechanikas
+Q002285	Akumuliatorininkas
+Q002286	Orlaivių variklių taisytojas
+Q002287	Orlaivių mechanikas
+Q002288	Šaldymo ir oro kondicionavimo įrangos montuotojas
+Q002289	Remonto šaltkalvis"," šaltkalvis remontininkas
+Q002290	Pramoninės vėdinimo ir šildymo įrangos techninės priežiūros šaltkalvis
+Q002291	Agregatų remonto šaltkalvis
+Q002292	Elektrinės automatikos ir matavimo aparatūros techninės priežiūros ir remonto šaltkalvis elektrikas
+Q002293	Kontrolinės matavimo aparatūros ir automatikos elektrinių įtaisų remonto šaltkalvis
+Q002294	Plastikinių gaminių gamybos mašinų ir automatinių linijų derintojas
+Q002295	Pramonės įrangos šaltkalvis surinkėjas
+Q002296	Žemės ūkio mašinų montuotojas
+Q002297	Grunto vežimo įrangos montuotojas
+Q002298	Laivų variklių šaltkalvis surinkėjas
+Q002299	Garo variklių šaltkalvis surinkėjas
+Q002300	Pramonės mašinų montuotojas
+Q002301	Metalo apdirbimo staklių montuotojas
+Q002302	Gavybos pramonės įrangos montuotojas
+Q002303	Įstaigos įrangos montuotojas
+Q002304	Spaudos [poligrafijos] įrangos montuotojas
+Q002305	Turbinų montuotojas
+Q002306	Medienos apdirbimo įrangos montuotojas
+Q002307	Žemės ūkio mašinų mechanikas
+Q002308	Statybos įrangos mechanikas
+Q002309	Dyzelinių variklių (išskyrus automobilinius) mechanikas
+Q002310	Garo variklių mechanikas
+Q002311	Pramonės įrangos mechanikas
+Q002312	Staklių mechanikas
+Q002313	Gavybos pramonės įrangos mechanikas
+Q002314	Įmonės įrenginių techninės priežiūros padalinio mechanikas
+Q002315	Spaudos [poligrafijos] įrangos mechanikas
+Q002316	Laivo mechanikas
+Q002317	Tekstilės įrangos mechanikas
+Q002318	Siuvimo mašinų remontininkas
+Q002319	Metalo apdirbimo įrangos mechanikas
+Q002320	Šaltkalvis surinkėjas
+Q002321	Nuotakynų remonto šaltkalvis
+Q002322	Tepėjas
+Q002323	Laivo įrangos tepėjas
+Q002324	Automatikos ir matavimo aparatūros techninės priežiūros šaltkalvis
+Q002325	Šaltkalvis elektrikas
+Q002326	Elektros įrangos šaltkalvis remontininkas
+Q002327	Šaltkalvis santechnikas
+Q002328	Šaltkalvis skardininkas
+Q002329	Laivų įrenginių montuotojas
+Q002330	Šaltkalvis suvirintojas
+Q002331	Šilumos tinklų priežiūros šaltkalvis
+Q002332	Automatinių įrenginių šaltkalvis surinkėjas
+Q002333	Vėdinimo ir oro kondicionavimo sistemų šaltkalvis
+Q002334	Šaldymo sistemų šaltkalvis
+Q002335	Šaldymo įrangos mašinistas
+Q002336	Takelažo ir krovinių užkabinimo prietaisų šaltkalvis
+Q002337	Takelažų ir griebtuvų šaltkalvis
+Q002338	Pramonės įrenginių montuotojas
+Q002339	Technologinių įrenginių remonto šaltkalvis
+Q002340	Riedmenų remonto šaltkalvis
+Q002341	Perkrovimo mašinų techninės priežiūros ir remonto šaltkalvis
+Q002342	Šaldymo įrenginių remontininkas
+Q002343	Įrenginių surinkimo šaltkalvis remontininkas
+Q002344	Kontrolinės matavimo aparatūros ir automatikos derintojas
+Q002345	Kontrolinės matavimo aparatūros derintojas
+Q002346	Kontrolinės matavimo aparatūros ir automatikos šaltkalvis
+Q002347	Garo katilų remonto šaltkalvis
+Q002348	Garo ir dujų turbinų įrangos remonto šaltkalvis
+Q002349	Automatikos ir matavimo aparatūros šaltkalvis
+Q002350	Automatikos įrangos derintojas
+Q002351	Automatikos ir matavimo aparatūros remonto šaltkalvis
+Q002352	Automatikos įrangos šaltkalvis
+Q002353	Automobilinio siurblio operatorius
+Q002354	Avarinių ir atnaujinimo darbų šaltkalvis
+Q002355	Dujų balionų bandytojas
+Q002356	Statinių ir įrenginių remontininkas
+Q002357	Dujų ir skysčių kontrolės įrangos defektoskopininkas
+Q002358	Elektrinių įrangos techninės priežiūros šaltkalvis
+Q002359	Defektoskopininkas
+Q002360	Ultragarsinės kontrolės defektoskopininkas
+Q002361	Rentgenografijos ir gamagrafijos defektoskopininkas
+Q002362	Reaktorių ir turbinų įrangos remonto šaltkalvis
+Q002363	Katilinių ir dulkių apdorojimo įrangos remonto šaltkalvis
+Q002364	Elektros įrangos remonto šaltkalvis
+Q002365	Dviračių taisytojas
+Q002366	Optinių įtaisų gamintojas
+Q002367	Tiksliųjų instrumentų gamintojas
+Q002368	Laikrodininkas
+Q002369	Chirurginių instrumentų gamintojas
+Q002370	Vargonų meistras
+Q002371	Styginių muzikos instrumentų meistras
+Q002372	Vargonų gamintojas
+Q002373	Smuikų meistras
+Q002374	Tauriųjų metalų pjaustytojas
+Q002375	Brangakmenių pjaustytojas poliruotojas
+Q002376	Techninių deimantų pjaustytojas poliruotojas
+Q002377	Tauriųjų metalų gręžėjas
+Q002378	Juvelyrinių dirbinių graviruotojas
+Q002379	Juvelyras
+Q002380	Brangakmenių šlifuotojas
+Q002381	Tauriųjų metalų lakštų gamintojas
+Q002382	Techninių deimantų poliruotojas
+Q002383	Juvelyrinių dirbinių poliruotojas
+Q002384	Juvelyrinių dirbinių taisytojas
+Q002385	Tauriųjų metalų valcuotojas
+Q002386	Techninių deimantų pjaustytojas
+Q002387	Brangakmenių įstatytojas
+Q002388	Laikrodžio akmenų įstatytojas
+Q002389	Sidabrakalys [sidabrinių dirbinių meistras]
+Q002390	Tauriųjų metalų įspaudėjas
+Q002391	Auksakalys [auksinių dirbinių meistras]
+Q002392	Keramikos poliruotojas
+Q002393	Keramikos juodintojas
+Q002394	Keramikos ir porceliano liejikas
+Q002395	Keramikos dažytojas panardinimo būdu
+Q002396	Keramikos gręžėjas
+Q002397	Keramikos meistras
+Q002398	Keramikos ir porceliano žiedėjas
+Q002399	Keramikos ir porceliano formų gamintojas
+Q002400	Keraminių vamzdelių gamintojas
+Q002401	Keramikos ir porceliano lipdytojas
+Q002402	Formuotojas abrazyviniu ratu
+Q002403	Plytų ir koklių formuotojas
+Q002404	Puodžius
+Q002405	Presuotojas molio išstūmimo būdu
+Q002406	Keramikos ir porceliano presuotojas
+Q002407	Keramikos klijuotojas
+Q002408	Keramikos ir porceliano derintojas
+Q002409	Keramikos ir porceliano sukėjas
+Q002410	Įkrovos sudarytojas
+Q002411	Statybinių keraminių gaminių formuotojas
+Q002412	Keramikas
+Q002413	Plytų ir koklių liejikas
+Q002414	Keraminių ir porcelianinių indų modeliuotojas
+Q002415	Stiklo lenkėjas
+Q002416	Stiklo virėjas
+Q002417	Stiklo gręžėjas
+Q002418	Stiklo pjaustytojas
+Q002419	Stiklo gręžėjas (gręžimo staklėmis)
+Q002420	Stiklo apdailininkas
+Q002421	Stiklo surinkėjas
+Q002422	Stiklo apdirbėjas
+Q002423	Stiklo šlifuotojas
+Q002424	Stiklo sėmėjas
+Q002425	Stiklo liejikas
+Q002426	Stiklo poliruotojas
+Q002427	Stiklo papuošalų gamintojas
+Q002428	Stiklapūtys
+Q002429	Krištolo pjaustytojas
+Q002430	Dekoratyviojo stiklo pjaustytojas formuotojas
+Q002431	Stiklo raižikas [graveris]
+Q002432	Stiklo ėsdintojas [ofortistas]
+Q002433	Stiklo matintojas smėliasraute
+Q002434	Stiklo dailintojas smėliasraute
+Q002435	Dažytojas teptuku
+Q002436	Keramikos dekoruotojas
+Q002437	Keramikos dekoruotojas aerografu
+Q002438	Keramikos dekoruotojas piešėjas
+Q002439	Keramikos dekoruotojas purškiamojo piešimo būdu
+Q002440	Molinių indų dekoruotojas
+Q002441	Metalo dirbinių dažytojas panardinimo būdu
+Q002442	Keramikos glazūruotojas
+Q002443	Stiklo emaliuotojas [glazūruotojas]
+Q002444	Metalo dirbinių emaliuotojas
+Q002445	Stiklo dirbinių glazūruotojas
+Q002446	Piešėjas dekoruotojas
+Q002447	Keramikos piešėjas dekoruotojas
+Q002448	Stiklo piešėjas dekoruotojas
+Q002449	Iškabų piešėjas dekoruotojas
+Q002450	Keramikos piešėjas šablonu
+Q002451	Keramikos piešėjas trafaretu
+Q002452	Stiklo sidabruotojas
+Q002453	Veidrodžių sidabruotojas
+Q002454	Dažytojas purškėjas {išskyrus statybą}
+Q002455	Keramikos dekoruotojas trafaretu
+Q002456	Keramikos dekoruotojas apdailininkas
+Q002457	Keramikos dekoruotojas kopijuotojas
+Q002458	Keramikos dekoravimo piešinių kopijuotojas ir perkėlėjas ant kitų paviršių
+Q002459	Molio masės ruošėjas
+Q002460	Pavyzdžių apipavidalintojas
+Q002461	Galvanikas
+Q002462	Emaliuotojas
+Q002463	Stiklo dažytojas trafaretu
+Q002464	Keramikos dengėjas silikonu
+Q002465	Pintų daiktų pynėjas
+Q002466	Šiaudinių dirbinių dirbėjas
+Q002467	Medinių dirbinių dirbėjas
+Q002468	Meninių dirbinių iš vytelių pynėjas
+Q002469	Krepšių pynėjas
+Q002470	Šepečių dirbėjas
+Q002471	Baldų pynėjas [meistras]
+Q002472	Pintinių pynėjas
+Q002473	Pynėjas iš šiaudelių
+Q002474	Pynėjas iš nendrių
+Q002475	Amatininkas kilimų audėjas
+Q002476	Amatininkas drabužių mezgėjas
+Q002477	Amatininkas drabužių siuvėjas
+Q002478	Odinių dirbinių dirbėjas
+Q002479	Tekstilės dirbinių dirbėjas
+Q002480	Tekstilės pluošto balintojas
+Q002481	Tekstilės pluošto maišytojas
+Q002482	Tekstilės pluošto karšėjas
+Q002483	Tekstilės pluošto rūšiuotojas
+Q002484	Tekstilės pluošto šukuotojas
+Q002485	Tekstilės pluošto tempėjas
+Q002486	Tekstilės pluošto vyniotojas
+Q002487	Tekstilės pluošto rinkėjas
+Q002488	Tekstilės pluošto kedentojas
+Q002489	Tekstilės pluošto gijų sukėjas
+Q002490	Gaminių"," pusgaminių ir medžiagų rūšiuotojas
+Q002491	Atraižų presuotojas
+Q002492	Vilnos plovėjas
+Q002493	Gijų vijėjas
+Q002494	Tekstilės gaminių šiaušėjas
+Q002495	Tekstilės pluošto kokybės kontrolierius
+Q002496	Komplektuotojas
+Q002497	Trikotažinių gaminių gamybos darbininkas
+Q002498	Nėrėjas vąšeliu
+Q002499	Audinio metėjas
+Q002500	Mezgėjas
+Q002501	Drabužių mezgėjas
+Q002502	Juostų gamintojas
+Q002503	Tinklų gamintojas
+Q002504	Gobelenų gamintojas"," baldų dekoratyvinių audinių gamintojas
+Q002505	Siūlų ir verpalų verpėjas
+Q002506	Šeivų keitėjas
+Q002507	Audėjas staklėmis
+Q002508	Austų kilimų dygsniuotojas
+Q002509	Kilimų audėjas
+Q002510	Žakardinių audinių audėjas
+Q002511	Gobeleno audėjas
+Q002512	Audėjas
+Q002513	Audėjas ričių movėjas
+Q002514	Audimo meistras
+Q002515	Audimo meistro padėjėjas
+Q002516	Audimo pameistrys
+Q002517	Gaminių"," pusgaminių ir audinių komplektuotojas
+Q002518	Metalinių žaislų gamintojas
+Q002519	Žvakių dirbėjas
+Q002520	Akmeninių dirbinių dirbėjas
+Q002521	Butaforas
+Q002522	Floristas
+Q002523	Kaspinų vyniotojas
+Q002524	Spausdinimo formų surinkėjai ir ruošėjai
+Q002525	Spausdinimo raidžių rinkėjas
+Q002526	Spaudos formų gamintojas
+Q002527	Spaudos preso operatorius
+Q002528	Brailio rašto plokščių dirbėjas
+Q002529	Fotorinkimo mašinos operatorius
+Q002530	Fotoformų surinkimo mašinos operatorius
+Q002531	Rinkėjas
+Q002532	Spaudos formų kopijuotojas
+Q002533	Titruotojas
+Q002534	Elektrotipininkas liejikas
+Q002535	Stereotipininkas liejikas
+Q002536	Elektrotipininkas [elektrotipijos formų gamintojas]
+Q002537	Stereotipininkas [stereotipų gamintojas]
+Q002538	Fotograviūrų fotografas
+Q002539	Ofsetinio spausdinimo kserografas
+Q002540	Linoleumo klišių graveris
+Q002541	Litografinio akmens graveris
+Q002542	Spaudos štampo graveris
+Q002543	Metalinių spaudos plokščių graveris
+Q002544	Natų spausdinimo graveris
+Q002545	Spausdinimo pantografu graveris
+Q002546	Giliaspaudės spaudos klišių graveris
+Q002547	Guminių spausdinimo klišių graveris
+Q002548	Medinių spausdinimo klišių graveris
+Q002549	Graviūrų metale ėsdintojas
+Q002550	Metalinių spaudos formų ėsdintojas
+Q002551	Metalinių spausdinimo volelių ėsdintojas
+Q002552	Giliaspaudės spaudos klišių ėsdintojas
+Q002553	Fotografijos spaudos formų apdailininkas
+Q002554	Fotolitografijos spaudos formų granuliuotojas
+Q002555	Giliaspaudės spaudos plokščių granuliuotojas
+Q002556	Giliaspaudės spaudos formų gamintojas
+Q002557	Trafaretinio spausdinimo spaudos formų gamintojas
+Q002558	Fotolitografijos spaudos formų montuotojas
+Q002559	Giliaspaudės formų montuotojas
+Q002560	Cinkografas
+Q002561	Giliaspaudės fotografas
+Q002562	Spausdintojas pantografu
+Q002563	Giliaspaudės bandomųjų atspaudų gamintojas
+Q002564	Fotolitografijos bandomųjų atvaizdų gamintojas
+Q002565	Giliaspaudės bandomųjų atvaizdų gamintojas
+Q002566	Giliaspaudės formų retušuotojas
+Q002567	Spaudos formų retušuotojas
+Q002568	Litografijos paveikslų perkėlėjas
+Q002569	Tiesioginės [vertikaliosios] litografijos paveikslų perkėlėjas
+Q002570	Litografinio spausdinimo paveikslų perkėlėjas
+Q002571	Paveikslų perkėlėjas į spaudos formas fotomechaniniu būdu
+Q002572	Litografijos tušuotojas
+Q002573	Linotipininkas
+Q002574	Monotipininkas
+Q002575	Pagalbinis spaustuvės darbininkas
+Q002576	Spausdinimo įrenginių derintojas
+Q002577	Spaudos formų liejimo mašinų derintojas operatorius
+Q002578	Spausdinimo akmens įstatytojas į mašiną
+Q002579	Spaudos preso operatorius nuėmėjas
+Q002580	Tipografas
+Q002581	Poligrafijos įrangos derintojas
+Q002582	Popieriaus puošėjas [dekoratorius]
+Q002583	Ksilografijos spaustuvininkas
+Q002584	Šilkografijos spaustuvininkas
+Q002585	Tekstilės spaustuvininkas
+Q002586	Heraldikos spausdinimo štampuotojas
+Q002587	Trafaretinės spaudos spausdintojas
+Q002588	Spaudos formų liejimo mašinų operatorius
+Q002589	Fotografinio rinkimo mašinų operatorius
+Q002590	Spausdinimo mašinų operatorius
+Q002591	Tekstilės marginimo mašinų operatorius
+Q002592	Plokščiojo spausdinimo mašinų operatorius
+Q002593	Cilindrinių spausdinimo mašinų operatorius
+Q002594	Rotacinių spausdinimo mašinų operatorius
+Q002595	Plokštinių spausdinimo staklių operatorius
+Q002596	Tiesioginio spausdinimo litografijos staklių operatorius
+Q002597	Ofsetinio spausdinimo staklių operatorius
+Q002598	Rotacinių spausdinimo staklių operatorius
+Q002599	Graviūrų spausdinimo rotacinių staklių operatorius
+Q002600	Knygrišys
+Q002601	Įrišamų knygų susiuvėjas
+Q002602	Brošiūruojamos knygos lankų įrišimo tikrintojas
+Q002603	Įrišamų knygų paauksuotojas
+Q002604	Dokumentų įrišėjas
+Q002605	Knygų puošėjas reljefiniu ornamentu
+Q002606	Knygų apdailininkas
+Q002607	Knygų antraščių rašytojas
+Q002608	Knygų įrišimo mašinų operatorius
+Q002609	Knygų reljefinio įspaudimo mašinų operatorius
+Q002610	Elektrikas
+Q002611	Pastatų elektrikas
+Q002612	Pastatų techninės priežiūros elektrikas
+Q002613	Pastatų elektros instaliacijos elektrikas
+Q002614	Skaičiavimo mašinų elektromonteris
+Q002615	Elektros įrangos techninės priežiūros elektrikas
+Q002616	Elektros mašinų inkaro surinkėjas
+Q002617	Elektros mašinų kolektorių surinkėjas
+Q002618	Orlaivio elektrikas
+Q002619	Variklinės transporto priemonės elektrikas
+Q002620	Laivo elektrikas
+Q002621	Elektros įrangos mechanikas
+Q002622	Nuolatinės srovės generatorių montuotojas
+Q002623	Elektros variklių apvijininkas
+Q002624	Kontrolinių prietaisų elektromonteris
+Q002625	Generatorių elektromonteris
+Q002626	Prietaisų elektromonteris
+Q002627	Magnetoelektrinių mašinų elektromonteris
+Q002628	Elektros variklių elektromonteris
+Q002629	Šaldymo ir oro kondicionavimo įrangos elektromonteris
+Q002630	Reostatų elektromonteris
+Q002631	Signalizavimo įrangos elektromonteris
+Q002632	Skirstomosios elektros įrangos remonto šaltkalvis
+Q002633	Transformatorių elektromonteris
+Q002634	Elektromechanikas
+Q002635	Elektros įrangos techninės priežiūros darbininkas
+Q002636	Oro linijų elektromonteris
+Q002637	Elektros įrangos apvijų ir izoliacijos remonto elektromonteris
+Q002638	Relinės apsaugos ir automatinės aparatūros remonto elektromonteris
+Q002639	Apvijų vyniotojas
+Q002640	Liftų elektromechanikas
+Q002641	Kontaktinių tinklų elektromonteris
+Q002642	Bandažuotojas
+Q002643	Budintysis elektromonteris
+Q002644	Elektros įrangos techninės priežiūros ir remonto darbininkas
+Q002645	Elektromonteris dyzelininkas
+Q002646	Elektrooptinių įtaisų parametrų derintojas
+Q002647	Elektros mašinų apvijų vyniotojas
+Q002648	Energijos suvartojimo kontrolierius
+Q002649	Pastočių techninės priežiūros elektromonteris
+Q002650	Elektros mašinų remonto šaltkalvis
+Q002651	Bandymų ir matavimo įrangos elektromonteris
+Q002652	Elektrinių elektros įrangos techninės priežiūros elektromonteris
+Q002653	Kabelių elektromonteris
+Q002654	Antžeminių elektros kabelių kabelininkas
+Q002655	Požeminių elektros kabelių kabelininkas
+Q002656	Antžeminių elektrinės traukos kabelių kabelininkas
+Q002657	Požeminių elektrinės traukos kabelių kabelininkas
+Q002658	Kabelių sujungėjas
+Q002659	Elektros kabelių sujungėjas
+Q002660	Požeminių kabelių klojėjas
+Q002661	Elektrinės traukos linijų darbininkas
+Q002662	Elektros kabelių lituotojas sujungėjas
+Q002663	Antžeminių laidinių elektros linijų tiesimo darbininkas
+Q002664	Požeminių laidinių elektros linijų tiesimo darbininkas
+Q002665	Antžeminių laidinių elektrinės traukos linijų tiesimo darbininkas
+Q002666	Kabelių lituotojas
+Q002667	Aukštojo dažnio srovės įrenginių termininkas
+Q002668	Elektroninės įrangos derintojas
+Q002669	Elektroninės įrangos montuotojas
+Q002670	Elektroninės garso ir vaizdo įrangos montuotojas
+Q002671	Pramonės įrenginių elektroninių sistemų montuotojas
+Q002672	Prietaisų elektroninių įtaisų montuotojas
+Q002673	Medicinos įrangos elektroninių įtaisų montuotojas
+Q002674	Meteorologinės aparatūros elektroninių įtaisų montuotojas
+Q002675	Bandomųjų pavyzdžių elektroninių įtaisų montuotojas
+Q002676	Buitinių prietaisų montuotojas
+Q002677	Buitinių prietaisų taisytojas
+Q002678	Radioelektroninės aparatūros ir prietaisų šaltkalvis surinkėjas
+Q002679	Radijo detalių elektrinių parametrų matuotojas
+Q002680	Radijo detalių lituotojas
+Q002681	Radioelektroninės aparatūros ir prietaisų kontrolierius
+Q002682	Radioelektroninės aparatūros ir prietaisų montuotojas
+Q002683	Radioelektroninės aparatūros ir prietaisų derintojas
+Q002684	Elektrinių parametrų matuotojas
+Q002685	Detalių ir įtaisų kontrolierius
+Q002686	Teleautomatikos ir dispečerinės įrangos elektromonteris
+Q002687	Elektroninės įrangos mechanikas
+Q002688	Garso ir vaizdo įrangos elektroninės dalies mechanikas
+Q002689	Organizacinės technikos elektroninės dalies mechanikas
+Q002690	Įstaigos mašinų elektroninės dalies mechanikas
+Q002691	Elektroninės įrangos taisymo meistras
+Q002692	Garso ir vaizdo elektroninės įrangos taisymo meistras
+Q002693	Elektroninės įrangos techninės priežiūros darbininkas
+Q002694	Elektroninės garso ir vaizdo įrangos techninės priežiūros darbininkas
+Q002695	Automatikos įrangos elektrotechnikas
+Q002696	Radiometrijos laborantas
+Q002697	Medicinos įrangos remonto ir techninės priežiūros elektromechanikas
+Q002698	Mechatronikas
+Q002699	Bankomatų mechanikas
+Q002700	Elektroninės įrangos taisytojas
+Q002701	Fotokopijavimo mašinų technikas
+Q002702	Kompiuterių elektroninių įtaisų montuotojas
+Q002703	Duomenų apdorojimo aparatūros elektroninių įtaisų montuotojas
+Q002704	Radarų elektroninės įrangos montuotojas
+Q002705	Radijo ryšio elektroninės įrangos montuotojas
+Q002706	Signalizavimo sistemų elektroninių įtaisų montuotojas
+Q002707	Telekomunikacijų elektroninės įrangos montuotojas
+Q002708	Televizijos elektroninės įrangos montuotojas
+Q002709	Radijo ryšio aparatūros derintojas
+Q002710	Radijo ryšio aparatūros montuotojas
+Q002711	Radijo ryšio aparatūros kontrolierius
+Q002712	Kontrolinės matavimo ir ryšių aparatūros derintojas
+Q002713	Automatinių telefono stočių elektromonteris
+Q002714	Kompiuterių elektroninės įrangos montuotojas
+Q002715	Radijo antenų montuotojas
+Q002716	Televizijos antenų montuotojas
+Q002717	Apskaitos mašinų elektroninės dalies mechanikas
+Q002718	Skaičiavimo mašinų elektroninės dalies mechanikas
+Q002719	Kompiuterių elektroninės dalies mechanikas
+Q002720	Radijo įrangos elektroninės dalies mechanikas
+Q002721	Televizijos įrangos elektroninės dalies mechanikas
+Q002722	Radijo elektroninės įrangos taisymo meistras
+Q002723	Televizijos elektroninės įrangos taisymo meistras
+Q002724	Elektroninės radijo įrangos techninės priežiūros darbininkas
+Q002725	Elektroninės televizijos įrangos techninės priežiūros darbininkas
+Q002726	Elektromonteris radistas
+Q002727	Radijo mechanikas
+Q002728	Telegrafo įrangos montuotojas
+Q002729	Telegrafo įrangos mechanikas
+Q002730	Telefono įrangos mechanikas
+Q002731	Telegrafo įrangos techninės priežiūros darbininkas
+Q002732	Ryšių kabelių montuotojas
+Q002733	Ryšininkas
+Q002734	Radiofikavimo ir telefono ryšio linijos įrenginių elektrikas
+Q002735	Radiotelefonistas
+Q002736	Telefono stočių įrangos elektromonteris
+Q002737	Telegrafo linijų kabelininkas
+Q002738	Telefono linijų kabelininkas
+Q002739	Telegrafo kabelių sujungėjas
+Q002740	Telefono kabelių sujungėjas
+Q002741	Telegrafo linijų darbininkas
+Q002742	Telefono linijų darbininkas
+Q002743	Laidinių telegrafo linijų tiesimo darbininkas
+Q002744	Laidinių telefono linijų tiesimo darbininkas
+Q002745	Duomenų perdavimo ir telekomunikacijų linijų kabelininkas
+Q002746	Kompiuterių įrangos derintojas
+Q002747	Žuvų darinėtojas
+Q002748	Mėsininkas
+Q002749	Žuvies konservuotojas
+Q002750	Žuvų pjaustytojas
+Q002751	Paukštienos ruošėjas
+Q002752	Žarnokų darinėtojas
+Q002753	Kailialupys
+Q002754	Žuvies išpjovų ruošėjas
+Q002755	Žuvies pusgaminių ruošėjas
+Q002756	Techninės žaliavos ruošėjas
+Q002757	Vidurių apdorotojas
+Q002758	Žuvies marinuotojas actu
+Q002759	Žuvies sūdytojas
+Q002760	Žuvies atmatų (vartojamų kaip jaukas) apdorotojas
+Q002761	Skerdikas
+Q002762	Žuvies rūkyklos darbininkas
+Q002763	Žarnų atskyrėjas
+Q002764	Subproduktų apdorotojas
+Q002765	Žarnų apdorotojas
+Q002766	Kraujo apdorotojas
+Q002767	Endokrininės žaliavos surinkėjas
+Q002768	Mėsos išpjaustytojas
+Q002769	Kepėjas
+Q002770	Biskvitų kepėjas
+Q002771	Duonos kepėjas
+Q002772	Konditerijos kepėjas
+Q002773	Konditeris
+Q002774	Cukrinių konditerijos gaminių pjaustytojas
+Q002775	Cukrinių konditerijos gaminių lašintojas
+Q002776	Biskvitų gamintojas
+Q002777	Kramtomosios gumos gamintojas
+Q002778	Šokolado gamintojas
+Q002779	Makaronų gamintojas
+Q002780	Pyrago gamintojas
+Q002781	Plaktinių tortų gamintojas
+Q002782	Mielių gamintojas
+Q002783	Duonos tešlos gamintojas
+Q002784	Pyrago tešlos maišytojas
+Q002785	Cukrinių konditerijos gaminių maišytojas
+Q002786	Biskvitų kepimo krosnies prižiūrėtojas
+Q002787	Duonkepės prižiūrėtojas
+Q002788	Cukrinių konditerijos gaminių kočiotojas
+Q002789	Duonos tešlos pjaustytojas
+Q002790	Fasuotojas {maisto pramonė}
+Q002791	Formuotojas {maisto pramonė}
+Q002792	Duonos ir pyrago gaminių formuotojas
+Q002793	Duonos kepimo darbininkas
+Q002794	Glazūros ruošėjas
+Q002795	Maisto pusgaminių ruošėjas
+Q002796	Chalvos maišytojas
+Q002797	Glazūruotojas
+Q002798	Vaflių kepėjas
+Q002799	Saldainių gamintojas
+Q002800	Maisto produktų apkepintojas
+Q002801	Receptūrininkas
+Q002802	Pieno priėmėjas
+Q002803	Pieno produktų gamintojas
+Q002804	Aliejaus spaudėjas
+Q002805	Cukraus gamintojas tradiciniais būdais
+Q002806	Aludaris [alaus gamintojas tradiciniais būdais]
+Q002807	Maisto produktų rūšiuotojas
+Q002808	Vaisių rūšiuotojas
+Q002809	Mėsos rūšiuotojas
+Q002810	Aliejaus rūšiuotojas
+Q002811	Daržovių rūšiuotojas
+Q002812	Kavos degustatorius
+Q002813	Maisto produktų degustatorius
+Q002814	Sulčių degustatorius
+Q002815	Stipriųjų alkoholinių gėrimų degustatorius
+Q002816	Arbatos degustatorius
+Q002817	Vyno degustatorius
+Q002818	Maisto produktų tikrintojas [kontrolierius]
+Q002819	Uostomojo tabako mišinio ruošėjas
+Q002820	Tabako mišinio ruošėjas
+Q002821	Tabako ruošėjas
+Q002822	Tabako lapelių kondicionuotojas
+Q002823	Tabako pjaustytojas
+Q002824	Tabako drėkintojas
+Q002825	Uostomojo tabako džiovintojas
+Q002826	Tabako džiovintojas
+Q002827	Tabako aromatintojas
+Q002828	Tabako rūšiuotojas
+Q002829	Uostomojo tabako malėjas
+Q002830	Cigarų gamintojas
+Q002831	Cigarečių gamintojas
+Q002832	Uostomojo tabako gamintojas
+Q002833	Presuoto tabako plytelių gamintojas
+Q002834	Presuoto [kramtomojo] tabako gamintojas
+Q002835	Tabako maišytojas
+Q002836	Cigarų formuotojas
+Q002837	Cigarų presuotojas
+Q002838	Cigarų sukėjas
+Q002839	Uostomojo tabako tikrintojas
+Q002840	Cigarų rūšiuotojas
+Q002841	Tabako lapelių valytojas
+Q002842	Medienos džiovintojas
+Q002843	Medienos apdirbėjas
+Q002844	Medinių baldų apdailininkas
+Q002845	Medinių gaminių inkrustuotojas
+Q002846	Laikrodžių korpusų dirbėjas
+Q002847	Klumpdirbys
+Q002848	Karstadirbys
+Q002849	Instrumentų dėklų dirbėjas
+Q002850	Medinių kopėčių dirbėjas
+Q002851	Medinių modelių gamintojas
+Q002852	Popieriaus dirbėjas
+Q002853	Fortepijonų korpusų dirbėjas
+Q002854	Vežimų dirbėjas
+Q002855	Medinių pypkių dirbėjas
+Q002856	Medinės sporto įrangos dirbėjas
+Q002857	Medinių talpų dirbėjas
+Q002858	Medienos ženklintojas
+Q002859	Kubilius
+Q002860	Sluoksniuotosios medienos klijuotojas
+Q002861	Račius
+Q002862	Medienos konservuotojas
+Q002863	Baldžius
+Q002864	Medienos lenkėjas
+Q002865	Autobuso medinių dalių meistras
+Q002866	Transporto priemonių medinių kėbulų meistras
+Q002867	Transporto priemonių medinės važiuoklės meistras
+Q002868	Baldų pramonės darbininkas
+Q002869	Medžio drožėjas
+Q002870	Medienos apdirbimo staklių derintojai ir operatoriai
+Q002871	Medienos gręžėjas
+Q002872	Tiksliųjų medienos pjaustymo staklių operatorius
+Q002873	Medienos pjaustytojas
+Q002874	Medienos apdirbimo staklių derintojas
+Q002875	Medienos raižymo staklių derintojas operatorius
+Q002876	Medienos apdirbimo siaurapjūklio derintojas operatorius
+Q002877	Sluoksniuotosios medienos siaurapjūklio derintojas operatorius
+Q002878	Medienos apdirbimo staklių derintojas operatorius
+Q002879	Medienos obliavimo staklių derintojas operatorius
+Q002880	Medienos frezavimo staklių derintojas operatorius
+Q002881	Medienos skersinio obliavimo [profiliavimo] staklių derintojas operatorius
+Q002882	Medienos apdirbimo mašinų derintojas operatorius
+Q002883	Medienos tekintojas
+Q002884	Medienos įlaidinio sujungimo darbininkas
+Q002885	Medienos skobimo darbininkas
+Q002886	Medienos šlifavimo darbininkas
+Q002887	Medienos sujungimo dygiais darbininkas
+Q002888	Medienos derintojas
+Q002889	Medienos apdirbimo staklių operatorius
+Q002890	Medienos lenkimo mašinų operatorius
+Q002891	Medienos raižymo mašinų operatorius
+Q002892	Medienos graviravimo mašinų operatorius
+Q002893	Medienos ėsdinimo mašinų operatorius
+Q002894	Medienos apdailos mašinų operatorius
+Q002895	Baldų gamybos mašinų operatorius
+Q002896	Medienos ženklinimo mašinų operatorius
+Q002897	Medienos dažymo mašinų operatorius
+Q002898	Medienos poliravimo mašinų operatorius
+Q002899	Medinės sporto įrangos gamybos mašinų operatorius
+Q002900	Medinių žaislų gamybos mašinų operatorius
+Q002901	Medienos gaminių gamybos mašinų operatorius
+Q002902	Medienos apdirbimo mašinų operatorius
+Q002903	Skrybėlių formų gamintojas
+Q002904	Palaidinių siuvėjas
+Q002905	Korsetų ir korsetinių gaminių gamintojas
+Q002906	Moteriškų drabužių gamintojas
+Q002907	Perukų gamintojas
+Q002908	Kepurininkas
+Q002909	Individualių užsakymų siuvėjas
+Q002910	Klientui pritaikomų drabužių pusgaminių siuvėjas
+Q002911	Drabužių siuvėjas
+Q002912	Siuvėjas modeliuotojas
+Q002913	Kepurių modeliuotojas
+Q002914	Atraižų rūšiuotojas
+Q002915	Drabužininkas
+Q002916	Vyriškų drabužių siuvėjas
+Q002917	Kailių sukirpėjas
+Q002918	Kailinių gaminių siuvėjas
+Q002919	Kailininkas
+Q002920	Kailių derintojas
+Q002921	Kailių sukabintojas sąvaržomis
+Q002922	Siuvėjas
+Q002923	Drabužių sukirpėjas
+Q002924	Pirštinių sukirpėjas
+Q002925	Čiužinių sukirpėjas
+Q002926	Burių sukirpėjas
+Q002927	Palapinių sukirpėjas
+Q002928	Skėčių sukirpėjas
+Q002929	Apmušalų sukirpėjas
+Q002930	Žakardinio rašto kopijuotojas
+Q002931	Drabužių žymėtojas
+Q002932	Kepurių iškarpų gamintojas
+Q002933	Drabužių iškarpų gamintojas
+Q002934	Pirštinių iškarpų gamintojas
+Q002935	Skrybėlių iškarpų gamintojas
+Q002936	Čiužinių iškarpų gamintojas
+Q002937	Burių iškarpų gamintojas
+Q002938	Palapinių iškarpų gamintojas
+Q002939	Skėčių iškarpų gamintojas
+Q002940	Apmušalų iškarpų gamintojas
+Q002941	Sukirpėjas
+Q002942	Lekalininkas
+Q002943	Siuvinėtojas
+Q002944	Lėlių ir kimštinių žaislų gamintojas
+Q002945	Minkštų žaislų gamintojas
+Q002946	Siuvėjas (susiuvantis atskiras dalis į visumą)
+Q002947	Tekstilės gaminių siuvėjas
+Q002948	Automobilių salonų apmušėjas
+Q002949	Baldų apmušėjas
+Q002950	Geležinkelio vagonų salonų apmušėjas
+Q002951	Minkštųjų baldų apmušėjas
+Q002952	Transporto priemonių salonų apmušėjas
+Q002953	Apmušėjas
+Q002954	Odos šlifuotojas
+Q002955	Kailių rūšiuotojas
+Q002956	Odų rūšiuotojas
+Q002957	Odadirbys
+Q002958	Kailių apdailininkas
+Q002959	Plaukų nuo odos žaliavos šalintojas
+Q002960	Kailių parinkėjas
+Q002961	Odos dažytojas
+Q002962	Kailių dažytojas
+Q002963	Odos kubile dažytojas
+Q002964	Kailių kubile dažytojas
+Q002965	Dažytojas atspalvio suteikėjas
+Q002966	Dažytojas atspalvio suteikėjas purkštuvu
+Q002967	Kailių ir odų ruošėjas
+Q002968	Odų kaišėjas
+Q002969	Kailių kaišėjas
+Q002970	Odų kaišėjas ir plaukų šalintojas
+Q002971	Kailių kaišėjas ir plaukų šalintojas
+Q002972	Kailių raugintojas
+Q002973	Odlupys
+Q002974	Odų sūdytojas
+Q002975	Kailio plaukų pešiotojas apdailininkas
+Q002976	Odos poliruotojas
+Q002977	Kailių skutėjas
+Q002978	Odų atskyrėjas
+Q002979	Kailiadirbys
+Q002980	Odos tempėjas
+Q002981	Kailių tempėjas
+Q002982	Kailių žaliavos ir gaminių matuotojas
+Q002983	Kailių šukuotojas
+Q002984	Komplektuotojas-apskaitininkas
+Q002985	Raugų gamintojas
+Q002986	Medžiagų ruošėjas
+Q002987	Avalynės kulnų poliruotojas
+Q002988	Batviršių poliruotojas
+Q002989	Batviršių aptraukėjas
+Q002990	Avalynės rantjuosčių formuotojas
+Q002991	Batsiuvys taisytojas
+Q002992	Avalynės užsegimų sukirpėjas
+Q002993	Odos sukirpėjas
+Q002994	Avalynės kilpininkas
+Q002995	Avalynės apdailininkas
+Q002996	Avalynės puspadžių surinkėjas
+Q002997	Batviršių surinkėjas
+Q002998	Batviršių lankstytojas
+Q002999	Avalynės puspadžių rūšiuotojas
+Q003000	Avalynės gamintojas
+Q003001	Pakinktų gamintojas
+Q003002	Arklio pavalkų gamintojas
+Q003003	Odinių dirbinių gamintojas
+Q003004	Sportinės avalynės gamintojas
+Q003005	Chirurginės avalynės gamintojas
+Q003006	Botagų gamintojas
+Q003007	Avalynės iškarpų gamintojas
+Q003008	Avalynės blizgintojas
+Q003009	Avalynės puspadžių ruošėjas
+Q003010	Batviršių ruošėjas
+Q003011	Avalynės puspadžių presuotojas
+Q003012	Avalynės taisytojas
+Q003013	Avalynės apvalintojas
+Q003014	Balnius
+Q003015	Batsiuvys
+Q003016	Batsiuvys pagal užsakymus
+Q003017	Avalynės odos pjaustytojas
+Q003018	Avalynės vidpadžių gamintojas
+Q003019	Avalynės rūšiuotojas
+Q003020	Avalynės ardytojas
+Q003021	Avalynės tamsintojas
+Q003022	Avalynės apdailos užbaigėjas
+Q003023	Avalynės klijuotojas
+Q003024	Narai
+Q003025	Gelbėjimo darbų naras
+Q003026	Naras gelbėtojas
+Q003027	Darbininkas povandenininkas
+Q003028	Sprogdintojas
+Q003029	Pirotechnikas
+Q003030	Produktų rūšiuotojai ir bandytojai (išskyrus maisto produktų ir gėrimų degustatorius ir rūšiuotojus)
+Q003031	Tekstilės medžiagų ekspertas
+Q003032	Kokybės kontrolierius
+Q003033	Produktų kokybės kontrolierius
+Q003034	Paslaugų kokybės kontrolierius
+Q003035	Žaliavų ir pusgaminių kontrolierius
+Q003036	Produktų rūšiuotojas
+Q003037	Vilnos rūšiuotojas
+Q003038	Kalnakasiai ir kasybos įrenginių operatoriai
+Q003039	Karjero sutvirtinimų montuotojas
+Q003040	Kasinių atraminių konstrukcijų įrengėjas
+Q003041	Kasyklos darbininkas
+Q003042	Karjero darbininkas
+Q003043	Kernų atrinkėjas
+Q003044	Karjero ėminių ėmėjas
+Q003045	Karjero sutvirtinimų darbininkas
+Q003046	Artezinių ir seisminių žvalgybinių gręžinių gręžėjas
+Q003047	Tolydžiojo veikimo kasybos mašinų operatorius
+Q003048	Cianidų gamybos skirtuvų [separatorių] operatorius
+Q003049	Vario flotacijos darbininkas
+Q003050	Mineralinių žaliavų flotacijos darbininkas
+Q003051	Molibdeno flotacijos darbininkas
+Q003052	Anglių smulkinimo mašinų operatorius
+Q003053	Mineralinės rūdos smulkinimo mašinų operatorius
+Q003054	Uolienų smulkinimo mašinų operatorius
+Q003055	Akmens smulkinimo mašinų operatorius
+Q003056	Akmens pjaustymo mašinų operatorius
+Q003057	Akmens gręžimo mašinų operatorius
+Q003058	Akmens šlifavimo mašinų operatorius
+Q003059	Magnetinės rūdos apdirbimo mašinų operatorius
+Q003060	Akmens frezavimo mašinų operatorius
+Q003061	Mineralų apdirbimo mašinų operatorius
+Q003062	Akmens drožimo mašinų operatorius
+Q003063	Mineralinių žaliavų dulkių gamybos mašinų operatorius
+Q003064	Degikas
+Q003065	Akmens skaldymo mašinų operatorius
+Q003066	Akmens apdirbimo mašinų operatorius
+Q003067	Mineralinių žaliavų plovimo mašinų operatorius
+Q003068	Kūginio trupintuvo operatorius
+Q003069	Kasybos atskirtuvo operatorius
+Q003070	Mineralinių žaliavų apdirbimo įrenginio operatorius
+Q003071	Akmens apdirbimo įrenginio operatorius
+Q003072	Aukso nusodintojas
+Q003073	Sidabro nusodintojas
+Q003074	Frakcionavimo mašinos operatorius
+Q003075	Gręžinių gręžimo įrangos operatorius
+Q003076	Naftos ir dujų gręžinių gręžėjas
+Q003077	Gręžinių gręžėjas
+Q003078	Cementavimo agregato mašinistas
+Q003079	Kompresoriaus mašinistas
+Q003080	Naftos gavybos įrenginių operatorius
+Q003081	Naftos gręžinių cementavimo agregatų mašinistas
+Q003082	Akmens apdirbimo staklių operatorius
+Q003083	Abrazyvinių dangų gamybos mašinų operatorius
+Q003084	Dirbtinio akmens gaminių gamybos mašinų operatorius
+Q003085	Asbesto ir cemento gaminių gamybos mašinų operatorius
+Q003086	Akmeninių gaminių raižymo mašinų operatorius
+Q003087	Lietinio betono gaminių gamybos mašinų operatorius
+Q003088	Betoninių blokų gamybos mašinų operatorius
+Q003089	Cementinių gaminių gamybos mašinų operatorius
+Q003090	Techninių deimantų pjaustymo staklių operatorius
+Q003091	Mozaikos pjaustymo staklių operatorius
+Q003092	Akmeninių gaminių pjaustymo staklių operatorius
+Q003093	Akmens graviravimo staklių operatorius
+Q003094	Betono apdailos mašinų operatorius
+Q003095	Akmens apdailos mašinų operatorius
+Q003096	Techninių deimantų gamybos mašinų operatorius
+Q003097	Mineralinių medžiagų gaminių gamybos mašinų operatorius
+Q003098	Techninių deimantų poliravimo staklių operatorius
+Q003099	Akmens poliravimo mašinų operatorius
+Q003100	Betono maišyklės operatorius
+Q003101	Valcavimo staklyno operatorius
+Q003102	Metalo išpilstymo linijos operatorius
+Q003103	Metalo lydytojas
+Q003104	Automatinės metalo formavimo linijos operatorius
+Q003105	Atkaitintojas
+Q003106	Grūdintojas
+Q003107	Metalo terminio apdorojimo įrenginio operatorius
+Q003108	Metalo atkaitinimo krosnies operatorius
+Q003109	Plieno cementavimo krosnies operatorius
+Q003110	Metalo grūdinimo krosnies operatorius
+Q003111	Metalo terminio apdorojimo krosnies operatorius
+Q003112	Metalų sumaišymo mašinų operatorius
+Q003113	Plieno atleidimo mašinų operatorius
+Q003114	Plieno azotintojas
+Q003115	Vielos traukimo staklyno operatorius
+Q003116	Metalų poliravimo"," elektrolitinio ir kitokio metalų paviršiaus dengimo įrenginių operatoriai
+Q003117	Anoduotojas
+Q003118	Elektrolitinio nusodinimo įrenginio operatorius
+Q003119	Metalų lydalo valymo įrenginio operatorius
+Q003120	Metalo juodinimo mašinų operatorius
+Q003121	Metalo dengimo mašinų operatorius
+Q003122	Riebalų nuo metalo paviršiaus šalinimo mašinų operatorius
+Q003123	Metalų dengimo panardinimu mašinų operatorius
+Q003124	Metalų elektrocheminio dengimo mašinų operatorius
+Q003125	Metalo galvanizavimo mašinų operatorius
+Q003126	Metalo laminavimo mašinų operatorius
+Q003127	Metalo dažymo mašinų operatorius
+Q003128	Metalo plakiravimo mašinų operatorius
+Q003129	Vielos plakiravimo mašinų operatorius
+Q003130	Metalo poliravimo mašinų operatorius
+Q003131	Metalo valymo mašinų operatorius
+Q003132	Metalo šratasraučio valymo mašinų operatorius
+Q003133	Metalo purškiamojo dengimo mašinų operatorius
+Q003134	Metalo paviršiaus valymo įrangos operatorius
+Q003135	Džiovinimo įrenginių operatorius
+Q003136	Cheminėje ir panašioje technologijoje naudojamų mašinų paruošimo operatorius
+Q003137	Cheminėje ir panašioje technologijoje naudojamų smulkintuvų operatorius
+Q003138	Cheminėje ir panašioje technologijoje naudojamų malimo mašinų operatorius
+Q003139	Cheminėje ir panašioje technologijoje naudojamų trupinimo mašinų operatorius
+Q003140	Cheminėje ir panašioje technologijoje naudojamų maišymo mašinų operatorius
+Q003141	Cheminėje ir panašioje technologijoje naudojamų purškimo [pulverizavimo] mašinų operatorius
+Q003142	Cheminėje ir panašioje technologijoje naudojamų trupintuvų operatorius
+Q003143	Cheminėje ir panašioje technologijoje naudojamų krosnių operatorius
+Q003144	Cemento degimo krosnies operatorius
+Q003145	Cheminėje ir panašioje technologijoje naudojamos degimo krosnies operatorius
+Q003146	Cheminėje ir panašioje technologijoje naudojamo autoklavo operatorius
+Q003147	Cheminėje ir panašioje technologijoje naudojamo katilo operatorius
+Q003148	Cheminėje ir panašioje technologijoje naudojamos degimo kameros operatorius
+Q003149	Cheminėje ir panašioje technologijoje naudojamo kalcinatoriaus operatorius
+Q003150	Cemento gamybos įrenginio operatorius
+Q003151	Cheminėje ir panašioje technologijoje naudojamos virimo įrangos operatorius
+Q003152	Cheminėje ir panašioje technologijoje naudojamo džiovintuvo operatorius
+Q003153	Cheminėje ir panašioje technologijoje naudojamo katilo-virintuvo operatorius
+Q003154	Regeneratoriaus operatorius
+Q003155	Bokštinės džiovyklos operatorius
+Q003156	Cheminėje ir panašioje technologijoje naudojamo išcentrinio separatoriaus operatorius
+Q003157	Cheminėje ir panašioje technologijoje naudojamo filtro operatorius
+Q003158	Cheminėje ir panašioje technologijoje naudojamo separatoriaus operatorius
+Q003159	Cheminėje technologijoje naudojamo (išskyrus naftos ir gamtinių dujų) konverterio operatorius
+Q003160	Cheminėje technologijoje naudojamo (išskyrus naftos ir gamtinių dujų) reaktoriaus-konverterio operatorius
+Q003161	Cheminėje technologijoje naudojamo (išskyrus naftos ir gamtinių dujų) reaktoriaus operatorius
+Q003162	Cheminių tirpalų ruošėjas
+Q003163	Cheminių reagentų paruošimo aparatininkas
+Q003164	Cheminėje ir panašioje technologijoje naudojamo vakuuminio aparato (išskyrus naftos ir gamtinių dujų) operatorius
+Q003165	Parafino gamybos įrenginio operatorius
+Q003166	Medžio anglių degimo krosnies operatorius
+Q003167	Medžio anglių gamybos mašinos operatorius
+Q003168	Akmens anglių dujų gamybos mašinos operatorius
+Q003169	Trąšų gamybos mašinos operatorius
+Q003170	Sintetinio pluošto gamybos mašinos operatorius
+Q003171	Medžio anglių degimo kameros operatorius
+Q003172	Trąšų gamybos įrenginio operatorius
+Q003173	Dujų suskystinimo įrenginio operatorius
+Q003174	Kokso gamybos krosnies operatorius
+Q003175	Akmens anglių dujų retortos operatorius
+Q003176	Gumos gamybos įrenginio operatorius
+Q003177	Sintetinio pluošto gamybos įrenginio operatorius
+Q003178	Radioaktyviųjų atliekų perdirbėjas
+Q003179	Elektrolizės įrenginio aparatininkas
+Q003180	Cheminės analizės laborantas
+Q003181	Ploviklių gamybos mašinų operatorius
+Q003182	Tualeto reikmenų gamybos mašinų operatorius
+Q003183	Farmacijos gaminių ir tualeto reikmenų granuliavimo įrangos operatorius
+Q003184	Šaudmenų gamybos mašinų operatorius
+Q003185	Sprogstamųjų medžiagų gamybos mašinų operatorius
+Q003186	Pirotechnikos priemonių gamybos mašinų operatorius
+Q003187	Degtukų gamybos mašinų operatorius
+Q003188	Žvakių gamybos mašinų operatorius
+Q003189	Chloro dujų gamybos mašinų operatorius
+Q003190	Halogeno dujų gamybos mašinų operatorius
+Q003191	Vandenilio dujų gamybos mašinų operatorius
+Q003192	Linoleumo gamybos mašinų operatorius
+Q003193	Pieštukų gamybos mašinų operatorius
+Q003194	Cheminių ir panašių medžiagų plovimo mašinų operatorius
+Q003195	Švino gamybos mašinų operatorius
+Q003196	Fotojuostų ryškinimo laborantas
+Q003197	Nuotraukų didinimo laborantas
+Q003198	Nuotraukų spausdinimo laborantas
+Q003199	Rentgeno juostų ryškintojas
+Q003200	Fotonegatyvų ryškintojas
+Q003201	Nespalvotųjų nuotraukų ryškintojas
+Q003202	Spalvotųjų nuotraukų ryškintojas
+Q003203	Fotografinių plokštelių ryškintojas
+Q003204	Nespalvotųjų pozityvų ryškintojas
+Q003205	Spalvotųjų pozityvų ryškintojas
+Q003206	Atspaudų kopijų ryškintojas
+Q003207	Nuotraukų didintojas
+Q003208	Juostų spausdintojas
+Q003209	Nuotraukų spausdintojas
+Q003210	Skaidrių spausdintojas
+Q003211	Retušuotojas montuotojas
+Q003212	Kino juostų ryškinimo mašinų operatorius
+Q003213	Nuotraukų ryškinimo mašinų operatorius
+Q003214	Nuotraukų didinimo mašinų operatorius
+Q003215	Juostų ryškinimo mašinų operatorius
+Q003216	Fotografinio popieriaus gamybos mašinų operatorius
+Q003217	Fotografinių juostų gamybos mašinų operatorius
+Q003218	Fotografinių plokštelių mašinų operatorius
+Q003219	Nespalvotųjų nuotraukų spausdinimo mašinų operatorius
+Q003220	Spalvotųjų nuotraukų spausdinimo mašinų operatorius
+Q003221	Kino filmų kopijavimo įrangos operatorius
+Q003222	Gumavimo mašinų operatorius
+Q003223	Gumos mišinių paruošimo mašinų operatorius
+Q003224	Gumos gofravimo mašinų operatorius
+Q003225	Gumos ekstruderio operatorius
+Q003226	Gumos smulkintuvų operatorius
+Q003227	Gumos liejimo mašinų operatorius
+Q003228	Padangų liejimo mašinų operatorius
+Q003229	Gumos perdirbimo mašinų operatorius
+Q003230	Guminių gaminių gamybos mašinų operatorius
+Q003231	Vulkanizuotojas
+Q003232	Guminių gaminių vulkanizavimo mašinų operatorius
+Q003233	Padangų vulkanizavimo mašinų operatorius
+Q003234	Gumos kalandrų operatorius
+Q003235	Plastikų poliravimo mašinų operatorius
+Q003236	Plastikų raižymo mašinų operatorius
+Q003237	Plastikų pjaustymo mašinų operatorius
+Q003238	Plastikų gręžimo mašinų operatorius
+Q003239	Plastikų ėsdinimo mašinų operatorius
+Q003240	Plastikų ekstruzijos mašinų operatorius
+Q003241	Plastikų apdailos mašinų operatorius
+Q003242	Plastikų šlifavimo mašinų operatorius
+Q003243	Plastikų laminavimo mašinų operatorius
+Q003244	Plastikų formavimo mašinų operatorius
+Q003245	Plastikinių gaminių mašinų operatorius
+Q003246	Plastikų gamybos mašinų operatorius
+Q003247	Plastikų liejikas
+Q003248	Plastikinių gaminių apdorotojas
+Q003249	Plastikų aplydymo mašinų operatorius
+Q003250	Plastikų drožimo staklių operatorius
+Q003251	Plastikinių gaminių presuojamojo formavimo mašinų operatorius
+Q003252	Polietileninių maišų gamybos mašinų operatorius
+Q003253	Popieriaus įspaudimo mašinų operatorius
+Q003254	Vokų ir popierinių maišų gamybos mašinų operatorius
+Q003255	Popierinių dėžių lankstymo mašinų operatorius
+Q003256	Kartono išlyginimo mašinų operatorius
+Q003257	Siūlų ir verpalų vyniotojas
+Q003258	Tekstilės pluoštų maišymo mašinų operatorius
+Q003259	Tekstilės pluošto karšimo mašinų operatorius
+Q003260	Siūlų ir verpalų dvilinkavimo mašinų operatorius
+Q003261	Tekstilės pluošto temptuvės operatorius
+Q003262	Pluošto paruošimo mašinų operatorius
+Q003263	Juostelių pervijimo mašinų operatorius
+Q003264	Gijų pervijimo mašinų operatorius
+Q003265	Tekstilės pluošto pervijimo mašinos operatorius
+Q003266	Pusverpalių gamybos mašinų operatorius
+Q003267	Siūlų ir verpalų vijimo į sruogas mašinų operatorius
+Q003268	Sintetinio pluošto verpimo mašinų operatorius
+Q003269	Verptuvų operatorius
+Q003270	Stabilizuotojas
+Q003271	Tekstilės pluošto paruošimo mašinų operatorius
+Q003272	Apretuotojas
+Q003273	Tekstilės pluošto plovimo mašinų operatorius
+Q003274	Siūlų ir verpalų antrinio sukimo mašinų operatorius
+Q003275	Džiovintojas
+Q003276	Linų perdirbimo linijos operatorius
+Q003277	Linų perdirbimo linijos darbininkas
+Q003278	Verpalų nuėmėjas
+Q003279	Ričių keitėjas
+Q003280	Audimo ir mezgimo mašinų operatoriai
+Q003281	Audimo staklių meistras-derintojas
+Q003282	Žakardinių audimo staklių meistras-derintojas
+Q003283	Kilimų gamybos mašinų operatorius
+Q003284	Audimo staklių operatorius
+Q003285	Kojinių mezgimo mašinų operatorius
+Q003286	Mezgimo mašinų operatorius
+Q003287	Nėrinių gamybos mašinų operatorius
+Q003288	Tinklų gamybos mašinų operatorius
+Q003289	Verptuvo operatorius
+Q003290	Metmenų siūlų apmetimo mašinų operatorius
+Q003291	Kilimų audimo mašinų operatorius
+Q003292	Žakardo mašinų operatorius
+Q003293	Kilimų audimo staklių operatorius
+Q003294	Žakardinių audimo staklių operatorius
+Q003295	Nėrinių gamybos staklių operatorius
+Q003296	Tekstilės gaminių kokybės kontrolierius
+Q003297	Siuvimo mašinų operatorius
+Q003298	Siuvinėjimo mašinų operatorius
+Q003299	Odos gaminių siuvimo mašinų operatorius
+Q003300	Specialiosios aprangos tvarkytojas
+Q003301	Audinių kalandruotojas
+Q003302	Tekstilės balinimo mašinų operatorius
+Q003303	Klijų iš šilko atliekų šalinimo mašinų operatorius
+Q003304	Sausojo valymo mašinų operatorius
+Q003305	Tekstilės džiovinimo mašinų operatorius
+Q003306	Audinių dažymo mašinų operatorius
+Q003307	Drabužių dažymo mašinų operatorius
+Q003308	Tekstilės pluošto dažymo mašinų operatorius
+Q003309	Verpalų dažymo mašinų operatorius
+Q003310	Tampriųjų tekstilės gaminių gamybos mašinų operatorius
+Q003311	Šilko virinimo mašinų operatorius
+Q003312	Verpalų plovimo mašinų operatorius
+Q003313	Audinių impregnavimo mašinų operatorius
+Q003314	Tekstilės impregnavimo mašinų operatorius
+Q003315	Tekstilės kalandrų operatorius
+Q003316	Kilimų valymo įrangos operatorius
+Q003317	Audinių valymo įrangos operatorius
+Q003318	Tekstilės gaminių valymo įrangos operatorius
+Q003319	Tekstilės vėlyklės operatorius
+Q003320	Tekstilės garo preso operatorius
+Q003321	Tekstilės lyginimo preso operatorius
+Q003322	Odos apdorojimo mašinų operatorius
+Q003323	Odos paruošimo mašinų operatorius
+Q003324	Odos dažymo mašinų operatorius
+Q003325	Avalynės gamybos mašinų operatorius
+Q003326	Skalbyklos mašinų operatorius
+Q003327	Skalbyklos lyginimo mašinų operatorius
+Q003328	Skrybėlių formų gamybos mašinų operatorius
+Q003329	Juostelių [kaspinų] gamybos mašinų operatorius
+Q003330	Drabužių sukirpimo mašinų operatorius
+Q003331	Tekstilės gaminių sukirpimo mašinų operatorius
+Q003332	Veltinių gobtuvų formavimo mašinų operatorius
+Q003333	Skrybėlių gamybos mašinų operatorius
+Q003334	Čiužinių gamybos mašinų operatorius
+Q003335	Kailinių gaminių modelių gamybos mašinų operatorius
+Q003336	Odinių gaminių modelių gamybos mašinų operatorius
+Q003337	Technologinės įrangos remontininkas
+Q003338	Žuvies konservavimo skardinėse įrenginių operatorius
+Q003339	Mėsos konservavimo skardinėse įrenginių operatorius
+Q003340	Žuvies produktų gamybos įrenginių operatorius
+Q003341	Riebalų gamybos aparatininkas
+Q003342	Riebalų pašalinimo įrangos operatorius
+Q003343	Pieno produktų gamybos įrenginių operatorius
+Q003344	Pieno perdirbimo įrenginių operatorius
+Q003345	Pieno produktų pasterizavimo įrenginių operatorius
+Q003346	Pieno pasterizavimo ir atšaldymo įrenginių operatorius
+Q003347	Grūdų perdirbimo įrenginių operatorius
+Q003348	Grūdų lukštenimo mašinų operatorius
+Q003349	Grūdų gliaudymo mašinų operatorius
+Q003350	Grūdų malimo įrenginių operatorius
+Q003351	Malūnininkas
+Q003352	Malimo įrenginio operatorius
+Q003353	Grūdų džiovyklos operatorius
+Q003354	Grūdų valymo mašinų operatorius
+Q003355	Elevatoriaus linijų ir siurbiamųjų tinklų operatorius
+Q003356	Kepyklos įrenginių operatorius
+Q003357	Javų produktų gamybos įrenginių operatorius
+Q003358	Šokolado gamybos įrenginių operatorius
+Q003359	Šokolado produktų gamybos įrenginių operatorius
+Q003360	Šokolado liejimo kriauklėse įrenginių operatorius
+Q003361	Konditerijos gaminių gamybos įrenginių operatorius
+Q003362	Makaronų gaminių gamybos įrenginių operatorius
+Q003363	Tešlos maišymo įrenginių operatorius
+Q003364	Vaisių ir daržovių konservavimo įrenginių operatorius
+Q003365	Maisto produktų dehidratavimo įrenginių operatorius
+Q003366	Maisto produktų džiovinimo įrenginių operatorius
+Q003367	Valgomojo aliejaus gamybos įrenginių operatorius
+Q003368	Margarino gamybos įrenginių operatorius
+Q003369	Vaisių preso operatorius
+Q003370	Riebalų perdirbimo įrenginių operatorius
+Q003371	Riebalų autoklavo operatorius
+Q003372	Maisto esencijų garinimo įrangos operatorius
+Q003373	Riebalų hidrinimo įrangos operatorius
+Q003374	Maisto produktų vakuuminės orkaitės operatorius
+Q003375	Maisto esencijų vakuuminio aparato operatorius
+Q003376	Cukraus gamybos įrenginių operatorius
+Q003377	Difuzijos įrenginio operatorius
+Q003378	Defekavimo ir sotinimo įrenginio operatorius
+Q003379	Garinimo stoties operatorius
+Q003380	Kavos maišymo įrenginių operatorius
+Q003381	Arbatos maišymo įrenginių operatorius
+Q003382	Kavos pupelių apdorojimo mašinų operatorius
+Q003383	Arbatos lapelių apdorojimo mašinų operatorius
+Q003384	Kakavos pupelių skrudinimo įrenginio operatorius
+Q003385	Kavos pupelių skrudinimo įrenginio operatorius
+Q003386	Salyklo gamybos įrenginių operatorius
+Q003387	Gaiviųjų gėrimų gamybos įrenginių operatorius
+Q003388	Acto gamybos įrenginių operatorius
+Q003389	Butelių plovimo įrangos operatorius
+Q003390	Tabako maišymo įrangos operatorius
+Q003391	Tabako perdirbimo įrenginių operatorius
+Q003392	Tabako produktų gamybos įrenginių operatorius
+Q003393	Medienos smulkintuvo operatorius
+Q003394	Medienos defibrerio operatorius
+Q003395	Medienos plaušintuvo operatorius
+Q003396	Popieriaus plaušienos malimo mašinos operatorius
+Q003397	Popieriaus balinimo mašinos operatorius
+Q003398	Popieriaus plaušienos autoklavo operatorius
+Q003399	Popieriaus plaušienos smulkintuvo operatorius
+Q003400	Popieriaus plaušienos tirpinimo įrenginio operatorius
+Q003401	Popieriaus plaušienos gamybos įrenginio operatorius
+Q003402	Celiuliozės malėjas
+Q003403	Plaušienos malėjas
+Q003404	Defibrerio operatorius
+Q003405	Kartono gamybos mašinos operatorius
+Q003406	Popieriaus padengimo mašinos operatorius
+Q003407	Popieriaus gamybos mašinos operatorius
+Q003408	Popieriaus gamybos įrenginių operatorius
+Q003409	Superkalandro operatorius
+Q003410	Kietojo kartono preso operatorius
+Q003411	Džiovinimo krosnių operatorius
+Q003412	Kartono dirbinių gamintojas
+Q003413	Popieriaus kalandruotojas
+Q003414	Impregnavimo įrenginių operatorius
+Q003415	Popieriaus džiovinimo mašinos operatorius
+Q003416	Popieriaus rūšiuotojas
+Q003417	Popierinių šeivų gamybos mašinų mašinistas
+Q003418	Popierinių šeivų pjaustytojas
+Q003419	Sąsiuvinių agregato operatorius
+Q003420	Sąsiuvinių agregato operatorius priėmėjas
+Q003421	Sąsiuvinių automatinės linijos operatorius
+Q003422	Sąsiuvinių automatinės linijos operatorius priėmėjas
+Q003423	Sąsiuvinių automatinės linijos operatoriaus padėjėjas
+Q003424	Makulatūros presuotojas
+Q003425	Lukšto drožimo staklių operatorius
+Q003426	Medienos pjovimo staklių operatorius
+Q003427	Medienos gręžimo mašinų operatorius
+Q003428	Lukšto pjaustymo mašinų operatorius
+Q003429	Medienos pjaustymo mašinų operatorius
+Q003430	Medienos frezavimo mašinų operatorius
+Q003431	Medienos obliavimo mašinų operatorius
+Q003432	Lukšto klojimo mašinų operatorius
+Q003433	Medienos džiovinimo mašinos operatorius
+Q003434	Medienos formavimo mašinų operatorius
+Q003435	Medienos skutimo mašinų operatorius
+Q003436	Medienos grūdinimo mašinų operatorius
+Q003437	Medienos įmirkymo mašinų operatorius
+Q003438	Medienos apdorojimo mašinų operatorius
+Q003439	Juostinio pjūklo operatorius
+Q003440	Gaterininkas
+Q003441	Lentpjūvės operatorius
+Q003442	Medienos apdorojimo įrenginio operatorius
+Q003443	Sluoksniuotosios medienos preso operatorius
+Q003444	Lukšto preso operatorius
+Q003445	Briaunų pjovėjas
+Q003446	Lentpjūvės pjovėjas
+Q003447	Medienos šlifavimo mašinų operatorius
+Q003448	Stiklo tekinimo staklių derintojas operatorius
+Q003449	Stiklo atkaitinimo krosnies operatorius
+Q003450	Stiklinių gaminių krosnies operatorius
+Q003451	Degimo krosnies operatorius
+Q003452	Stiklo lydkrosnės operatorius
+Q003453	Stiklo grūdinimo krosnies operatorius
+Q003454	Plytų ir plytelių orkaitinės degimo krosnies operatorius
+Q003455	Plytų ir plytelių retortinės degimo krosnies operatorius
+Q003456	Flotacinio stiklo degimo krosnies operatorius
+Q003457	Keramikos ir porceliano degimo krosnies operatorius
+Q003458	Keramikos ir porceliano matinio degimo krosnies operatorius
+Q003459	Keramikos ir porceliano džiovinimo krosnies operatorius
+Q003460	Keramikos ir porceliano glazūravimo krosnies operatorius
+Q003461	Keramikos ir porceliano orkaitinės degimo krosnies operatorius
+Q003462	Plytelių glazūravimo krosnies operatorius
+Q003463	Stiklo grūdinimo mašinų operatorius
+Q003464	Stiklo pūtimo mašinų operatorius
+Q003465	Butelių gamybos mašinų operatorius
+Q003466	Keramikos ir porceliano liejimo mašinų operatorius
+Q003467	Keramikos gamybos mašinų operatorius
+Q003468	Stiklo pjaustymo mašinų operatorius
+Q003469	Stiklo traukimo mašinų operatorius
+Q003470	Stiklo gręžimo mašinų operatorius
+Q003471	Stiklo smulkinimo mašinų operatorius
+Q003472	Stiklo šlifavimo mašinų operatorius
+Q003473	Keramikos gręžimo mašinų operatorius
+Q003474	Keramikos smulkinimo mašinų operatorius
+Q003475	Keramikos šlifavimo mašinų operatorius
+Q003476	Stiklo graviravimo mašinų operatorius
+Q003477	Stiklo ėsdinimo mašinų operatorius
+Q003478	Stiklo apdailos mašinų operatorius
+Q003479	Stiklo gamybos mašinų operatorius
+Q003480	Stiklinių gaminių gamybos mašinų operatorius
+Q003481	Stiklinių strypų gamybos mašinų operatorius
+Q003482	Stiklinių vamzdžių gamybos mašinų operatorius
+Q003483	Stiklo liejimo mašinų operatorius
+Q003484	Keramikos dažymo mašinų operatorius
+Q003485	Stiklo dažymo mašinų operatorius
+Q003486	Stiklo lakštų formavimo mašinų operatorius
+Q003487	Stiklo poliravimo mašinų operatorius
+Q003488	Stiklinių lęšių poliravimo mašinų operatorius
+Q003489	Stiklo lakštų poliravimo mašinų operatorius
+Q003490	Keraminių ir porcelianinių gaminių gamybos mašinų operatorius
+Q003491	Džiovinimo būgnų ir krosnių operatorius
+Q003492	Stiklo presavimo mašinų operatorius
+Q003493	Stiklo lakštų valcavimo staklyno operatorius
+Q003494	Stiklo lenkimo mašinų operatorius
+Q003495	Stiklo semtuvo operatorius
+Q003496	Stiklo smėliasrautės operatorius
+Q003497	Akvadaguotojas
+Q003498	Stiklo gaminių atkaitintojas
+Q003499	Įkrovos užpylėjas
+Q003500	Stiklo gamybos kompresorinių įrenginių mašinistas
+Q003501	Stiklo formavimo operatorius
+Q003502	Stiklo lydytojas
+Q003503	Stiklo paketų gamybos operatorius
+Q003504	Stiklo gamybos kontrolierius
+Q003505	Fritų degimo krosnies operatorius
+Q003506	Šlikerio gamybos mašinų operatorius
+Q003507	Stiklo pluošto gamybos mašinų operatorius
+Q003508	Glazūros gamybos mašinų operatorius
+Q003509	Molio malimo mašinų operatorius
+Q003510	Glazūros malimo mašinų operatorius
+Q003511	Abrazyvų maišymo mašinų operatorius
+Q003512	Molio maišymo mašinų operatorius
+Q003513	Stiklo maišymo mašinų operatorius
+Q003514	Glazūros maišymo mašinų operatorius
+Q003515	Keramikos ir porceliano formų preso operatorius
+Q003516	Molio minkytuvo operatorius
+Q003517	Molio ekstruzijos preso operatorius
+Q003518	Molio filtravimo preso operatorius
+Q003519	Cheminėje ir panašioje technologijoje naudojamų maišytuvų operatorius
+Q003520	Katilinės operatorius
+Q003521	Katilinės meistras
+Q003522	Ledo gamybos mašinų operatorius
+Q003523	Oro kompresoriaus operatorius
+Q003524	Dujų kompresoriaus operatorius
+Q003525	Šaldymo įrenginių operatorius
+Q003526	Šaldyklos operatorius
+Q003527	Vėdinimo įrangos operatorius
+Q003528	Kilnojamojo kompresoriaus mašinistas
+Q003529	Kilnojamojo didelio slėgio kompresoriaus mašinistas
+Q003530	Kilnojamųjų kompresorių su vidaus degimo varikliais mašinistas
+Q003531	Vidaus degimo variklių mašinistas
+Q003532	Ženklinimo įrangos operatorius
+Q003533	Konteinerių pildymo įrenginių operatorius
+Q003534	Prekių žymėjimo įrangos operatorius
+Q003535	Pakavimo įrangos operatorius
+Q003536	Operatorius pakuotojas
+Q003537	Žymėtojas
+Q003538	Fasavimo ir pakavimo automato operatorius
+Q003539	Izoliavimo mašinų operatorius
+Q003540	Granuliatoriaus operatorius
+Q003541	Mikrograndynų gamybos įrenginių operatorius
+Q003542	Kabelių ir lynų sujungimo įrangos operatorius
+Q003543	Apvijimo mašinų operatorius
+Q003544	Oro skirstymo aparatininkas
+Q003545	Kopijavimo ir dauginimo mašinų operatorius
+Q003546	Durpių briketų preso operatorius
+Q003547	Durpių presavimo įrenginių operatorius
+Q003548	Indaplovės operatorius
+Q003549	Orlaivių surinkėjas
+Q003550	Lėktuvų variklių surinkėjas
+Q003551	Laivų variklių surinkėjas
+Q003552	Transporto priemonių variklių surinkėjas
+Q003553	Pramonės mašinų surinkėjas
+Q003554	Transporto priemonių surinkėjas
+Q003555	Elektrinės ir elektroninės įrangos surinkėjai
+Q003556	Elektrinių komponentų surinkėjas
+Q003557	Elektrinės įrangos surinkėjas
+Q003558	Inkaro apvijų vijimo įrangos operatorius
+Q003559	Rotoriaus apvijų vijimo įrangos operatorius
+Q003560	Statoriaus apvijų vijimo įrangos operatorius
+Q003561	Transformatoriaus apvijų vijimo įrangos operatorius
+Q003562	Garso ir vaizdo aparatūros surinkėjas
+Q003563	Laikrodžių surinkėjas
+Q003564	Nerankinių laikrodžių surinkėjas
+Q003565	Elektroninės įrangos surinkėjas
+Q003566	Klausos aparatų surinkėjas
+Q003567	Mikroelektronikos įrangos surinkėjas
+Q003568	Įstaigos įrangos surinkėjas
+Q003569	Tiksliųjų prietaisų surinkėjas
+Q003570	Radijo aparatų surinkėjas
+Q003571	Televizorių surinkėjas
+Q003572	Elektroninių rankinių laikrodžių surinkėjas
+Q003573	Kaitinimo siūlų vijimo įrangos operatorius
+Q003574	Radioelektroninės aparatūros ir prietaisų surinkėjas
+Q003575	Baldų iš lakštinio metalo surinkėjas
+Q003576	Metalinių gaminių surinkėjas
+Q003577	Plastikinių gaminių surinkėjas
+Q003578	Guminių gaminių surinkėjas
+Q003579	Žaislų surinkėjas
+Q003580	Sporto reikmenų surinkėjas
+Q003581	Medinių gaminių surinkėjas
+Q003582	Odinių gaminių surinkėjas
+Q003583	Kartoninių gaminių surinkėjas
+Q003584	Tekstilės gaminių surinkėjas
+Q003585	Centralizacijos posto operatorius
+Q003586	Vyresnysis ratstabdininkas
+Q003587	Skirstymo stoties vagonų sukabintojas
+Q003588	Iešmininkas
+Q003589	Geležinkelio signalizuotojas
+Q003590	Vagonų priėmėjas
+Q003591	Lokomotyvų priėmėjas
+Q003592	Darbų skirstytojas {geležinkelio transportas}
+Q003593	Kelio montuotojas
+Q003594	Kelio darbininkas
+Q003595	Stoties budėtojas
+Q003596	Krovinių tvarkymo budintysis kontrolierius
+Q003597	Cisterninių vagonų apžiūrėtojas
+Q003598	Sąstatų formuotojas
+Q003599	Traukinių derintojas
+Q003600	Vagonų techninės kontrolės punkto operatorius
+Q003601	Vagonų tikrintojas
+Q003602	Vagonų tikrintojas remontininkas
+Q003603	Vagonų plovyklos operatorius
+Q003604	Lokomotyvų tvarkdarys
+Q003605	Stoties tvarkdarys
+Q003606	Stoties darbininkas
+Q003607	Ratstabdininkas
+Q003608	Refrižeratorinių riedmenų įrangos operatorius
+Q003609	Refrižeratorinių vagonų sekcijos mechanikas
+Q003610	Refrižeratorinių vagonų sekcijų prižiūrėtojas
+Q003611	Traukinių dokumentų skyriaus operatorius
+Q003612	Traukinių eismo tvarkdarys
+Q003613	Traukinių priėmėjas
+Q003614	Skirstymo kalnelio operatorius
+Q003615	Motociklo vairuotojas
+Q003616	Siuntų ir pranešimų išvežiotojas
+Q003617	Greitosios medicinos pagalbos automobilio vairuotojas
+Q003618	Taksi vairuotojas
+Q003619	Vairuotojas ekspeditorius
+Q003620	Autobusų ir troleibusų vairuotojai
+Q003621	Autobuso vairuotojas
+Q003622	Troleibuso vairuotojas
+Q003623	Sunkvežimio vairuotojas
+Q003624	Automobilinės cisternos vairuotojas
+Q003625	Vilkiko [treilerio] vairuotojas
+Q003626	Šiukšliavežio vairuotojas
+Q003627	Pavojingųjų krovinių vežimo transporto priemonės vairuotojas
+Q003628	Judamųjų žemės ir miškų ūkio įrenginių operatoriai
+Q003629	Traktorininkas
+Q003630	Žemės ūkio mašinų mašinistas
+Q003631	Kombainininkas
+Q003632	Mechanizatorius
+Q003633	Kelių žymėjimo įrangos operatorius
+Q003634	Buldozerio mašinistas
+Q003635	Griovių [tranšėjų] kasimo mašinos mašinistas
+Q003636	Ekskavatoriaus mašinistas
+Q003637	Kelių greiderio ir skreperio mašinistas
+Q003638	Plentvolio mašinistas
+Q003639	Garinio volo mašinistas
+Q003640	Gudrono laistymo mašinos mašinistas
+Q003641	Durpių gavybos mašinų mašinistas
+Q003642	Žemsemės mašinistas
+Q003643	Gręžimo bokšto mašinistas
+Q003644	Statybinių gręžinių gręžimo mašinų operatorius
+Q003645	Grunto vežimo įrangos operatorius
+Q003646	Statybų greiderio ir skreperio mašinistas
+Q003647	Šaligatvių bitumo klotuvo mašinistas
+Q003648	Šaligatvių betono klotuvo mašinistas
+Q003649	Poliakalės operatorius
+Q003650	Kelių dangos klotuvo operatorius
+Q003651	Plentvolio operatorius
+Q003652	Mechaninio semtuvo operatorius
+Q003653	Asfalto skirstytuvo mašinistas
+Q003654	Statybų betono skirstytuvo mašinistas
+Q003655	Statybų skaldos skirstytuvo operatorius
+Q003656	Gudrono skirstytuvo mašinistas
+Q003657	Statybų plūktuvo mašinistas
+Q003658	Tunelių kasimo mašinos mašinistas
+Q003659	Kelių tiesimo mašinos mašinisto padėjėjas
+Q003660	Automobilinio gręžtuvo mašinistas
+Q003661	Automobilinio kompresoriaus mašinistas
+Q003662	Bėginio ekskavatoriaus mašinistas
+Q003663	Kelmačio vežimėlio operatorius
+Q003664	Dokininkas-mechanizatorius
+Q003665	Hidromanipuliatorių operatorius
+Q003666	Sausojo doko prižiūrėtojas
+Q003667	Kasyklos šachtos signalininkas
+Q003668	Kasyklos keltuvo mašinistas
+Q003669	Kanalo ar uosto šliuzo prižiūrėtojas
+Q003670	Kasyklos keltuvo operatorius
+Q003671	Laivo stiebinio krano operatorius
+Q003672	Tilto operatorius
+Q003673	Lynų kelio vagonėlio operatorius
+Q003674	Automobilinio krano operatorius
+Q003675	Konvejerio operatorius
+Q003676	Krano operatorius"," kranininkas
+Q003677	Tiltinio krano operatorius
+Q003678	Plūdriojo krano operatorius
+Q003679	Ožinio krano operatorius
+Q003680	Lokomotyvinio krano mašinistas
+Q003681	Judamojo krano operatorius
+Q003682	Stacionariojo strėlinio krano operatorius
+Q003683	Bokštinio krano operatorius
+Q003684	Traktorinio krano operatorius
+Q003685	Lifto operatorius
+Q003686	Medžiagų kraunamojo keltuvo operatorius
+Q003687	Statybų keltuvo operatorius
+Q003688	Kanalo ir uosto šliuzo operatorius
+Q003689	Orinio lynų kelio operatorius
+Q003690	Doko šliuzo uždorio operatorius
+Q003691	Keliamosios gervės mašinistas
+Q003692	Geležinkelio krano mašinistas
+Q003693	Geležinkelio krano mašinisto padėjėjas
+Q003694	Karotažinio keltuvo operatorius
+Q003695	Stropuotojas
+Q003696	Krovinių apskaitininkas"," talmanas
+Q003697	Eskalatoriaus prižiūrėtojas
+Q003698	Funikulieriaus operatorius
+Q003699	Portalinio krano mašinistas
+Q003700	Kabelinio krano mašinistas
+Q003701	Savaeigio platforminio keltuvo operatorius
+Q003702	Elektros linijų tiesimo mašinų operatorius
+Q003703	Vamzdžių klojimo mašinų operatorius
+Q003704	Karuselės operatorius
+Q003705	Kabelių klojimo mašinų operatorius
+Q003706	Vamzdynų montavimo mašinų operatorius
+Q003707	Sunkvežimio keltuvo vairuotojas
+Q003708	Keliamosios platformos operatorius
+Q003709	Savikrovio sunkvežimio vairuotojas
+Q003710	Mechanizuotų ir automatizuotų sandėlių operatorius
+Q003711	Svarstyklių kalibravimo vagono mašinistas
+Q003712	Transportuotojas
+Q003713	Valtininkas
+Q003714	Keltininkas
+Q003715	Bocmanas
+Q003716	Žemkasės įgulos narys
+Q003717	Žemsiurbės įgulos narys
+Q003718	Jachtos įgulos narys
+Q003719	Švyturininkas [švyturio prižiūrėtojas]
+Q003720	Jūreivis
+Q003721	Pirmosios klasės jūreivis
+Q003722	Antrosios klasės jūreivis
+Q003723	Vairininkas
+Q003724	Irklininkas
+Q003725	Upeivis
+Q003726	Upeivis-variklininkas [motoristas]
+Q003727	Budintysis tvarkdarys
+Q003728	Jūreivis naras
+Q003729	Jūreivis elektrikas
+Q003730	Laivo korpuso remontininkas
+Q003731	Jūreivis suvirintojas
+Q003732	Jūrinės dragos jūreivis
+Q003733	Laivo virtuvės darbininkas
+Q003734	Katilinės įrangos operatorius
+Q003735	Kranto komandos bocmanas
+Q003736	Kranto komandos jūreivis
+Q003737	Kranto darbininkas
+Q003738	Laivų judėjimo informatorius
+Q003739	Laivų praleidėjas
+Q003740	Siurblio mašinistas
+Q003741	Namų valytojas
+Q003742	Namų tvarkytojas
+Q003743	Kambarinė
+Q003744	Vagonų valytojas
+Q003745	Taros plovėjas
+Q003746	Rezervuarų valytojas
+Q003747	Riedmenų plovėjas [valytojas]
+Q003748	Lygintojas (rankomis)
+Q003749	Tarnas skalbinių tvarkytojas
+Q003750	Transporto priemonių valytojas
+Q003751	Transporto priemonių plovėjas (rankomis)
+Q003752	Automobilių plovėjas
+Q003753	Cisternų plovėjas garintojas
+Q003754	Langų valytojas
+Q003755	Kiti valytojai
+Q003756	Grafitų valytojas
+Q003757	Nekvalifikuotas augalininkystės ūkio darbininkas
+Q003758	Nekvalifikuotas augalininkystės ūkio derliaus nuėmimo darbininkas
+Q003759	Padėjėjas augalininkystės ūkyje
+Q003760	Nekvalifikuotas sezoninis ūkio darbininkas
+Q003761	Arklių kaustytojas
+Q003762	Nekvalifikuotas gyvulininkystės ūkio darbininkas
+Q003763	Padėjėjas gyvulininkystės ūkyje
+Q003764	Nekvalifikuotas arklidžių darbininkas
+Q003765	Arklių šėrikas
+Q003766	Nekvalifikuotas mišriojo augalininkystės ir gyvulininkystės ūkio darbininkas
+Q003767	Padėjėjas mišriame augalininkystės ir gyvulininkystės ūkyje
+Q003768	Vaistažolių rinkėjas
+Q003769	Grybų rinkėjas
+Q003770	Nekvalifikuoti sodininkystės ir daržininkystės ūkio darbininkai
+Q003771	Nekvalifikuotas sodininkystės ir daržininkystės ūkio darbininkas
+Q003772	Nekvalifikuotas ūkio derliaus nuėmėjas
+Q003773	Nekvalifikuotas sodininkystės ir daržininkystės ūkio derliaus nuėmėjas
+Q003774	Padėjėjas sodininkystės ir daržininkystės ūkyje
+Q003775	Miškų ūkio darbininkas
+Q003776	Nekvalifikuotas prieplaukos ar uosto darbininkas
+Q003777	Nekvalifikuotas žvejybos darbininkas
+Q003778	Nekvalifikuotas gavybos darbininkas
+Q003779	Nekvalifikuotas statybos darbininkas
+Q003780	Nekvalifikuotas eksploatavimo tarnybos darbininkas
+Q003781	Nekvalifikuotas kelių priežiūros darbininkas
+Q003782	Nekvalifikuotas vamzdynų priežiūros darbininkas
+Q003783	Nekvalifikuotas pastatų statybos darbininkas
+Q003784	Pakuotojas (rankomis)
+Q003785	Pakuotojas
+Q003786	Nekvalifikuotas apdirbimo pramonės darbininkas
+Q003787	Dujų balionų pildytojas
+Q003788	Pedalinės transporto priemonės vairuotojas
+Q003789	Karjero vežimą traukiančių kinkomųjų gyvulių vadeliotojas
+Q003790	Kelių vežimą traukiančių kinkomųjų gyvulių vadeliotojas
+Q003791	Nevariklinės ūkio mašinos vairuotojas
+Q003792	Krovikas
+Q003793	Lėktuvų krovikas
+Q003794	Krovikas rūšiuotojas
+Q003795	Pagalbinis darbininkas
+Q003796	Uosto krovikas
+Q003797	Tiekimo sandėlio krovikas
+Q003798	Prekybos salės darbuotojas
+Q003799	Greitojo maisto ruošimo darbuotojas
+Q003800	Picų ruošėjas
+Q003801	Virtuvės darbininkas
+Q003802	Išnešiotojas pasiuntinys
+Q003803	Batų valytojas
+Q003804	Automobilių stiklų plovėjas (rankomis)
+Q003805	Automobilių saugotojas
+Q003806	Lankstinukų platintojas
+Q003807	Prekiautojas
+Q003808	Atliekų surinkėjas
+Q003809	Sąvartyno darbininkas
+Q003810	Teritorijos valytojas
+Q003811	Šlavėjas
+Q003812	Kiemsargis
+Q003813	Gatvių valytojas
+Q003814	Kapinių prižiūrėtojas
+Q003815	Aplinkos tvarkytojas
+Q003816	Viešbučio pasiuntinukas
+Q003817	Golfo kamuolių padavėjas
+Q003818	Išnešiotojas
+Q003819	Pasiuntinys [kurjeris]
+Q003820	Pasiuntinys pranešėjas
+Q003821	Įstaigos pasiuntinys
+Q003822	Telegrafo pasiuntinys
+Q003823	Pašto pasiuntinys
+Q003824	Žinių kurjeris
+Q003825	Liftininkas
+Q003826	Nekvalifikuotas atsitiktinių darbų darbininkas
+Q003827	Padienininkas
+Q003828	Pardavimo automato tikrintojas
+Q003829	Matuoklių rodmenų tikrintojas
+Q003830	Bažnyčios varpininkas
+Q003831	Katilinės darbininkas
+Q003832	Rūbininkas
+Q003833	Atrakcionų parko prižiūrėtojas
+Q003834	Tualeto [prausyklos] prižiūrėtojas
+Q003835	Stovėjimo aikštelės prižiūrėtojas
+Q003836	Tvarkdarys (palydintis į vietas teatre"," bažnyčioje ir pan.)
+Q003837	Sargas
+Q003838	Naktinis sargas
+Q003839	Budėtojas
+Q003840	Transporto saugojimo aikštelės priėmėjas saugotojas
+Q003841	Mokyklos budėtojas
+Q003842	Vagonų budėtojas
+Q003843	Geležinkelio sargas
+Q003844	Sargas-kūrikas
+Q003845	Poilsio namų budėtojas
+Q003846	Mokamos transporto stovėjimo aikštelės budėtojas
+Q003847	Viešbučio nešikas
+Q003848	Sporto salės budėtojas
+Q003849	Baseino prižiūrėtojas
