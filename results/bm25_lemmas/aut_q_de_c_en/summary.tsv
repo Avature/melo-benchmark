@@ -1,0 +1,13 @@
+metric_name	metric_val
+map	0.0054
+Rprec	0.0057
+recip_rank	0.0186
+P_5	0.0075
+P_10	0.0053
+P_20	0.0032
+recall_5	0.0045
+recall_10	0.0061
+recall_20	0.0071
+success_1	0.0161
+success_5	0.0214
+success_10	0.0232
