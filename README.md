@@ -73,8 +73,8 @@ melo-benchmark
 
 The raw and processed datasets are available for download:
 
-- **Raw data**: [Download from Google Drive](https://drive.google.com/uc?id=RAW_FILE_ID)
-- **Processed datasets**: [Download from Zenodo (DOI: 10.5281/zenodo.123456)](https://zenodo.org/record/123456)
+- **Raw data**: [Download from Zenodo (DOI: 10.5281/zenodo.13830967)](https://zenodo.org/records/13830968/files/melo_benchmark_raw.zip?download=1)
+- **Processed datasets**: [Download from Zenodo (DOI: 10.5281/zenodo.13830967)](https://zenodo.org/records/13830968/files/melo_benchmark_processed.zip?download=1)
 
 Alternatively, you can use the following script to automatically download the processed datasets:
 ```bash

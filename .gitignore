@@ -1,9 +1,4 @@
-data/raw/*
-data/processed/custom/*
-data/processed/melo/*
-!data/processed/custom/.gitkeep
-!data/processed/melo/.gitkeep
-!data/raw/.gitkeep
+data/*
 
 reports/*
 !reports/.gitkeep
