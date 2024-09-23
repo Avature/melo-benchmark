@@ -15,6 +15,7 @@ The primary goal of this benchmark is to provide researchers with a standard dat
 - **Baselines**: Baseline results using lexical models and general-purpose sentence encoders in a zero-shot setup.
 - **Open Source**: All datasets and code are publicly available for reproduction and further research.
 
+
 ## Repository Structure
 
 ```bash
