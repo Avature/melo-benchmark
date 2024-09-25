@@ -338,33 +338,6 @@ class TestCrosswalkLoader(unittest.TestCase):
         expected = ""
         self.assertEqual(actual, expected, "Wrong description.")
 
-    def test_load_xx_xx(self):
-        crosswalk_name = "xx_xx"
-        crosswalk_loader = CrosswalkLoader(crosswalk_name=crosswalk_name)
-        queries = crosswalk_loader.load()
-
-        q_id = ""
-        query_info = queries[q_id]
-
-        actual = query_info["title"]
-        expected = ""
-        self.assertEqual(actual, expected, "Wrong title.")
-
-        actual = query_info["description"]
-        expected = ""
-        self.assertEqual(actual, expected, "Wrong description.")
-
-        q_id = ""
-        query_info = queries[q_id]
-
-        actual = query_info["title"]
-        expected = ""
-        self.assertEqual(actual, expected, "Wrong title.")
-
-        actual = query_info["description"]
-        expected = ""
-        self.assertEqual(actual, expected, "Wrong description.")
-
     def test_load_hun_hu(self):
         crosswalk_name = "hun_hu"
         crosswalk_loader = CrosswalkLoader(crosswalk_name=crosswalk_name)
