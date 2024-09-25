@@ -1,23 +1,31 @@
 # MELO Benchmark: Multilingual Entity Linking of Occupations
 
-This repository provides the datasets and code for **MELO: Multilingual Entity 
-Linking of Occupations**, a benchmark designed for evaluating the linking of entity
-mentions in 21 languages to the ESCO Occupations multilingual taxonomy. MELO is a
-collection of 48 datasets and was built using high-quality, pre-existent human 
-annotations, offering a comprehensive testbed for multilingual entity linking 
-of occupation-related entities.
+This is a companion repository for the paper 
+[*MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations*](https://github.com/Avature/melo-benchmark), 
+which introduces the new **Multilingual Entity Linking of Occupations (MELO)** 
+benchmark for evaluating the linking of occupation mentions across 21 languages 
+to the multilingual ESCO Occupations taxonomy. The benchmark is composed of 48 
+datasets built from high-quality, pre-existing human annotations.
 
-The repository includes the datasets as well as Python code for standardized
-evaluation, enabling the use of various entity linking models. Additionally, 
-we provide the code necessary to reproduce the experiments detailed in our paper, 
-"MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations." 
+In addition to providing these datasets and code for the standardized 
+evaluation of models, this repository offers the source code necessary for 
+generating new datasets. Researchers can use this code to define custom 
+language combinations, enabling the creation of new task instances by selecting 
+any subset of ESCO languages as targets for any of the source national 
+classifications, allowing for multilingual variations of the tasks presented 
+in the paper.
 
-Specifically, the repository includes:
+Specifically, this repository provides:
 
-- **MELO Benchmark**: 48 Datasets for entity linking of occupations across 21 languages.
-- **Custom Dataset Creation**: Generate new datasets by combining different languages.
-- **Baselines**: Baseline results using lexical models and general-purpose sentence encoders in a zero-shot setup.
-- **Open Source**: All datasets and code are publicly available for reproduction and further research.
+- **MELO Benchmark**: A collection of 48 datasets for entity linking of 
+        occupations across 21 languages.
+- **Custom Dataset Creation**: Tools to generate new datasets by combining 
+        different target languages for each source terminology.
+- **Standard Evaluation**: Tools to perform standard evaluation of entity 
+        linking methods using the MELO benchmark.
+- **Baselines**: Implementation of the baseline methods described in the 
+        paper: lexical models and general-purpose sentence encoders in a 
+        zero-shot setup.
 
 
 ## Repository Structure
