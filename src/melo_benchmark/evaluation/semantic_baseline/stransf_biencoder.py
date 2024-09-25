@@ -11,6 +11,7 @@ from sentence_transformers import SentenceTransformer
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
 
 
+# noinspection DuplicatedCode
 class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
 
     def __init__(

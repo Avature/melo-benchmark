@@ -15,6 +15,7 @@ import tensorflow_text
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
 
 
+# noinspection DuplicatedCode
 class TFHubBiEncoderScorer(BiEncoderScorer):
 
     def __init__(
@@ -50,7 +51,10 @@ class TFHubBiEncoderScorer(BiEncoderScorer):
 
     def _compute_embedding(self, prompt_text: str) -> List[int]:
         sentence_tensor = tf.constant([prompt_text])
+
+        # noinspection PyCallingNonCallable
         x = self.backbone(sentence_tensor)
+
         if (type(x) is list) and len(x) == 1:
             x = x[0]
         x = self.l2_normalization_layer(x)

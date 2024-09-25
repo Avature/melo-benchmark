@@ -92,7 +92,6 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         return scores
 
-
     def _build_surface_form_representation_mapping(
                 self,
                 surface_forms: List[str]
@@ -101,12 +100,9 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         # Check if the representations mapping cache file already exists
         if os.path.exists(self.repr_mapping_cache_path):
             print(f"Loading representations from cache file...")
-            sf_repr_mapping = self._load_mapping_from_cache_file()
-            for surface_form in surface_forms:
-                if surface_form not in sf_repr_mapping.keys():
-                    m = f"Invalid cache file {self.repr_mapping_cache_path}." \
-                        + " Delete it before proceeding."
-                    raise KeyError(m)
+            sf_repr_mapping = self._load_mapping_from_cache_file(
+                surface_forms
+            )
         else:
             # Load and process categories and occupations
             sf_repr_mapping = self._compute_representations(
@@ -141,15 +137,37 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             )
         return rendered_template
 
-    def _load_mapping_from_cache_file(self) -> Dict[str, NDArray[np.float_]]:
+    def _load_mapping_from_cache_file(
+                self,
+                surface_forms: List[str]
+            ) -> Dict[str, NDArray[np.float_]]:
+
+        """
+        The cached mapping is required to have embeddings for all the requested
+        surface forms, but it is allowed to have embeddings for other surface
+        forms. In this way, embeddings for the whole set of surface forms in
+        MELO can be pre-computed, in order to minimize the amount of inference
+        calls.
+        """
+
         embeddings_mapping = {}
+        target_surface_forms = set(surface_forms)
 
         with open(self.repr_mapping_cache_path) as f_emb:
             for i, line in enumerate(f_emb):
                 t = line.split("\t")
                 job_title_name = t[0]
-                emb = t[1:]
-                embedding = np.array([float(x) for x in emb])
-                embeddings_mapping[job_title_name] = embedding
+                if job_title_name in target_surface_forms:
+                    emb = t[1:]
+                    embedding = np.array([float(x) for x in emb])
+                    embeddings_mapping[job_title_name] = embedding
+
+        existent_surface_forms = set(embeddings_mapping.keys())
+
+        for surface_form in surface_forms:
+            if surface_form not in existent_surface_forms:
+                m = f"Invalid cache file {self.repr_mapping_cache_path}." \
+                    + " Delete it before proceeding."
+                raise KeyError(m)
 
         return embeddings_mapping
