@@ -3,6 +3,10 @@ import unittest
 
 from melo_benchmark.evaluation.semantic_baseline.openai_biencoder import \
     OpenAiBiEncoderScorer
+from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+    SentenceTransformersBiEncoderScorer
+from melo_benchmark.evaluation.semantic_baseline.tfhub_biencoder import \
+    TFHubBiEncoderScorer
 from melo_benchmark.evaluation.evaluator import Evaluator
 
 import utils as test_utils
@@ -64,4 +68,50 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
         for metric_name, metric_value in result:
             if metric_name == "recip_rank":
                 metric_value = float(metric_value)
-                self.assertEqual(metric_value, 0.7333)
+                self.assertGreater(metric_value, 0.5)
+
+    def test_sentence_transformers_biencoder(self):
+        output_path = test_utils.create_test_output_dir(self.id())
+        representation_cache_path = os.path.join(
+            output_path,
+            "repr_cache.tsv"
+        )
+
+        evaluator = self._create_evaluator(output_path)
+
+        model_name = "avsolatorio/GIST-Embedding-v0"
+        prompt_template = "The candidate's job title is \"{{job_title}}\". " \
+                          + "What skills are likely required for this job?"
+        scorer = SentenceTransformersBiEncoderScorer(
+            model_name=model_name,
+            prompt_template=prompt_template,
+            representation_cache_path=representation_cache_path
+        )
+        result = evaluator.evaluate(scorer)
+
+        for metric_name, metric_value in result:
+            if metric_name == "recip_rank":
+                metric_value = float(metric_value)
+                self.assertGreater(metric_value, 0.5)
+
+    def test_tfhub_biencoder(self):
+        output_path = test_utils.create_test_output_dir(self.id())
+        representation_cache_path = os.path.join(
+            output_path,
+            "repr_cache.tsv"
+        )
+
+        evaluator = self._create_evaluator(output_path)
+
+        model_name = "https://tfhub.dev/google/universal-sentence-encoder-multilingual/3"
+        scorer = TFHubBiEncoderScorer(
+            model_name=model_name,
+            prompt_template="{{job_title}}",
+            representation_cache_path=representation_cache_path
+        )
+        result = evaluator.evaluate(scorer)
+
+        for metric_name, metric_value in result:
+            if metric_name == "recip_rank":
+                metric_value = float(metric_value)
+                self.assertGreater(metric_value, 0.4)

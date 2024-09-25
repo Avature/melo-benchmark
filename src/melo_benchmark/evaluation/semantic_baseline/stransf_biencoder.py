@@ -1,5 +1,4 @@
 import csv
-import os
 from typing import (
     Dict,
     List
@@ -7,13 +6,12 @@ from typing import (
 
 import numpy as np
 from numpy.typing import NDArray
-import openai
+from sentence_transformers import SentenceTransformer
 
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
-import melo_benchmark.utils.helper as melo_utils
 
 
-class OpenAiBiEncoderScorer(BiEncoderScorer):
+class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
 
     def __init__(
                 self,
@@ -34,16 +32,16 @@ class OpenAiBiEncoderScorer(BiEncoderScorer):
         )
 
         self.model_name = model_name
+        self.model = SentenceTransformer(model_name)
 
-        melo_utils.load_dotenv_variables()
+    def _compute_embedding(self, prompt_text: str) -> List[int]:
+        normalized_prompt_embedding = self.model.encode(
+            prompt_text,
+            convert_to_tensor=True,
+            normalize_embeddings=True
+        )
 
-        open_ai_token = os.environ.get("OPENAI_API_KEY")
-        if open_ai_token is None:
-            raise ValueError("OPENAI_API_KEY environment variable is not set")
-
-        openai.api_key = open_ai_token
-
-        self.client = openai.OpenAI()
+        return normalized_prompt_embedding.squeeze().tolist()
 
     def _compute_representations(
                 self,
@@ -59,12 +57,7 @@ class OpenAiBiEncoderScorer(BiEncoderScorer):
                 text_prompt = self._render_template(
                     job_title=surface_form
                 )
-                response = self.client.embeddings.create(
-                    input=[text_prompt],
-                    model=self.model_name
-                )
-                response = response.dict()
-                embedding = response['data'][0]['embedding']
+                embedding = self._compute_embedding(text_prompt)
 
                 tsv_writer.writerow(
                     [surface_form] + [str(x) for x in embedding]

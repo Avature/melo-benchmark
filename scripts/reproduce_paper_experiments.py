@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 import os
+import tempfile
 from typing import Set
 
 from melo_benchmark.data_processing.official_dataset_helper import \
@@ -12,6 +13,12 @@ from melo_benchmark.evaluation.lexical_baseline.tf_idf_baseline import (
     CharTfIdfBaselineScorer,
     WordTfIdfBaselineScorer
 )
+from melo_benchmark.evaluation.semantic_baseline.openai_biencoder import \
+    OpenAiBiEncoderScorer
+from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+    SentenceTransformersBiEncoderScorer
+from melo_benchmark.evaluation.semantic_baseline.tfhub_biencoder import \
+    TFHubBiEncoderScorer
 from melo_benchmark.evaluation.evaluator import Evaluator
 from melo_benchmark.evaluation.scorer import BaseScorer
 import melo_benchmark.utils.helper as melo_utils
@@ -35,6 +42,59 @@ LEXICAL_BASELINES = {
     "Char TF-IDF (lemmas)": CharTfIdfBaselineScorer,
     "BM25": BM25BaselineScorer,
     "BM25 (lemmas)": BM25BaselineScorer,
+}
+
+
+prompt_template = "The candidate's job title is \"{{job_title}}\". " \
+                  + "What skills are likely required for this job?"
+
+temp_dir = tempfile.mkdtemp()
+representation_cache_path = os.path.join(
+    temp_dir,
+    "repr_cache.tsv"
+)
+
+SEMANTIC_BASELINES = {
+    "ESCOXLM-R": SentenceTransformersBiEncoderScorer(
+        model_name="jjzha/esco-xlm-roberta-large",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "mUSE-CNN": TFHubBiEncoderScorer(
+        model_name="https://tfhub.dev/google/universal-sentence-encoder-multilingual/3",
+        prompt_template="{{job_title}}",
+        representation_cache_path=representation_cache_path
+    ),
+    "Paraph-mMPNet": SentenceTransformersBiEncoderScorer(
+        model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "BGE-M3": SentenceTransformersBiEncoderScorer(
+        model_name="BAAI/bge-m3",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "GIST-Embedding": SentenceTransformersBiEncoderScorer(
+        model_name="avsolatorio/GIST-Embedding-v0",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "mE5": SentenceTransformersBiEncoderScorer(
+        model_name="intfloat/multilingual-e5-large",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "E5": SentenceTransformersBiEncoderScorer(
+        model_name="intfloat/e5-mistral-7b-instruct",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
+    "OpenAI": OpenAiBiEncoderScorer(
+        model_name="text-embedding-3-large",
+        prompt_template=prompt_template,
+        representation_cache_path=representation_cache_path
+    ),
 }
 
 
@@ -112,6 +172,13 @@ def main():
                     continue
                 scorer_params["lemmatizer"] = lemmatizer
             scorer = scorer_class(**scorer_params)
+            evaluate_baseline(dataset, baseline_name, scorer)
+
+    # Semantic baselines
+    for baseline_name, scorer in SEMANTIC_BASELINES.items():
+        for dataset in melo_datasets:
+            dataset_name = dataset.dataset_name
+            print(f"Evaluating baseline {baseline_name} on {dataset_name}...")
             evaluate_baseline(dataset, baseline_name, scorer)
 
 
