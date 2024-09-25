@@ -1,16 +1,20 @@
 # MELO Benchmark: Multilingual Entity Linking of Occupations
 
+This repository provides the datasets and code for **MELO: Multilingual Entity 
+Linking of Occupations**, a benchmark designed for evaluating the linking of entity
+mentions in 21 languages to the ESCO Occupations multilingual taxonomy. MELO is a
+collection of 48 datasets and was built using high-quality, pre-existent human 
+annotations, offering a comprehensive testbed for multilingual entity linking 
+of occupation-related entities.
 
-## Introduction
+The repository includes the datasets as well as Python code for standardized
+evaluation, enabling the use of various entity linking models. Additionally, 
+we provide the code necessary to reproduce the experiments detailed in our paper, 
+"MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations." 
 
-The **Multilingual Entity Linking of Occupations (MELO) Benchmark** is a new collection of datasets designed to evaluate entity linking in the domain of occupations, specifically linked to the multilingual ESCO Occupations taxonomy. MELO includes **48 datasets** in **21 languages**, making it an essential resource for research in cross-lingual and multilingual entity linking. This repository contains the code and resources to reproduce the creation of the datasets, as well as experiments with baseline models.
+Specifically, the repository includes:
 
-The primary goal of this benchmark is to provide researchers with a standard dataset to evaluate their entity linking models and to allow easy customization for creating new cross-lingual linking tasks.
-
-
-## Features
-
-- **48 Datasets**: Entity linking datasets across 21 languages.
+- **MELO Benchmark**: 48 Datasets for entity linking of occupations across 21 languages.
 - **Custom Dataset Creation**: Generate new datasets by combining different languages.
 - **Baselines**: Baseline results using lexical models and general-purpose sentence encoders in a zero-shot setup.
 - **Open Source**: All datasets and code are publicly available for reproduction and further research.
@@ -69,9 +73,13 @@ melo-benchmark
 
 ## Datasets
 
+The MELO datasets are located in `data/processed/melo`. Each dataset consists
+on the following files:
+ - 
+
 ### Download the Datasets
 
-The raw and processed datasets are available for download:
+The raw and processed datasets are also available for download:
 
 - **Raw data**: [Download from Zenodo (DOI: 10.5281/zenodo.13830967)](https://zenodo.org/records/13830968/files/melo_benchmark_raw.zip?download=1)
 - **Processed datasets**: [Download from Zenodo (DOI: 10.5281/zenodo.13830967)](https://zenodo.org/records/13830968/files/melo_benchmark_processed.zip?download=1)
