@@ -75,7 +75,21 @@ melo-benchmark
 
 The MELO datasets are located in `data/processed/melo`. Each dataset consists
 on the following files:
- - 
+ - `corpus_elements.tsv`: mapping between the corpus element IDs and
+        corpus element surface forms.
+ - `queries.tsv`: mapping between the query IDs and the query surface forms.
+ - `annotations.tsv`: annotations in the form of binary relevance signals, with 
+        (query ID, corpus element ID) pairs.
+
+Those files define a dataset. Additionally, we also include the following extra
+files in the directory for each dataset:
+ - `logged_stats.txt`: Statistics generated during the creation of the MELO dataset,
+        starting from the publicly available crosswalk and ESCO occupation taxonomy
+        version.
+ - `surface_forms.json`: Mapping between query or corpus element IDs with their
+        corresponding surface form, which may be useful for external systems computing
+        representations for each dataset element with the aim of evaluation.
+
 
 ### Download the Datasets
 
