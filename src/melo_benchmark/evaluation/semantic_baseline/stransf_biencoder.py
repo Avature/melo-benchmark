@@ -1,17 +1,10 @@
-import csv
-from typing import (
-    Dict,
-    List
-)
+from typing import List
 
-import numpy as np
-from numpy.typing import NDArray
 from sentence_transformers import SentenceTransformer
 
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
 
 
-# noinspection DuplicatedCode
 class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
 
     def __init__(
@@ -35,36 +28,23 @@ class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
         self.model_name = model_name
         self.model = SentenceTransformer(model_name)
 
-    def _compute_embedding(self, prompt_text: str) -> List[int]:
-        normalized_prompt_embedding = self.model.encode(
-            prompt_text,
-            convert_to_tensor=True,
-            normalize_embeddings=True
-        )
-
-        return normalized_prompt_embedding.squeeze().tolist()
-
-    def _compute_representations(
+    def _compute_embeddings(
                 self,
-                surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+                rendered_prompts: List[str]
+            ) -> List[List[int]]:
 
-        sf_repr_mapping = {}
+        results = []
+        for i in range(0, len(rendered_prompts), self.batch_size):
+            batch = rendered_prompts[i:i + self.batch_size]
 
-        with open(self.repr_mapping_cache_path, "a") as f_out:
-            tsv_writer = csv.writer(f_out, delimiter='\t')
+            batch_embeddings = self.model.encode(
+                batch,
+                convert_to_tensor=True,
+                normalize_embeddings=True,
+                show_progress_bar=False
+            )
 
-            for surface_form in surface_forms:
-                text_prompt = self._render_template(
-                    job_title=surface_form
-                )
-                embedding = self._compute_embedding(text_prompt)
+            for embedding in batch_embeddings:
+                results.append(embedding.squeeze().tolist())
 
-                tsv_writer.writerow(
-                    [surface_form] + [str(x) for x in embedding]
-                )
-
-                embedding = np.array([float(x) for x in embedding])
-                sf_repr_mapping[surface_form] = embedding
-
-        return sf_repr_mapping
+        return results

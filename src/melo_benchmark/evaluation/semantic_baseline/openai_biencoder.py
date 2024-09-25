@@ -45,32 +45,24 @@ class OpenAiBiEncoderScorer(BiEncoderScorer):
 
         self.client = openai.OpenAI()
 
-    def _compute_representations(
+    def _compute_embeddings(
                 self,
-                surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+                rendered_prompts: List[str]
+            ) -> List[List[int]]:
 
-        sf_repr_mapping = {}
+        results = []
+        for i in range(0, len(rendered_prompts), self.batch_size):
+            batch = rendered_prompts[i:i + self.batch_size]
 
-        with open(self.repr_mapping_cache_path, "a") as f_out:
-            tsv_writer = csv.writer(f_out, delimiter='\t')
+            batch_embeddings = self.client.embeddings.create(
+                input=batch,
+                model=self.model_name
+            )
 
-            for surface_form in surface_forms:
-                text_prompt = self._render_template(
-                    job_title=surface_form
-                )
-                response = self.client.embeddings.create(
-                    input=[text_prompt],
-                    model=self.model_name
-                )
-                response = response.dict()
-                embedding = response['data'][0]['embedding']
+            batch_embeddings = batch_embeddings.dict()
+            batch_embeddings = batch_embeddings['data']
 
-                tsv_writer.writerow(
-                    [surface_form] + [str(x) for x in embedding]
-                )
+            for embedding in batch_embeddings:
+                results.append(embedding['embedding'])
 
-                embedding = np.array([float(x) for x in embedding])
-                sf_repr_mapping[surface_form] = embedding
-
-        return sf_repr_mapping
+        return results

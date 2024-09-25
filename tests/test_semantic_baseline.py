@@ -114,4 +114,7 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
         for metric_name, metric_value in result:
             if metric_name == "recip_rank":
                 metric_value = float(metric_value)
-                self.assertGreater(metric_value, 0.4)
+                self.assertEqual(metric_value, 0.5000)
+            if metric_name == "recall_5":
+                metric_value = float(metric_value)
+                self.assertEqual(metric_value, 0.6667)

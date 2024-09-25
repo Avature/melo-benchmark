@@ -1,11 +1,5 @@
-import csv
-from typing import (
-    Dict,
-    List
-)
+from typing import List
 
-import numpy as np
-from numpy.typing import NDArray
 import tensorflow as tf
 import tensorflow_hub as hub
 
@@ -15,7 +9,6 @@ import tensorflow_text
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
 
 
-# noinspection DuplicatedCode
 class TFHubBiEncoderScorer(BiEncoderScorer):
 
     def __init__(
@@ -49,39 +42,21 @@ class TFHubBiEncoderScorer(BiEncoderScorer):
             name="l2_norm"
         )
 
-    def _compute_embedding(self, prompt_text: str) -> List[int]:
-        sentence_tensor = tf.constant([prompt_text])
-
-        # noinspection PyCallingNonCallable
-        x = self.backbone(sentence_tensor)
-
-        if (type(x) is list) and len(x) == 1:
-            x = x[0]
-        x = self.l2_normalization_layer(x)
-        x = x.numpy().flatten().tolist()
-        return x
-
-    def _compute_representations(
+    def _compute_embeddings(
                 self,
-                surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+                rendered_prompts: List[str]
+            ) -> List[List[int]]:
 
-        sf_repr_mapping = {}
+        results = []
+        for i in range(0, len(rendered_prompts), self.batch_size):
+            batch = rendered_prompts[i:i + self.batch_size]
 
-        with open(self.repr_mapping_cache_path, "a") as f_out:
-            tsv_writer = csv.writer(f_out, delimiter='\t')
+            # noinspection PyCallingNonCallable
+            batch_embeddings = self.backbone(batch)
 
-            for surface_form in surface_forms:
-                text_prompt = self._render_template(
-                    job_title=surface_form
-                )
-                embedding = self._compute_embedding(text_prompt)
+            batch_embeddings = self.l2_normalization_layer(batch_embeddings)
 
-                tsv_writer.writerow(
-                    [surface_form] + [str(x) for x in embedding]
-                )
+            for embedding in batch_embeddings:
+                results.append(embedding.numpy().flatten().tolist())
 
-                embedding = np.array([float(x) for x in embedding])
-                sf_repr_mapping[surface_form] = embedding
-
-        return sf_repr_mapping
+        return results

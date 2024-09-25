@@ -1,4 +1,5 @@
 import abc
+import csv
 import os
 from typing import (
     Dict,
@@ -57,12 +58,14 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 representation_cache_path: str,
                 lowercase: bool = False,
                 ascii_normalization: bool = True,
+                batch_size: int = 32,
             ):
 
         self.prompt_template_text = prompt_template
         self.repr_mapping_cache_path = representation_cache_path
         self.lowercase = lowercase
         self.ascii_normalization = ascii_normalization
+        self.batch_size = batch_size
 
     def compute_scores(
                 self,
@@ -112,12 +115,40 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         return sf_repr_mapping
 
     @abc.abstractmethod
+    def _compute_embeddings(
+                    self,
+                    rendered_prompts: List[str]
+            ) -> List[List[int]]:
+
+        raise NotImplementedError()
+
     def _compute_representations(
                 self,
                 surface_forms: List[str]
             ) -> Dict[str, NDArray[np.float_]]:
 
-        raise NotImplementedError()
+        rendered_prompts = []
+        for surface_form in surface_forms:
+            rendered_prompt = self._render_template(
+                job_title=surface_form
+            )
+            rendered_prompts.append(rendered_prompt)
+
+        embeddings = self._compute_embeddings(rendered_prompts)
+
+        sf_repr_mapping = {}
+
+        with open(self.repr_mapping_cache_path, "a") as f_out:
+            tsv_writer = csv.writer(f_out, delimiter='\t')
+
+            for surface_form, embedding in zip(surface_forms, embeddings):
+                tsv_writer.writerow(
+                    [surface_form] + [str(x) for x in embedding]
+                )
+                embedding = np.array([float(x) for x in embedding])
+                sf_repr_mapping[surface_form] = embedding
+
+        return sf_repr_mapping
 
     def _preprocess(self, text_element: str) -> str:
         if self.lowercase:
