@@ -14,6 +14,8 @@ class MeloDatasetConfig:
     source_language: str
     target_languages: Set[str]
     dataset_dir_name: str = None
+    is_ascii_normalizable: bool = True
+    has_spacy_lemmatizer: bool = True
 
 
 ONET_CROSSWALK = "usa_en"
@@ -55,6 +57,24 @@ TARGET_LANGUAGES_MULTILINGUAL = {
     "pt"
 }
 
+LANGUAGES_WITH_SPACY_MODEL = [
+    "en",
+    "da",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "lt",
+    "nl",
+    "no",
+    "pt",
+    "pl",
+    "ro",
+    "sl",
+    "sv"
+]
+
 
 class OfficialDatasetHelper:
 
@@ -74,7 +94,9 @@ class OfficialDatasetHelper:
             dataset_name="USA-en-en",
             crosswalk_name=ONET_CROSSWALK,
             source_language="en",
-            target_languages={"en"}
+            target_languages={"en"},
+            is_ascii_normalizable=True,
+            has_spacy_lemmatizer=True
         )
         datasets.append(usa_en_en)
 
@@ -83,7 +105,9 @@ class OfficialDatasetHelper:
                 dataset_name="USA-en-xx",
                 crosswalk_name=ONET_CROSSWALK,
                 source_language="en",
-                target_languages=TARGET_LANGUAGES_MULTILINGUAL
+                target_languages=TARGET_LANGUAGES_MULTILINGUAL,
+                is_ascii_normalizable=True,
+                has_spacy_lemmatizer=True
             )
             datasets.append(usa_en_en)
 
@@ -92,12 +116,23 @@ class OfficialDatasetHelper:
             country_code = name_parts[0].upper()
             source_language = name_parts[1]
 
+            is_ascii_normalizable = True
+            if source_language == "bg":
+                # Avoid ASCII normalization for Bulgarian
+                is_ascii_normalizable = False
+
+            has_spacy_lemmatizer = True
+            if source_language not in LANGUAGES_WITH_SPACY_MODEL:
+                has_spacy_lemmatizer = False
+
             ds_name = f"{country_code}-{source_language}-{source_language}"
             monolingual_dataset = MeloDatasetConfig(
                 dataset_name=ds_name,
                 crosswalk_name=crosswalk_name,
                 source_language=source_language,
-                target_languages={source_language}
+                target_languages={source_language},
+                is_ascii_normalizable=is_ascii_normalizable,
+                has_spacy_lemmatizer=has_spacy_lemmatizer
             )
             datasets.append(monolingual_dataset)
 
@@ -106,7 +141,9 @@ class OfficialDatasetHelper:
                     dataset_name=f"{country_code}-{source_language}-en",
                     crosswalk_name=crosswalk_name,
                     source_language=source_language,
-                    target_languages={"en"}
+                    target_languages={"en"},
+                    is_ascii_normalizable=is_ascii_normalizable,
+                    has_spacy_lemmatizer=has_spacy_lemmatizer
                 )
                 datasets.append(cross_lingual_dataset)
 
@@ -117,11 +154,11 @@ class OfficialDatasetHelper:
     def create_datasets(self, datasets: List[MeloDatasetConfig]):
         for dataset in datasets:
             source_taxonomy = dataset.crosswalk_name
-            target_languages = list(dataset.target_languages)
             dataset_builder = DatasetBuilder(source_taxonomy)
 
             if self.should_create_datasets:
                 # This creates the dataset in `data/processed/melo/`
+                target_languages = list(dataset.target_languages)
                 dataset_builder.build(
                     target_languages
                 )

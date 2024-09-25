@@ -1,10 +1,10 @@
-from dataclasses import dataclass
 import os
 import tempfile
-from typing import Set
 
-from melo_benchmark.data_processing.official_dataset_helper import \
+from melo_benchmark.data_processing.official_dataset_helper import (
+    MeloDatasetConfig,
     OfficialDatasetHelper
+)
 from melo_benchmark.evaluation.lexical_baseline.bm25_baseline import \
     BM25BaselineScorer
 from melo_benchmark.evaluation.lexical_baseline.edit_distance_baseline import \
@@ -23,15 +23,6 @@ from melo_benchmark.evaluation.evaluator import Evaluator
 from melo_benchmark.evaluation.scorer import BaseScorer
 import melo_benchmark.utils.helper as melo_utils
 from melo_benchmark.utils.lemmatizer import Lemmatizer
-
-
-@dataclass
-class MeloDatasetConfig:
-    dataset_name: str
-    crosswalk_name: str
-    source_language: str
-    target_languages: Set[str]
-    dataset_dir_name: str = None
 
 
 LEXICAL_BASELINES = {
@@ -61,6 +52,7 @@ SEMANTIC_BASELINES = {
         representation_cache_path=representation_cache_path
     ),
     "mUSE-CNN": TFHubBiEncoderScorer(
+        # noinspection PyPep8
         model_name="https://tfhub.dev/google/universal-sentence-encoder-multilingual/3",
         prompt_template="{{job_title}}",
         representation_cache_path=representation_cache_path
@@ -98,7 +90,7 @@ SEMANTIC_BASELINES = {
 }
 
 
-def evaluate_baseline(
+def evaluate_lexical_baseline(
             dataset: MeloDatasetConfig,
             method_name: str,
             scorer: BaseScorer
@@ -159,27 +151,23 @@ def main():
             source_language = dataset.source_language
             scorer_params = {}
             if baseline_name != "Edit Distance":
-                should_normalize_ascii = True
-                if dataset.source_language == "bg":
-                    # Avoid ASCII normalization for Bulgarian
-                    should_normalize_ascii = False
+                should_normalize_ascii = dataset.is_ascii_normalizable
                 scorer_params["ascii_normalization"] = should_normalize_ascii
             if baseline_name.endswith(" (lemmas)"):
-                try:
-                    lemmatizer = Lemmatizer(source_language)
-                except NotImplementedError:
+                if not dataset.has_spacy_lemmatizer:
                     # Skip for those languages with no spaCy lemmatizer
                     continue
+                lemmatizer = Lemmatizer(source_language)
                 scorer_params["lemmatizer"] = lemmatizer
             scorer = scorer_class(**scorer_params)
-            evaluate_baseline(dataset, baseline_name, scorer)
+            evaluate_lexical_baseline(dataset, baseline_name, scorer)
 
     # Semantic baselines
     for baseline_name, scorer in SEMANTIC_BASELINES.items():
         for dataset in melo_datasets:
             dataset_name = dataset.dataset_name
             print(f"Evaluating baseline {baseline_name} on {dataset_name}...")
-            evaluate_baseline(dataset, baseline_name, scorer)
+            evaluate_lexical_baseline(dataset, baseline_name, scorer)
 
 
 if __name__ == "__main__":
