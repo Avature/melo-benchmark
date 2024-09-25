@@ -11,9 +11,7 @@ class WordTfIdfBaselineScorer(LexicalBaselineScorer):
 
     def compute_scores(
                 self,
-                q_ids: List[str],
                 q_surface_forms: List[str],
-                c_ids: List[str],
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 
@@ -42,9 +40,7 @@ class CharTfIdfBaselineScorer(LexicalBaselineScorer):
 
     def compute_scores(
                 self,
-                q_ids: List[str],
                 q_surface_forms: List[str],
-                c_ids: List[str],
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 

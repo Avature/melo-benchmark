@@ -82,9 +82,7 @@ class Evaluator:
 
     def evaluate(self, scorer: BaseScorer) -> List[Tuple[str, Any]]:
         scores = scorer.compute_scores(
-            self.q_ids,
             self.q_surface_forms,
-            self.c_ids,
             self.c_surface_forms
         )
         metrics_values = self._evaluate_scores_with_trec_binary(scores)

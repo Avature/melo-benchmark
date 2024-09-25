@@ -10,6 +10,7 @@ import unicodedata
 import numpy as np
 from numpy.typing import NDArray
 import scipy
+import tensorflow as tf
 
 from melo_benchmark.utils.lemmatizer import Lemmatizer
 
@@ -19,9 +20,7 @@ class BaseScorer(abc.ABC):
     @abc.abstractmethod
     def compute_scores(
                 self,
-                q_ids: List[str],
                 q_surface_forms: List[str],
-                c_ids: List[str],
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 
@@ -69,9 +68,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
     def compute_scores(
                 self,
-                q_ids: List[str],
                 q_surface_forms: List[str],
-                c_ids: List[str],
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 
@@ -81,19 +78,67 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             all_surface_forms
         )
 
+        if len(tf.config.list_physical_devices('GPU')) > 0:
+            return self._compute_scores_gpu(
+                q_surface_forms,
+                c_surface_forms,
+                sf_repr_mapping
+            )
+
+        return self._compute_scores_cpu(
+            q_surface_forms,
+            c_surface_forms,
+            sf_repr_mapping
+        )
+
+    def pre_compute_embeddings(self, surface_forms: List[str]):
+        _ = self._compute_representations(surface_forms)
+
+    @staticmethod
+    def _compute_scores_cpu(
+                q_surface_forms: List[str],
+                c_surface_forms: List[str],
+                embeddings_mapping: Dict[str, NDArray[np.float_]]
+            ) -> List[List[float]]:
+
         scores = []
 
         for q_surface_form in q_surface_forms:
             scores_q = []
             for c_surface_form in c_surface_forms:
-                q_emb = sf_repr_mapping[q_surface_form]
-                c_emb = sf_repr_mapping[c_surface_form]
+                q_emb = embeddings_mapping[q_surface_form]
+                c_emb = embeddings_mapping[c_surface_form]
                 s = 1 - scipy.spatial.distance.cosine(q_emb, c_emb)
                 scores_q.append(s)
 
             scores.append(scores_q)
 
         return scores
+
+    @staticmethod
+    def _compute_scores_gpu(
+                q_surface_forms: List[str],
+                c_surface_forms: List[str],
+                embeddings_mapping: Dict[str, NDArray[np.float_]]
+            ) -> List[List[float]]:
+
+        q_embs = [
+            embeddings_mapping[surface_form]
+            for surface_form in q_surface_forms
+        ]
+
+        c_embs = [
+            embeddings_mapping[surface_form]
+            for surface_form in c_surface_forms
+        ]
+
+        c_embs_tf = tf.convert_to_tensor(np.array(c_embs), dtype=tf.float32)
+        c_embs_norm = tf.nn.l2_normalize(c_embs_tf, axis=1)
+        q_embs_tf = tf.convert_to_tensor(np.array(q_embs), dtype=tf.float32)
+        q_embs_norm = tf.nn.l2_normalize(q_embs_tf, axis=1)
+        scores_all = tf.matmul(q_embs_norm, c_embs_norm, transpose_b=True)
+
+        return scores_all.numpy().tolist()
 
     def _build_surface_form_representation_mapping(
                 self,
