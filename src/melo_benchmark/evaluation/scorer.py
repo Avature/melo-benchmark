@@ -61,13 +61,13 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             ):
 
         self.prompt_template_text = prompt_template
-        self.repr_mapping_cache_path = representation_cache_path
+        self.rep_mapping_cache_path = representation_cache_path
         self.lowercase = lowercase
         self.ascii_normalization = ascii_normalization
         self.batch_size = batch_size
 
     def register_representation_cache(self, repr_mapping_cache_path: str):
-        self.repr_mapping_cache_path = repr_mapping_cache_path
+        self.rep_mapping_cache_path = repr_mapping_cache_path
 
     def compute_scores(
                 self,
@@ -156,14 +156,14 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 surface_forms: List[str]
             ) -> Dict[str, NDArray[np.float_]]:
 
-        if self.repr_mapping_cache_path is None:
-            self.repr_mapping_cache_path = os.path.join(
+        if self.rep_mapping_cache_path is None:
+            self.rep_mapping_cache_path = os.path.join(
                 tempfile.mkdtemp(),
                 "repr_cache.tsv"
             )
 
         # Check if the representations mapping cache file already exists
-        if os.path.exists(self.repr_mapping_cache_path):
+        if os.path.exists(self.rep_mapping_cache_path):
             print(f"Loading representations from cache file...")
             sf_repr_mapping = self._load_mapping_from_cache_file(
                 surface_forms
@@ -180,7 +180,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _compute_embeddings(
                     self,
                     rendered_prompts: List[str]
-            ) -> List[List[int]]:
+            ) -> List[List[float]]:
 
         raise NotImplementedError()
 
@@ -200,7 +200,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         sf_repr_mapping = {}
 
-        with open(self.repr_mapping_cache_path, "a") as f_out:
+        with open(self.rep_mapping_cache_path, "a", encoding="utf-8") as f_out:
             tsv_writer = csv.writer(f_out, delimiter='\t')
 
             for surface_form, embedding in zip(surface_forms, embeddings):
@@ -246,12 +246,13 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         embeddings_mapping = {}
         target_surface_forms = set(surface_forms)
 
-        with open(self.repr_mapping_cache_path) as f_emb:
-            for i, line in enumerate(f_emb):
-                t = line.split("\t")
-                job_title_name = t[0]
+        with open(self.rep_mapping_cache_path, encoding="utf-8") as f_emb:
+            tsv_reader = csv.reader(f_emb, delimiter='\t')
+
+            for row in tsv_reader:
+                job_title_name = row[0]
                 if job_title_name in target_surface_forms:
-                    emb = t[1:]
+                    emb = row[1:]
                     embedding = np.array([float(x) for x in emb])
                     embeddings_mapping[job_title_name] = embedding
 
@@ -259,7 +260,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         for surface_form in surface_forms:
             if surface_form not in existent_surface_forms:
-                m = f"Invalid cache file {self.repr_mapping_cache_path}." \
+                m = f"Invalid cache file {self.rep_mapping_cache_path}." \
                     + " Delete it before proceeding."
                 raise KeyError(m)
 

@@ -187,7 +187,7 @@ class HistogramVisualizer:
     @staticmethod
     def _unpack_mapping_file(mapping_file_path) -> Dict[str, str]:
         mapping_ids_to_surface_forms = {}
-        with open(mapping_file_path) as f_in:
+        with open(mapping_file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 item_id, item_surface_form = line.strip().split('\t')
                 mapping_ids_to_surface_forms[item_id] = item_surface_form
@@ -199,7 +199,7 @@ class HistogramVisualizer:
             ) -> Dict[str, List[str]]:
 
         q_c_mapping = {}
-        with open(annotations_file_path) as f_in:
+        with open(annotations_file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 q_key, _, c_key, _ = line.strip().split('\t')
                 if q_key not in q_c_mapping.keys():

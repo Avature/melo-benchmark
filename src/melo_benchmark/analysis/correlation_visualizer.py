@@ -286,7 +286,7 @@ class CorrelationVisualizer:
 
         df = pd.DataFrame(df_content)
 
-        with open(output_file_path, "w") as f_out:
+        with open(output_file_path, "w", encoding="utf-8") as f_out:
             for target_model in method_names:
                 df_method = df.loc[df["model"].isin([target_model])]
 
@@ -382,7 +382,7 @@ class CorrelationVisualizer:
     @staticmethod
     def _unpack_mapping_file(mapping_file_path) -> Dict[str, str]:
         mapping_ids_to_surface_forms = {}
-        with open(mapping_file_path) as f_in:
+        with open(mapping_file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 item_id, item_surface_form = line.strip().split('\t')
                 mapping_ids_to_surface_forms[item_id] = item_surface_form
@@ -394,7 +394,7 @@ class CorrelationVisualizer:
             ) -> Dict[str, List[str]]:
 
         q_c_mapping = {}
-        with open(annotations_file_path) as f_in:
+        with open(annotations_file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 q_key, _, c_key, _ = line.strip().split('\t')
                 if q_key not in q_c_mapping.keys():
@@ -450,7 +450,7 @@ class CorrelationVisualizer:
         if not os.path.exists(file_path):
             return "-"
 
-        with open(file_path) as f_in:
+        with open(file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 metric_id, _, metric_value = line.strip().split('\t')
                 metric_id = metric_id.strip()

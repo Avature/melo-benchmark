@@ -191,7 +191,7 @@ class CrosswalkLoader(metaclass=Singleton):
             json_string = melo_utils.serialize_as_json(queries)
 
             # Save the JSON string to a file
-            with open(json_file_path, 'w') as file:
+            with open(json_file_path, 'w', encoding="utf-8") as file:
                 file.write(json_string)
 
             print(f"Crosswalk saved to {json_file_path}...")
@@ -278,7 +278,8 @@ class CrosswalkLoader(metaclass=Singleton):
 
     @staticmethod
     def _clean_csv_file(orig_file: str, clean_file: str):
-        with open(orig_file, "r") as f_in, open(clean_file, "w") as f_out:
+        with open(orig_file, "r", encoding="utf-8") as f_in, \
+                open(clean_file, "w", encoding="utf-8") as f_out:
             for line in f_in:
                 clean_line = line.strip()
 

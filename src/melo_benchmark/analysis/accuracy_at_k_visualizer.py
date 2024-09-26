@@ -217,7 +217,7 @@ class AccuracyAtKVisualizer:
             return result
 
         result = {}
-        with open(file_path) as f_in:
+        with open(file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 metric_id, _, metric_value = line.strip().split('\t')
                 metric_id = metric_id.strip()

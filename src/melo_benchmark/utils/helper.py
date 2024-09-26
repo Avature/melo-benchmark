@@ -27,7 +27,9 @@ def serialize_as_json(content: Dict[str, Any]) -> str:
 
 def get_data_dir_path():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(current_dir, "..", "..", "..", "data")
+    return os.path.abspath(
+        os.path.join(current_dir, "..", "..", "..", "data")
+    )
 
 
 def get_dataset_path(*args) -> str:
@@ -77,17 +79,23 @@ def get_data_raw_esco_standard_dir_base_path() -> str:
 
 def get_reports_dir_path():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(current_dir, "..", "..", "..", "reports")
+    return os.path.abspath(
+        os.path.join(current_dir, "..", "..", "..", "reports")
+    )
 
 
 def get_resources_dir_path():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(current_dir, "..", "..", "..", "resources")
+    return os.path.abspath(
+        os.path.join(current_dir, "..", "..", "..", "resources")
+    )
 
 
 def get_results_dir_path():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(current_dir, "..", "..", "..", "results")
+    return os.path.abspath(
+        os.path.join(current_dir, "..", "..", "..", "results")
+    )
 
 
 def load_content_from_json_file(file_path: str) -> Dict:

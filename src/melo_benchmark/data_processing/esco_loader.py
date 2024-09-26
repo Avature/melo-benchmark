@@ -103,7 +103,7 @@ class EscoLoader(metaclass=Singleton):
             json_string = melo_utils.serialize_as_json(concepts)
 
             # Save the JSON string to a file
-            with open(json_file_path, 'w') as file:
+            with open(json_file_path, 'w', encoding="utf-8") as file:
                 file.write(json_string)
 
             print(f"Data saved to {json_file_path}...")

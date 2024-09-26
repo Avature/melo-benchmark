@@ -274,7 +274,7 @@ class DatasetBuilder:
         )
 
         # Create file with list of queries
-        with open(query_file_path, "w") as f_out:
+        with open(query_file_path, "w", encoding="utf-8") as f_out:
             for i, query_info in enumerate(query_annotations):
                 query_id = query_info["query_id"]
                 query_sf = query_info["query_surface_form"]
@@ -292,7 +292,7 @@ class DatasetBuilder:
         )
 
         # Create file with list of corpus elements
-        with open(corpus_file_path, "w") as f_out:
+        with open(corpus_file_path, "w", encoding="utf-8") as f_out:
             i = 0
             for esco_id, node_info in corpus.items():
                 i += 1
@@ -326,7 +326,7 @@ class DatasetBuilder:
 
         els_per_query = []
         # Create file with annotations, with TREC format
-        with open(qrel_file_path, "w") as f_out:
+        with open(qrel_file_path, "w", encoding="utf-8") as f_out:
             for query_info in query_annotations:
                 query_id = query_info["query_id"]
                 q_key = q_id_key_mapping[query_id]
@@ -399,7 +399,7 @@ class DatasetBuilder:
             "\n" + \
             "==============================================\n"
 
-        with open(log_file_path, 'w') as log_file:
+        with open(log_file_path, 'w', encoding="utf-8") as log_file:
             log_file.write(content)
 
     @staticmethod

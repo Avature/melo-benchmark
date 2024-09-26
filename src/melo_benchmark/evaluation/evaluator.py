@@ -67,7 +67,7 @@ class BaseEvaluator(abc.ABC):
         )
 
         # Store ranking predictions in TREC format
-        with open(aux_scores_file_path, 'w') as f_out:
+        with open(aux_scores_file_path, 'w', encoding="utf-8") as f_out:
             for q_key, scores_q in zip(q_ids, scores):
                 # TREC expects ranking results as lines with format:
                 #     {q_id} Q0 {c_id} 1 {score} STANDARD
@@ -123,7 +123,7 @@ class BaseEvaluator(abc.ABC):
             ) -> List[Tuple[str, Any]]:
 
         retrieved_metrics = []
-        with open(file_path) as f_in:
+        with open(file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 metric_id, _, metric_value = line.strip().split('\t')
                 metric_id = metric_id.strip()
@@ -136,7 +136,7 @@ class BaseEvaluator(abc.ABC):
     def _unpack_mapping(mapping_file_path) -> Tuple[List[str], List[str]]:
         item_keys = []
         item_surface_forms = []
-        with open(mapping_file_path) as f_in:
+        with open(mapping_file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 item_key, item_surface_form = line.strip().split('\t')
                 item_keys.append(item_key)
@@ -151,7 +151,7 @@ class BaseEvaluator(abc.ABC):
         )
 
         summary_file_name = os.path.join(summary_res_file)
-        with open(summary_file_name, 'w') as f_out:
+        with open(summary_file_name, 'w', encoding="utf-8") as f_out:
             f_out.write("metric_name\tmetric_val\n")
             for metric_name, metric_val in metrics_values:
                 f_out.write(f"{metric_name}\t{metric_val}\n")

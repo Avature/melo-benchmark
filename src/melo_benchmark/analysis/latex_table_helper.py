@@ -56,7 +56,7 @@ class LatexTableHelper:
                 row_content.append(result_value_str)
             table_section_text += "  " + " & ".join(row_content) + " \\\\ \n"
 
-        with open(report_file_path, "w") as report_file:
+        with open(report_file_path, "w", encoding="utf-8") as report_file:
             report_file.write(table_section_text)
 
     @staticmethod
@@ -68,7 +68,7 @@ class LatexTableHelper:
         if not os.path.exists(file_path):
             return "-"
 
-        with open(file_path) as f_in:
+        with open(file_path, encoding="utf-8") as f_in:
             for line in f_in:
                 metric_id, _, metric_value = line.strip().split('\t')
                 metric_id = metric_id.strip()
