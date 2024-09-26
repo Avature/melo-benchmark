@@ -217,6 +217,20 @@ def evaluate_semantic_baseline(
     evaluator.evaluate()
 
 
+def message_gpu_availability():
+    # Lazy import
+    import tensorflow as tf
+
+    gpus = tf.config.list_physical_devices('GPU')
+    if gpus:
+        print(f"GPUs available: {len(gpus)}")
+        for i, gpu in enumerate(gpus):
+            print(f"GPU {i}: {gpu.name}")
+    else:
+        print("No GPUs are available.")
+    print("\n\n")
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Script for reproducing the experiments from the paper."
@@ -250,6 +264,8 @@ def main():
                 evaluate_lexical_baseline(baseline_name, dataset)
 
     if selected_baselines in ["semantic", "both"]:
+        message_gpu_availability()
+
         # Semantic baselines
         for baseline_name in SEMANTIC_BASELINES.keys():
             evaluate_semantic_baseline(baseline_name, melo_datasets)
