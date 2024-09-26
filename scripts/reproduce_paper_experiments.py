@@ -218,24 +218,32 @@ def evaluate_semantic_baseline(
 
 
 def message_gpu_availability():
-    # Lazy import
+    print("\n\n")
+
+    # Lazy imports
     import tensorflow as tf
+    import torch
 
     gpus = tf.config.list_physical_devices('GPU')
     if gpus:
+        print("CUDA is available for TensorFlow.")
         print(f"GPUs available: {len(gpus)}")
         for i, gpu in enumerate(gpus):
-            print(f"GPU {i}: {gpu.name}")
+            print(f"GPU {i} name: {gpu.name}")
     else:
-        print("No GPUs are available.")
+        print("No GPUs are available for TensorFlow.")
+
     print("\n\n")
 
-    import torch
-
-    print("PyTorch CUDA available:", torch.cuda.is_available())
-    print("Number of GPUs:", torch.cuda.device_count())
     if torch.cuda.is_available():
-        print("GPU name:", torch.cuda.get_device_name(0))
+        print("CUDA is available for PyTorch.")
+        print(f"GPUs available: {torch.cuda.device_count()}")
+        if torch.cuda.is_available():
+            print("GPU name:", torch.cuda.get_device_name(0))
+    else:
+        print("No GPUs are available for PyTorch.")
+
+    print("\n\n")
 
 
 def main():
