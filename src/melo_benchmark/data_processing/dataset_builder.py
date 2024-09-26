@@ -153,7 +153,6 @@ class DatasetBuilder:
     FILE_NAME_CORPUS_ELEMENTS = "corpus_elements.tsv"
     FILE_NAME_ANNOTATIONS = "annotations.tsv"
     FILE_NAME_SURFACE_FORMS = "surface_forms.json"
-    FILE_NAME_SURFACE_FORMS_LOWER = "surface_forms_lower.json"
 
     def __init__(self, crosswalk_name: str):
         self.crosswalk_name = crosswalk_name
@@ -339,26 +338,6 @@ class DatasetBuilder:
             new_dataset_elements.append(new_ds_element)
 
         with open(surface_form_list_file_path, "w", encoding='utf-8') as f_out:
-            new_dataset = {
-                "data": new_dataset_elements
-            }
-            json.dump(new_dataset, f_out, ensure_ascii=False, indent=4)
-
-        sf_lower_list_file_path = os.path.join(
-            output_path,
-            self.FILE_NAME_SURFACE_FORMS_LOWER
-        )
-
-        new_dataset_elements = []
-
-        for jt_key, jt_value in jt_key_sf_mapping.items():
-            new_ds_element = {
-                "id": jt_key,
-                "job_title": jt_value.lower(),
-            }
-            new_dataset_elements.append(new_ds_element)
-
-        with open(sf_lower_list_file_path, "w", encoding='utf-8') as f_out:
             new_dataset = {
                 "data": new_dataset_elements
             }
