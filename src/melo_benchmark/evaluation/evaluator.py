@@ -296,6 +296,12 @@ class BenchmarkEvaluator(BaseEvaluator):
     def evaluate(self):
         for dataset in self.datasets:
             dataset_name = dataset.dataset_dir_name
+
+            print(
+                f" ... evaluating {self.method_name} on "
+                + f"MELO dataset {dataset.dataset_name}"
+            )
+
             dataset_elements = self.dataset_elements[dataset_name]
             q_ids = dataset_elements["q_ids"]
             q_surface_forms = dataset_elements["q_surface_forms"]
