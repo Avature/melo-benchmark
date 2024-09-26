@@ -1,5 +1,4 @@
 import os
-import tempfile
 
 from melo_benchmark.data_processing.official_dataset_helper import (
     MeloDatasetConfig,
@@ -39,53 +38,40 @@ LEXICAL_BASELINES = {
 prompt_template = "The candidate's job title is \"{{job_title}}\". " \
                   + "What skills are likely required for this job?"
 
-temp_dir = tempfile.mkdtemp()
-representation_cache_path = os.path.join(
-    temp_dir,
-    "repr_cache.tsv"
-)
 
 SEMANTIC_BASELINES = {
     "ESCOXLM-R": SentenceTransformersBiEncoderScorer(
         model_name="jjzha/esco-xlm-roberta-large",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "mUSE-CNN": TFHubBiEncoderScorer(
         # noinspection PyPep8
         model_name="https://tfhub.dev/google/universal-sentence-encoder-multilingual/3",
-        prompt_template="{{job_title}}",
-        representation_cache_path=representation_cache_path
+        prompt_template="{{job_title}}"
     ),
     "Paraph-mMPNet": SentenceTransformersBiEncoderScorer(
         model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "BGE-M3": SentenceTransformersBiEncoderScorer(
         model_name="BAAI/bge-m3",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "GIST-Embedding": SentenceTransformersBiEncoderScorer(
         model_name="avsolatorio/GIST-Embedding-v0",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "mE5": SentenceTransformersBiEncoderScorer(
         model_name="intfloat/multilingual-e5-large",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "E5": SentenceTransformersBiEncoderScorer(
         model_name="intfloat/e5-mistral-7b-instruct",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
     "OpenAI": OpenAiBiEncoderScorer(
         model_name="text-embedding-3-large",
-        prompt_template=prompt_template,
-        representation_cache_path=representation_cache_path
+        prompt_template=prompt_template
     ),
 }
 

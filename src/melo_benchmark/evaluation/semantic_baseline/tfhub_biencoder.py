@@ -15,7 +15,7 @@ class TFHubBiEncoderScorer(BiEncoderScorer):
                 self,
                 model_name: str,
                 prompt_template: str,
-                representation_cache_path: str,
+                representation_cache_path: str = None,
                 lowercase: bool = False,
                 ascii_normalization: bool = True,
             ):

@@ -227,6 +227,24 @@ class BenchmarkEvaluator(BaseEvaluator):
         self.method_name = method_name
         self.scorer = scorer
 
+        base_output_path = melo_utils.get_results_dir_path()
+        method_name = melo_utils.simplify_method_name(self.method_name)
+        self.method_output_path = os.path.join(
+            base_output_path,
+            method_name
+        )
+
+        if not os.path.exists(self.method_output_path):
+            os.makedirs(self.method_output_path)
+
+        repr_mapping_cache_path = os.path.join(
+            self.method_output_path,
+            "repr_cache.tsv"
+        )
+        self.scorer.register_representation_cache(
+            repr_mapping_cache_path
+        )
+
         self.dataset_elements = {}
 
         all_surface_forms = set()
@@ -271,7 +289,9 @@ class BenchmarkEvaluator(BaseEvaluator):
             }
 
         all_surface_forms = list(all_surface_forms)
-        self.scorer.pre_compute_embeddings(all_surface_forms)
+        self.scorer.pre_compute_embeddings(
+            all_surface_forms
+        )
 
     def evaluate(self):
         for dataset in self.datasets:
@@ -283,11 +303,8 @@ class BenchmarkEvaluator(BaseEvaluator):
             c_surface_forms = dataset_elements["c_surface_forms"]
             annotations_file_path = dataset_elements["annotations_file_path"]
 
-            base_output_path = melo_utils.get_results_dir_path()
-            method_name = melo_utils.simplify_method_name(self.method_name)
             output_path = os.path.join(
-                base_output_path,
-                method_name,
+                self.method_output_path,
                 dataset_name
             )
 

@@ -1,6 +1,7 @@
 import abc
 import csv
 import os
+import tempfile
 from typing import (
     Dict,
     List
@@ -54,7 +55,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def __init__(
                 self,
                 prompt_template: str,
-                representation_cache_path: str,
+                representation_cache_path: str = None,
                 lowercase: bool = False,
                 ascii_normalization: bool = True,
                 batch_size: int = 32,
@@ -65,6 +66,9 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         self.lowercase = lowercase
         self.ascii_normalization = ascii_normalization
         self.batch_size = batch_size
+
+    def register_representation_cache(self, repr_mapping_cache_path: str):
+        self.repr_mapping_cache_path = repr_mapping_cache_path
 
     def compute_scores(
                 self,
@@ -92,7 +96,9 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         )
 
     def pre_compute_embeddings(self, surface_forms: List[str]):
-        _ = self._compute_representations(surface_forms)
+        n = len(surface_forms)
+        print(f"Pre-computing embeddings for {n} surface forms...")
+        _ = self._build_surface_form_representation_mapping(surface_forms)
 
     @staticmethod
     def _compute_scores_cpu(
@@ -144,6 +150,12 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 self,
                 surface_forms: List[str]
             ) -> Dict[str, NDArray[np.float_]]:
+
+        if self.repr_mapping_cache_path is None:
+            self.repr_mapping_cache_path = os.path.join(
+                tempfile.mkdtemp(),
+                "repr_cache.tsv"
+            )
 
         # Check if the representations mapping cache file already exists
         if os.path.exists(self.repr_mapping_cache_path):
