@@ -73,9 +73,19 @@ melo-benchmark
      ```bash
      pip install -e .
      ```
+
    - To use spaCy lemmatizers, execute the following script
      ```bash
      sh install_spacy_models.sh
+     ```
+   
+   - To reproduce experiments that include OpenAI models, you will need to 
+         create a `.env` file in the root directory of the project. This file 
+         should contain your OpenAI API credentials as environment variables. 
+         The file should be structured as follows (replacing 
+         `<your_openai_api_key>` with your actual API key):
+     ```plaintext
+     OPENAI_API_KEY=<your_openai_api_key>
      ```
 
 
