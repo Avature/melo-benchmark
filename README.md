@@ -132,10 +132,6 @@ Spanish, and French). The dataset is a folder with the following files:
 - **corpus_elements.tsv**: mapping between the corpus element IDs and
         corpus element surface forms.
 - **queries.tsv**: mapping between the query IDs and the query surface forms.
-- **surface_forms.json**: Mapping between query or corpus element IDs with 
-        their corresponding surface form, which may be useful for external 
-        systems computing representations for each dataset element with the 
-        aim of evaluation.
 - **logged_stats.txt**: A log file containing statistics and metadata about 
         the dataset.
 

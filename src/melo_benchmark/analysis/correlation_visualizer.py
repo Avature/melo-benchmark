@@ -342,23 +342,32 @@ class CorrelationVisualizer:
             dataset_name
         )
 
-        surface_form_file = "surface_forms.json"
-        if melo_dataset.crosswalk_name.startswith("esp_"):
-            # For the Spanish crosswalk, use lower-case surface forms
-            surface_form_file = "surface_forms_lower.json"
-
-        surface_forms_file_path = os.path.join(
-            dataset_path,
-            surface_form_file
-        )
-        surface_forms_raw = melo_utils.load_content_from_json_file(
-            surface_forms_file_path
-        )
         surface_forms_mapping = {}
-        for sf_info in surface_forms_raw["data"]:
-            sf_key = sf_info["id"]
-            sf_text = sf_info["job_title"]
-            surface_forms_mapping[sf_key] = sf_text
+
+        queries_file_path = os.path.join(
+            dataset_path,
+            "queries.tsv"
+        )
+        q_mapping = self._unpack_mapping_file(queries_file_path)
+
+        for q_id, q_surface_form in q_mapping.items():
+            if melo_dataset.crosswalk_name.startswith("esp_"):
+                # For the Spanish crosswalk, use lower-case surface forms
+                q_surface_form = q_surface_form.lower()
+            surface_forms_mapping[q_id] = q_surface_form
+
+        corpus_elements_file_path = os.path.join(
+            dataset_path,
+            "corpus_elements.tsv"
+        )
+        c_mapping = self._unpack_mapping_file(corpus_elements_file_path)
+
+        for c_id, c_surface_form in c_mapping.items():
+            assert c_id not in surface_forms_mapping.keys()
+            if melo_dataset.crosswalk_name.startswith("esp_"):
+                # For the Spanish crosswalk, use lower-case surface forms
+                c_surface_form = c_surface_form.lower()
+            surface_forms_mapping[c_id] = c_surface_form
 
         annotations_file_path = os.path.join(
             dataset_path,
@@ -369,6 +378,15 @@ class CorrelationVisualizer:
         )
 
         return surface_forms_mapping, annotations_mapping
+
+    @staticmethod
+    def _unpack_mapping_file(mapping_file_path) -> Dict[str, str]:
+        mapping_ids_to_surface_forms = {}
+        with open(mapping_file_path) as f_in:
+            for line in f_in:
+                item_id, item_surface_form = line.strip().split('\t')
+                mapping_ids_to_surface_forms[item_id] = item_surface_form
+        return mapping_ids_to_surface_forms
 
     @staticmethod
     def _unpack_annotations_file(
