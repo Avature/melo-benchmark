@@ -11,7 +11,6 @@ import unicodedata
 import numpy as np
 from numpy.typing import NDArray
 import scipy
-import tensorflow as tf
 
 from melo_benchmark.utils.lemmatizer import Lemmatizer
 
@@ -76,6 +75,9 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 
+        # Import only when needed
+        import tensorflow as tf
+
         all_surface_forms = list(set(q_surface_forms + c_surface_forms))
 
         sf_repr_mapping = self._build_surface_form_representation_mapping(
@@ -127,6 +129,9 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 c_surface_forms: List[str],
                 embeddings_mapping: Dict[str, NDArray[np.float_]]
             ) -> List[List[float]]:
+
+        # Import only when needed
+        import tensorflow as tf
 
         q_embs = [
             embeddings_mapping[surface_form]

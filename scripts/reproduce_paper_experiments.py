@@ -14,12 +14,6 @@ from melo_benchmark.evaluation.lexical_baseline.tf_idf_baseline import (
     CharTfIdfBaselineScorer,
     WordTfIdfBaselineScorer
 )
-from melo_benchmark.evaluation.semantic_baseline.openai_biencoder import \
-    OpenAiBiEncoderScorer
-from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
-    SentenceTransformersBiEncoderScorer
-from melo_benchmark.evaluation.semantic_baseline.tfhub_biencoder import \
-    TFHubBiEncoderScorer
 from melo_benchmark.evaluation.evaluator import (
     BenchmarkEvaluator,
     Evaluator
@@ -45,6 +39,10 @@ prompt_template = "The candidate's job title is \"{{job_title}}\". " \
 
 
 def build_escoxlm_r_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="jjzha/esco-xlm-roberta-large",
         prompt_template=prompt_template
@@ -52,6 +50,10 @@ def build_escoxlm_r_scorer() -> BiEncoderScorer:
 
 
 def build_muse_cnn_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.tfhub_biencoder import \
+        TFHubBiEncoderScorer
+
     return TFHubBiEncoderScorer(
         model_name="https://tfhub.dev/google/universal-sentence-encoder-multilingual/3",
         prompt_template="{{job_title}}"
@@ -59,6 +61,10 @@ def build_muse_cnn_scorer() -> BiEncoderScorer:
 
 
 def build_paraph_mmpnet_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
         prompt_template=prompt_template
@@ -66,6 +72,10 @@ def build_paraph_mmpnet_scorer() -> BiEncoderScorer:
 
 
 def build_bge_m3_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="BAAI/bge-m3",
         prompt_template=prompt_template
@@ -73,6 +83,10 @@ def build_bge_m3_scorer() -> BiEncoderScorer:
 
 
 def build_gist_embedding_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="avsolatorio/GIST-Embedding-v0",
         prompt_template=prompt_template
@@ -80,6 +94,10 @@ def build_gist_embedding_scorer() -> BiEncoderScorer:
 
 
 def build_me5_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="intfloat/multilingual-e5-large",
         prompt_template=prompt_template
@@ -87,6 +105,10 @@ def build_me5_scorer() -> BiEncoderScorer:
 
 
 def build_e5_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
+        SentenceTransformersBiEncoderScorer
+
     return SentenceTransformersBiEncoderScorer(
         model_name="intfloat/e5-mistral-7b-instruct",
         prompt_template=prompt_template
@@ -94,6 +116,10 @@ def build_e5_scorer() -> BiEncoderScorer:
 
 
 def build_openai_scorer() -> BiEncoderScorer:
+    # Avoid importing this if not needed
+    from melo_benchmark.evaluation.semantic_baseline.openai_biencoder import \
+        OpenAiBiEncoderScorer
+
     return OpenAiBiEncoderScorer(
         model_name="text-embedding-3-large",
         prompt_template=prompt_template
