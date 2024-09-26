@@ -1,8 +1,7 @@
-data/esco_original/*
-!data/esco_original/.gitkeep
-
+data/*
+reports/*
+results/*
 tests/output/*
-!tests/output/.gitkeep
 
 .env
 
