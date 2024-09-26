@@ -243,14 +243,16 @@ def main():
 
     print("\n\n")
 
-    # Lexical baselines
-    for baseline_name in LEXICAL_BASELINES.keys():
-        for dataset in melo_datasets:
-            evaluate_lexical_baseline(baseline_name, dataset)
+    if selected_baselines in ["lexical", "both"]:
+        # Lexical baselines
+        for baseline_name in LEXICAL_BASELINES.keys():
+            for dataset in melo_datasets:
+                evaluate_lexical_baseline(baseline_name, dataset)
 
-    # Semantic baselines
-    for baseline_name in SEMANTIC_BASELINES.keys():
-        evaluate_semantic_baseline(baseline_name, melo_datasets)
+    if selected_baselines in ["semantic", "both"]:
+        # Semantic baselines
+        for baseline_name in SEMANTIC_BASELINES.keys():
+            evaluate_semantic_baseline(baseline_name, melo_datasets)
 
 
 if __name__ == "__main__":
