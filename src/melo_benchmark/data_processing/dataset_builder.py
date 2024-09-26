@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-import json
 import os
 from typing import (
     Dict,
@@ -162,8 +161,8 @@ class DatasetBuilder:
         self.crosswalk_name = crosswalk_name
         self.crosswalk_info = SUPPORTED_CROSSWALKS[self.crosswalk_name]
 
-        crosswalk_loader = CrosswalkLoader(crosswalk_name)
-        self.query_annotations = crosswalk_loader.load()
+        crosswalk_loader = CrosswalkLoader()
+        self.query_annotations = crosswalk_loader.load(crosswalk_name)
 
         esco_version = self.crosswalk_info.corresponding_esco_version
         esco_loader = EscoLoader(esco_version=esco_version)

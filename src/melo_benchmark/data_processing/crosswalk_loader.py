@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from dataclasses import dataclass
 import os
 from typing import (
@@ -9,6 +11,7 @@ import numpy as np
 import pandas as pd
 
 import melo_benchmark.utils.helper as melo_utils
+from melo_benchmark.utils.metaclasses import Singleton
 
 
 @dataclass
@@ -136,30 +139,26 @@ SUPPORTED_RELATION_TYPES = [
 ]
 
 
-class CrosswalkLoader:
+class CrosswalkLoader(metaclass=Singleton):
     """
     A class to load and process crosswalk files mapping a national
     terminology into ESCO.
     """
 
-    def __init__(self, crosswalk_name: str):
-        """
-        Initializes the CrosswalkLoader object with the given crosswalk
-        name.
+    def __init__(self):
+        print("\n\n\nNew instance of CrosswalkLoaderManager\n\n\n")
+        self.loaded_crosswalks: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
-        Args:
-            crosswalk_name (str): The name of the crosswalk to load.
+    def load(self, crosswalk_name: str) -> Dict[str, Dict[str, Any]]:
+        if crosswalk_name in self.loaded_crosswalks:
+            return self.loaded_crosswalks[crosswalk_name]
 
-        Raises:
-            AssertionError: If the given crosswalk name is not
-            supported.
-        """
+        target_crosswalk = self._do_load(crosswalk_name)
+        self.loaded_crosswalks[crosswalk_name] = target_crosswalk
 
-        assert crosswalk_name in SUPPORTED_CROSSWALKS.keys()
-        self.crosswalk_name = crosswalk_name
-        self.crosswalk_info = SUPPORTED_CROSSWALKS[self.crosswalk_name]
+        return target_crosswalk
 
-    def load(self) -> Dict[str, Dict[str, Any]]:
+    def _do_load(self, crosswalk_name: str) -> Dict[str, Dict[str, Any]]:
         """
         Loads the crosswalk data. If a JSON file for the crosswalk
         exists, it loads the data from the file. Otherwise, it
@@ -169,8 +168,11 @@ class CrosswalkLoader:
             dict: A dictionary containing the processed crosswalk data.
         """
 
+        assert crosswalk_name in SUPPORTED_CROSSWALKS.keys()
+        crosswalk_info = SUPPORTED_CROSSWALKS[crosswalk_name]
+
         # Define the path for the JSON file
-        json_file_path = self._get_json_file_path()
+        json_file_path = self._get_json_file_path(crosswalk_name)
 
         # Check if the JSON file already exists
         if os.path.exists(json_file_path):
@@ -178,8 +180,13 @@ class CrosswalkLoader:
             queries = melo_utils.load_content_from_json_file(json_file_path)
         else:
             # Load and process crosswalk
-            df = self._load_orig_crosswalk_file()
-            queries = self._process_crosswalk(df)
+            df = self._load_orig_crosswalk_file(
+                crosswalk_info
+            )
+            queries = self._process_crosswalk(
+                df,
+                crosswalk_info
+            )
 
             # Format the concepts dictionary as a JSON string
             json_string = melo_utils.serialize_as_json(queries)
@@ -192,11 +199,16 @@ class CrosswalkLoader:
 
         return queries
 
-    def _process_crosswalk(self, df: pd.DataFrame) -> Dict[str, Any]:
+    def _process_crosswalk(
+                self,
+                df: pd.DataFrame,
+                crosswalk_info: CrosswalkFileConfig
+            ) -> Dict[str, Any]:
+
         queries = {}
 
         for _, row in df.iterrows():
-            type_of_match = row[self.crosswalk_info.type_of_match_col_name]
+            type_of_match = row[crosswalk_info.type_of_match_col_name]
             type_of_match = type_of_match.strip()
             type_of_match = type_of_match.removeprefix("skos:")
 
@@ -207,9 +219,9 @@ class CrosswalkLoader:
 
             assert type_of_match in SUPPORTED_RELATION_TYPES
 
-            query_id = row[self.crosswalk_info.query_id_col_name]
+            query_id = row[crosswalk_info.query_id_col_name]
             query_id = query_id.strip()
-            query_title = row[self.crosswalk_info.query_surface_form_col_name]
+            query_title = row[crosswalk_info.query_surface_form_col_name]
 
             if not query_title:
                 # Some European terminologies publish relations items
@@ -218,11 +230,11 @@ class CrosswalkLoader:
 
             query_title = query_title.strip()
             query_desc = ""
-            if self.crosswalk_info.query_desc_col_name:
+            if crosswalk_info.query_desc_col_name:
                 # Include query description if available in the crosswalk
-                query_desc = row[self.crosswalk_info.query_desc_col_name]
+                query_desc = row[crosswalk_info.query_desc_col_name]
             query_desc = query_desc.strip()
-            relevant_id = row[self.crosswalk_info.esco_relevant_id_col_name]
+            relevant_id = row[crosswalk_info.esco_relevant_id_col_name]
             if not relevant_id:
                 print(row)
             relevant_id = relevant_id.strip()
@@ -246,12 +258,13 @@ class CrosswalkLoader:
 
         return queries
 
-    def _get_json_file_path(self) -> str:
+    @staticmethod
+    def _get_json_file_path(crosswalk_name: str) -> str:
         ds_base_dir = melo_utils.get_data_raw_crosswalks_std_dir_base_path()
 
         file_dir = os.path.join(
             ds_base_dir,
-            self.crosswalk_name
+            crosswalk_name
         )
         if not os.path.exists(file_dir):
             os.makedirs(file_dir)
@@ -278,15 +291,19 @@ class CrosswalkLoader:
 
                 f_out.write(clean_line + "\n")
 
-    def _load_orig_crosswalk_file(self) -> pd.DataFrame:
+    def _load_orig_crosswalk_file(
+                self,
+                crosswalk_info: CrosswalkFileConfig
+            ) -> pd.DataFrame:
+
         base_dir_path = melo_utils.get_data_raw_crosswalks_orig_dir_base_path()
         crosswalk_file_path = os.path.join(
             base_dir_path,
-            self.crosswalk_info.group_name,
-            self.crosswalk_info.file_name
+            crosswalk_info.group_name,
+            crosswalk_info.file_name
         )
 
-        if self.crosswalk_info.should_clean_csv_file:
+        if crosswalk_info.should_clean_csv_file:
             # This is needed for the Latvian national terminology file
             clean_crosswalk_file_path = crosswalk_file_path[:-4] + ".CLEAN.csv"
             if os.path.exists(clean_crosswalk_file_path):
@@ -302,8 +319,8 @@ class CrosswalkLoader:
 
         df = pd.read_csv(
             crosswalk_file_path,
-            skiprows=self.crosswalk_info.num_header_rows,
-            skipfooter=self.crosswalk_info.num_footer_rows,
+            skiprows=crosswalk_info.num_header_rows,
+            skipfooter=crosswalk_info.num_footer_rows,
             encoding="utf_8",
             dtype=str
         )
