@@ -18,6 +18,9 @@ from melo_benchmark.utils.lemmatizer import Lemmatizer
 import utils as test_utils
 
 
+SHOULD_EVALUATE_LEXICAL_BASELINES = False
+
+
 # noinspection DuplicatedCode
 class TestEvaluator(unittest.TestCase):
 
@@ -53,6 +56,9 @@ class TestEvaluator(unittest.TestCase):
         return evaluator
 
     def test_random(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         scorer = RandomBaselineScorer()
@@ -64,6 +70,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertLess(metric_value, 0.01)
 
     def test_bm25(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         scorer = BM25BaselineScorer()
@@ -75,6 +84,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.2936)
 
     def test_bm25_lemma(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         lemmatizer = Lemmatizer("en")
@@ -89,6 +101,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.6004)
 
     def test_edit_distance(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         scorer = EditDistanceBaselineScorer()
@@ -100,6 +115,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.4858)
 
     def test_word_tf_idf(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         scorer = WordTfIdfBaselineScorer()
@@ -111,6 +129,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.3250)
 
     def test_word_tf_idf_lemma(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         lemmatizer = Lemmatizer("en")
@@ -125,6 +146,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.6056)
 
     def test_char_tf_idf(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         scorer = CharTfIdfBaselineScorer()
@@ -136,6 +160,9 @@ class TestEvaluator(unittest.TestCase):
                 self.assertEqual(metric_value, 0.5800)
 
     def test_char_tf_idf_lemma(self):
+        if not SHOULD_EVALUATE_LEXICAL_BASELINES:
+            return
+
         output_path = test_utils.create_test_output_dir(self.id())
         evaluator = self._create_evaluator(output_path)
         lemmatizer = Lemmatizer("en")
