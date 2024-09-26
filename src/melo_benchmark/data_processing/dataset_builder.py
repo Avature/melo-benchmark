@@ -152,7 +152,6 @@ class DatasetBuilder:
     FILE_NAME_QUERIES = "queries.tsv"
     FILE_NAME_CORPUS_ELEMENTS = "corpus_elements.tsv"
     FILE_NAME_ANNOTATIONS = "annotations.tsv"
-    FILE_NAME_SURFACE_FORMS = "surface_forms.json"
 
     def __init__(self, crosswalk_name: str):
         self.crosswalk_name = crosswalk_name
@@ -322,26 +321,6 @@ class DatasetBuilder:
         self.logged_stats["n_corpus_elements"] = sum(
             [len(x) for x in c_id_key_mapping.values()]
         )
-
-        surface_form_list_file_path = os.path.join(
-            output_path,
-            self.FILE_NAME_SURFACE_FORMS
-        )
-
-        new_dataset_elements = []
-
-        for jt_key, jt_value in jt_key_sf_mapping.items():
-            new_ds_element = {
-                "id": jt_key,
-                "job_title": jt_value,
-            }
-            new_dataset_elements.append(new_ds_element)
-
-        with open(surface_form_list_file_path, "w", encoding='utf-8') as f_out:
-            new_dataset = {
-                "data": new_dataset_elements
-            }
-            json.dump(new_dataset, f_out, ensure_ascii=False, indent=4)
 
     def _decide_best_matches(self, matches: Dict[str, str]) -> List[str]:
         best_priority = float('inf')
