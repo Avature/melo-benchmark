@@ -9,6 +9,7 @@ from typing import (
 import numpy as np
 import pandas as pd
 
+from melo_benchmark.utils.metaclasses import Singleton
 import melo_benchmark.utils.helper as melo_utils
 
 
@@ -56,27 +57,24 @@ SUPPORTED_ESCO_VERSIONS = [
 ]
 
 
-class EscoLoader:
+class EscoLoader(metaclass=Singleton):
     """
     A class to load and process ESCO data.
     """
 
-    def __init__(self, esco_version: str):
-        """
-        Initializes the EscoLoader with a specific ESCO version.
+    def __init__(self):
+        self.loaded_esco_versions: Dict[str, Dict[str, Any]] = {}
 
-        Args:
-            esco_version (str): The ESCO version to be used.
+    def load(self, esco_version: str) -> Dict[str, Any]:
+        if esco_version in self.loaded_esco_versions:
+            return self.loaded_esco_versions[esco_version]
 
-        Raises:
-            AssertionError: If the provided ESCO version is not
-            supported.
-        """
+        target_esco_version = self._do_load(esco_version)
+        self.loaded_esco_versions[esco_version] = target_esco_version
 
-        assert esco_version in SUPPORTED_ESCO_VERSIONS
-        self.esco_version = esco_version
+        return target_esco_version
 
-    def load(self) -> Dict[str, Any]:
+    def _do_load(self, esco_version: str) -> Dict[str, Any]:
         """
         Loads and processes ESCO data, then saves it to a JSON file if
         not already present.
@@ -85,8 +83,12 @@ class EscoLoader:
             Dict[str, Any]: The ESCO data as a dictionary.
         """
 
+        assert esco_version in SUPPORTED_ESCO_VERSIONS
+
         # Define the path for the JSON file
-        json_file_path = self._get_json_file_path()
+        json_file_path = self._get_json_file_path(
+            esco_version
+        )
 
         # Check if the JSON file already exists
         if os.path.exists(json_file_path):
@@ -94,8 +96,8 @@ class EscoLoader:
             concepts = melo_utils.load_content_from_json_file(json_file_path)
         else:
             # Load and process categories and occupations
-            concepts = self._get_all_categories()
-            concepts = self._add_all_occupations(concepts)
+            concepts = self._get_all_categories(esco_version)
+            concepts = self._add_all_occupations(esco_version, concepts)
 
             # Format the concepts dictionary as a JSON string
             json_string = melo_utils.serialize_as_json(concepts)
@@ -108,16 +110,20 @@ class EscoLoader:
 
         return concepts
 
-    def _get_all_categories(self):
-        categories = self._initialize_categories()
+    def _get_all_categories(self, esco_version: str):
+        categories = self._initialize_categories(esco_version)
 
         for language in SUPPORTED_ESCO_LANGUAGES:
-            self._process_categories_for_language(language, categories)
+            self._process_categories_for_language(
+                esco_version,
+                language,
+                categories
+            )
 
         return categories
 
-    def _initialize_categories(self) -> Dict[str, Any]:
-        df = self._load_categories_dataset("en")
+    def _initialize_categories(self, esco_version: str) -> Dict[str, Any]:
+        df = self._load_categories_dataset(esco_version, "en")
         categories = {}
 
         for _, row in df.iterrows():
@@ -133,11 +139,12 @@ class EscoLoader:
 
     def _process_categories_for_language(
                 self,
+                esco_version: str,
                 language: str,
                 categories: Dict[str, Dict[str, Any]]
             ) -> None:
 
-        df = self._load_categories_dataset(language)
+        df = self._load_categories_dataset(esco_version, language)
         category_ids: Set[str] = set()
 
         for _, row in df.iterrows():
@@ -172,24 +179,43 @@ class EscoLoader:
             if description:
                 categories[cat_id]["description"][language] = description
 
-    def _load_categories_dataset(self, language: str) -> pd.DataFrame:
-        file_name = f"ISCOGroups_{language}.csv"
-        return self._load_dataset(language, file_name)
+    def _load_categories_dataset(
+                self,
+                esco_version: str,
+                language: str
+            ) -> pd.DataFrame:
 
-    def _add_all_occupations(self, concepts: Dict[str, Any]):
-        concepts = self._initialize_occupations(concepts)
+        file_name = f"ISCOGroups_{language}.csv"
+        return self._load_dataset(
+            esco_version,
+            language,
+            file_name
+        )
+
+    def _add_all_occupations(
+                self,
+                esco_version: str,
+                concepts: Dict[str, Any]
+            ):
+
+        concepts = self._initialize_occupations(esco_version, concepts)
 
         for language in SUPPORTED_ESCO_LANGUAGES:
-            self._process_occupations_for_language(language, concepts)
+            self._process_occupations_for_language(
+                esco_version,
+                language,
+                concepts
+            )
 
         return concepts
 
     def _initialize_occupations(
                 self,
+                esco_version: str,
                 concepts: Dict[str, Any]
             ) -> Dict[str, Any]:
 
-        df = self._load_occupations_dataset("en")
+        df = self._load_occupations_dataset(esco_version, "en")
 
         for _, row in df.iterrows():
             c_id = row["conceptUri"]
@@ -205,11 +231,12 @@ class EscoLoader:
 
     def _process_occupations_for_language(
                 self,
+                esco_version: str,
                 language: str,
                 concepts: Dict[str, Dict[str, Any]]
             ) -> None:
 
-        df = self._load_occupations_dataset(language)
+        df = self._load_occupations_dataset(esco_version, language)
         occup_ids: Set[str] = set()
 
         for _, row in df.iterrows():
@@ -251,9 +278,14 @@ class EscoLoader:
             if description:
                 concepts[c_id]["description"][language] = description
 
-    def _load_occupations_dataset(self, language: str) -> pd.DataFrame:
+    def _load_occupations_dataset(
+                self,
+                esco_version: str,
+                language: str
+            ) -> pd.DataFrame:
+
         file_name = f"occupations_{language}.csv"
-        return self._load_dataset(language, file_name)
+        return self._load_dataset(esco_version, language, file_name)
 
     @staticmethod
     def _clean_name(s: str) -> str:
@@ -278,12 +310,13 @@ class EscoLoader:
         }
         return alt_labels_clean
 
-    def _get_json_file_path(self) -> str:
+    @staticmethod
+    def _get_json_file_path(esco_version: str) -> str:
         ds_base_dir = melo_utils.get_data_raw_esco_standard_dir_base_path()
 
         file_dir = os.path.join(
             ds_base_dir,
-            self.esco_version
+            esco_version
         )
         if not os.path.exists(file_dir):
             os.makedirs(file_dir)
@@ -296,9 +329,15 @@ class EscoLoader:
 
         return json_file_path
 
-    def _load_dataset(self, language: str, file_name: str) -> pd.DataFrame:
+    @staticmethod
+    def _load_dataset(
+                esco_version: str,
+                language: str,
+                file_name: str
+            ) -> pd.DataFrame:
+
         ds_base_dir = melo_utils.get_esco_original_dataset_path(
-            self.esco_version,
+            esco_version,
             language
         )
         file_path = os.path.join(

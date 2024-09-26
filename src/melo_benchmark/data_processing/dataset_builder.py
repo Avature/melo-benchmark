@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 import os
 from typing import (
+    Any,
     Dict,
     List,
     Set
@@ -161,12 +162,7 @@ class DatasetBuilder:
         self.crosswalk_name = crosswalk_name
         self.crosswalk_info = SUPPORTED_CROSSWALKS[self.crosswalk_name]
 
-        crosswalk_loader = CrosswalkLoader()
-        self.query_annotations = crosswalk_loader.load(crosswalk_name)
-
-        esco_version = self.crosswalk_info.corresponding_esco_version
-        esco_loader = EscoLoader(esco_version=esco_version)
-        self.corpus = esco_loader.load()
+        self.esco_version = self.crosswalk_info.corresponding_esco_version
 
         self.logged_stats = {}
 
@@ -176,8 +172,14 @@ class DatasetBuilder:
 
         output_path = self._compute_output_path(target_languages)
 
-        processed_query_annotations = self._process_annotations()
+        esco_loader = EscoLoader()
+        corpus = esco_loader.load(self.esco_version)
+
+        processed_query_annotations = self._process_annotations(
+            corpus
+        )
         self._create_dataset_files(
+            corpus,
             processed_query_annotations,
             target_languages,
             output_path
@@ -187,14 +189,32 @@ class DatasetBuilder:
 
         return output_path
 
-    def _process_annotations(self) -> List[Dict[str, str]]:
+    def compute_dataset_name(self, target_languages: Set[str]) -> str:
+        crosswalk_name_parts = self.crosswalk_name.split("_")
+        assert len(crosswalk_name_parts) == 2
+        country, source_lang = crosswalk_name_parts
+
+        target_langs = "_".join(sorted(target_languages))
+
+        dataset_name = f"{country}_q_{source_lang}_c_{target_langs}"
+
+        return dataset_name
+
+    def _process_annotations(
+                self,
+                corpus: Dict[str, Any]
+            ) -> List[Dict[str, str]]:
+
         n_inc_queries = 0
         n_rej_queries_too_many = 0
         n_rej_queries_too_few = 0
 
         processed_query_annotations = []
 
-        for query_id, query_info in self.query_annotations.items():
+        crosswalk_loader = CrosswalkLoader()
+        query_annotations = crosswalk_loader.load(self.crosswalk_name)
+
+        for query_id, query_info in query_annotations.items():
             query_surface_form = query_info["title"]
             matches = query_info["matches"]
             best_matches = self._decide_best_matches(matches)
@@ -216,7 +236,7 @@ class DatasetBuilder:
             relevant_element = best_matches[0]
 
             if self.crosswalk_name == "swe_sv" and \
-                    relevant_element not in self.corpus.keys():
+                    relevant_element not in corpus.keys():
                 # Swedish crosswalk includes an invalid (old) ESCO ID
                 invalid_uri = "a9e54177-a185-404d-b6e6-15663d31137e"
                 assert relevant_element.endswith(invalid_uri)
@@ -238,6 +258,7 @@ class DatasetBuilder:
 
     def _create_dataset_files(
                 self,
+                corpus: Dict[str, Any],
                 query_annotations: List[Dict[str, str]],
                 target_languages: Set[str],
                 output_path: str
@@ -273,7 +294,7 @@ class DatasetBuilder:
         # Create file with list of corpus elements
         with open(corpus_file_path, "w") as f_out:
             i = 0
-            for esco_id, node_info in self.corpus.items():
+            for esco_id, node_info in corpus.items():
                 i += 1
                 c_id_key_mapping[esco_id] = set()
                 standard_names = node_info["std_name"]
@@ -387,17 +408,6 @@ class DatasetBuilder:
             if target_language not in SUPPORTED_ESCO_LANGUAGES:
                 m = f"Target language `{target_language}` not supported"
                 raise ValueError(m)
-
-    def compute_dataset_name(self, target_languages: Set[str]) -> str:
-        crosswalk_name_parts = self.crosswalk_name.split("_")
-        assert len(crosswalk_name_parts) == 2
-        country, source_lang = crosswalk_name_parts
-
-        target_langs = "_".join(sorted(target_languages))
-
-        dataset_name = f"{country}_q_{source_lang}_c_{target_langs}"
-
-        return dataset_name
 
     def _compute_output_path(self, target_languages: Set[str]) -> str:
         implicit_sets = [

@@ -8,8 +8,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_0_3(self):
         version = "1.0.3"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"
@@ -33,8 +33,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_0_8(self):
         version = "1.0.8"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"
@@ -58,8 +58,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_0_9(self):
         version = "1.0.9"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"
@@ -83,8 +83,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_1_0(self):
         version = "1.1.0"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"
@@ -108,8 +108,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_1_1(self):
         version = "1.1.1"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"
@@ -133,8 +133,8 @@ class TestEscoLoader(unittest.TestCase):
 
     def test_load_1_2_0(self):
         version = "1.2.0"
-        esco_loader = EscoLoader(esco_version=version)
-        concepts = esco_loader.load()
+        esco_loader = EscoLoader()
+        concepts = esco_loader.load(version)
 
         c_number = "ab7bccb2-6f81-4a3d-a0c0-fca5d47d2775"
         c_id = f"http://data.europa.eu/esco/occupation/{c_number}"

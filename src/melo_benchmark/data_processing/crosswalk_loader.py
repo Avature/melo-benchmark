@@ -146,7 +146,6 @@ class CrosswalkLoader(metaclass=Singleton):
     """
 
     def __init__(self):
-        print("\n\n\nNew instance of CrosswalkLoaderManager\n\n\n")
         self.loaded_crosswalks: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
     def load(self, crosswalk_name: str) -> Dict[str, Dict[str, Any]]:
