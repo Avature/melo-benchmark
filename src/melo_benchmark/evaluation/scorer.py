@@ -22,6 +22,8 @@ except ImportError:
 try:
     # noinspection PyUnresolvedReferences
     import torch
+    # noinspection PyUnresolvedReferences
+    import torch.nn.functional as F
     torch_is_installed = True
 except ImportError:
     pass
@@ -151,7 +153,28 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         assert torch_is_installed
 
-        raise NotImplementedError("Not implemented yet.")
+        q_embs = [
+            embeddings_mapping[surface_form]
+            for surface_form in q_surface_forms
+        ]
+
+        c_embs = [
+            embeddings_mapping[surface_form]
+            for surface_form in c_surface_forms
+        ]
+
+        # Convert into tensors
+        c_embs_pt = torch.tensor(c_embs, dtype=torch.float32)
+        q_embs_pt = torch.tensor(q_embs, dtype=torch.float32)
+
+        # Normalize the embeddings
+        c_embs_norm = F.normalize(c_embs_pt, p=2, dim=1)
+        q_embs_norm = F.normalize(q_embs_pt, p=2, dim=1)
+
+        # Compute the cosine similarity scores using matrix multiplication
+        scores_all = torch.matmul(q_embs_norm, c_embs_norm.t())
+
+        return scores_all.tolist()
 
     @staticmethod
     def _compute_scores_gpu_tf(
@@ -172,10 +195,15 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             for surface_form in c_surface_forms
         ]
 
+        # Convert into tensors
         c_embs_tf = tf.convert_to_tensor(np.array(c_embs), dtype=tf.float32)
-        c_embs_norm = tf.nn.l2_normalize(c_embs_tf, axis=1)
         q_embs_tf = tf.convert_to_tensor(np.array(q_embs), dtype=tf.float32)
+
+        # Normalize the embeddings
+        c_embs_norm = tf.nn.l2_normalize(c_embs_tf, axis=1)
         q_embs_norm = tf.nn.l2_normalize(q_embs_tf, axis=1)
+
+        # Compute the cosine similarity scores using matrix multiplication
         scores_all = tf.matmul(q_embs_norm, c_embs_norm, transpose_b=True)
 
         return scores_all.numpy().tolist()

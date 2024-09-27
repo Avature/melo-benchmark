@@ -74,6 +74,8 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
             # Ignore this test if PyTorch is not installed
             return
 
+        print("\n\nTesting Sentence Transformer BiEncoder...\n\n")
+
         from melo_benchmark.evaluation.semantic_baseline \
             .stransf_biencoder import SentenceTransformersBiEncoderScorer
 
@@ -107,6 +109,8 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
         except ImportError:
             # Ignore this test if TensorFlow is not installed
             return
+
+        print("\n\nTesting TF Hub BiEncoder...\n\n")
 
         from melo_benchmark.evaluation.semantic_baseline \
             .tfhub_biencoder import TFHubBiEncoderScorer
