@@ -69,7 +69,7 @@ melo-benchmark
    source venv/bin/activate
    ```
 
-3. **Basic Installation**: To install the project with default settings 
+3. **Install project**: To install the project with default settings 
          (excluding `torch` and `tensorflow`), run:
      ```bash
      pip install -e .
