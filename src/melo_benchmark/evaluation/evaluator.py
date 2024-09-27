@@ -218,7 +218,8 @@ class BenchmarkEvaluator(BaseEvaluator):
                 datasets: List[MeloDatasetConfig],
                 method_name: str,
                 scorer: BiEncoderScorer,
-                max_relevant_to_consider: int = 100
+                max_relevant_to_consider: int = 100,
+                clean_problematic_cases: bool = True
             ):
 
         super().__init__(max_relevant_to_consider)
@@ -264,6 +265,11 @@ class BenchmarkEvaluator(BaseEvaluator):
             q_ids, q_surface_forms = self._unpack_mapping(
                 queries_file_path
             )
+            if clean_problematic_cases and dataset.crosswalk_name == "esp_es":
+                # Lower-case surface forms for the Spanish terminology
+                q_surface_forms = [
+                    sf.lower() for sf in q_surface_forms
+                ]
             all_surface_forms.update(q_surface_forms)
 
             corpus_elements_file_path = os.path.join(
