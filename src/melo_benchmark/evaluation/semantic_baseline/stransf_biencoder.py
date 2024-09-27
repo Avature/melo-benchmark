@@ -43,7 +43,8 @@ class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
                 batch,
                 convert_to_tensor=True,
                 normalize_embeddings=True,
-                show_progress_bar=False
+                show_progress_bar=False,
+                batch_size=self.batch_size
             )
 
             for embedding in batch_embeddings:

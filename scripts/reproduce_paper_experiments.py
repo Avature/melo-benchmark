@@ -226,7 +226,7 @@ def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
     try:
         # noinspection PyUnresolvedReferences
         import tensorflow as tf
-        gpus = tf.config.list_physical_devices('GPU')
+        gpus = tf.config.list_physical_devices("GPU")
         if gpus:
             logger.info("CUDA is available for TensorFlow.")
             logger.info(f"GPUs available: {len(gpus)}")
@@ -244,7 +244,7 @@ def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
         if torch.cuda.is_available():
             logger.info("CUDA is available for PyTorch.")
             logger.info(f"GPUs available: {torch.cuda.device_count()}")
-            logger.info("GPU name:", torch.cuda.get_device_name(0))
+            logger.info(f"GPU name: {torch.cuda.get_device_name(0)}")
             torch_gpu = True
         else:
             logger.warning("No GPUs are available for PyTorch.")

@@ -172,8 +172,8 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         ]
 
         # Convert into tensors
-        c_embs_pt = torch.tensor(c_embs, dtype=torch.float32)
-        q_embs_pt = torch.tensor(q_embs, dtype=torch.float32)
+        c_embs_pt = torch.tensor(c_embs, dtype=torch.float32).to("cuda")
+        q_embs_pt = torch.tensor(q_embs, dtype=torch.float32).to("cuda")
 
         # Normalize the embeddings
         c_embs_norm = F.normalize(c_embs_pt, p=2, dim=1)
@@ -182,7 +182,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         # Compute the cosine similarity scores using matrix multiplication
         scores_all = torch.matmul(q_embs_norm, c_embs_norm.t())
 
-        return scores_all.tolist()
+        return scores_all.cpu().tolist()
 
     @staticmethod
     def _compute_scores_gpu_tf(
@@ -233,6 +233,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             sf_repr_mapping = self._load_mapping_from_cache_file(
                 surface_forms
             )
+            logger.info(f"Representations loaded...")
         else:
             # Load and process categories and occupations
             sf_repr_mapping = self._compute_representations(
