@@ -28,18 +28,19 @@ class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
         )
 
         self.model_name = model_name
-        self.model = SentenceTransformer(model_name)
 
     def _compute_embeddings(
                 self,
                 rendered_prompts: List[str]
             ) -> List[List[float]]:
 
+        model = SentenceTransformer(self.model_name)
+
         results = []
         for i in range(0, len(rendered_prompts), self.batch_size):
             batch = rendered_prompts[i:i + self.batch_size]
 
-            batch_embeddings = self.model.encode(
+            batch_embeddings = model.encode(
                 batch,
                 convert_to_tensor=True,
                 normalize_embeddings=True,

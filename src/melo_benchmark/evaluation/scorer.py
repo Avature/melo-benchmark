@@ -127,7 +127,6 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         )
 
     def pre_compute_embeddings(self, surface_forms: List[str]):
-        n = len(surface_forms)
         _ = self._build_surface_form_representation_mapping(surface_forms)
 
     @staticmethod
