@@ -12,6 +12,7 @@ import numpy as np
 from numpy.typing import NDArray
 import scipy
 
+tf_is_installed = False
 try:
     # noinspection PyUnresolvedReferences
     import tensorflow as tf
@@ -19,6 +20,7 @@ try:
 except ImportError:
     pass
 
+torch_is_installed = False
 try:
     # noinspection PyUnresolvedReferences
     import torch
