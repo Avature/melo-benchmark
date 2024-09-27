@@ -198,7 +198,7 @@ integrate with the evaluation scripts.
 To reproduce the experiments described in the paper, use the following command:
 
 ```bash
-python reproduce_paper_experiments.py
+python scripts/reproduce_paper_experiments.py
 ```
 
 Make sure to have the processed datasets in the `data/processed/` directory.

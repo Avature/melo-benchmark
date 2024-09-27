@@ -66,4 +66,6 @@ if __name__ == "__main__":
 
     dataset_builder = DatasetBuilder(source_taxonomy)
 
-    dataset_builder.build(target_languages)
+    output_path = dataset_builder.build(target_languages)
+
+    print(f"\nThe new dataset was created:\n{output_path}\n")

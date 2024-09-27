@@ -2,19 +2,14 @@ import matplotlib.pyplot as plt
 import os
 from typing import (
     Dict,
-    List,
-    Tuple
+    List
 )
-import unicodedata
 
 import pandas as pd
-from rapidfuzz import fuzz
 import seaborn as sns
 
-from melo_benchmark.data_processing.official_dataset_helper import (
-    MeloDatasetConfig,
+from melo_benchmark.data_processing.official_dataset_helper import \
     OfficialDatasetHelper
-)
 from melo_benchmark.evaluation.metrics import TrecMetric
 import melo_benchmark.utils.helper as melo_utils
 
