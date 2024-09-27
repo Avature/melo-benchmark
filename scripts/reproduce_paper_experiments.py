@@ -1,6 +1,9 @@
 import argparse
 import os
-from typing import List
+from typing import (
+    List,
+    Tuple
+)
 
 from melo_benchmark.data_processing.official_dataset_helper import (
     MeloDatasetConfig,
@@ -36,6 +39,9 @@ LEXICAL_BASELINES = {
 
 prompt_template = "The candidate's job title is \"{{job_title}}\". " \
                   + "What skills are likely required for this job?"
+
+
+SEMANTIC_BASELINES = {}
 
 
 def build_escoxlm_r_scorer() -> BiEncoderScorer:
@@ -126,18 +132,6 @@ def build_openai_scorer() -> BiEncoderScorer:
     )
 
 
-SEMANTIC_BASELINES = {
-    "ESCOXLM-R": build_escoxlm_r_scorer,
-    "mUSE-CNN": build_muse_cnn_scorer,
-    "Paraph-mMPNet": build_paraph_mmpnet_scorer,
-    "BGE-M3": build_bge_m3_scorer,
-    "GIST-Embedding": build_gist_embedding_scorer,
-    "mE5": build_me5_scorer,
-    "E5": build_e5_scorer,
-    "OpenAI": build_openai_scorer,
-}
-
-
 def evaluate_lexical_baseline(baseline_name: str, dataset: MeloDatasetConfig):
     dataset_name = dataset.dataset_name
     print(f"Evaluating baseline {baseline_name} on {dataset_name}...")
@@ -217,33 +211,61 @@ def evaluate_semantic_baseline(
     evaluator.evaluate()
 
 
-def message_gpu_availability():
-    print("\n\n")
-
-    # Lazy imports
-    import tensorflow as tf
-    import torch
-
-    gpus = tf.config.list_physical_devices('GPU')
-    if gpus:
-        print("CUDA is available for TensorFlow.")
-        print(f"GPUs available: {len(gpus)}")
-        for i, gpu in enumerate(gpus):
-            print(f"GPU {i} name: {gpu.name}")
-    else:
-        print("No GPUs are available for TensorFlow.")
+def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
+    tf_gpu = False
+    torch_gpu = False
 
     print("\n\n")
 
-    if torch.cuda.is_available():
-        print("CUDA is available for PyTorch.")
-        print(f"GPUs available: {torch.cuda.device_count()}")
+    try:
+        # noinspection PyUnresolvedReferences
+        import tensorflow as tf
+        gpus = tf.config.list_physical_devices('GPU')
+        if gpus:
+            print("CUDA is available for TensorFlow.")
+            print(f"GPUs available: {len(gpus)}")
+            for i, gpu in enumerate(gpus):
+                print(f"GPU {i} name: {gpu.name}")
+            tf_gpu = True
+        else:
+            print("No GPUs are available for TensorFlow.")
+    except ImportError:
+        pass
+
+    try:
+        # noinspection PyUnresolvedReferences
+        import torch
         if torch.cuda.is_available():
+            print("CUDA is available for PyTorch.")
+            print(f"GPUs available: {torch.cuda.device_count()}")
             print("GPU name:", torch.cuda.get_device_name(0))
-    else:
-        print("No GPUs are available for PyTorch.")
+            torch_gpu = True
+        else:
+            print("No GPUs are available for PyTorch.")
+    except ImportError:
+        pass
 
     print("\n\n")
+
+    return tf_gpu, torch_gpu
+
+
+def register_semantic_baselines(tf_with_gpu, torch_with_gpu):
+
+    if torch_with_gpu:
+        SEMANTIC_BASELINES["ESCOXLM-R"] = build_escoxlm_r_scorer
+
+    if tf_with_gpu:
+        SEMANTIC_BASELINES["mUSE-CNN"] = build_muse_cnn_scorer
+
+    if torch_with_gpu:
+        SEMANTIC_BASELINES["Paraph-mMPNet"] = build_paraph_mmpnet_scorer
+        SEMANTIC_BASELINES["BGE-M3"] = build_bge_m3_scorer
+        SEMANTIC_BASELINES["GIST-Embedding"] = build_gist_embedding_scorer
+        SEMANTIC_BASELINES["mE5"] = build_me5_scorer
+        SEMANTIC_BASELINES["E5"] = build_e5_scorer
+
+    SEMANTIC_BASELINES["OpenAI"] = build_openai_scorer
 
 
 def main():
@@ -279,9 +301,12 @@ def main():
                 evaluate_lexical_baseline(baseline_name, dataset)
 
     if selected_baselines in ["semantic", "both"]:
-        message_gpu_availability()
-
         # Semantic baselines
+        tf_gpu, torch_gpu = check_dl_frameworks_and_gpu_availability()
+
+        # Execute locally-hosted DL models only if GPU is available for them
+        register_semantic_baselines(tf_gpu, torch_gpu)
+
         for baseline_name in SEMANTIC_BASELINES.keys():
             evaluate_semantic_baseline(baseline_name, melo_datasets)
 

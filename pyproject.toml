@@ -33,17 +33,24 @@ dependencies = [
     "scikit-learn==1.5.2",
     "scipy>=1.14.1",
     "seaborn>=0.13.2",
-    "sentence-transformers>=2.7.0",
-    "sentencepiece==0.1.96",
-    "spacy>=3.7.5",
-    "tensorflow>=2.17.0",
-    "tensorflow-addons>=0.23.0",
-    "tensorflow-hub>=0.16.1",
-    "tensorflow-text>=2.17.0",
+    "spacy>=3.7.5"
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
+]
+
+[project.optional-dependencies]
+default = [
+    "sentence-transformers>=2.7.0"
+]
+
+with-tf = [
+    "sentencepiece==0.1.96",
+    "tensorflow[and-cuda]>=2.17.0",
+    "tensorflow-addons>=0.23.0",
+    "tensorflow-hub>=0.16.1",
+    "tensorflow-text>=2.17.0"
 ]
 
 [project.urls]

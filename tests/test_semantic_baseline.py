@@ -3,10 +3,6 @@ import unittest
 
 from melo_benchmark.evaluation.semantic_baseline.openai_biencoder import \
     OpenAiBiEncoderScorer
-from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
-    SentenceTransformersBiEncoderScorer
-from melo_benchmark.evaluation.semantic_baseline.tfhub_biencoder import \
-    TFHubBiEncoderScorer
 from melo_benchmark.evaluation.evaluator import Evaluator
 
 import utils as test_utils
@@ -71,6 +67,16 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
                 self.assertGreater(metric_value, 0.5)
 
     def test_sentence_transformers_biencoder(self):
+        try:
+            # noinspection PyUnresolvedReferences
+            import torch
+        except ImportError:
+            # Ignore this test if PyTorch is not installed
+            return
+
+        from melo_benchmark.evaluation.semantic_baseline \
+            .stransf_biencoder import SentenceTransformersBiEncoderScorer
+
         output_path = test_utils.create_test_output_dir(self.id())
         representation_cache_path = os.path.join(
             output_path,
@@ -95,6 +101,16 @@ class TestSemanticBaselineEvaluator(unittest.TestCase):
                 self.assertGreater(metric_value, 0.5)
 
     def test_tfhub_biencoder(self):
+        try:
+            # noinspection PyUnresolvedReferences
+            import tensorflow as tf
+        except ImportError:
+            # Ignore this test if TensorFlow is not installed
+            return
+
+        from melo_benchmark.evaluation.semantic_baseline \
+            .tfhub_biencoder import TFHubBiEncoderScorer
+
         output_path = test_utils.create_test_output_dir(self.id())
         representation_cache_path = os.path.join(
             output_path,

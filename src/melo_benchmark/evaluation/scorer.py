@@ -12,6 +12,20 @@ import numpy as np
 from numpy.typing import NDArray
 import scipy
 
+try:
+    # noinspection PyUnresolvedReferences
+    import tensorflow as tf
+    tf_is_installed = True
+except ImportError:
+    pass
+
+try:
+    # noinspection PyUnresolvedReferences
+    import torch
+    torch_is_installed = True
+except ImportError:
+    pass
+
 from melo_benchmark.utils.lemmatizer import Lemmatizer
 
 
@@ -75,22 +89,27 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 c_surface_forms: List[str]
             ) -> List[List[float]]:
 
-        # Import only when needed
-        import tensorflow as tf
-
         all_surface_forms = list(set(q_surface_forms + c_surface_forms))
 
         sf_repr_mapping = self._build_surface_form_representation_mapping(
             all_surface_forms
         )
 
-        if len(tf.config.list_physical_devices('GPU')) > 0:
-            return self._compute_scores_gpu(
+        if tf_is_installed and len(tf.config.list_physical_devices('GPU')) > 0:
+            return self._compute_scores_gpu_tf(
                 q_surface_forms,
                 c_surface_forms,
                 sf_repr_mapping
             )
 
+        if torch_is_installed and torch.cuda.is_available():
+            return self._compute_scores_gpu_torch(
+                q_surface_forms,
+                c_surface_forms,
+                sf_repr_mapping
+            )
+
+        # Fallback to computing scores with CPU
         return self._compute_scores_cpu(
             q_surface_forms,
             c_surface_forms,
@@ -124,14 +143,24 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
         return scores
 
     @staticmethod
-    def _compute_scores_gpu(
+    def _compute_scores_gpu_torch(
                 q_surface_forms: List[str],
                 c_surface_forms: List[str],
                 embeddings_mapping: Dict[str, NDArray[np.float_]]
             ) -> List[List[float]]:
 
-        # Import only when needed
-        import tensorflow as tf
+        assert torch_is_installed
+
+        raise NotImplementedError("Not implemented yet.")
+
+    @staticmethod
+    def _compute_scores_gpu_tf(
+                q_surface_forms: List[str],
+                c_surface_forms: List[str],
+                embeddings_mapping: Dict[str, NDArray[np.float_]]
+            ) -> List[List[float]]:
+
+        assert tf_is_installed
 
         q_embs = [
             embeddings_mapping[surface_form]
