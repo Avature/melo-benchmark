@@ -28,3 +28,8 @@ def setup_logging(level=logging.INFO):
         console_handler.setFormatter(CustomFormatter())
 
         logger.addHandler(console_handler)
+
+        # Suppress lower-level logs from external libraries
+        external_libraries = ['matplotlib']
+        for lib in external_libraries:
+            logging.getLogger(lib).setLevel(logging.WARNING)
