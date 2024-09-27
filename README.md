@@ -192,8 +192,14 @@ following the same structure as the official datasets, making it easy to
 integrate with the evaluation scripts.
 
 
+## Evaluate Models using MELO
 
-## Experiments
+To learn how to evaluate models using the MELO benchmark, including 
+step-by-step instructions and code examples, please refer to 
+the [Standard Evaluation Guide](docs/how_to_evaluate.md).
+
+
+## Reproduce the Experiments from the Paper
 
 To reproduce the experiments described in the paper, use the following command:
 
