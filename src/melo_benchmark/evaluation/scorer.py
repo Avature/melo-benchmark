@@ -1,5 +1,6 @@
 import abc
 import csv
+import logging
 import os
 import tempfile
 from typing import (
@@ -31,6 +32,11 @@ except ImportError:
     pass
 
 from melo_benchmark.utils.lemmatizer import Lemmatizer
+import melo_benchmark.utils.logging_config as melo_logging
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 class BaseScorer(abc.ABC):
@@ -122,7 +128,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
     def pre_compute_embeddings(self, surface_forms: List[str]):
         n = len(surface_forms)
-        print(f"Pre-computing embeddings for {n} surface forms...")
+        logger.info(f"Pre-computing embeddings for {n} surface forms...")
         _ = self._build_surface_form_representation_mapping(surface_forms)
 
     @staticmethod
@@ -223,7 +229,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         # Check if the representations mapping cache file already exists
         if os.path.exists(self.rep_mapping_cache_path):
-            print(f"Loading representations from cache file...")
+            logger.info(f"Loading representations from cache file...")
             sf_repr_mapping = self._load_mapping_from_cache_file(
                 surface_forms
             )

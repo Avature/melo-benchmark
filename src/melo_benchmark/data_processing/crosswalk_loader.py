@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import logging
 import os
 from typing import (
     Any,
@@ -11,7 +12,12 @@ import numpy as np
 import pandas as pd
 
 import melo_benchmark.utils.helper as melo_utils
+import melo_benchmark.utils.logging_config as melo_logging
 from melo_benchmark.utils.metaclasses import Singleton
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -175,7 +181,7 @@ class CrosswalkLoader(metaclass=Singleton):
 
         # Check if the JSON file already exists
         if os.path.exists(json_file_path):
-            print(f"Loading data from {json_file_path}...")
+            logger.info(f"Loading data from {json_file_path}...")
             queries = melo_utils.load_content_from_json_file(json_file_path)
         else:
             # Load and process crosswalk
@@ -194,12 +200,12 @@ class CrosswalkLoader(metaclass=Singleton):
             with open(json_file_path, 'w', encoding="utf-8") as file:
                 file.write(json_string)
 
-            print(f"Crosswalk saved to {json_file_path}...")
+            logger.info(f"Crosswalk saved to {json_file_path}...")
 
         return queries
 
+    @staticmethod
     def _process_crosswalk(
-                self,
                 df: pd.DataFrame,
                 crosswalk_info: CrosswalkFileConfig
             ) -> Dict[str, Any]:
@@ -235,7 +241,7 @@ class CrosswalkLoader(metaclass=Singleton):
             query_desc = query_desc.strip()
             relevant_id = row[crosswalk_info.esco_relevant_id_col_name]
             if not relevant_id:
-                print(row)
+                logging.debug(row)
             relevant_id = relevant_id.strip()
 
             if query_id not in queries.keys():
@@ -246,7 +252,7 @@ class CrosswalkLoader(metaclass=Singleton):
                 }
             else:
                 if query_title != queries[query_id]["title"]:
-                    print(f"Warning: different titles for query {query_id}")
+                    logging.warning(f"Different titles for query {query_id}")
                 assert query_desc == queries[query_id]["description"]
 
             if relevant_id in queries[query_id]["matches"].keys():

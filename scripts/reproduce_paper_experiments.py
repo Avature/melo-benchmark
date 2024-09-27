@@ -1,4 +1,5 @@
 import argparse
+import logging
 import os
 from typing import (
     List,
@@ -24,6 +25,11 @@ from melo_benchmark.evaluation.evaluator import (
 from melo_benchmark.evaluation.scorer import BiEncoderScorer
 import melo_benchmark.utils.helper as melo_utils
 from melo_benchmark.utils.lemmatizer import Lemmatizer
+import melo_benchmark.utils.logging_config as melo_logging
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 LEXICAL_BASELINES = {
@@ -134,7 +140,7 @@ def build_openai_scorer() -> BiEncoderScorer:
 
 def evaluate_lexical_baseline(baseline_name: str, dataset: MeloDatasetConfig):
     dataset_name = dataset.dataset_name
-    print(f"Evaluating baseline {baseline_name} on {dataset_name}...")
+    logger.info(f"Evaluating baseline {baseline_name} on {dataset_name}...")
 
     scorer_class = LEXICAL_BASELINES[baseline_name]
 
@@ -197,7 +203,7 @@ def evaluate_semantic_baseline(
             datasets: List[MeloDatasetConfig]
         ):
 
-    print(f"Evaluating baseline {baseline_name} on all datasets...")
+    logger.info(f"Evaluating baseline {baseline_name} on all datasets...")
 
     scorer_builder = SEMANTIC_BASELINES[baseline_name]
     scorer: BiEncoderScorer = scorer_builder()
@@ -215,20 +221,18 @@ def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
     tf_gpu = False
     torch_gpu = False
 
-    print("\n\n")
-
     try:
         # noinspection PyUnresolvedReferences
         import tensorflow as tf
         gpus = tf.config.list_physical_devices('GPU')
         if gpus:
-            print("CUDA is available for TensorFlow.")
-            print(f"GPUs available: {len(gpus)}")
+            logger.info("CUDA is available for TensorFlow.")
+            logger.info(f"GPUs available: {len(gpus)}")
             for i, gpu in enumerate(gpus):
-                print(f"GPU {i} name: {gpu.name}")
+                logger.info(f"GPU {i} name: {gpu.name}")
             tf_gpu = True
         else:
-            print("No GPUs are available for TensorFlow.")
+            logger.warning("No GPUs are available for TensorFlow.")
     except ImportError:
         pass
 
@@ -236,16 +240,14 @@ def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
         # noinspection PyUnresolvedReferences
         import torch
         if torch.cuda.is_available():
-            print("CUDA is available for PyTorch.")
-            print(f"GPUs available: {torch.cuda.device_count()}")
-            print("GPU name:", torch.cuda.get_device_name(0))
+            logger.info("CUDA is available for PyTorch.")
+            logger.info(f"GPUs available: {torch.cuda.device_count()}")
+            logger.info("GPU name:", torch.cuda.get_device_name(0))
             torch_gpu = True
         else:
-            print("No GPUs are available for PyTorch.")
+            logger.warning("No GPUs are available for PyTorch.")
     except ImportError:
         pass
-
-    print("\n\n")
 
     return tf_gpu, torch_gpu
 
@@ -287,12 +289,10 @@ def main():
 
     args = parser.parse_args()
     selected_baselines = args.baselines
-    print(f"Selected baselines: {selected_baselines}")
+    print(f"\nSelected baselines: {selected_baselines}\n")
 
     melo_dataset_helper = OfficialDatasetHelper()
     melo_datasets = melo_dataset_helper.get_dataset_configs()
-
-    print("\n\n")
 
     if selected_baselines in ["lexical", "both"]:
         # Lexical baselines

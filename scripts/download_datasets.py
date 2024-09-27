@@ -1,8 +1,14 @@
+import logging
 import os
 import requests
 import zipfile
 
 import melo_benchmark.utils.helper as melo_utils
+import melo_benchmark.utils.logging_config as melo_logging
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 record_url = "https://zenodo.org/records/13830968"
@@ -22,7 +28,7 @@ def download_and_unzip(url: str, output_dir: str):
 
     # Download the file if it doesn't already exist
     if not os.path.exists(zip_file_path):
-        print(f"Downloading {zip_file_name}...")
+        logger.info(f"Downloading {zip_file_name}...")
         response = requests.get(url)
 
         # Raise an error for bad responses (e.g., 404)
@@ -30,9 +36,9 @@ def download_and_unzip(url: str, output_dir: str):
 
         with open(zip_file_path, 'wb') as f:
             f.write(response.content)
-        print(f"Downloaded {zip_file_name}.")
+        logger.info(f"Downloaded {zip_file_name}.")
     else:
-        print(f"{zip_file_name} already exists, skipping download.")
+        logger.info(f"{zip_file_name} already exists, skipping download.")
 
     dir_name = zip_file_name.replace('melo_benchmark_', '')
     dir_name = dir_name.replace('.zip', '')
@@ -40,12 +46,12 @@ def download_and_unzip(url: str, output_dir: str):
 
     # Unzip the file if it hasn't already been unzipped
     if not os.path.exists(dir_path):
-        print(f"Unzipping {zip_file_name}...")
+        logger.info(f"Unzipping {zip_file_name}...")
         with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
             zip_ref.extractall(output_dir)
-        print(f"Unzipped {zip_file_name} to {dir_path}.")
+        logger.info(f"Unzipped {zip_file_name} to {dir_path}.")
     else:
-        print(f"{zip_file_name} already unzipped, skipping extraction.")
+        logger.info(f"{zip_file_name} already unzipped, skipping extraction.")
 
 
 # Process each Zenodo URL

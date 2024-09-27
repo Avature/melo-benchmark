@@ -1,3 +1,4 @@
+import logging
 import os
 import re
 from typing import (
@@ -9,8 +10,13 @@ from typing import (
 import numpy as np
 import pandas as pd
 
-from melo_benchmark.utils.metaclasses import Singleton
 import melo_benchmark.utils.helper as melo_utils
+import melo_benchmark.utils.logging_config as melo_logging
+from melo_benchmark.utils.metaclasses import Singleton
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 # ESCO languages that are common to all ESCO versions
@@ -92,7 +98,7 @@ class EscoLoader(metaclass=Singleton):
 
         # Check if the JSON file already exists
         if os.path.exists(json_file_path):
-            print(f"Loading data from {json_file_path}...")
+            logger.info(f"Loading data from {json_file_path}...")
             concepts = melo_utils.load_content_from_json_file(json_file_path)
         else:
             # Load and process categories and occupations
@@ -106,7 +112,7 @@ class EscoLoader(metaclass=Singleton):
             with open(json_file_path, 'w', encoding="utf-8") as file:
                 file.write(json_string)
 
-            print(f"Data saved to {json_file_path}...")
+            logger.info(f"Data saved to {json_file_path}...")
 
         return concepts
 

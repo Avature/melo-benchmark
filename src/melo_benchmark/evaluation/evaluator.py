@@ -1,5 +1,6 @@
 import abc
 from itertools import repeat
+import logging
 from operator import itemgetter
 import os
 from typing import (
@@ -16,6 +17,11 @@ from melo_benchmark.evaluation.scorer import (
     BiEncoderScorer
 )
 import melo_benchmark.utils.helper as melo_utils
+import melo_benchmark.utils.logging_config as melo_logging
+
+
+melo_logging.setup_logging()
+logger = logging.getLogger(__name__)
 
 
 TREC_METRICS_TO_EXTRACT = [
@@ -99,7 +105,7 @@ class BaseEvaluator(abc.ABC):
 
         if status != 0:
             # Error case scenario
-            print(f'TREC failed with status code: {status}')
+            logger.error(f'TREC failed with status code: {status}')
             metrics_values = list(
                 zip(
                     TREC_METRICS_TO_EXTRACT,
@@ -108,7 +114,7 @@ class BaseEvaluator(abc.ABC):
             )
 
         else:
-            print(f"TREC scoring successfully computed")
+            logger.info(f"TREC scoring successfully computed")
             metrics_values = self._extract_trec_metrics_from_file(
                 detailed_res_file
             )
@@ -303,8 +309,8 @@ class BenchmarkEvaluator(BaseEvaluator):
         for dataset in self.datasets:
             dataset_name = dataset.dataset_dir_name
 
-            print(
-                f" ... evaluating {self.method_name} on "
+            logger.info(
+                f"Evaluating {self.method_name} on "
                 + f"MELO dataset {dataset.dataset_name}"
             )
 
