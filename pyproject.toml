@@ -41,10 +41,9 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-default = [
+with-torch = [
     "sentence-transformers>=2.7.0"
 ]
-
 with-tf = [
     "sentencepiece==0.1.96",
     "tensorflow[and-cuda]>=2.17.0",
