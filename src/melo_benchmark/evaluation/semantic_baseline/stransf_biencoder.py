@@ -14,15 +14,17 @@ class SentenceTransformersBiEncoderScorer(BiEncoderScorer):
                 representation_cache_path: str = None,
                 lowercase: bool = False,
                 ascii_normalization: bool = False,
+                batch_size: int = 32
             ):
 
         # This class assumes that the prompt template includes a variable
         #    with key {{job_title}}
         super().__init__(
-            prompt_template,
-            representation_cache_path,
-            lowercase,
-            ascii_normalization
+            prompt_template=prompt_template,
+            representation_cache_path=representation_cache_path,
+            lowercase=lowercase,
+            ascii_normalization=ascii_normalization,
+            batch_size=batch_size
         )
 
         self.model_name = model_name
