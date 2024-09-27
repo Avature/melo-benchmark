@@ -128,7 +128,6 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
     def pre_compute_embeddings(self, surface_forms: List[str]):
         n = len(surface_forms)
-        logger.info(f"Pre-computing embeddings for {n} surface forms...")
         _ = self._build_surface_form_representation_mapping(surface_forms)
 
     @staticmethod
@@ -229,16 +228,16 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         # Check if the representations mapping cache file already exists
         if os.path.exists(self.rep_mapping_cache_path):
-            logger.info(f"Loading representations from cache file...")
             sf_repr_mapping = self._load_mapping_from_cache_file(
                 surface_forms
             )
-            logger.info(f"Representations loaded...")
         else:
             # Load and process categories and occupations
             sf_repr_mapping = self._compute_representations(
                 surface_forms
             )
+
+        logger.info(f"Representations loaded...")
 
         return sf_repr_mapping
 
@@ -262,9 +261,14 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             )
             rendered_prompts.append(rendered_prompt)
 
+        n = len(surface_forms)
+        logger.info(f"Pre-computing representations for {n} surface forms...")
+
         embeddings = self._compute_embeddings(rendered_prompts)
 
         sf_repr_mapping = {}
+
+        logger.info(f"Saving representations to cache file...")
 
         with open(self.rep_mapping_cache_path, "a", encoding="utf-8") as f_out:
             tsv_writer = csv.writer(f_out, delimiter='\t')
@@ -311,6 +315,8 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         embeddings_mapping = {}
         target_surface_forms = set(surface_forms)
+
+        logger.info(f"Loading representations from cache file...")
 
         with open(self.rep_mapping_cache_path, encoding="utf-8") as f_emb:
             tsv_reader = csv.reader(f_emb, delimiter='\t')
