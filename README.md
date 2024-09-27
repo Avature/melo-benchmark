@@ -69,7 +69,8 @@ melo-benchmark
    source venv/bin/activate
    ```
 
-3. **Install project**:
+3. **Basic Installation**: To install the project with default settings 
+         (excluding `torch` and `tensorflow`), run:
      ```bash
      pip install -e .
      ```
@@ -78,7 +79,21 @@ melo-benchmark
      ```bash
      sh install_spacy_models.sh
      ```
-   
+   - For reproducing experiments from the paper, you will need to install the 
+         project with one of the backend frameworks. (**Note**: Currently, 
+         simultaneous installation of both PyTorch and TensorFlow with GPU 
+         support is not supported and you must choose one backend framework.)
+
+     For **PyTorch** (with GPU support if available):
+     ```bash
+     pip install -e .[with-torch]
+     ```
+
+     For **TensorFlow** (with GPU support if available):
+     ```bash
+     pip install -e .[with-tf]
+     ```
+
    - To reproduce experiments that include OpenAI models, you will need to 
          create a `.env` file in the root directory of the project. This file 
          should contain your OpenAI API credentials as environment variables. 
