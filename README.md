@@ -50,8 +50,7 @@ melo-benchmark
  ├── install_spacy_models.sh    # Script for installing spaCy models (lemmatizers)
  ├── LICENSE                    # License file
  ├── pyproject.toml             # Project metadata and dependencies
- ├── README.md                  # Project overview (this file)
- └── tox.ini                    # Configuration for automated testing
+ └── README.md                  # Project overview (this file)
 ```
 
 
