@@ -2,6 +2,8 @@ import argparse
 import logging
 import os
 from typing import (
+    Any,
+    Dict,
     List,
     Tuple
 )
@@ -27,12 +29,10 @@ import melo_benchmark.utils.helper as melo_utils
 from melo_benchmark.utils.lemmatizer import Lemmatizer
 import melo_benchmark.utils.logging_config as melo_logging
 
-
 melo_logging.setup_logging()
 logger = logging.getLogger(__name__)
 
-
-LEXICAL_BASELINES = {
+LEXICAL_BASELINES: Dict[str, Any] = {
     "Edit Distance": EditDistanceBaselineScorer,
     "Word TF-IDF": WordTfIdfBaselineScorer,
     "Word TF-IDF (lemmas)": WordTfIdfBaselineScorer,
@@ -42,12 +42,10 @@ LEXICAL_BASELINES = {
     "BM25 (lemmas)": BM25BaselineScorer,
 }
 
-
 prompt_template = "The candidate's job title is \"{{job_title}}\". " \
                   + "What skills are likely required for this job?"
 
-
-SEMANTIC_BASELINES = {}
+SEMANTIC_BASELINES: Dict[str, Any] = {}
 
 
 def build_escoxlm_r_scorer() -> BiEncoderScorer:
@@ -199,10 +197,9 @@ def evaluate_lexical_baseline(baseline_name: str, dataset: MeloDatasetConfig):
 
 
 def evaluate_semantic_baseline(
-            baseline_name: str,
-            datasets: List[MeloDatasetConfig]
-        ):
-
+        baseline_name: str,
+        datasets: List[MeloDatasetConfig]
+):
     logger.info(f"Evaluating baseline {baseline_name} on all datasets...")
 
     scorer_builder = SEMANTIC_BASELINES[baseline_name]
@@ -253,7 +250,6 @@ def check_dl_frameworks_and_gpu_availability() -> Tuple[bool, bool]:
 
 
 def register_semantic_baselines(tf_with_gpu, torch_with_gpu):
-
     if torch_with_gpu:
         SEMANTIC_BASELINES["ESCOXLM-R"] = build_escoxlm_r_scorer
 
@@ -270,6 +266,31 @@ def register_semantic_baselines(tf_with_gpu, torch_with_gpu):
     SEMANTIC_BASELINES["OpenAI"] = build_openai_scorer
 
 
+def get_and_log_execution_plan(selected_baselines: str):
+    tf_gpu, torch_gpu = check_dl_frameworks_and_gpu_availability()
+
+    # Execute locally-hosted DL models only if GPU is available for them
+    register_semantic_baselines(tf_gpu, torch_gpu)
+
+    print(f"\nSelected baselines: {selected_baselines}\n")
+
+    lexical_baselines = list(LEXICAL_BASELINES.keys())
+    semantic_baselines = list(SEMANTIC_BASELINES.keys())
+
+    planned_baselines = []
+    if selected_baselines in ["lexical", "all"]:
+        planned_baselines += lexical_baselines
+    if selected_baselines in ["semantic", "all"]:
+        planned_baselines += semantic_baselines
+
+    print("Execution Plan: The following baselines will be evaluated:")
+    for baseline_name in planned_baselines:
+        print(f" - {baseline_name}")
+    print()
+
+    return lexical_baselines, semantic_baselines
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Script for reproducing the experiments from the paper."
@@ -280,34 +301,34 @@ def main():
         choices=[
             "lexical",
             "semantic",
-            "both"
+            "all"
         ],
-        default="both",
+        default="all",
         help="Choose the baseline to run. Options: 'lexical', "
-             + "'semantic', or 'both' (default: 'both')."
+             + "'semantic', or 'all' (default: 'all')."
     )
 
     args = parser.parse_args()
     selected_baselines = args.baselines
-    print(f"\nSelected baselines: {selected_baselines}\n")
+
+    lexical_baselines, semantic_baselines = get_and_log_execution_plan(
+        selected_baselines
+    )
 
     melo_dataset_helper = OfficialDatasetHelper()
     melo_datasets = melo_dataset_helper.get_dataset_configs()
 
-    if selected_baselines in ["lexical", "both"]:
+    if selected_baselines in ["lexical", "all"]:
         # Lexical baselines
-        for baseline_name in LEXICAL_BASELINES.keys():
+        for baseline_name in lexical_baselines:
+            print(f"\nEvaluating lexical baseline: {baseline_name}\n")
             for dataset in melo_datasets:
                 evaluate_lexical_baseline(baseline_name, dataset)
 
-    if selected_baselines in ["semantic", "both"]:
+    if selected_baselines in ["semantic", "all"]:
         # Semantic baselines
-        tf_gpu, torch_gpu = check_dl_frameworks_and_gpu_availability()
-
-        # Execute locally-hosted DL models only if GPU is available for them
-        register_semantic_baselines(tf_gpu, torch_gpu)
-
-        for baseline_name in SEMANTIC_BASELINES.keys():
+        for baseline_name in semantic_baselines:
+            print(f"\nEvaluating semantic baseline: {baseline_name}\n")
             evaluate_semantic_baseline(baseline_name, melo_datasets)
 
 
