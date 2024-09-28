@@ -56,7 +56,7 @@ def build_escoxlm_r_scorer() -> BiEncoderScorer:
     return SentenceTransformersBiEncoderScorer(
         model_name="jjzha/esco-xlm-roberta-large",
         prompt_template=prompt_template,
-        batch_size=128
+        batch_size=1024
     )
 
 
@@ -79,7 +79,7 @@ def build_paraph_mmpnet_scorer() -> BiEncoderScorer:
     return SentenceTransformersBiEncoderScorer(
         model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
         prompt_template=prompt_template,
-        batch_size=128
+        batch_size=1024
     )
 
 
@@ -91,7 +91,7 @@ def build_bge_m3_scorer() -> BiEncoderScorer:
     return SentenceTransformersBiEncoderScorer(
         model_name="BAAI/bge-m3",
         prompt_template=prompt_template,
-        batch_size=128
+        batch_size=1024
     )
 
 
@@ -103,7 +103,7 @@ def build_gist_embedding_scorer() -> BiEncoderScorer:
     return SentenceTransformersBiEncoderScorer(
         model_name="avsolatorio/GIST-Embedding-v0",
         prompt_template=prompt_template,
-        batch_size=128
+        batch_size=1024
     )
 
 
@@ -126,7 +126,7 @@ def build_e5_scorer() -> BiEncoderScorer:
     return SentenceTransformersBiEncoderScorer(
         model_name="intfloat/e5-mistral-7b-instruct",
         prompt_template=prompt_template,
-        batch_size=4
+        batch_size=1
     )
 
 
