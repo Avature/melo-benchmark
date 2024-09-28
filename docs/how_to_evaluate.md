@@ -292,7 +292,7 @@ class MyNewScorer(BaseScorer):
         return results
 
 
-# Initialize the scorer with the specified model and prompt template
+# Initialize the custom scorer
 scorer = MyNewScorer()
 
 dataset_dir = "/path/to/dataset"
