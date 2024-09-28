@@ -42,6 +42,8 @@ classifiers = [
 
 [project.optional-dependencies]
 with-torch = [
+    "accelerate>=0.26.0",
+    "bitsandbytes>=0.44.0",
     "sentence-transformers>=2.7.0"
 ]
 with-tf = [

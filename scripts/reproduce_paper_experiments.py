@@ -120,13 +120,14 @@ def build_me5_scorer() -> BiEncoderScorer:
 
 def build_e5_scorer() -> BiEncoderScorer:
     # Avoid importing this if not needed
-    from melo_benchmark.evaluation.semantic_baseline.stransf_biencoder import \
-        SentenceTransformersBiEncoderScorer
+    from melo_benchmark.evaluation.semantic_baseline.hf_biencoder import \
+        HuggingFaceBiEncoderScorer
 
-    return SentenceTransformersBiEncoderScorer(
+    return HuggingFaceBiEncoderScorer(
         model_name="intfloat/e5-mistral-7b-instruct",
         prompt_template=prompt_template,
-        batch_size=1
+        batch_size=1,
+        load_in_8bit=True
     )
 
 
