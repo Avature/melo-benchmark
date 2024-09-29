@@ -55,7 +55,7 @@ with-tf = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/federetyk/melo-benchmark"
-Documentation = "https://github.com/federetyk/melo-benchmark/docs"
-Repository = "https://github.com/federetyk/melo-benchmark"
-Issues = "https://github.com/federetyk/melo-benchmark/issues"
+Homepage = "https://github.com/Avature/melo-benchmark"
+Documentation = "https://github.com/Avature/melo-benchmark/docs"
+Repository = "https://github.com/Avature/melo-benchmark"
+Issues = "https://github.com/Avature/melo-benchmark/issues"
