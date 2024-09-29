@@ -44,6 +44,10 @@ class TFHubBiEncoderScorer(BiEncoderScorer):
             name="l2_norm"
         )
 
+    def _free_model_resources(self):
+        del self.backbone
+        del self.l2_normalization_layer
+
     def _compute_embeddings(
                 self,
                 rendered_prompts: List[str]

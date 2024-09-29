@@ -58,6 +58,9 @@ class HuggingFaceBiEncoderScorer(BiEncoderScorer):
             logging.warning(warning_message)
             self.batch_size = 1
 
+        self.tokenizer = self._get_tokenizer()
+        self.model = self._get_model()
+
     def _get_tokenizer(self) -> PreTrainedTokenizerFast:
         return AutoTokenizer.from_pretrained(self.model_name)
 
@@ -70,19 +73,19 @@ class HuggingFaceBiEncoderScorer(BiEncoderScorer):
             load_in_8bit=self.load_in_8bit
         )
 
+    def _free_model_resources(self):
+        del self.model
+
     def _compute_embeddings(
                 self,
                 rendered_prompts: List[str]
             ) -> List[List[float]]:
 
-        tokenizer = self._get_tokenizer()
-        model = self._get_model()
-
         results = []
         for rendered_prompt in rendered_prompts:
 
             max_length = 4096
-            batch_dict = tokenizer(
+            batch_dict = self.tokenizer(
                 [rendered_prompt],
                 max_length=max_length - 1,
                 return_attention_mask=False,
@@ -90,20 +93,20 @@ class HuggingFaceBiEncoderScorer(BiEncoderScorer):
                 truncation=True
             )
             batch_dict['input_ids'] = [
-                input_ids + [tokenizer.eos_token_id]
+                input_ids + [self.tokenizer.eos_token_id]
                 for input_ids in batch_dict['input_ids']
             ]
-            tokenized_prompt = tokenizer.pad(
+            tokenized_prompt = self.tokenizer.pad(
                 batch_dict,
                 padding=True,
                 return_attention_mask=True,
                 return_tensors='pt'
             )
 
-            model_device = model.device
+            model_device = self.model.device
             tokenized_prompt.to(model_device)
             with torch.no_grad():
-                model_output = model(**tokenized_prompt)
+                model_output = self.model(**tokenized_prompt)
 
             prompt_embedding = self._get_last_token_pool(
                 model_output.last_hidden_state,

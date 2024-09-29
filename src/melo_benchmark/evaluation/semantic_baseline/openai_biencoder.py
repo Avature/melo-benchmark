@@ -41,6 +41,9 @@ class OpenAiBiEncoderScorer(BiEncoderScorer):
 
         self.client = openai.OpenAI()
 
+    def _free_model_resources(self):
+        pass
+
     def _compute_embeddings(
                 self,
                 rendered_prompts: List[str]

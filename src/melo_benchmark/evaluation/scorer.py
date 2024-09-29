@@ -126,8 +126,18 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
             sf_repr_mapping
         )
 
-    def pre_compute_embeddings(self, surface_forms: List[str]):
-        _ = self._build_surface_form_representation_mapping(surface_forms)
+    def pre_compute_embeddings_if_needed(self, surface_forms: List[str]):
+        if self.rep_mapping_cache_path is None:
+            self.rep_mapping_cache_path = os.path.join(
+                tempfile.mkdtemp(),
+                "repr_cache.tsv"
+            )
+
+        if not os.path.exists(self.rep_mapping_cache_path):
+            # Create mapping cache file
+            self._compute_representations(
+                surface_forms
+            )
 
     @staticmethod
     def _compute_scores_cpu(
@@ -219,22 +229,12 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
                 surface_forms: List[str]
             ) -> Dict[str, NDArray[np.float_]]:
 
-        if self.rep_mapping_cache_path is None:
-            self.rep_mapping_cache_path = os.path.join(
-                tempfile.mkdtemp(),
-                "repr_cache.tsv"
-            )
+        self.pre_compute_embeddings_if_needed(surface_forms)
 
-        # Check if the representations mapping cache file already exists
-        if os.path.exists(self.rep_mapping_cache_path):
-            sf_repr_mapping = self._load_mapping_from_cache_file(
-                surface_forms
-            )
-        else:
-            # Load and process categories and occupations
-            sf_repr_mapping = self._compute_representations(
-                surface_forms
-            )
+        # Load and process categories and occupations
+        sf_repr_mapping = self._load_mapping_from_cache_file(
+            surface_forms
+        )
 
         logger.info(f"Representations loaded...")
 
@@ -248,38 +248,39 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
 
         raise NotImplementedError()
 
-    def _compute_representations(
-                self,
-                surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+    @abc.abstractmethod
+    def _free_model_resources(self):
+        raise NotImplementedError()
 
-        rendered_prompts = []
-        for surface_form in surface_forms:
-            rendered_prompt = self._render_template(
-                job_title=surface_form
-            )
-            rendered_prompts.append(rendered_prompt)
+    def _compute_representations(self, surface_forms: List[str]):
 
         n = len(surface_forms)
         logger.info(f"Pre-computing representations for {n} surface forms...")
 
-        embeddings = self._compute_embeddings(rendered_prompts)
-
-        sf_repr_mapping = {}
-
-        logger.info(f"Saving representations to cache file...")
-
-        with open(self.rep_mapping_cache_path, "a", encoding="utf-8") as f_out:
+        with open(self.rep_mapping_cache_path, "w", encoding="utf-8") as f_out:
             tsv_writer = csv.writer(f_out, delimiter='\t')
 
-            for surface_form, embedding in zip(surface_forms, embeddings):
-                tsv_writer.writerow(
-                    [surface_form] + [str(x) for x in embedding]
-                )
-                embedding = np.array([float(x) for x in embedding])
-                sf_repr_mapping[surface_form] = embedding
+            for i in range(0, len(surface_forms), self.batch_size):
+                sf_batch = surface_forms[i:i + self.batch_size]
 
-        return sf_repr_mapping
+                # Render batch of surface forms
+                rendered_prompts = []
+                for surface_form in sf_batch:
+                    rendered_prompt = self._render_template(
+                        job_title=surface_form
+                    )
+                    rendered_prompts.append(rendered_prompt)
+
+                # Compute embeddings for the batch
+                embeddings = self._compute_embeddings(rendered_prompts)
+
+                # Save the surface form to embeddings mapping for the batch
+                for surface_form, embedding in zip(sf_batch, embeddings):
+                    tsv_writer.writerow(
+                        [surface_form] + [str(x) for x in embedding]
+                    )
+
+        self._free_model_resources()
 
     def _preprocess(self, text_element: str) -> str:
         if self.lowercase:

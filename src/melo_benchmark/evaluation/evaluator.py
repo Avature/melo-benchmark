@@ -301,7 +301,7 @@ class BenchmarkEvaluator(BaseEvaluator):
             }
 
         all_surface_forms = list(all_surface_forms)
-        self.scorer.pre_compute_embeddings(
+        self.scorer.pre_compute_embeddings_if_needed(
             all_surface_forms
         )
 
