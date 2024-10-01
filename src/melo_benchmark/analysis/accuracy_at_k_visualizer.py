@@ -92,6 +92,8 @@ class AccuracyAtKVisualizer:
 
         df = pd.DataFrame(df_content)
 
+        df["k"] = pd.to_numeric(df["k"])
+
         sns.set_theme()
         sns.color_palette()
         sns.set(font_scale=1.3)

@@ -218,7 +218,7 @@ Make sure to have the processed datasets in the `data/processed/` directory.
     embeddings for the surface forms involved in each particular dataset.
 > 
 > The size of this representation cache file ranges between ~5 GB for the 
-    GIST-Embedding model and ~30 GB for the E5 model.
+    GIST-Embedding model and ~26 GB for the E5 model.
 
 ## License
 

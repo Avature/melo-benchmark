@@ -162,15 +162,8 @@ class CorrelationVisualizer:
                 raise ValueError(error_m)
 
         # Setting for paper's format
-        if len(method_names) % 2 != 0:
-            self.N = 1
-            self.M = 2
-        elif len(method_names) == 4:
-            self.N = 2
-            self.M = 2
-        else:
-            self.N = 1
-            self.M = len(method_names)
+        self.N = 1
+        self.M = len(method_names)
 
         metric_values = self._extract_trec_metrics(method_names)
         baseline_values = self._extract_trec_metrics([baseline_method])
