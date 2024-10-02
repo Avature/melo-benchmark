@@ -7,6 +7,8 @@ from melo_benchmark.analysis.correlation_visualizer import \
     CorrelationVisualizer
 from melo_benchmark.analysis.histogram_visualizer import HistogramVisualizer
 from melo_benchmark.analysis.radar_visualizer import RadarVisualizer
+from melo_benchmark.analysis.statistical_significance import \
+    StatisticalSignificanceAnalyzer
 
 import utils as test_utils
 
@@ -271,4 +273,27 @@ class TestVisualization(unittest.TestCase):
             methods,
             baseline_method,
             visualization_file_path
+        )
+
+    def test_wilcoxon(self):
+        output_path = test_utils.create_test_output_dir(self.id())
+
+        if not os.path.exists(output_path):
+            os.makedirs(output_path)
+
+        report_file_path = os.path.join(
+            output_path,
+            "statistical_analysis.txt"
+        )
+
+        methods = [
+            "mUSE-CNN",
+            "BGE-M3",
+            "OpenAI",
+        ]
+
+        analyzer = StatisticalSignificanceAnalyzer()
+        analyzer.test_over_benchmark(
+            methods,
+            report_file_path
         )

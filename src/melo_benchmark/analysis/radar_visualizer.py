@@ -6,7 +6,6 @@ from typing import (
 
 import pandas as pd
 import plotly.express as px
-from plotly.subplots import make_subplots
 
 from melo_benchmark.data_processing.official_dataset_helper import \
     OfficialDatasetHelper
