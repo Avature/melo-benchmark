@@ -1,7 +1,7 @@
 # MELO Benchmark: Multilingual Entity Linking of Occupations
 
 This is a companion repository for the paper 
-[*MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations*](https://github.com/Avature/melo-benchmark), 
+[*MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations*](https://recsyshr.aau.dk/wp-content/uploads/2024/10/RecSysHR2024-paper_2.pdf), 
 which introduces the new **Multilingual Entity Linking of Occupations (MELO)** 
 benchmark for evaluating the linking of occupation mentions across 21 languages 
 to the multilingual ESCO Occupations taxonomy. The benchmark is composed of 48 
