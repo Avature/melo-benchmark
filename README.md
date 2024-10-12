@@ -235,7 +235,8 @@ If you use this dataset or code in your research, please cite our paper:
     title={{MELO: An Evaluation Benchmark for Multilingual Entity Linking of Occupations}},
     author={Federico Retyk and Luis Gasco and Casimiro Pio Carrino and Daniel Deniz and Rabih Zbib},
     journal={The 4th Workshop on Recommender Systems for Human Resources (RecSys in HR’24), in conjunction with the 18th ACM Conference on Recommender Systems},
-    year={2024}
+    year={2024},
+    url={https://recsyshr.aau.dk/wp-content/uploads/2024/10/RecSysHR2024-paper_2.pdf}
 }
 ```
 
