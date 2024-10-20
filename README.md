@@ -58,7 +58,7 @@ melo-benchmark
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/melo-benchmark.git
+   git clone https://github.com/Avature/melo-benchmark.git
    cd melo-benchmark
    ```
 
