@@ -143,7 +143,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _compute_scores_cpu(
                 q_surface_forms: List[str],
                 c_surface_forms: List[str],
-                embeddings_mapping: Dict[str, NDArray[np.float_]]
+                embeddings_mapping: Dict[str, NDArray[np.float64]]
             ) -> List[List[float]]:
 
         scores = []
@@ -164,7 +164,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _compute_scores_gpu_torch(
                 q_surface_forms: List[str],
                 c_surface_forms: List[str],
-                embeddings_mapping: Dict[str, NDArray[np.float_]]
+                embeddings_mapping: Dict[str, NDArray[np.float64]]
             ) -> List[List[float]]:
 
         assert torch_is_installed
@@ -196,7 +196,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _compute_scores_gpu_tf(
                 q_surface_forms: List[str],
                 c_surface_forms: List[str],
-                embeddings_mapping: Dict[str, NDArray[np.float_]]
+                embeddings_mapping: Dict[str, NDArray[np.float64]]
             ) -> List[List[float]]:
 
         assert tf_is_installed
@@ -227,7 +227,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _build_surface_form_representation_mapping(
                 self,
                 surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+            ) -> Dict[str, NDArray[np.float64]]:
 
         self.pre_compute_embeddings_if_needed(surface_forms)
 
@@ -303,7 +303,7 @@ class BiEncoderScorer(BaseScorer, abc.ABC):
     def _load_mapping_from_cache_file(
                 self,
                 surface_forms: List[str]
-            ) -> Dict[str, NDArray[np.float_]]:
+            ) -> Dict[str, NDArray[np.float64]]:
 
         """
         The cached mapping is required to have embeddings for all the requested
