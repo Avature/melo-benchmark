@@ -350,7 +350,7 @@ class DatasetBuilder:
 
         with open(esco_concept_mapping_path_path, "w", encoding="utf-8") as f_out:
             for esco_id, c_keys in c_id_key_mapping.items():
-                for c_key in c_keys:
+                for c_key in sorted(c_keys):
                     f_out.write(f"{c_key}\t{esco_id}\n")
 
     def _decide_best_matches(self, matches: Dict[str, str]) -> List[str]:
