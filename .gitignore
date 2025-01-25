@@ -1,4 +1,5 @@
-data/*
+data/processed/custom
+data/raw/*
 reports/*
 results/*
 tests/output/*
