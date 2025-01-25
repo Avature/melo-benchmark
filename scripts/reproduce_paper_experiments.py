@@ -272,6 +272,8 @@ def register_semantic_baselines(tf_with_gpu, torch_with_gpu):
     SEMANTIC_BASELINES["OpenAI"] = build_openai_scorer
 
 
+
+
 def get_and_log_execution_plan(selected_baselines: str):
     tf_gpu, torch_gpu = check_dl_frameworks_and_gpu_availability()
 
@@ -313,9 +315,18 @@ def main():
         help="Choose the baseline to run. Options: 'lexical', "
              + "'semantic', or 'all' (default: 'all')."
     )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default="52",
+        help="Random seed (default: 52)."
+    )
 
     args = parser.parse_args()
     selected_baselines = args.baselines
+    random_seed = args.seed
+
+    melo_utils.set_random_seed(random_seed)
 
     lexical_baselines, semantic_baselines = get_and_log_execution_plan(
         selected_baselines

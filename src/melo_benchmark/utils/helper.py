@@ -4,12 +4,14 @@ This script provides helper functions.
 
 import json
 import os
+import random
 from typing import (
     Any,
     Dict
 )
 
 from dotenv import load_dotenv
+import numpy as np
 
 from melo_benchmark.utils.json_encoder import SetsAsListsEncoder
 
@@ -124,3 +126,24 @@ def load_dotenv_variables():
     )
     dotenv_path = os.path.abspath(dotenv_path)
     load_dotenv(dotenv_path=dotenv_path)
+
+
+def set_random_seed(seed: int):
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    random.seed(seed)
+    np.random.seed(seed)
+
+    try:
+        # noinspection PyUnresolvedReferences
+        import tensorflow as tf
+        os.environ['TF_CUDNN_DETERMINISTIC'] = '1'
+        tf.random.set_seed(seed)
+    except ImportError:
+        pass
+
+    try:
+        # noinspection PyUnresolvedReferences
+        import torch
+        torch.manual_seed(seed)
+    except ImportError:
+        pass
